@@ -1,0 +1,30 @@
+{
+  "datetime": 1630664320695,
+  "packages": [
+    {
+      "title": "Dev theme",
+      "description": "A theme inspired by Dev.to & Figma.",
+      "author": "pengx17",
+      "repo": "pengx17/logseq-dev-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-dev-theme"
+    },
+    {
+      "title": "Markmap",
+      "description": "Mind map support based on markmap library.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-mark-map",
+      "icon": "./icon.png",
+      "id": "logseq-mark-map"
+    },
+    {
+      "title": "Solarized theme",
+      "description": "A solarized light theme.",
+      "author": "nmartin84",
+      "repo": "nmartin84/logseq-solarized",
+      "theme": true,
+      "id": "logseq-solarized-theme"
+    }
+  ]
+}
