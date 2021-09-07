@@ -1,0 +1,8 @@
+{
+  "title": "Tabs",
+  "description": "Open pages or blocks in tabs like working in the browser",
+  "author": "pengx17",
+  "repo": "pengx17/logseq-plugin-tabs",
+  "icon": "./icon.png",
+  "effect": true
+}
