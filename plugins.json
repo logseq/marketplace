@@ -1,12 +1,12 @@
 {
-  "datetime": 1630999719879,
+  "datetime": 1631004508776,
   "packages": [
     {
       "title": "Bonofix theme",
-      "description": "A Logseq theme focusing on bug fixes and mobile experience enhancement.",
+      "description": "A clean theme focus on bujo and long time focusing experience",
+      "repo": "sansui233/logseq-bonofix-theme",
       "author": "Sansui233",
-      "repo": "Sansui233/logseq-bonofix-theme",
-      "icon": "https://raw.githubusercontent.com/Sansui233/logseq-bonofix-theme/master/icon.png",
+      "icon": "icon.png",
       "theme": true,
       "id": "logseq-bonofix-theme"
     },
