@@ -1,0 +1,8 @@
+{
+    "title": "Bonofix theme",
+    "description": "A Logseq theme focusing on bug fixes and mobile experience enhancement.",
+    "author": "Sansui233",
+    "repo": "Sansui233/logseq-bonofix-theme",
+    "icon": "https://raw.githubusercontent.com/Sansui233/logseq-bonofix-theme/master/icon.png",
+    "theme": true
+  }
