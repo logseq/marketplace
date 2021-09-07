@@ -1,6 +1,15 @@
 {
-  "datetime": 1630930007769,
+  "datetime": 1630999719879,
   "packages": [
+    {
+      "title": "Bonofix theme",
+      "description": "A Logseq theme focusing on bug fixes and mobile experience enhancement.",
+      "author": "Sansui233",
+      "repo": "Sansui233/logseq-bonofix-theme",
+      "icon": "https://raw.githubusercontent.com/Sansui233/logseq-bonofix-theme/master/icon.png",
+      "theme": true,
+      "id": "logseq-bonofix-theme"
+    },
     {
       "title": "Dev theme",
       "description": "A theme inspired by Dev.to & Figma.",
