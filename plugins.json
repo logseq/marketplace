@@ -1,5 +1,5 @@
 {
-  "datetime": 1631004508776,
+  "datetime": 1631081474424,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -42,6 +42,14 @@
       "repo": "nmartin84/logseq-solarized",
       "theme": true,
       "id": "logseq-solarized-theme"
+    },
+    {
+      "title": "Tokyo Night theme",
+      "description": "Port of the Obsidian MD theme Tokyo Night.",
+      "author": "nmartin84",
+      "repo": "nmartin84/logseq-tokyo-night-theme",
+      "theme": true,
+      "id": "logseq-tokyo-theme"
     }
   ]
 }
