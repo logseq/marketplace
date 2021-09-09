@@ -1,5 +1,5 @@
 {
-  "datetime": 1631081474424,
+  "datetime": 1631153896994,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -18,6 +18,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-dev-theme"
+    },
+    {
+      "title": "Heatmap",
+      "description": "Activity heatmap based on how many journal blocks created that day",
+      "author": "pengx17",
+      "repo": "pengx17/logseq-plugin-heatmap",
+      "icon": "./icon.png",
+      "id": "logseq-heatmap"
     },
     {
       "title": "Journals calendar",
