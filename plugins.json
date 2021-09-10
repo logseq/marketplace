@@ -1,5 +1,5 @@
 {
-  "datetime": 1631162028938,
+  "datetime": 1631242562011,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -25,6 +25,7 @@
       "author": "pengx17",
       "repo": "pengx17/logseq-plugin-heatmap",
       "icon": "./icon.png",
+      "effect": true,
       "id": "logseq-heatmap"
     },
     {
