@@ -2,6 +2,11 @@
 
 A packages manager for Logseq marketplace plugins.
 
+## How to write a plugin for Logseq?
+This [repo](https://github.com/logseq/logseq-plugin-samples) contains sample code illustrating the Logseq Plugin API. You can read, play with or adapt from these samples to create your own plugins.
+
+Plugins API: https://logseq.github.io/plugins/.
+
 ## How to submit your plugin?
 
 0. Fork this repo to your Github account.
