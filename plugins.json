@@ -1,5 +1,5 @@
 {
-  "datetime": 1631242562011,
+  "datetime": 1631757526756,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -20,6 +20,13 @@
       "id": "logseq-dev-theme"
     },
     {
+      "title": "Habit Tracker",
+      "description": "Track habits on daily journal pages.",
+      "author": "c6p",
+      "repo": "c6p/logseq-habit-tracker",
+      "id": "logseq-habit-tracker"
+    },
+    {
       "title": "Heatmap",
       "description": "Activity heatmap based on how many journal blocks created that day",
       "author": "pengx17",
@@ -27,6 +34,14 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-heatmap"
+    },
+    {
+      "title": "Hypothesis",
+      "description": "Sync hypothes.is annotations to Logseq.",
+      "author": "c6p",
+      "repo": "c6p/logseq-hypothesis",
+      "icon": "./icon.svg",
+      "id": "logseq-hypothesis"
     },
     {
       "title": "Journals calendar",
