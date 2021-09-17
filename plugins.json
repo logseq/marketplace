@@ -1,5 +1,5 @@
 {
-  "datetime": 1631757526756,
+  "datetime": 1631841353212,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -43,6 +43,14 @@
       "repo": "vipzhicheng/logseq-plugin-mark-map",
       "icon": "./icon.png",
       "id": "logseq-mark-map"
+    },
+    {
+      "title": "Random Note",
+      "description": "Random walk through your Logseq notes.",
+      "author": "tankcool",
+      "repo": "tankcool/logseq-random-note",
+      "icon": "icon.png",
+      "id": "logseq-random-note"
     },
     {
       "title": "Solarized theme",
