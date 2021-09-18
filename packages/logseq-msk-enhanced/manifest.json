@@ -1,0 +1,9 @@
+{
+    "title": "Logseq Enhanced Theme",
+    "description": "An enhanced version of the logseq default theme." ,
+    "author": "mschmidtkorth",
+    "repo":"mschmidtkorth/logseq-msk-enhanced",
+    "icon": "icon.png",
+    "theme": true
+  }
+  
