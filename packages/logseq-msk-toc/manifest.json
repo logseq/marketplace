@@ -1,0 +1,9 @@
+{
+    "title": "Table of Contents",
+    "description": "A table of contents generator for pages." ,
+    "author": "mschmidtkorth",
+    "repo":"mschmidtkorth/logseq-msk-toc",
+    "icon": "icon.png",
+    "theme": false
+  }
+  
