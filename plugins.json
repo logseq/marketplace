@@ -1,5 +1,5 @@
 {
-  "datetime": 1631841353212,
+  "datetime": 1632045509895,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -61,6 +61,13 @@
       "id": "logseq-solarized-theme"
     },
     {
+      "title": "Split block",
+      "description": "Splitting multi-line text into blocks",
+      "author": "hyrijk",
+      "repo": "hyrijk/logseq-plugin-split-block",
+      "id": "logseq-split-block"
+    },
+    {
       "title": "Tabs",
       "description": "Open pages or blocks in tabs like working in the browser",
       "author": "pengx17",
@@ -76,6 +83,15 @@
       "repo": "nmartin84/logseq-tokyo-night-theme",
       "theme": true,
       "id": "logseq-tokyo-theme"
+    },
+    {
+      "title": "Woz theme",
+      "description": "A theme base logseq-dev-theme.",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-woz-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-woz-theme"
     }
   ]
 }
