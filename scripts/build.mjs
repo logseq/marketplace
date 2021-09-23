@@ -91,6 +91,7 @@ async function cli (action) {
             }
           })
         } catch (e) {
+          console.warn("Error Repo:", repo, " [Error] ", e.message)
           errors.push({...pkg, error: e})
         }
       }
