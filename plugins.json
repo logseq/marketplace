@@ -1,5 +1,5 @@
 {
-  "datetime": 1632359224664,
+  "datetime": 1632458702833,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -18,6 +18,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-dev-theme"
+    },
+    {
+      "title": "E-ink Theme",
+      "description": "A pure E-ink theme for black-and-white monitors.",
+      "author": "DiamondYuan",
+      "repo": "DiamondYuan/logseq-eink-theme",
+      "theme": true,
+      "id": "logseq-eink-theme"
     },
     {
       "title": "Habit Tracker",
