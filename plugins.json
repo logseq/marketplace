@@ -1,5 +1,5 @@
 {
-  "datetime": 1632620473420,
+  "datetime": 1632644647548,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -18,6 +18,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-dev-theme"
+    },
+    {
+      "title": "Discord Like Dark Theme",
+      "description": "Discord Like Dark Theme",
+      "author": "dale502",
+      "repo": "dale502/logseq-discord-like-dark-theme",
+      "theme": true,
+      "id": "logseq-dicord-like-dark-theme"
     },
     {
       "title": "Dracula theme",
@@ -69,6 +77,15 @@
       "id": "logseq-journals-calendar"
     },
     {
+      "title": "Laurel theme",
+      "description": "A custom theme forked from logseq-clean-themes",
+      "author": "pengx17",
+      "repo": "pengx17/logseq-laurel-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-laurel-theme"
+    },
+    {
       "title": "Markmap",
       "description": "Mind map support based on markmap library.",
       "author": "vipzhicheng",
@@ -115,6 +132,14 @@
       "repo": "nmartin84/logseq-tokyo-night-theme",
       "theme": true,
       "id": "logseq-tokyo-theme"
+    },
+    {
+      "title": "Logseq Toolbox",
+      "description": "Some useful tiny tools for logseq.",
+      "author": "tankcool",
+      "repo": "tankcool/logseq-toolbox",
+      "icon": "icon.png",
+      "id": "logseq-toolbox"
     },
     {
       "title": "Woz theme",
