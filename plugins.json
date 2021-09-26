@@ -1,5 +1,5 @@
 {
-  "datetime": 1632458702833,
+  "datetime": 1632620473420,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -18,6 +18,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-dev-theme"
+    },
+    {
+      "title": "Dracula theme",
+      "description": "🧛 Dark theme for Logseq.",
+      "author": "slybouhafs",
+      "repo": "dracula/logseq",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-dracula-theme"
     },
     {
       "title": "E-ink Theme",

@@ -2,5 +2,6 @@
   "title": "E-ink Theme",
   "description": "A pure E-ink theme for black-and-white monitors.",
   "author": "DiamondYuan",
-  "repo": "DiamondYuan/logseq-eink-theme"
+  "repo": "DiamondYuan/logseq-eink-theme",
+  "theme": true
 }
