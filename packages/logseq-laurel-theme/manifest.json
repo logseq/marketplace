@@ -1,0 +1,8 @@
+{
+  "title": "Laurel theme",
+  "description": "A custom theme forked from logseq-clean-themes" ,
+  "author": "pengx17",
+  "repo":"pengx17/logseq-laurel-theme",
+  "icon": "icon.png",
+  "theme": true
+}
