@@ -1,5 +1,5 @@
 {
-  "datetime": 1632644647548,
+  "datetime": 1632644905075,
   "packages": [
     {
       "title": "Bonofix theme",
@@ -81,7 +81,7 @@
       "description": "A custom theme forked from logseq-clean-themes",
       "author": "pengx17",
       "repo": "pengx17/logseq-laurel-theme",
-      "icon": "icon.png",
+      "icon": "laurel.png",
       "theme": true,
       "id": "logseq-laurel-theme"
     },

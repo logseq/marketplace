@@ -3,6 +3,6 @@
   "description": "A custom theme forked from logseq-clean-themes" ,
   "author": "pengx17",
   "repo":"pengx17/logseq-laurel-theme",
-  "icon": "icon.png",
+  "icon": "laurel.png",
   "theme": true
 }
