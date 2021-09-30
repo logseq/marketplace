@@ -1,6 +1,14 @@
 {
-  "datetime": 1632644905075,
+  "datetime": 1632998152197,
   "packages": [
+    {
+      "title": "Block to page",
+      "description": "Turn block into page",
+      "author": "hyrijk",
+      "icon": "icon.png",
+      "repo": "hyrijk/logseq-plugin-block-to-page",
+      "id": "logseq-block-to-page"
+    },
     {
       "title": "Bonofix theme",
       "description": "A clean theme focus on bujo and long time focusing experience",
