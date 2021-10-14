@@ -1,6 +1,15 @@
 {
-  "datetime": 1632998152197,
+  "datetime": 1634194879863,
   "packages": [
+    {
+      "title": "Cobra",
+      "description": "If Cobra Kai had a Logseq theme, this would be it. (Made for dark-mode lovers.)",
+      "author": "Santi Younger",
+      "repo": "santiyounger/Cobra",
+      "icon": "icon-cobra.png",
+      "theme": true,
+      "id": "cobra-theme"
+    },
     {
       "title": "Block to page",
       "description": "Turn block into page",
@@ -17,6 +26,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-bonofix-theme"
+    },
+    {
+      "title": "D42ker Logseq",
+      "description": "A darker Logseq theme.",
+      "author": "LeonWong0609",
+      "repo": "LeonWong0609/D42ker-Logseq",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-d42ker-theme"
     },
     {
       "title": "Dev theme",
