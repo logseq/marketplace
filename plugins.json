@@ -1,5 +1,5 @@
 {
-  "datetime": 1634195386076,
+  "datetime": 1634206668633,
   "packages": [
     {
       "title": "Cobra",
@@ -69,6 +69,14 @@
       "repo": "DiamondYuan/logseq-eink-theme",
       "theme": true,
       "id": "logseq-eink-theme"
+    },
+    {
+      "title": "logseq-extract-plugin",
+      "description": "The logseq-extract-plugin is used to extract bold and highlighted text from a block and all its nested blocks.",
+      "author": "Sidharth Panwar",
+      "repo": "sidharth-panwar/logseq-extract-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-extract-plugin"
     },
     {
       "title": "Habit Tracker",
