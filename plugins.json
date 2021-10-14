@@ -1,12 +1,12 @@
 {
-  "datetime": 1634194879863,
+  "datetime": 1634195386076,
   "packages": [
     {
       "title": "Cobra",
       "description": "If Cobra Kai had a Logseq theme, this would be it. (Made for dark-mode lovers.)",
       "author": "Santi Younger",
       "repo": "santiyounger/Cobra",
-      "icon": "icon-cobra.png",
+      "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
     },
