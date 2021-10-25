@@ -1,5 +1,5 @@
 {
-  "datetime": 1634611350472,
+  "datetime": 1635126035068,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -126,6 +126,15 @@
       "repo": "vipzhicheng/logseq-plugin-mark-map",
       "icon": "./icon.png",
       "id": "logseq-mark-map"
+    },
+    {
+      "title": "Paper theme",
+      "description": "A minimal Logseq theme",
+      "author": "wirtzdan",
+      "repo": "wirtzdan/logseq-paper-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-paper-theme"
     },
     {
       "title": "Random Note",
