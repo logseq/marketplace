@@ -1,5 +1,5 @@
 {
-  "datetime": 1635737964275,
+  "datetime": 1635942783964,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Atlas Theme",
+      "description": "A clean theme for Logseq.",
+      "author": "Seth Fair",
+      "repo": "sethfair/logseq-atlas-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-atlas-theme"
     },
     {
       "title": "Block to page",
