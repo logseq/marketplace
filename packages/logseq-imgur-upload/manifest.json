@@ -1,0 +1,7 @@
+{
+	"title": "Imgur Upload",
+	"description": "Upload to Imgur and insert URL",
+	"author": "hserranome",
+	"repo": "hserranome/logseq-imgur-upload",
+	"icon": "./icon.png"
+}
