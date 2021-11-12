@@ -1,5 +1,5 @@
 {
-  "datetime": 1635951927873,
+  "datetime": 1636704812416,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -35,6 +35,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-bonofix-theme"
+    },
+    {
+      "title": "Copy ref to journal",
+      "description": "Copy any page blocks ref to today's journal page, very useful for task management case.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-copy-ref-to-journal",
+      "icon": "./icon.png",
+      "id": "logseq-copy-ref-to-journal"
     },
     {
       "title": "D42ker Logseq",
@@ -208,6 +216,14 @@
       "repo": "tankcool/logseq-toolbox",
       "icon": "icon.png",
       "id": "logseq-toolbox"
+    },
+    {
+      "title": "Unsplash Images",
+      "description": "A plugin to add Unsplash images via slash commands in Logseq",
+      "author": "clearlysid",
+      "repo": "clearlysid/logseq-unsplash",
+      "icon": "icon.png",
+      "id": "logseq-unsplash"
     },
     {
       "title": "Woz theme",
