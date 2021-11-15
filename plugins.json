@@ -1,5 +1,5 @@
 {
-  "datetime": 1636704812416,
+  "datetime": 1636990860676,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -118,6 +118,14 @@
       "repo": "c6p/logseq-hypothesis",
       "icon": "./icon.svg",
       "id": "logseq-hypothesis"
+    },
+    {
+      "title": "Imgur Upload",
+      "description": "Upload to Imgur and insert URL",
+      "author": "hserranome",
+      "repo": "hserranome/logseq-imgur-upload",
+      "icon": "./icon.png",
+      "id": "logseq-imgur-upload"
     },
     {
       "title": "Journals calendar",
