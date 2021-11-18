@@ -1,0 +1,8 @@
+{
+  "title": "Focus Mode",
+  "description": "Focus mode for Logseq.",
+  "author": "Seth Fair",
+  "repo": "sethfair/logseq-focus-mode",
+  "icon": "icon.png",
+  "theme": false
+}
