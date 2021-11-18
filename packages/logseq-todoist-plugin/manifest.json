@@ -1,0 +1,7 @@
+{
+  "title": "logseq-todoist-plugin",
+  "description": "Easily pull active tasks from Todoist and quickly push tasks to Todoist!",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-todoist-plugin",
+  "icon": "./icon.png"
+}

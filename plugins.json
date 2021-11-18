@@ -1,5 +1,5 @@
 {
-  "datetime": 1635737964275,
+  "datetime": 1636990860676,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Atlas Theme",
+      "description": "A clean theme for Logseq.",
+      "author": "Seth Fair",
+      "repo": "sethfair/logseq-atlas-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-atlas-theme"
     },
     {
       "title": "Block to page",
@@ -26,6 +35,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-bonofix-theme"
+    },
+    {
+      "title": "Copy ref to journal",
+      "description": "Copy any page blocks ref to today's journal page, very useful for task management case.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-copy-ref-to-journal",
+      "icon": "./icon.png",
+      "id": "logseq-copy-ref-to-journal"
     },
     {
       "title": "D42ker Logseq",
@@ -103,6 +120,14 @@
       "id": "logseq-hypothesis"
     },
     {
+      "title": "Imgur Upload",
+      "description": "Upload to Imgur and insert URL",
+      "author": "hserranome",
+      "repo": "hserranome/logseq-imgur-upload",
+      "icon": "./icon.png",
+      "id": "logseq-imgur-upload"
+    },
+    {
       "title": "Journals calendar",
       "description": "A simple journals calendar plugin for Logseq.",
       "repo": "xyhp915/logseq-journals-calendar",
@@ -177,6 +202,14 @@
       "id": "logseq-tabs"
     },
     {
+      "title": "logseq-todoist-plugin",
+      "description": "Easily pull active tasks from Todoist and quickly push tasks to Todoist!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-todoist-plugin",
+      "icon": "./icon.png",
+      "id": "logseq-todoist-plugin"
+    },
+    {
       "title": "Tokyo Night theme",
       "description": "Port of the Obsidian MD theme Tokyo Night.",
       "author": "nmartin84",
@@ -191,6 +224,14 @@
       "repo": "tankcool/logseq-toolbox",
       "icon": "icon.png",
       "id": "logseq-toolbox"
+    },
+    {
+      "title": "Unsplash Images",
+      "description": "A plugin to add Unsplash images via slash commands in Logseq",
+      "author": "clearlysid",
+      "repo": "clearlysid/logseq-unsplash",
+      "icon": "icon.png",
+      "id": "logseq-unsplash"
     },
     {
       "title": "Woz theme",
