@@ -1,5 +1,5 @@
 {
-  "datetime": 1636990860676,
+  "datetime": 1637474507282,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Atlas Theme",
-      "description": "A clean theme for Logseq.",
+      "description": "Atlas theme provides a pure and distraction-free experience with always a dark sidebar.",
       "author": "Seth Fair",
       "repo": "sethfair/logseq-atlas-theme",
       "icon": "icon.png",
@@ -96,6 +96,15 @@
       "id": "logseq-extract-plugin"
     },
     {
+      "title": "Focus Mode",
+      "description": "Focus mode for Logseq.",
+      "author": "Seth Fair",
+      "repo": "sethfair/logseq-focus-mode",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-focus-mode"
+    },
+    {
       "title": "Habit Tracker",
       "description": "Track habits on daily journal pages.",
       "author": "c6p",
@@ -145,6 +154,14 @@
       "id": "logseq-laurel-theme"
     },
     {
+      "title": "Lock block",
+      "description": "Lock block with your password, and only can unlock with your password.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-lock",
+      "icon": "./icon.png",
+      "id": "logseq-lock"
+    },
+    {
       "title": "Markmap",
       "description": "Mind map support based on markmap library.",
       "author": "vipzhicheng",
@@ -176,6 +193,14 @@
       "repo": "tankcool/logseq-random-note",
       "icon": "icon.png",
       "id": "logseq-random-note"
+    },
+    {
+      "title": "Sepia theme",
+      "description": "A Sepia Logseq Theme",
+      "author": "mschmidtkorth/crendl",
+      "repo": "crendl/logseq-sepia-theme",
+      "theme": true,
+      "id": "logseq-sepia-theme"
     },
     {
       "title": "Solarized theme",
