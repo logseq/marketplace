@@ -9,6 +9,7 @@ const GITHUB_ENDPOINT = 'https://api.github.com/'
 const PLUGINS_ALL_FILE = 'plugins.json'
 const STATS_FILE = 'stats.json'
 const ERRORS_FILE = 'errors.json'
+const delay = (ms = 1000) => new Promise((r) => setTimeout(r, ms))
 
 function httpGet (url) {
   return new Promise((resolve, reject) => {
@@ -50,21 +51,25 @@ function getRepoBaseInfo (repo) {
   return httpGet(url)
 }
 
-async function cli (action) {
+async function cli (action, rest) {
   switch (action) {
     case '--stat': {
       console.log('===== Building Stats =====')
 
-      const { packages } = JSON.parse(
-        fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).toString())
+      const isFixErrors = rest?.includes('error')
+      const packages = isFixErrors ?
+        JSON.parse(fs.readFileSync(path.join(ROOT, ERRORS_FILE)).toString())
+        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).
+          toString()).packages
 
-      const outStats = {}
+      const outStats = isFixErrors ? JSON.parse(fs.readFileSync(path.join(ROOT, STATS_FILE)).toString()) : {}
       const errors = []
 
       for (let pkg of packages) {
         const { id, repo } = pkg
         try {
           const base = await getRepoBaseInfo(repo)
+          await delay(2000)
           const ref = outStats[id] = [
             'created_at',
             'updated_at',
@@ -91,8 +96,8 @@ async function cli (action) {
             }
           })
         } catch (e) {
-          console.warn("Error Repo:", repo, " [Error] ", e.message)
-          errors.push({...pkg, error: e})
+          console.warn('Error Repo:', repo, ' [Error] ', e.message)
+          errors.push({ ...pkg, error: e })
         }
       }
 
@@ -141,4 +146,4 @@ async function cli (action) {
 }
 
 // entry
-cli(process.argv[2]).catch(console.error)
+cli(...process.argv.slice(2)).catch(console.error)
