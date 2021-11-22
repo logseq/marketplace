@@ -1,5 +1,5 @@
 {
-  "datetime": 1637475368272,
+  "datetime": 1637544682586,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -18,6 +18,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-atlas-theme"
+    },
+    {
+      "title": "Bear Theme",
+      "description": "You're braver than you believe, stronger than you seem and smarter than you think. A bear theme for Logseq",
+      "author": "Alexander Rink",
+      "repo": "rcvd/logseq-bear-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-bear-theme"
     },
     {
       "title": "Block to page",
