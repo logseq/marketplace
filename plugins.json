@@ -1,5 +1,5 @@
 {
-  "datetime": 1637544682586,
+  "datetime": 1638153794260,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -266,6 +266,14 @@
       "repo": "clearlysid/logseq-unsplash",
       "icon": "icon.png",
       "id": "logseq-unsplash"
+    },
+    {
+      "title": "logseq-wordcount-plugin",
+      "description": "Simple word counter that calculates the number of words across all nested blocks!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-wordcount-plugin",
+      "icon": "./icon.png",
+      "id": "logseq-wordcount-plugin"
     },
     {
       "title": "Woz theme",
