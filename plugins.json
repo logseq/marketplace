@@ -1,5 +1,5 @@
 {
-  "datetime": 1638153794260,
+  "datetime": 1638157338003,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -161,6 +161,14 @@
       "icon": "laurel.png",
       "theme": true,
       "id": "logseq-laurel-theme"
+    },
+    {
+      "title": "Link Preview",
+      "description": "Show basic link information for external links in Logseq.",
+      "author": "pengx17",
+      "repo": "pengx17/logseq-plugin-link-preview",
+      "effect": true,
+      "id": "logseq-link-preview"
     },
     {
       "title": "Lock block",
