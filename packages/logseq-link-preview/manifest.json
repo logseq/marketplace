@@ -1,0 +1,7 @@
+{
+  "title": "Link Preview",
+  "description": "Show basic link information for external links in Logseq.",
+  "author": "pengx17",
+  "repo": "pengx17/logseq-plugin-link-preview",
+  "effect": true
+}
