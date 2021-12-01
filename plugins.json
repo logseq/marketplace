@@ -1,5 +1,5 @@
 {
-  "datetime": 1638157338003,
+  "datetime": 1638363595976,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -242,6 +242,14 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-tabs"
+    },
+    {
+      "title": "TODO Master",
+      "description": "Render a progress bar to gether the overall progress of the descendent of the current block",
+      "author": "pengx17",
+      "icon": "./icon.png",
+      "repo": "pengx17/logseq-plugin-todo-master",
+      "id": "logseq-todo-master"
     },
     {
       "title": "logseq-todoist-plugin",
