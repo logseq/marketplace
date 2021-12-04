@@ -1,0 +1,7 @@
+{
+  "title": "Comment block",
+  "description": "An automatic block comment history." ,
+  "author": "vipzhicheng",
+  "repo":"vipzhicheng/logseq-plugin-comment-block",
+  "icon": "./icon.png"
+}
