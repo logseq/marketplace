@@ -1,5 +1,5 @@
 {
-  "datetime": 1638584138534,
+  "datetime": 1638949057209,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -218,6 +218,15 @@
       "repo": "tankcool/logseq-random-note",
       "icon": "icon.png",
       "id": "logseq-random-note"
+    },
+    {
+      "title": "logseq-readwise-plugin",
+      "description": "Unofficial Readwise plugin to pull in all your highlights from Readwise and track new ones!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-readwise-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-readwise-plugin (unofficial)"
     },
     {
       "title": "Sepia theme",

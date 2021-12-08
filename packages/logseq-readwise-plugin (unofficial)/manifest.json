@@ -3,5 +3,6 @@
   "description": "Unofficial Readwise plugin to pull in all your highlights from Readwise and track new ones!",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-readwise-plugin",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "effect": true
 }
