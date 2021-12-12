@@ -1,5 +1,5 @@
 {
-  "datetime": 1639016801875,
+  "datetime": 1639291330491,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -160,6 +160,14 @@
       "author": "xyhp915",
       "icon": "icon.png",
       "id": "logseq-journals-calendar"
+    },
+    {
+      "title": "logseq-kanban-plugin",
+      "description": "Simple plugin to help visualise data on a Kanban Board!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-kanban-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-kanban-plugin"
     },
     {
       "title": "Laurel theme",
