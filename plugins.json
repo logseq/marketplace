@@ -1,5 +1,5 @@
 {
-  "datetime": 1639291330491,
+  "datetime": 1639552128550,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Logseq Anki Sync",
+      "description": "An Logseq to Anki Flashcards integration plugin.",
+      "author": "debanjandhar12",
+      "repo": "debanjandhar12/logseq-anki-sync",
+      "icon": "./icon.png",
+      "id": "logseq-anki-sync"
     },
     {
       "title": "Atlas Theme",
