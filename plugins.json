@@ -1,5 +1,5 @@
 {
-  "datetime": 1639552128550,
+  "datetime": 1639624121008,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -226,6 +226,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-paper-theme"
+    },
+    {
+      "title": "Quattro Theme",
+      "description": "Where your attention goes, your time goes. An iA Writer inspired theme for Logseq.",
+      "author": "Alexander Rink",
+      "repo": "rcvd/logseq-quattro-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-quattro-theme"
     },
     {
       "title": "Random Note",
