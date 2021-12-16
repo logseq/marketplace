@@ -3,5 +3,6 @@
   "description": "Add margins between Chinese and ASCII characters so it looks nicer.",
   "author": "sethyuan",
   "repo": "sethyuan/logseq-plugin-charspacing",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "effect": true
 }

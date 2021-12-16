@@ -1,5 +1,5 @@
 {
-  "datetime": 1639624121008,
+  "datetime": 1639635053285,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -52,6 +52,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-bonofix-theme"
+    },
+    {
+      "title": "Char Spacing",
+      "description": "Add margins between Chinese and ASCII characters so it looks nicer.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-charspacing",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-charspacing"
     },
     {
       "title": "Comment block",
