@@ -1,5 +1,5 @@
 {
-  "datetime": 1639635053285,
+  "datetime": 1639707210931,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -55,7 +55,7 @@
     },
     {
       "title": "Char Spacing",
-      "description": "Add margins between Chinese and ASCII characters so it looks nicer.",
+      "description": "Add space between Chinese and ASCII characters to make document look nicer.",
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-charspacing",
       "icon": "./icon.png",
@@ -284,6 +284,14 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-tabs"
+    },
+    {
+      "name": "logseq-toc-plugin",
+      "description": "Interactive (style-able), real-time rendering of Table of Contents.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-toc-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-toc-plugin"
     },
     {
       "title": "TODO Master",
