@@ -1,6 +1,6 @@
 {
   "title": "Char Spacing",
-  "description": "Add margins between Chinese and ASCII characters so it looks nicer.",
+  "description": "Add space between Chinese and ASCII characters to make document look nicer.",
   "author": "sethyuan",
   "repo": "sethyuan/logseq-plugin-charspacing",
   "icon": "./icon.png",
