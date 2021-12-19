@@ -1,0 +1,8 @@
+{
+    "title": "Things Theme",
+    "description": "The things you used to own, now they own you.",
+    "author": "Alexander Rink",
+    "repo": "rcvd/logseq-things-theme",
+    "icon": "icon.png",
+    "theme": true
+}
