@@ -1,5 +1,5 @@
 {
-  "datetime": 1639707210931,
+  "datetime": 1639967295877,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Allday theme",
+      "description": "A clean theme focused on high readability and a look that won't exhaust the eyes.",
+      "repo": "tobealive/logseq-allday-theme",
+      "author": "Turiiya",
+      "icon": "",
+      "theme": true,
+      "id": "logseq-allday-theme"
     },
     {
       "title": "Logseq Anki Sync",
@@ -228,6 +237,23 @@
       "id": "logseq-markdown-table"
     },
     {
+      "name": "logseq-mergepages-plugin",
+      "description": "Simple plugin to help merge pages.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-mergepages-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-mergepages-plugin"
+    },
+    {
+      "title": "Panic theme",
+      "description": "A theme inspired by Panic mode tempalte from Bear notes app ",
+      "author": "SoKirill",
+      "repo": "sokirill/logseq-panic-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-panic-theme"
+    },
+    {
       "title": "Paper theme",
       "description": "A minimal Logseq theme",
       "author": "wirtzdan",
@@ -284,6 +310,15 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-tabs"
+    },
+    {
+      "title": "Things Theme",
+      "description": "The things you used to own, now they own you.",
+      "author": "Alexander Rink",
+      "repo": "rcvd/logseq-things-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-things-theme"
     },
     {
       "name": "logseq-toc-plugin",
