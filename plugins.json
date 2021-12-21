@@ -1,5 +1,5 @@
 {
-  "datetime": 1639967295877,
+  "datetime": 1640053723165,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -261,6 +261,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-paper-theme"
+    },
+    {
+      "title": "Heading level shortcuts",
+      "description": "Bind shortcuts for heading level",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts",
+      "id": "logseq-plugin-heading-level-shortcuts"
     },
     {
       "title": "Quattro Theme",
