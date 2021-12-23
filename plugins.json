@@ -1,5 +1,5 @@
 {
-  "datetime": 1640053723165,
+  "datetime": 1640226065758,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -261,6 +261,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-paper-theme"
+    },
+    {
+      "title": "phonetonote logseq client",
+      "description": "fetch messages from your phonetonote feed into your logseq graph",
+      "author": "phonetonote",
+      "repo": "phonetonote/phonetonote-logseq",
+      "icon": "icon.png",
+      "id": "logseq-phonetonote"
     },
     {
       "title": "Heading level shortcuts",
