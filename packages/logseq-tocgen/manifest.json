@@ -1,0 +1,7 @@
+{
+  "title": "TOC Generator",
+  "description": "Generate a TOC of any page anywhere to quickly access the page's content.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-tocgen",
+  "icon": "./icon.png"
+}
