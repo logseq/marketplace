@@ -1,5 +1,5 @@
 {
-  "datetime": 1640331506011,
+  "datetime": 1640423463422,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -112,6 +112,15 @@
       "repo": "dale502/logseq-discord-like-dark-theme",
       "theme": true,
       "id": "logseq-dicord-like-dark-theme"
+    },
+    {
+      "title": "Doc View Exporter",
+      "description": "Show page in a more document like look and provide quick exporting.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-doc",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-doc"
     },
     {
       "title": "Dracula theme",
@@ -317,6 +326,14 @@
       "author": "hyrijk",
       "repo": "hyrijk/logseq-plugin-split-block",
       "id": "logseq-split-block"
+    },
+    {
+      "name": "Table renderer",
+      "description": "Render tables with basic math functions using data from your blocks",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-tablerender-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-tablerender-plugin"
     },
     {
       "title": "Tabs",

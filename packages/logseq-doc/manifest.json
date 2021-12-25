@@ -3,5 +3,6 @@
   "description": "Show page in a more document like look and provide quick exporting.",
   "author": "sethyuan",
   "repo": "sethyuan/logseq-plugin-doc",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "effect": true
 }
