@@ -1,5 +1,5 @@
 {
-  "datetime": 1640567627673,
+  "datetime": 1640597763086,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -263,6 +263,15 @@
       "id": "logseq-nord"
     },
     {
+      "title": "Oxford Blue Theme",
+      "description": "Oxford blue theme features both a low contrast dark mode and high contrast light mode",
+      "author": "blueteafrog",
+      "repo": "blueteafrog/logseq-oxfordblue-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-oxford-blue-theme"
+    },
+    {
       "title": "Panic theme",
       "description": "A theme inspired by Panic mode tempalte from Bear notes app ",
       "author": "SoKirill",
@@ -427,6 +436,14 @@
       "repo": "clearlysid/logseq-unsplash",
       "icon": "icon.png",
       "id": "logseq-unsplash"
+    },
+    {
+      "title": "VIM shortcuts",
+      "description": "VIM-like operation feeling.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
+      "icon": "icon.png",
+      "id": "logseq-vim-shortcuts"
     },
     {
       "title": "logseq-wordcount-plugin",
