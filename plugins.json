@@ -1,5 +1,5 @@
 {
-  "datetime": 1640423463422,
+  "datetime": 1640567627673,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -252,6 +252,15 @@
       "repo": "hkgnp/logseq-mergepages-plugin",
       "icon": "./icon.svg",
       "id": "logseq-mergepages-plugin"
+    },
+    {
+      "title": "Nord Theme",
+      "description": "A theme for Nord.",
+      "author": "nmartin84",
+      "repo": "nmartin84/logseq-nord",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-nord"
     },
     {
       "title": "Panic theme",
