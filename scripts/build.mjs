@@ -15,7 +15,7 @@ function httpGet (url) {
   return new Promise((resolve, reject) => {
     https.get(url, {
       headers: {
-        'User-Agent': 'request',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
       },
     }, (res) => {
       if (res.statusCode != 200) {
@@ -40,13 +40,13 @@ function httpGet (url) {
 }
 
 function getRepoReleasesStat (repo) {
-  const url = path.join(GITHUB_ENDPOINT, 'repos', repo, 'releases')
+  const url = GITHUB_ENDPOINT + path.join('repos', repo, 'releases')
   console.log('Stat Repo:', url)
   return httpGet(url)
 }
 
 function getRepoBaseInfo (repo) {
-  const url = path.join(GITHUB_ENDPOINT, 'repos', repo)
+  const url = GITHUB_ENDPOINT + path.join('repos', repo)
   console.log('Info Repo:', url)
   return httpGet(url)
 }
@@ -62,13 +62,14 @@ async function cli (action, rest) {
         : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).
           toString()).packages
 
-      const outStats = isFixErrors ? JSON.parse(fs.readFileSync(path.join(ROOT, STATS_FILE)).toString()) : {}
+      const outStats = isFixErrors ? JSON.parse(
+        fs.readFileSync(path.join(ROOT, STATS_FILE)).toString()) : {}
       const errors = []
 
       for (let pkg of packages) {
-        const { id, repo } = pkg
+        const { id, repo, _payload, _releases } = pkg
         try {
-          const base = await getRepoBaseInfo(repo)
+          const base = _payload || await getRepoBaseInfo(repo)
           await delay(2000)
           const ref = outStats[id] = [
             'created_at',
@@ -81,7 +82,7 @@ async function cli (action, rest) {
             return ac
           }, {})
 
-          const releases = await getRepoReleasesStat(repo)
+          const releases = _releases || await getRepoReleasesStat(repo)
           const refReleases = ref.releases = []
 
           releases?.forEach(stat => {
@@ -96,7 +97,7 @@ async function cli (action, rest) {
             }
           })
         } catch (e) {
-          console.warn('Error Repo:', repo, ' [Error] ', e.message)
+          console.warn('Error Repo:', repo, ' [Error] ', e)
           errors.push({ ...pkg, error: e })
         }
       }
