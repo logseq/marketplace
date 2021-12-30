@@ -1,5 +1,5 @@
 {
-  "datetime": 1640597763086,
+  "datetime": 1640832682628,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -61,6 +61,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-bonofix-theme"
+    },
+    {
+      "title": "Bullet Threading",
+      "description": "Add bullet threading to your active blocks in Logseq.",
+      "author": "pengx17",
+      "icon": "./logo.png",
+      "repo": "pengx17/logseq-plugin-bullet-threading",
+      "id": "logseq-bullet-threading"
     },
     {
       "title": "Char Spacing",
