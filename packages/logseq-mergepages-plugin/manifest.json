@@ -1,7 +1,0 @@
-{
-  "name": "logseq-mergepages-plugin",
-  "description": "Simple plugin to help merge pages.",
-  "author": "hkgnp",
-  "repo": "hkgnp/logseq-mergepages-plugin",
-  "icon": "./icon.svg"
-}
