@@ -1,7 +1,0 @@
-{
-  "name": "logseq-localaudiovideo-plugin",
-  "description": "Simple plugin to easily insert local audio and video files without the need to specify the path.",
-  "author": "hkgnp",
-  "repo": "hkgnp/logseq-localaudiovideo-plugin",
-  "icon": "./icon.svg"
-}
