@@ -1,0 +1,29 @@
+{
+	"name": "Mocha Theme",
+	"title": "Mocha Theme",
+	"author": "blueteafrog",
+	"version": "0.0.1",
+	"description": "Mocha theme features a light and dark mode with pronounced main content section.",
+	"logseq": {
+		"themes": [
+			{
+				"name": "Mocha Theme Light",
+				"url": "./mocha.css",
+				"description": "Mocha theme features a light and dark mode with pronounced main content section.",
+				"mode": "light"
+			},
+			{
+				"name": "Mocha Theme Dark",
+				"url": "./mocha.css",
+				"description": "Mocha theme features a light and dark mode with pronounced main content section.",
+				"mode": "dark"
+			}
+
+		],
+		"id": "blueteafrog-mocha-theme",
+		"icon": "./icon.png"
+	},
+	"repo": "blueteafrog/logseq-mocha-theme",
+  	"theme": true,
+	"effect": false
+}
