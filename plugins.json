@@ -1,5 +1,5 @@
 {
-  "datetime": 1640832682628,
+  "datetime": 1641103483568,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -78,6 +78,14 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-charspacing"
+    },
+    {
+      "name": "logseq-chartrender-plugin",
+      "description": "Create pie, line, bar and area charts using block data. Allows changing of chart type and colours on the fly!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-chartrender-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-chartrender-plugin"
     },
     {
       "title": "Comment block",
@@ -230,6 +238,14 @@
       "id": "logseq-link-preview"
     },
     {
+      "name": "logseq-localassets-plugin",
+      "description": "Simple plugin to easily insert local assets (e.g. images, PDFs, audio and video files) without the need to specify the path.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-localassets-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-localassets-plugin"
+    },
+    {
       "title": "Lock block",
       "description": "Lock block with your password, and only can unlock with your password.",
       "author": "vipzhicheng",
@@ -260,6 +276,15 @@
       "repo": "hkgnp/logseq-mergepages-plugin",
       "icon": "./icon.svg",
       "id": "logseq-mergepages-plugin"
+    },
+    {
+      "title": "Mocha Theme",
+      "description": "Mocha theme features a light and dark mode with pronounced main content section",
+      "author": "blueteafrog",
+      "repo": "blueteafrog/logseq-mocha-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-mocha-theme"
     },
     {
       "title": "Nord Theme",
