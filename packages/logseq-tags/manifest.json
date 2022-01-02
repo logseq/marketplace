@@ -1,0 +1,7 @@
+{
+  "title": "Tags",
+  "description": "A plugin that lets you find and search all of your #tags.",
+  "author": "Gidong Kwon",
+  "repo": "gidongkwon/logseq-plugin-tags",
+  "icon": "./tags-plugin-icon.png"
+}
