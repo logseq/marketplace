@@ -1,5 +1,5 @@
 {
-  "datetime": 1641103483568,
+  "datetime": 1641179465028,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -394,6 +394,23 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-tabs"
+    },
+    {
+      "title": "Tags",
+      "description": "A plugin that lets you find and search all of your #tags.",
+      "author": "Gidong Kwon",
+      "repo": "gidongkwon/logseq-plugin-tags",
+      "icon": "./tags-plugin-icon.png",
+      "id": "logseq-tags"
+    },
+    {
+      "title": "Textbook theme",
+      "description": "Textbook theme for Logseq",
+      "author": "joeykhuang",
+      "repo": "joeykhuang/logseq-textbook-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-textbook-theme"
     },
     {
       "title": "Things Theme",
