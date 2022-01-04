@@ -1,5 +1,5 @@
 {
-  "datetime": 1641266943635,
+  "datetime": 1641274339744,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -422,6 +422,11 @@
       "repo": "rcvd/logseq-things-theme",
       "icon": "icon.png",
       "theme": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/rcvdio",
+        "https://flattr.com/@rcvd",
+        "https://www.paypal.com/paypalme/rcvd"
+      ],
       "id": "logseq-things-theme"
     },
     {
