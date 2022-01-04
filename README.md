@@ -18,4 +18,5 @@ Plugins API: https://logseq.github.io/plugins/.
     - `repo`- The GitHub repository identifier, like `{user}/{repo}`.
     - `icon`- [optional] A logo for better recognition. default: `""`
     - `theme`- [optional] A theme plugin? default: `false`
+    - `sponsors` - [optional] Sponsor external links. default: `[]`
 3. Make a Github Pull Request :)

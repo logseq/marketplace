@@ -1,5 +1,5 @@
 {
-  "datetime": 1641179465028,
+  "datetime": 1641266943635,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -210,6 +210,9 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
+      "sponsors": [
+        "https://opencollective.com/logseq"
+      ],
       "id": "logseq-journals-calendar"
     },
     {
