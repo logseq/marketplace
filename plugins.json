@@ -1,5 +1,5 @@
 {
-  "datetime": 1641274339744,
+  "datetime": 1641438096602,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -197,6 +197,14 @@
       "id": "logseq-hypothesis"
     },
     {
+      "title": "Image Uploader",
+      "description": "Upload images with PicGo.",
+      "author": "jjaychen",
+      "repo": "JJAYCHEN1e/logseq-plugin-image-uploader",
+      "icon": "./icon.png",
+      "id": "logseq-image-uploader"
+    },
+    {
       "title": "Imgur Upload",
       "description": "Upload to Imgur and insert URL",
       "author": "hserranome",
@@ -222,6 +230,14 @@
       "repo": "hkgnp/logseq-kanban-plugin",
       "icon": "./icon.svg",
       "id": "logseq-kanban-plugin"
+    },
+    {
+      "name": "logseq-keywordfrequency-plugin",
+      "description": "Keeps track of your most used keywords, just for fun!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-keywordfrequency-plugin",
+      "icon": "./icon.png",
+      "id": "logseq-keywordfrequency-plugin"
     },
     {
       "title": "Laurel theme",
