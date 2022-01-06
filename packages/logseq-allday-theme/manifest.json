@@ -1,8 +1,8 @@
 {
-  "title": "Allday theme",
-  "description": "A clean theme focused on high readability and a look that won't exhaust the eyes.",
+  "title": "All Day Theme",
+  "description": "A clean theme styled for high readability and minimal eye strain.",
   "repo": "tobealive/logseq-allday-theme",
   "author": "Turiiya",
-  "icon": "",
+  "icon": "icon.png",
   "theme": true
 }
