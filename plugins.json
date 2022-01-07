@@ -1,5 +1,5 @@
 {
-  "datetime": 1641438096602,
+  "datetime": 1641550504827,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -11,11 +11,11 @@
       "id": "cobra-theme"
     },
     {
-      "title": "Allday theme",
-      "description": "A clean theme focused on high readability and a look that won't exhaust the eyes.",
+      "title": "All Day Theme",
+      "description": "A clean theme styled for high readability and minimal eye strain.",
       "repo": "tobealive/logseq-allday-theme",
       "author": "Turiiya",
-      "icon": "",
+      "icon": "icon.png",
       "theme": true,
       "id": "logseq-allday-theme"
     },
@@ -493,6 +493,14 @@
       "repo": "tankcool/logseq-toolbox",
       "icon": "icon.png",
       "id": "logseq-toolbox"
+    },
+    {
+      "title": "logseq-trackhabits2-plugin",
+      "description": "Easily track your habits by just tagging your TODO list with #habit-tracker !",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-trackhabits2-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-trackhabits2-plugin"
     },
     {
       "title": "Readwise plugin (unofficial)",
