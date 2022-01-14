@@ -1,5 +1,5 @@
 {
-  "datetime": 1641550504827,
+  "datetime": 1642130095456,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -396,6 +396,14 @@
       "author": "hyrijk",
       "repo": "hyrijk/logseq-plugin-split-block",
       "id": "logseq-split-block"
+    },
+    {
+      "name": "logseq-swapblocks-plugin",
+      "description": "Simple plugin to swap a reference block with its original block and preserve it's other references.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-swapblocks-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-swapblocks-plugin"
     },
     {
       "name": "Table renderer",

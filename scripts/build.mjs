@@ -70,7 +70,7 @@ async function cli (action, rest) {
         const { id, repo, _payload, _releases } = pkg
         try {
           const base = _payload || await getRepoBaseInfo(repo)
-          await delay(2000)
+          await delay(1000)
           const ref = outStats[id] = [
             'created_at',
             'updated_at',
