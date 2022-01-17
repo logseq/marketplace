@@ -1,0 +1,27 @@
+{
+	"name": "Gunmetal theme",
+	"author": "blueteafrog",
+	"version": "0.0.1",
+	"description": "Gunmetal Theme was designed for long screen times and reading comfort. It features a dark theme and a light theme.",
+	"logseq": {
+		"themes": [
+			{
+				"name": "Gunmetal Theme - Dark",
+				"url": "./gunmetal.css",
+				"description": "Colorful tags, colorful standout admonitions with a rich blueish dark grey base for comfortable viewing",
+				"mode": "dark"
+			},
+			{
+				"name": "Gunmetal Theme - Light",
+				"url": "./gunmetal.css",
+				"description": "Colorful tags, colorful standout admonitions with a rich blueish dark grey sidebar for a comfortable focus on the main content.",
+				"mode": "light"
+			}
+		],
+		"id": "blueteafrog-gunmetal-theme",
+		"icon": "./icon.png"
+	},
+	"repo": "blueteafrog/logseq-gunmetal-theme",
+  	"theme": true,
+	"effect": false
+}
