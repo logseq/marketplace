@@ -3,6 +3,5 @@
     "description": "Add shortcuts for Logseq task management.",
     "author": "vipzhicheng",
     "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
-    "icon": "icon.png",
-    "theme": true
+    "icon": "icon.png"
   }

@@ -1,5 +1,5 @@
 {
-  "datetime": 1642130095456,
+  "datetime": 1642425942255,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -61,6 +61,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-bonofix-theme"
+    },
+    {
+      "title": "Browser",
+      "description": "A browser plugin for logseq",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-browser",
+      "icon": "icon.png",
+      "id": "logseq-browser"
     },
     {
       "title": "Bullet Threading",
@@ -173,6 +181,15 @@
       "id": "logseq-focus-mode"
     },
     {
+      "title": "Gunmetal Theme",
+      "description": "Gunmetal Theme was designed for long screen times and reading comfort. It features a dark theme and a light theme.",
+      "author": "blueteafrog",
+      "repo": "blueteafrog/logseq-gunmetal-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-gunmetal-theme"
+    },
+    {
       "title": "Habit Tracker",
       "description": "Track habits on daily journal pages.",
       "author": "c6p",
@@ -282,7 +299,7 @@
     },
     {
       "title": "Markdown Table Editor",
-      "description": "Markdown Table Editor(not stable)",
+      "description": "Markdown Table Editor",
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-markdown-table",
       "icon": "icon.png",
@@ -295,6 +312,14 @@
       "repo": "hkgnp/logseq-mergepages-plugin",
       "icon": "./icon.svg",
       "id": "logseq-mergepages-plugin"
+    },
+    {
+      "title": "Milestone",
+      "description": "Show milestone in calendar",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-milestone",
+      "icon": "icon.png",
+      "id": "logseq-milestone"
     },
     {
       "title": "Mocha Theme",
@@ -313,6 +338,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-nord"
+    },
+    {
+      "name": "logseq-osmmaps-plugin",
+      "description": "This plugin lets you create a map and plot a marker on a specific spot.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-osmmaps-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-osmmaps-plugin"
     },
     {
       "title": "Oxford Blue Theme",
@@ -429,6 +462,22 @@
       "repo": "gidongkwon/logseq-plugin-tags",
       "icon": "./tags-plugin-icon.png",
       "id": "logseq-tags"
+    },
+    {
+      "title": "Task management shortcuts",
+      "description": "Add shortcuts for Logseq task management.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
+      "icon": "icon.png",
+      "id": "logseq-task-management-shortcuts"
+    },
+    {
+      "title": "logseq-templater-plugin",
+      "description": "A plugin to replicate notion's template buttons in logseq",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-templater-plugin",
+      "icon": "./logo.png",
+      "id": "logseq-templater-plugin"
     },
     {
       "title": "Textbook theme",
