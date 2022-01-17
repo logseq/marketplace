@@ -1,0 +1,7 @@
+{
+    "title": "logseq-templater-plugin",
+    "description": "A plugin to replicate notion's template buttons in logseq",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-templater-plugin",
+    "icon": "./logo.png"
+  }
