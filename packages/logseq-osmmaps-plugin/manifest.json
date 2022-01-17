@@ -1,0 +1,7 @@
+{
+  "name": "logseq-osmmaps-plugin",
+  "description": "This plugin lets you create a map and plot a marker on a specific spot.",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-osmmaps-plugin",
+  "icon": "./icon.svg"
+}
