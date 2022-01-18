@@ -1,5 +1,5 @@
 {
-  "datetime": 1642473405853,
+  "datetime": 1642512175562,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -119,6 +119,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-d42ker-theme"
+    },
+    {
+      "name": "logseq-datenlp-plugin",
+      "description": "This super simple plugin uses NLP to parse your content for dates and times so that they can be easily tracked through your yournal pages!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-datenlp-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-datenlp-plugin"
     },
     {
       "title": "Dev theme",
