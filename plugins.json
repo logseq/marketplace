@@ -1,5 +1,5 @@
 {
-  "datetime": 1642425942255,
+  "datetime": 1642473405853,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -345,6 +345,7 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-osmmaps-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-osmmaps-plugin"
     },
     {
