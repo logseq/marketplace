@@ -1,5 +1,5 @@
 {
-  "datetime": 1642512175562,
+  "datetime": 1642645674598,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -126,6 +126,7 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-datenlp-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-datenlp-plugin"
     },
     {
