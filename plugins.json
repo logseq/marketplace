@@ -1,5 +1,5 @@
 {
-  "datetime": 1642766847098,
+  "datetime": 1642840869107,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -237,6 +237,15 @@
       "repo": "hserranome/logseq-imgur-upload",
       "icon": "./icon.png",
       "id": "logseq-imgur-upload"
+    },
+    {
+      "title": "Inbox Telegram",
+      "description": "A Logseq plugin that reads Telegram chat and pull messages to daily journal.",
+      "author": "shady2k",
+      "repo": "shady2k/logseq-inbox-telegram-plugin",
+      "icon": "./icon.png",
+      "theme": false,
+      "id": "logseq-inbox-telegram-plugin"
     },
     {
       "title": "Journals calendar",
