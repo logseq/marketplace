@@ -1,0 +1,63 @@
+;; To use this: Install babashka - https://github.com/babashka/babashka#installation
+{:tasks
+ {:requires ([cheshire.core :as json]
+             [clojure.pprint :as pprint])
+  :init
+  (do
+    (def default-fields [:id :author :repo])
+
+    (defn- plugins []
+      (-> "plugins.json" slurp (json/parse-string keyword) :packages))
+
+    (defn print-table [rows]
+      (pprint/print-table rows)
+      (println "Total:" (count rows) "rows"))
+    )
+
+  plugins
+  {:doc "List all plugins"
+   :task
+   (->> (plugins)
+        (mapv (fn [p] (select-keys p default-fields)))
+        print-table)}
+
+  non-theme-plugins
+  {:doc "List non theme plugins"
+   :task
+   (->> (plugins)
+        (remove :theme)
+        (mapv (fn [p] (select-keys p default-fields)))
+        print-table)}
+
+  theme-plugins
+  {:doc "List theme plugins"
+   :task
+   (->> (plugins)
+        (filter :theme)
+        (mapv (fn [p] (select-keys p default-fields)))
+        print-table)}
+
+  author-stats
+  {:doc "List stats by author"
+   :task
+   (->> (plugins)
+        (group-by :author)
+        (sort-by (comp count second) >)
+        (map (fn [[k v]] {:author k :plugin-count (count v)}))
+        print-table)}
+
+  plugin-stats
+  {:doc "List stats by plugin"
+   :task
+   (let [stats-map (-> "stats.json"
+                       slurp
+                       (json/parse-string keyword))
+         stats (->> stats-map
+                    (map (fn [[k v]]
+                           {:plugin k
+                            :releases (count (:releases v))
+                            :downloads (apply + (map (fn [v] (nth v 2)) (:releases v)))
+                            :stargazers (:stargazers_count v)}))
+                    (sort-by :downloads >))]
+     (print-table stats)
+     (println "Total Downloads:" (apply + (map :downloads stats))))}}}
