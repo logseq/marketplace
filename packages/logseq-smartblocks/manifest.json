@@ -3,5 +3,8 @@
     "description": "A port of the roam SmartBlocks extension with a dash of Notion",
     "author": "Aryan Sawhney",
     "repo": "sawhney17/logseq-smartblocks",
-    "icon": "./logo.png"
+    "icon": "./logo.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
   }
