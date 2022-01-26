@@ -3,5 +3,6 @@
   "description": "Easily tweet from within Logseq in a quick and easy manner!",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-tweet-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "effect": true
 }

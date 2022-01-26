@@ -1,5 +1,5 @@
 {
-  "datetime": 1642840869107,
+  "datetime": 1643186865920,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -410,6 +410,17 @@
       "id": "logseq-plugin-heading-level-shortcuts"
     },
     {
+      "title": "logseq-property-visualizer",
+      "description": "Visualizing trends in page properties, requires Chart Render and Table render plugin",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-property-visualizer",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-property-visualizer"
+    },
+    {
       "title": "Quattro Theme",
       "description": "Where your attention goes, your time goes. An iA Writer inspired theme for Logseq.",
       "author": "Alexander Rink",
@@ -433,6 +444,17 @@
       "repo": "crendl/logseq-sepia-theme",
       "theme": true,
       "id": "logseq-sepia-theme"
+    },
+    {
+      "title": "logseq-smartblocks",
+      "description": "A port of the roam SmartBlocks extension with a dash of Notion",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-smartblocks",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-smartblocks"
     },
     {
       "title": "Solarized theme",
@@ -489,14 +511,6 @@
       "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
       "icon": "icon.png",
       "id": "logseq-task-management-shortcuts"
-    },
-    {
-      "title": "logseq-templater-plugin",
-      "description": "A plugin to replicate notion's template buttons in logseq",
-      "author": "Aryan Sawhney",
-      "repo": "sawhney17/logseq-templater-plugin",
-      "icon": "./logo.png",
-      "id": "logseq-templater-plugin"
     },
     {
       "title": "Textbook theme",
@@ -579,6 +593,15 @@
       "id": "logseq-trackhabits2-plugin"
     },
     {
+      "title": "logseq-tweet-plugin",
+      "description": "Easily tweet from within Logseq in a quick and easy manner!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-tweet-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-tweet-plugin"
+    },
+    {
       "title": "Readwise plugin (unofficial)",
       "description": "Unofficial Readwise plugin to pull in all your highlights from Readwise and track new ones!",
       "author": "hkgnp",
@@ -619,6 +642,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-woz-theme"
+    },
+    {
+      "title": "Text Wrapper",
+      "description": "Create your own wrappings with optional key bindings for selected text, a set of useful defaults is also provided.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-wrap",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-wrap"
     }
   ]
 }
