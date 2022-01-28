@@ -4,5 +4,6 @@
   "author": "Aryan Sawhney",
   "repo": "sawhney17/logseq-calendars-plugin",
   "icon": "./icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
   "effect": true
 }
