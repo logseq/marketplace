@@ -1,5 +1,5 @@
 {
-  "datetime": 1643186865920,
+  "datetime": 1643336866215,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -306,6 +306,14 @@
       "repo": "vipzhicheng/logseq-plugin-lock",
       "icon": "./icon.png",
       "id": "logseq-lock"
+    },
+    {
+      "title": "Add lock screen",
+      "description": "Add lock screen to Logseq for safer and fun.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-lock-screen",
+      "icon": "icon.png",
+      "id": "logseq-lock-screen"
     },
     {
       "title": "Markmap",
