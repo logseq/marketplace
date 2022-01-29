@@ -1,5 +1,5 @@
 {
-  "datetime": 1643336866215,
+  "datetime": 1643448133826,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -77,6 +77,18 @@
       "icon": "./logo.png",
       "repo": "pengx17/logseq-plugin-bullet-threading",
       "id": "logseq-bullet-threading"
+    },
+    {
+      "title": "Calendar Plugin",
+      "description": "Sync your logseq daily note with your google, icloud or outlook calendar",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-calendars-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "effect": true,
+      "id": "logseq-calendars-plugin"
     },
     {
       "title": "Char Spacing",
@@ -436,6 +448,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-quattro-theme"
+    },
+    {
+      "title": "Quick Todo",
+      "description": "This simple plugin helps you to insert a TODO item on your today's journal page, without navigating to it.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-quicktodo-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-quicktodo-plugin"
     },
     {
       "title": "Random Note",
