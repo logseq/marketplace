@@ -1,5 +1,5 @@
 {
-  "datetime": 1643448133826,
+  "datetime": 1643603544717,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -106,6 +106,15 @@
       "repo": "hkgnp/logseq-chartrender-plugin",
       "icon": "./icon.svg",
       "id": "logseq-chartrender-plugin"
+    },
+    {
+      "title": "Chocolate 🍫",
+      "description": "A rich, yummy, delicious theme for Logseq.",
+      "author": "nmartin84",
+      "repo": "nmartin84/logseq-chocolate",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-chocolate"
     },
     {
       "title": "Comment block",
