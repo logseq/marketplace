@@ -1,4 +1,5 @@
 {
+  "title": "logseq-localassets-plugin",
   "name": "logseq-localassets-plugin",
   "description": "Simple plugin to easily insert local assets (e.g. images, PDFs, audio and video files) without the need to specify the path.",
   "author": "hkgnp",

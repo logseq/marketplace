@@ -1,4 +1,5 @@
 {
+  "title": "logseq-keywordfrequency-plugin",
   "name": "logseq-keywordfrequency-plugin",
   "description": "Keeps track of your most used keywords, just for fun!",
   "author": "hkgnp",

@@ -1,5 +1,6 @@
 {
   "title": "logseq-kanban-plugin",
+  "name": "logseq-kanban-plugin",
   "description": "Simple plugin to help visualise data on a Kanban Board!",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-kanban-plugin",

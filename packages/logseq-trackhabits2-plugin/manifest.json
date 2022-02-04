@@ -1,5 +1,6 @@
 {
   "title": "logseq-trackhabits2-plugin",
+  "name": "logseq-trackhabits2-plugin",
   "description": "Easily track your habits by just tagging your TODO list with #habit-tracker !",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-trackhabits2-plugin",
