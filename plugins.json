@@ -1,5 +1,5 @@
 {
-  "datetime": 1643603544717,
+  "datetime": 1644116757870,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -100,6 +100,7 @@
       "id": "logseq-charspacing"
     },
     {
+      "title": "logseq-chartrender-plugin",
       "name": "logseq-chartrender-plugin",
       "description": "Create pie, line, bar and area charts using block data. Allows changing of chart type and colours on the fly!",
       "author": "hkgnp",
@@ -142,6 +143,7 @@
       "id": "logseq-d42ker-theme"
     },
     {
+      "title": "logseq-datenlp-plugin",
       "name": "logseq-datenlp-plugin",
       "description": "This super simple plugin uses NLP to parse your content for dates and times so that they can be easily tracked through your yournal pages!",
       "author": "hkgnp",
@@ -281,6 +283,7 @@
     },
     {
       "title": "logseq-kanban-plugin",
+      "name": "logseq-kanban-plugin",
       "description": "Simple plugin to help visualise data on a Kanban Board!",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-kanban-plugin",
@@ -288,6 +291,7 @@
       "id": "logseq-kanban-plugin"
     },
     {
+      "title": "logseq-keywordfrequency-plugin",
       "name": "logseq-keywordfrequency-plugin",
       "description": "Keeps track of your most used keywords, just for fun!",
       "author": "hkgnp",
@@ -313,6 +317,7 @@
       "id": "logseq-link-preview"
     },
     {
+      "title": "logseq-localassets-plugin",
       "name": "logseq-localassets-plugin",
       "description": "Simple plugin to easily insert local assets (e.g. images, PDFs, audio and video files) without the need to specify the path.",
       "author": "hkgnp",
@@ -353,6 +358,7 @@
       "id": "logseq-markdown-table"
     },
     {
+      "title": "logseq-mergepages-plugin",
       "name": "logseq-mergepages-plugin",
       "description": "Simple plugin to help merge pages.",
       "author": "hkgnp",
@@ -387,6 +393,7 @@
       "id": "logseq-nord"
     },
     {
+      "title": "logseq-osmmaps-plugin",
       "name": "logseq-osmmaps-plugin",
       "description": "This plugin lets you create a map and plot a marker on a specific spot.",
       "author": "hkgnp",
@@ -459,7 +466,7 @@
       "id": "logseq-quattro-theme"
     },
     {
-      "title": "Quick Todo",
+      "title": "Quick todo",
       "description": "This simple plugin helps you to insert a TODO item on your today's journal page, without navigating to it.",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-quicktodo-plugin",
@@ -509,6 +516,7 @@
       "id": "logseq-split-block"
     },
     {
+      "title": "logseq-swapblocks-plugin",
       "name": "logseq-swapblocks-plugin",
       "description": "Simple plugin to swap a reference block with its original block and preserve it's other references.",
       "author": "hkgnp",
@@ -517,7 +525,8 @@
       "id": "logseq-swapblocks-plugin"
     },
     {
-      "name": "Table renderer",
+      "title": "logseq-tablerender-plugin",
+      "name": "logseq-tablerender-plugin",
       "description": "Render tables with basic math functions using data from your blocks",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-tablerender-plugin",
@@ -573,6 +582,7 @@
       "id": "logseq-things-theme"
     },
     {
+      "title": "logseq-toc-plugin",
       "name": "logseq-toc-plugin",
       "description": "Interactive (style-able), real-time rendering of Table of Contents.",
       "author": "hkgnp",
@@ -623,6 +633,7 @@
     },
     {
       "title": "logseq-trackhabits2-plugin",
+      "name": "logseq-trackhabits2-plugin",
       "description": "Easily track your habits by just tagging your TODO list with #habit-tracker !",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-trackhabits2-plugin",
@@ -631,6 +642,7 @@
     },
     {
       "title": "logseq-tweet-plugin",
+      "name": "logseq-tweet-plugin",
       "description": "Easily tweet from within Logseq in a quick and easy manner!",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-tweet-plugin",
@@ -665,6 +677,7 @@
     },
     {
       "title": "logseq-wordcount-plugin",
+      "name": "logseq-wordcount-plugin",
       "description": "Simple word counter that calculates the number of words across all nested blocks!",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-wordcount-plugin",
