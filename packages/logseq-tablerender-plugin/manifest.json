@@ -1,5 +1,6 @@
 {
-  "name": "Table renderer",
+  "title": "logseq-tablerender-plugin",
+  "name": "logseq-tablerender-plugin",
   "description": "Render tables with basic math functions using data from your blocks",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-tablerender-plugin",

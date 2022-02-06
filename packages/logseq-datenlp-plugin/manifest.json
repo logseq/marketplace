@@ -1,4 +1,5 @@
 {
+  "title": "logseq-datenlp-plugin",
   "name": "logseq-datenlp-plugin",
   "description": "This super simple plugin uses NLP to parse your content for dates and times so that they can be easily tracked through your yournal pages!",
   "author": "hkgnp",
