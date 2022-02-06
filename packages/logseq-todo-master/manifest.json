@@ -1,0 +1,7 @@
+{
+  "title": "TODO Master",
+  "description": "Render a progress bar to gether the overall progress of the current block or page.",
+  "author": "pengx17",
+  "icon": "./logo.png",
+  "repo": "pengx17/logseq-plugin-todo-master"
+}

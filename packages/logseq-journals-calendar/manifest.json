@@ -3,7 +3,10 @@
   "description": "A simple journals calendar plugin for Logseq.",
   "repo": "xyhp915/logseq-journals-calendar",
   "author": "xyhp915",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "sponsors": [
+    "https://opencollective.com/logseq"
+  ]
 }
 
 
