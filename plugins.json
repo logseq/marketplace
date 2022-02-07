@@ -1,5 +1,5 @@
 {
-  "datetime": 1639707210931,
+  "datetime": 1644116757870,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "All Day Theme",
+      "description": "A clean theme styled for high readability and minimal eye strain.",
+      "repo": "tobealive/logseq-allday-theme",
+      "author": "Turiiya",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-allday-theme"
     },
     {
       "title": "Logseq Anki Sync",
@@ -54,6 +63,34 @@
       "id": "logseq-bonofix-theme"
     },
     {
+      "title": "Browser",
+      "description": "A browser plugin for logseq",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-browser",
+      "icon": "icon.png",
+      "id": "logseq-browser"
+    },
+    {
+      "title": "Bullet Threading",
+      "description": "Add bullet threading to your active blocks in Logseq.",
+      "author": "pengx17",
+      "icon": "./logo.png",
+      "repo": "pengx17/logseq-plugin-bullet-threading",
+      "id": "logseq-bullet-threading"
+    },
+    {
+      "title": "Calendar Plugin",
+      "description": "Sync your logseq daily note with your google, icloud or outlook calendar",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-calendars-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "effect": true,
+      "id": "logseq-calendars-plugin"
+    },
+    {
       "title": "Char Spacing",
       "description": "Add space between Chinese and ASCII characters to make document look nicer.",
       "author": "sethyuan",
@@ -61,6 +98,24 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-charspacing"
+    },
+    {
+      "title": "logseq-chartrender-plugin",
+      "name": "logseq-chartrender-plugin",
+      "description": "Create pie, line, bar and area charts using block data. Allows changing of chart type and colours on the fly!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-chartrender-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-chartrender-plugin"
+    },
+    {
+      "title": "Chocolate 🍫",
+      "description": "A rich, yummy, delicious theme for Logseq.",
+      "author": "nmartin84",
+      "repo": "nmartin84/logseq-chocolate",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-chocolate"
     },
     {
       "title": "Comment block",
@@ -88,6 +143,16 @@
       "id": "logseq-d42ker-theme"
     },
     {
+      "title": "logseq-datenlp-plugin",
+      "name": "logseq-datenlp-plugin",
+      "description": "This super simple plugin uses NLP to parse your content for dates and times so that they can be easily tracked through your yournal pages!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-datenlp-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-datenlp-plugin"
+    },
+    {
       "title": "Dev theme",
       "description": "A theme inspired by Dev.to & Figma.",
       "author": "pengx17",
@@ -103,6 +168,15 @@
       "repo": "dale502/logseq-discord-like-dark-theme",
       "theme": true,
       "id": "logseq-dicord-like-dark-theme"
+    },
+    {
+      "title": "Doc View Exporter",
+      "description": "Show page in a more document like look and provide quick exporting.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-doc",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-doc"
     },
     {
       "title": "Dracula theme",
@@ -139,6 +213,15 @@
       "id": "logseq-focus-mode"
     },
     {
+      "title": "Gunmetal Theme",
+      "description": "Gunmetal Theme was designed for long screen times and reading comfort. It features a dark theme and a light theme.",
+      "author": "blueteafrog",
+      "repo": "blueteafrog/logseq-gunmetal-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-gunmetal-theme"
+    },
+    {
       "title": "Habit Tracker",
       "description": "Track habits on daily journal pages.",
       "author": "c6p",
@@ -163,6 +246,14 @@
       "id": "logseq-hypothesis"
     },
     {
+      "title": "Image Uploader",
+      "description": "Upload images with PicGo.",
+      "author": "jjaychen",
+      "repo": "JJAYCHEN1e/logseq-plugin-image-uploader",
+      "icon": "./icon.png",
+      "id": "logseq-image-uploader"
+    },
+    {
       "title": "Imgur Upload",
       "description": "Upload to Imgur and insert URL",
       "author": "hserranome",
@@ -171,20 +262,42 @@
       "id": "logseq-imgur-upload"
     },
     {
+      "title": "Inbox Telegram",
+      "description": "A Logseq plugin that reads Telegram chat and pull messages to daily journal.",
+      "author": "shady2k",
+      "repo": "shady2k/logseq-inbox-telegram-plugin",
+      "icon": "./icon.png",
+      "theme": false,
+      "id": "logseq-inbox-telegram-plugin"
+    },
+    {
       "title": "Journals calendar",
       "description": "A simple journals calendar plugin for Logseq.",
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
+      "sponsors": [
+        "https://opencollective.com/logseq"
+      ],
       "id": "logseq-journals-calendar"
     },
     {
       "title": "logseq-kanban-plugin",
+      "name": "logseq-kanban-plugin",
       "description": "Simple plugin to help visualise data on a Kanban Board!",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-kanban-plugin",
       "icon": "./icon.svg",
       "id": "logseq-kanban-plugin"
+    },
+    {
+      "title": "logseq-keywordfrequency-plugin",
+      "name": "logseq-keywordfrequency-plugin",
+      "description": "Keeps track of your most used keywords, just for fun!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-keywordfrequency-plugin",
+      "icon": "./icon.png",
+      "id": "logseq-keywordfrequency-plugin"
     },
     {
       "title": "Laurel theme",
@@ -204,12 +317,29 @@
       "id": "logseq-link-preview"
     },
     {
+      "title": "logseq-localassets-plugin",
+      "name": "logseq-localassets-plugin",
+      "description": "Simple plugin to easily insert local assets (e.g. images, PDFs, audio and video files) without the need to specify the path.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-localassets-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-localassets-plugin"
+    },
+    {
       "title": "Lock block",
       "description": "Lock block with your password, and only can unlock with your password.",
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock",
       "icon": "./icon.png",
       "id": "logseq-lock"
+    },
+    {
+      "title": "Add lock screen",
+      "description": "Add lock screen to Logseq for safer and fun.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-lock-screen",
+      "icon": "icon.png",
+      "id": "logseq-lock-screen"
     },
     {
       "title": "Markmap",
@@ -221,11 +351,74 @@
     },
     {
       "title": "Markdown Table Editor",
-      "description": "Markdown Table Editor(not stable)",
+      "description": "Markdown Table Editor",
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-markdown-table",
       "icon": "icon.png",
       "id": "logseq-markdown-table"
+    },
+    {
+      "title": "logseq-mergepages-plugin",
+      "name": "logseq-mergepages-plugin",
+      "description": "Simple plugin to help merge pages.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-mergepages-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-mergepages-plugin"
+    },
+    {
+      "title": "Milestone",
+      "description": "Show milestone in calendar",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-milestone",
+      "icon": "icon.png",
+      "id": "logseq-milestone"
+    },
+    {
+      "title": "Mocha Theme",
+      "description": "Mocha theme features a light and dark mode with pronounced main content section",
+      "author": "blueteafrog",
+      "repo": "blueteafrog/logseq-mocha-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-mocha-theme"
+    },
+    {
+      "title": "Nord Theme",
+      "description": "A theme for Nord.",
+      "author": "nmartin84",
+      "repo": "nmartin84/logseq-nord",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-nord"
+    },
+    {
+      "title": "logseq-osmmaps-plugin",
+      "name": "logseq-osmmaps-plugin",
+      "description": "This plugin lets you create a map and plot a marker on a specific spot.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-osmmaps-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-osmmaps-plugin"
+    },
+    {
+      "title": "Oxford Blue Theme",
+      "description": "Oxford blue theme features both a low contrast dark mode and high contrast light mode",
+      "author": "blueteafrog",
+      "repo": "blueteafrog/logseq-oxfordblue-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-oxford-blue-theme"
+    },
+    {
+      "title": "Panic theme",
+      "description": "A theme inspired by Panic mode tempalte from Bear notes app ",
+      "author": "SoKirill",
+      "repo": "sokirill/logseq-panic-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-panic-theme"
     },
     {
       "title": "Paper theme",
@@ -237,6 +430,33 @@
       "id": "logseq-paper-theme"
     },
     {
+      "title": "phonetonote logseq client",
+      "description": "fetch messages from your phonetonote feed into your logseq graph",
+      "author": "phonetonote",
+      "repo": "phonetonote/phonetonote-logseq",
+      "icon": "icon.png",
+      "id": "logseq-phonetonote"
+    },
+    {
+      "title": "Heading level shortcuts",
+      "description": "Bind shortcuts for heading level",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts",
+      "id": "logseq-plugin-heading-level-shortcuts"
+    },
+    {
+      "title": "logseq-property-visualizer",
+      "description": "Visualizing trends in page properties, requires Chart Render and Table render plugin",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-property-visualizer",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-property-visualizer"
+    },
+    {
       "title": "Quattro Theme",
       "description": "Where your attention goes, your time goes. An iA Writer inspired theme for Logseq.",
       "author": "Alexander Rink",
@@ -244,6 +464,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-quattro-theme"
+    },
+    {
+      "title": "Quick todo",
+      "description": "This simple plugin helps you to insert a TODO item on your today's journal page, without navigating to it.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-quicktodo-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-quicktodo-plugin"
     },
     {
       "title": "Random Note",
@@ -262,6 +490,17 @@
       "id": "logseq-sepia-theme"
     },
     {
+      "title": "logseq-smartblocks",
+      "description": "A port of the roam SmartBlocks extension with a dash of Notion",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-smartblocks",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-smartblocks"
+    },
+    {
       "title": "Solarized theme",
       "description": "A solarized light theme.",
       "author": "nmartin84",
@@ -277,6 +516,24 @@
       "id": "logseq-split-block"
     },
     {
+      "title": "logseq-swapblocks-plugin",
+      "name": "logseq-swapblocks-plugin",
+      "description": "Simple plugin to swap a reference block with its original block and preserve it's other references.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-swapblocks-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-swapblocks-plugin"
+    },
+    {
+      "title": "logseq-tablerender-plugin",
+      "name": "logseq-tablerender-plugin",
+      "description": "Render tables with basic math functions using data from your blocks",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-tablerender-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-tablerender-plugin"
+    },
+    {
       "title": "Tabs",
       "description": "Open pages or blocks in tabs like working in the browser",
       "author": "pengx17",
@@ -286,12 +543,61 @@
       "id": "logseq-tabs"
     },
     {
+      "title": "Tags",
+      "description": "A plugin that lets you find and search all of your #tags.",
+      "author": "Gidong Kwon",
+      "repo": "gidongkwon/logseq-plugin-tags",
+      "icon": "./tags-plugin-icon.png",
+      "id": "logseq-tags"
+    },
+    {
+      "title": "Task management shortcuts",
+      "description": "Add shortcuts for Logseq task management.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
+      "icon": "icon.png",
+      "id": "logseq-task-management-shortcuts"
+    },
+    {
+      "title": "Textbook theme",
+      "description": "Textbook theme for Logseq",
+      "author": "joeykhuang",
+      "repo": "joeykhuang/logseq-textbook-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-textbook-theme"
+    },
+    {
+      "title": "Things Theme",
+      "description": "The things you used to own, now they own you.",
+      "author": "Alexander Rink",
+      "repo": "rcvd/logseq-things-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/rcvdio",
+        "https://flattr.com/@rcvd",
+        "https://www.paypal.com/paypalme/rcvd"
+      ],
+      "id": "logseq-things-theme"
+    },
+    {
+      "title": "logseq-toc-plugin",
       "name": "logseq-toc-plugin",
       "description": "Interactive (style-able), real-time rendering of Table of Contents.",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-toc-plugin",
       "icon": "./icon.svg",
       "id": "logseq-toc-plugin"
+    },
+    {
+      "title": "TOC Generator",
+      "description": "Generate a TOC of any page anywhere to quickly access the page's content.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-tocgen",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-tocgen"
     },
     {
       "title": "TODO Master",
@@ -310,10 +616,10 @@
       "id": "logseq-todoist-plugin"
     },
     {
-      "title": "Tokyo Night theme",
+      "title": "Tokyo theme",
       "description": "Port of the Obsidian MD theme Tokyo Night.",
       "author": "nmartin84",
-      "repo": "nmartin84/logseq-tokyo-night-theme",
+      "repo": "nmartin84/logseq-tokyo-theme",
       "theme": true,
       "id": "logseq-tokyo-theme"
     },
@@ -324,6 +630,25 @@
       "repo": "tankcool/logseq-toolbox",
       "icon": "icon.png",
       "id": "logseq-toolbox"
+    },
+    {
+      "title": "logseq-trackhabits2-plugin",
+      "name": "logseq-trackhabits2-plugin",
+      "description": "Easily track your habits by just tagging your TODO list with #habit-tracker !",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-trackhabits2-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-trackhabits2-plugin"
+    },
+    {
+      "title": "logseq-tweet-plugin",
+      "name": "logseq-tweet-plugin",
+      "description": "Easily tweet from within Logseq in a quick and easy manner!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-tweet-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-tweet-plugin"
     },
     {
       "title": "Readwise plugin (unofficial)",
@@ -343,7 +668,16 @@
       "id": "logseq-unsplash"
     },
     {
+      "title": "VIM shortcuts",
+      "description": "VIM-like operation feeling.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
+      "icon": "icon.png",
+      "id": "logseq-vim-shortcuts"
+    },
+    {
       "title": "logseq-wordcount-plugin",
+      "name": "logseq-wordcount-plugin",
       "description": "Simple word counter that calculates the number of words across all nested blocks!",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-wordcount-plugin",
@@ -358,6 +692,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-woz-theme"
+    },
+    {
+      "title": "Text Wrapper",
+      "description": "Create your own wrappings with optional key bindings for selected text, a set of useful defaults is also provided.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-wrap",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-wrap"
     }
   ]
 }
