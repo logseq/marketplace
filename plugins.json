@@ -1,5 +1,5 @@
 {
-  "datetime": 1644116757870,
+  "datetime": 1644388753749,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -134,6 +134,15 @@
       "id": "logseq-copy-ref-to-journal"
     },
     {
+      "title": "Craft Theme",
+      "description": "Almost all creativity requires purposeful play. A craft theme for Logseq",
+      "author": "Alexander Rink",
+      "repo": "rcvd/logseq-craft-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-craft-theme"
+    },
+    {
       "title": "D42ker Logseq",
       "description": "A darker Logseq theme.",
       "author": "LeonWong0609",
@@ -151,6 +160,15 @@
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-datenlp-plugin"
+    },
+    {
+      "title": "Logseq DateTag Plugin",
+      "name": "Logseq DateTag Plugin",
+      "description": "A utility to append the creation date of a block as a tag. Requires block timestamps to be enabled in settings",
+      "author": "sawhney17",
+      "repo": "sawhney17/logseq-datetag-plugin",
+      "icon": "icon.png",
+      "id": "logseq-datetag-plugin"
     },
     {
       "title": "Dev theme",
