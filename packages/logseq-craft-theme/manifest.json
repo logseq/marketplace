@@ -1,0 +1,8 @@
+{
+    "title": "Craft Theme",
+    "description": "Almost all creativity requires purposeful play. A craft theme for Logseq",
+    "author": "Alexander Rink",
+    "repo": "rcvd/logseq-craft-theme",
+    "icon": "icon.png",
+    "theme": true
+  }
