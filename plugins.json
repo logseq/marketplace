@@ -1,5 +1,5 @@
 {
-  "datetime": 1644553159198,
+  "datetime": 1644765955108,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -383,6 +383,15 @@
       "repo": "hkgnp/logseq-mergepages-plugin",
       "icon": "./icon.svg",
       "id": "logseq-mergepages-plugin"
+    },
+    {
+      "title": "logseq-mermaid-plugin",
+      "name": "logseq-mermaid-plugin",
+      "description": "This simple plugin allows you to quickly insert mermaid diagrams in your notes.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-mermaid-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-mermaid-plugin"
     },
     {
       "title": "Milestone",
