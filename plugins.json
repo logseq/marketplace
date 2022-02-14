@@ -1,5 +1,5 @@
 {
-  "datetime": 1644116757870,
+  "datetime": 1644765955108,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -134,6 +134,15 @@
       "id": "logseq-copy-ref-to-journal"
     },
     {
+      "title": "Craft Theme",
+      "description": "Almost all creativity requires purposeful play. A craft theme for Logseq",
+      "author": "Alexander Rink",
+      "repo": "rcvd/logseq-craft-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-craft-theme"
+    },
+    {
       "title": "D42ker Logseq",
       "description": "A darker Logseq theme.",
       "author": "LeonWong0609",
@@ -151,6 +160,15 @@
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-datenlp-plugin"
+    },
+    {
+      "title": "Logseq DateTag Plugin",
+      "name": "Logseq DateTag Plugin",
+      "description": "A utility to append the creation date of a block as a tag. Requires block timestamps to be enabled in settings",
+      "author": "sawhney17",
+      "repo": "sawhney17/logseq-datetag-plugin",
+      "icon": "icon.png",
+      "id": "logseq-datetag-plugin"
     },
     {
       "title": "Dev theme",
@@ -367,6 +385,15 @@
       "id": "logseq-mergepages-plugin"
     },
     {
+      "title": "logseq-mermaid-plugin",
+      "name": "logseq-mermaid-plugin",
+      "description": "This simple plugin allows you to quickly insert mermaid diagrams in your notes.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-mermaid-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-mermaid-plugin"
+    },
+    {
       "title": "Milestone",
       "description": "Show milestone in calendar",
       "author": "haydenull",
@@ -480,6 +507,15 @@
       "repo": "tankcool/logseq-random-note",
       "icon": "icon.png",
       "id": "logseq-random-note"
+    },
+    {
+      "title": "logseq-recurrence-plugin",
+      "name": "logseq-recurrence-plugin",
+      "description": "This plugin allows you to quickly add recurring blocks based on your desired recurrence. It also allows you to delete inserted recurring blocks as well!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-recurrence-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-recurrence-plugin"
     },
     {
       "title": "Sepia theme",
