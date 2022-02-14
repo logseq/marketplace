@@ -4,5 +4,8 @@
   "description": "A utility to quickly change the casing of a block",
   "author": "sawhney17",
   "repo": "sawhney17/logseq-case-converter",
-  "icon": "icon.png"
+  "icon": "icon.png", 
+  "sponsors": [
+    "https://www.buymeacoffee.com/sawhney17"
+  ]
 }
