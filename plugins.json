@@ -1,5 +1,5 @@
 {
-  "datetime": 1644765955108,
+  "datetime": 1644892832042,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -91,6 +91,18 @@
       "id": "logseq-calendars-plugin"
     },
     {
+      "title": "Logseq Case Converter",
+      "name": "Logseq Case converter",
+      "description": "A utility to quickly change the casing of a block",
+      "author": "sawhney17",
+      "repo": "sawhney17/logseq-case-converter",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-case-converter"
+    },
+    {
       "title": "Char Spacing",
       "description": "Add space between Chinese and ASCII characters to make document look nicer.",
       "author": "sethyuan",
@@ -168,6 +180,9 @@
       "author": "sawhney17",
       "repo": "sawhney17/logseq-datetag-plugin",
       "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-datetag-plugin"
     },
     {
@@ -710,6 +725,14 @@
       "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
       "icon": "icon.png",
       "id": "logseq-vim-shortcuts"
+    },
+    {
+      "title": "Logseq Wide Eyed Plugin",
+      "description": "Toggles the visibility of completed/canceled to-dos.",
+      "author": "Mario T. Lanza",
+      "repo": "mlanza/logseq-wide-eyed",
+      "icon": "./wide-eyed.svg",
+      "id": "logseq-wide-eyed"
     },
     {
       "title": "logseq-wordcount-plugin",
