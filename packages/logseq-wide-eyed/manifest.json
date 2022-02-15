@@ -1,0 +1,7 @@
+{
+  "title": "Logseq Wide Eyed Plugin",
+  "description": "Toggles the visibility of completed/canceled to-dos.",
+  "author": "Mario T. Lanza",
+  "repo": "mlanza/logseq-wide-eyed",
+  "icon": "./wide-eyed.svg"
+}
