@@ -1,5 +1,5 @@
 {
-  "datetime": 1644988265426,
+  "datetime": 1645101955063,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -478,6 +478,15 @@
       "repo": "phonetonote/phonetonote-logseq",
       "icon": "icon.png",
       "id": "logseq-phonetonote"
+    },
+    {
+      "title": "Pink as Fox Theme",
+      "description": "Black and pink theme for Logseq.",
+      "author": "avoonix",
+      "repo": "avoonix/logseq-pink-as-fox-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-pink-as-fox-theme"
     },
     {
       "title": "Heading level shortcuts",
