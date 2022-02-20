@@ -1,5 +1,5 @@
 {
-  "datetime": 1645101955063,
+  "datetime": 1645326730171,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -25,6 +25,9 @@
       "author": "debanjandhar12",
       "repo": "debanjandhar12/logseq-anki-sync",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/debanjandhar12"
+      ],
       "id": "logseq-anki-sync"
     },
     {
