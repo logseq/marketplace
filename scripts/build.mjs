@@ -9,12 +9,13 @@ const GITHUB_ENDPOINT = 'https://api.github.com/'
 const PLUGINS_ALL_FILE = 'plugins.json'
 const STATS_FILE = 'stats.json'
 const ERRORS_FILE = 'errors.json'
+const delay = (ms = 1000) => new Promise((r) => setTimeout(r, ms))
 
 function httpGet (url) {
   return new Promise((resolve, reject) => {
     https.get(url, {
       headers: {
-        'User-Agent': 'request',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
       },
     }, (res) => {
       if (res.statusCode != 200) {
@@ -39,32 +40,37 @@ function httpGet (url) {
 }
 
 function getRepoReleasesStat (repo) {
-  const url = path.join(GITHUB_ENDPOINT, 'repos', repo, 'releases')
+  const url = GITHUB_ENDPOINT + path.join('repos', repo, 'releases')
   console.log('Stat Repo:', url)
   return httpGet(url)
 }
 
 function getRepoBaseInfo (repo) {
-  const url = path.join(GITHUB_ENDPOINT, 'repos', repo)
+  const url = GITHUB_ENDPOINT + path.join('repos', repo)
   console.log('Info Repo:', url)
   return httpGet(url)
 }
 
-async function cli (action) {
+async function cli (action, rest) {
   switch (action) {
     case '--stat': {
       console.log('===== Building Stats =====')
 
-      const { packages } = JSON.parse(
-        fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).toString())
+      const isFixErrors = rest?.includes('error')
+      const packages = isFixErrors ?
+        JSON.parse(fs.readFileSync(path.join(ROOT, ERRORS_FILE)).toString())
+        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).
+          toString()).packages
 
-      const outStats = {}
+      const outStats = isFixErrors ? JSON.parse(
+        fs.readFileSync(path.join(ROOT, STATS_FILE)).toString()) : {}
       const errors = []
 
       for (let pkg of packages) {
-        const { id, repo } = pkg
+        const { id, repo, _payload, _releases } = pkg
         try {
-          const base = await getRepoBaseInfo(repo)
+          const base = _payload || await getRepoBaseInfo(repo)
+          await delay(1000)
           const ref = outStats[id] = [
             'created_at',
             'updated_at',
@@ -76,7 +82,7 @@ async function cli (action) {
             return ac
           }, {})
 
-          const releases = await getRepoReleasesStat(repo)
+          const releases = _releases || await getRepoReleasesStat(repo)
           const refReleases = ref.releases = []
 
           releases?.forEach(stat => {
@@ -91,8 +97,8 @@ async function cli (action) {
             }
           })
         } catch (e) {
-          console.warn("Error Repo:", repo, " [Error] ", e.message)
-          errors.push({...pkg, error: e})
+          console.warn('Error Repo:', repo, ' [Error] ', e)
+          errors.push({ ...pkg, error: e })
         }
       }
 
@@ -141,4 +147,4 @@ async function cli (action) {
 }
 
 // entry
-cli(process.argv[2]).catch(console.error)
+cli(...process.argv.slice(2)).catch(console.error)

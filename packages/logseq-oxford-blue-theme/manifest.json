@@ -1,0 +1,8 @@
+{
+	"title": "Oxford Blue Theme",
+	"description": "Oxford blue theme features both a low contrast dark mode and high contrast light mode",
+	"author": "blueteafrog",
+	"repo": "blueteafrog/logseq-oxfordblue-theme",
+	"icon": "icon.png",
+	"theme": true
+}

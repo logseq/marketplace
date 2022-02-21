@@ -1,0 +1,7 @@
+{
+  "title": "logseq-extract-plugin",
+  "description": "The logseq-extract-plugin is used to extract bold and highlighted text from a block and all its nested blocks." ,
+  "author": "Sidharth Panwar",
+  "repo":"sidharth-panwar/logseq-extract-plugin",
+  "icon": "./icon.svg"
+}
