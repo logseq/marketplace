@@ -1,5 +1,5 @@
 {
-  "datetime": 1645326730171,
+  "datetime": 1645588758390,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -92,6 +92,15 @@
       ],
       "effect": true,
       "id": "logseq-calendars-plugin"
+    },
+    {
+      "title": "logseq-calview-plugin",
+      "name": "logseq-calview-plugin",
+      "description": "This plugin offers a calendar from within Logseq that captures your blocks with event parameters in a calendar view.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-calview-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-calview-plugin"
     },
     {
       "title": "Logseq Case Converter",
@@ -196,6 +205,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-dev-theme"
+    },
+    {
+      "title": "Diagrams as Code",
+      "description": "Create diagrams from textural representation (aka 'Diagrams as Code') within Logseq",
+      "author": "npgrosser",
+      "repo": "npgrosser/logseq-diagrams-as-code",
+      "icon": "icon.svg",
+      "id": "logseq-diagrams-as-code"
     },
     {
       "title": "Discord Like Dark Theme",
