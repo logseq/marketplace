@@ -1,7 +1,7 @@
 {
   "title": "Wide Eyed",
   "description": "Toggles the visibility of completed/canceled to-dos.",
-  "author": "mlanza",
+  "author": "Mario T. Lanza",
   "repo": "mlanza/logseq-wide-eyed",
   "icon": "./wide-eyed.svg"
 }
