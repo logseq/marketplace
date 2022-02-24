@@ -1,5 +1,5 @@
 {
-  "datetime": 1645588758390,
+  "datetime": 1645675107661,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -446,6 +446,14 @@
       "id": "logseq-mocha-theme"
     },
     {
+      "title": "Music Notation",
+      "description": "Write music in Logseq using ABC Notation",
+      "author": "benjaffe",
+      "repo": "benjaffe/logseq-music-notation",
+      "icon": "./icon.png",
+      "id": "logseq-music-notation"
+    },
+    {
       "title": "Nord Theme",
       "description": "A theme for Nord.",
       "author": "nmartin84",
@@ -594,6 +602,14 @@
       "author": "hyrijk",
       "repo": "hyrijk/logseq-plugin-split-block",
       "id": "logseq-split-block"
+    },
+    {
+      "title": "Style Carousel",
+      "description": "Toggle visibility of completed and canceled to-dos.  Buttons may be added/reconfigured for any imaginable style effects.",
+      "author": "Mario T. Lanza",
+      "repo": "mlanza/logseq-style-carousel",
+      "icon": "./carousel.png",
+      "id": "logseq-style-carousel"
     },
     {
       "title": "logseq-swapblocks-plugin",
@@ -758,7 +774,7 @@
     {
       "title": "Wide Eyed",
       "description": "Toggles the visibility of completed/canceled to-dos.",
-      "author": "mlanza",
+      "author": "Mario T. Lanza",
       "repo": "mlanza/logseq-wide-eyed",
       "icon": "./wide-eyed.svg",
       "id": "logseq-wide-eyed"
