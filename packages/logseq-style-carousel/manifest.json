@@ -1,0 +1,7 @@
+{
+  "title": "Style Carousel",
+  "description": "Toggle visibility of completed and canceled to-dos.  Buttons may be added/reconfigured for any imaginable style effects.",
+  "author": "Mario T. Lanza",
+  "repo": "mlanza/logseq-style-carousel",
+  "icon": "./carousel.png"
+}
