@@ -1,5 +1,5 @@
 {
-  "datetime": 1645675107661,
+  "datetime": 1646289885536,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -208,7 +208,7 @@
     },
     {
       "title": "Diagrams as Code",
-      "description": "Create diagrams from textural representation (aka 'Diagrams as Code') within Logseq",
+      "description": "Create diagrams from textual representation (aka 'Diagrams as Code') within Logseq",
       "author": "npgrosser",
       "repo": "npgrosser/logseq-diagrams-as-code",
       "icon": "icon.svg",
@@ -411,6 +411,14 @@
       "id": "logseq-markdown-table"
     },
     {
+      "title": "Media Timestamp",
+      "description": "This plugin can generate timestamps for video, audio and Bilibili video, it takes you to the corresponding video/audio position when clicked.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-media-ts",
+      "icon": "./icon.png",
+      "id": "logseq-media-ts"
+    },
+    {
       "title": "logseq-mergepages-plugin",
       "name": "logseq-mergepages-plugin",
       "description": "Simple plugin to help merge pages.",
@@ -452,6 +460,17 @@
       "repo": "benjaffe/logseq-music-notation",
       "icon": "./icon.png",
       "id": "logseq-music-notation"
+    },
+    {
+      "title": "My Highlights",
+      "description": "Import highlights into logseq",
+      "author": "Ben Force",
+      "repo": "theBenForce/logseq-plugin-my-highlights",
+      "icon": "icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/theBenForce"
+      ],
+      "id": "logseq-my-highlights"
     },
     {
       "title": "Nord Theme",
@@ -568,6 +587,14 @@
       "repo": "hkgnp/logseq-recurrence-plugin",
       "icon": "./icon.svg",
       "id": "logseq-recurrence-plugin"
+    },
+    {
+      "title": "Reference Styles",
+      "description": "Add emoji or custom colors to block references that match particular patterns",
+      "author": "benjaffe",
+      "repo": "benjaffe/logseq-reference-styles",
+      "icon": "./icon.png",
+      "id": "logseq-reference-styles"
     },
     {
       "title": "Sepia theme",
