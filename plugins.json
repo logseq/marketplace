@@ -1,5 +1,5 @@
 {
-  "datetime": 1646358062024,
+  "datetime": 1646371954731,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -416,6 +416,7 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-media-ts",
       "icon": "./icon.png",
+      "effect": true,
       "id": "logseq-media-ts"
     },
     {
