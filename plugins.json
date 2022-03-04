@@ -1,5 +1,5 @@
 {
-  "datetime": 1646289885536,
+  "datetime": 1646358062024,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -593,7 +593,7 @@
       "description": "Add emoji or custom colors to block references that match particular patterns",
       "author": "benjaffe",
       "repo": "benjaffe/logseq-reference-styles",
-      "icon": "./icon.png",
+      "icon": "./logo.png",
       "id": "logseq-reference-styles"
     },
     {
