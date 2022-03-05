@@ -1,5 +1,5 @@
 {
-  "datetime": 1646371954731,
+  "datetime": 1646459409929,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -518,6 +518,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-paper-theme"
+    },
+    {
+      "title": "logseq-parsecsv-plugin",
+      "name": "logseq-parsecsv-plugin",
+      "description": "Easily upload a CSV file and convert it into a table in Logseq!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-parsecsv-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-parsecsv-plugin"
     },
     {
       "title": "phonetonote logseq client",
