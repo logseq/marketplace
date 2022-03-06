@@ -1,5 +1,5 @@
 {
-  "datetime": 1646459409929,
+  "datetime": 1646545721623,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Agenda",
+      "description": "An agenda manager plugin for logseq",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-agenda",
+      "icon": "icon.png",
+      "id": "logseq-agenda"
     },
     {
       "title": "All Day Theme",
