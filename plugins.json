@@ -1,5 +1,5 @@
 {
-  "datetime": 1646545721623,
+  "datetime": 1646709059483,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -33,7 +33,9 @@
       "author": "debanjandhar12",
       "repo": "debanjandhar12/logseq-anki-sync",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/debanjandhar12"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/debanjandhar12"
+      ],
       "id": "logseq-anki-sync"
     },
     {
@@ -93,7 +95,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-calendars-plugin",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "effect": true,
       "id": "logseq-calendars-plugin"
     },
@@ -113,7 +117,9 @@
       "author": "sawhney17",
       "repo": "sawhney17/logseq-case-converter",
       "icon": "icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-case-converter"
     },
     {
@@ -194,7 +200,9 @@
       "author": "sawhney17",
       "repo": "sawhney17/logseq-datetag-plugin",
       "icon": "icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-datetag-plugin"
     },
     {
@@ -329,7 +337,9 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
-      "sponsors": ["https://opencollective.com/logseq"],
+      "sponsors": [
+        "https://opencollective.com/logseq"
+      ],
       "id": "logseq-journals-calendar"
     },
     {
@@ -466,7 +476,9 @@
       "author": "Ben Force",
       "repo": "theBenForce/logseq-plugin-my-highlights",
       "icon": "icon.svg",
-      "sponsors": ["https://www.buymeacoffee.com/theBenForce"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/theBenForce"
+      ],
       "id": "logseq-my-highlights"
     },
     {
@@ -477,6 +489,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-nord"
+    },
+    {
+      "title": "Ordered Lists",
+      "description": "Ordered lists, flat or nested, multiple formats ordered lists.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-ol",
+      "icon": "./icon.png",
+      "id": "logseq-ol"
     },
     {
       "title": "logseq-osmmaps-plugin",
@@ -555,7 +575,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-property-visualizer",
       "icon": "./logo.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-property-visualizer"
     },
     {
@@ -614,7 +636,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-smartblocks",
       "icon": "./logo.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-smartblocks"
     },
     {
@@ -791,6 +815,14 @@
       "repo": "clearlysid/logseq-unsplash",
       "icon": "icon.png",
       "id": "logseq-unsplash"
+    },
+    {
+      "title": "VIM editor",
+      "description": "VIM-like editor to edit blocks.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-vim-editor",
+      "icon": "icon.png",
+      "id": "logseq-vim-editor"
     },
     {
       "title": "VIM shortcuts",
