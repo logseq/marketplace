@@ -33,9 +33,7 @@
       "author": "debanjandhar12",
       "repo": "debanjandhar12/logseq-anki-sync",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/debanjandhar12"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/debanjandhar12"],
       "id": "logseq-anki-sync"
     },
     {
@@ -95,9 +93,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-calendars-plugin",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "effect": true,
       "id": "logseq-calendars-plugin"
     },
@@ -117,9 +113,7 @@
       "author": "sawhney17",
       "repo": "sawhney17/logseq-case-converter",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-case-converter"
     },
     {
@@ -200,9 +194,7 @@
       "author": "sawhney17",
       "repo": "sawhney17/logseq-datetag-plugin",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-datetag-plugin"
     },
     {
@@ -337,9 +329,7 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
-      "sponsors": [
-        "https://opencollective.com/logseq"
-      ],
+      "sponsors": ["https://opencollective.com/logseq"],
       "id": "logseq-journals-calendar"
     },
     {
@@ -395,7 +385,7 @@
       "id": "logseq-lock"
     },
     {
-      "title": "Add lock screen",
+      "title": "Lock screen",
       "description": "Add lock screen to Logseq for safer and fun.",
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock-screen",
@@ -476,9 +466,7 @@
       "author": "Ben Force",
       "repo": "theBenForce/logseq-plugin-my-highlights",
       "icon": "icon.svg",
-      "sponsors": [
-        "https://www.buymeacoffee.com/theBenForce"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/theBenForce"],
       "id": "logseq-my-highlights"
     },
     {
@@ -567,9 +555,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-property-visualizer",
       "icon": "./logo.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-property-visualizer"
     },
     {
@@ -628,9 +614,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-smartblocks",
       "icon": "./logo.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-smartblocks"
     },
     {
