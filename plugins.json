@@ -1,5 +1,5 @@
 {
-  "datetime": 1646709059483,
+  "datetime": 1646804920294,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -497,6 +497,14 @@
       "repo": "sethyuan/logseq-plugin-ol",
       "icon": "./icon.png",
       "id": "logseq-ol"
+    },
+    {
+      "title": "Open in External App",
+      "description": "Use external app to open logseq file",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-open-in-external-app",
+      "icon": "icon.png",
+      "id": "logseq-open-in-external-app"
     },
     {
       "title": "logseq-osmmaps-plugin",
