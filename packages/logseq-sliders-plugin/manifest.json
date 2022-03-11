@@ -1,0 +1,8 @@
+{
+  "title": "logseq-sliders-plugin",
+  "name": "logseq-sliders-plugin",
+  "description": "Simple plugin to insert a slider into your notes to use as a visualisation tool!",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-sliders-plugin",
+  "icon": "./icon.svg"
+}
