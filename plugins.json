@@ -1,5 +1,5 @@
 {
-  "datetime": 1646804920294,
+  "datetime": 1646973486582,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -637,6 +637,16 @@
       "repo": "crendl/logseq-sepia-theme",
       "theme": true,
       "id": "logseq-sepia-theme"
+    },
+    {
+      "title": "logseq-sliders-plugin",
+      "name": "logseq-sliders-plugin",
+      "description": "Simple plugin to insert a slider into your notes to use as a visualisation tool!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-sliders-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-sliders-plugin"
     },
     {
       "title": "logseq-smartblocks",
