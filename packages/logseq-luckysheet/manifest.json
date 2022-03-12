@@ -1,0 +1,7 @@
+{
+  "title": "Luckysheet",
+  "description": "Embed Luckysheet (spreadsheet) into Logseq.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-luckysheet",
+  "icon": "./icon.png"
+}
