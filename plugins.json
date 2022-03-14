@@ -1,5 +1,5 @@
 {
-  "datetime": 1646973486582,
+  "datetime": 1647245440004,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -274,6 +274,15 @@
       "id": "logseq-focus-mode"
     },
     {
+      "title": "GitHub theme",
+      "description": "😻 GitHub themes for Logseq.",
+      "author": "g1eny0ung",
+      "repo": "g1eny0ung/logseq-github-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-github-theme"
+    },
+    {
       "title": "Gunmetal Theme",
       "description": "Gunmetal Theme was designed for long screen times and reading comfort. It features a dark theme and a light theme.",
       "author": "blueteafrog",
@@ -401,6 +410,15 @@
       "repo": "vipzhicheng/logseq-plugin-lock-screen",
       "icon": "icon.png",
       "id": "logseq-lock-screen"
+    },
+    {
+      "title": "Luckysheet",
+      "description": "Embed Luckysheet (spreadsheet) into Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-luckysheet",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-luckysheet"
     },
     {
       "title": "Markmap",
