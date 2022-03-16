@@ -1,5 +1,5 @@
 {
-  "datetime": 1647245440004,
+  "datetime": 1647401047746,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -16,6 +16,7 @@
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-agenda",
       "icon": "icon.png",
+      "effect": true,
       "id": "logseq-agenda"
     },
     {
@@ -173,6 +174,17 @@
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-craft-theme"
+    },
+    {
+      "title": "logseq-custom-workflows",
+      "description": "Create custom workflows for logseq similar to `command enter` for task management",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-custom-workflow-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-custom-workflows"
     },
     {
       "title": "D42ker Logseq",
