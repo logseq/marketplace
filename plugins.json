@@ -1,5 +1,5 @@
 {
-  "datetime": 1647611985942,
+  "datetime": 1647612228977,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -948,9 +948,11 @@
       "description": "Kanban-Column view, Image Gallery, Priority Matrix, Pro-Cons, Borders, numlists",
       "author": "cannibalOx",
       "repo": "cannibalox/logtools",
-      "icon": "_DuynZ2rejh.png",
+      "icon": "icon.png",
       "theme": false,
-      "sponsors": "https://ko-fi.com/cannibaloxxx",
+      "sponsors": [
+        "https://ko-fi.com/cannibaloxxx"
+      ],
       "id": "logtools"
     }
   ]
