@@ -1,5 +1,5 @@
 {
-  "datetime": 1647401047746,
+  "datetime": 1647611985942,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -353,6 +353,14 @@
       "id": "logseq-inbox-telegram-plugin"
     },
     {
+      "title": "Interstitial Heading Plugin",
+      "description": "Insert a bold timestamp, or heading in the current line. Makes Interstitial journaling easier",
+      "author": "qwxlea",
+      "repo": "QWxleA/logseq-interstitial-heading-plugin",
+      "icon": "./icon.png",
+      "id": "logseq-interstitial-heading-plugin"
+    },
+    {
       "title": "Journals calendar",
       "description": "A simple journals calendar plugin for Logseq.",
       "repo": "xyhp915/logseq-journals-calendar",
@@ -644,6 +652,15 @@
       "id": "logseq-random-note"
     },
     {
+      "title": "logseq-recipeimporter-plugin",
+      "name": "logseq-recipeimporter-plugin",
+      "description": "A simple plugin to import recipes directly into Logseq just by using the URL of the recipe!",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-recipeimporter-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-recipeimporter-plugin"
+    },
+    {
       "title": "logseq-recurrence-plugin",
       "name": "logseq-recurrence-plugin",
       "description": "This plugin allows you to quickly add recurring blocks based on your desired recurrence. It also allows you to delete inserted recurring blocks as well!",
@@ -659,6 +676,17 @@
       "repo": "benjaffe/logseq-reference-styles",
       "icon": "./logo.png",
       "id": "logseq-reference-styles"
+    },
+    {
+      "title": "Logseq RTL Mode",
+      "description": "Support RTL mode for languages like Hebrew, Arabic, Farsi, Urdu, etc.",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-rtl-mode-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-rtl-mode-plugin"
     },
     {
       "title": "Sepia theme",
@@ -916,13 +944,14 @@
       "id": "logseq-wrap"
     },
     {
-      "title": "Interstitial Heading Plugin",
-      "description": "Insert a bold timestamp, or heading in the current line. Makes Interstitial journaling easier",
-      "author": "qwxlea",
-      "repo": "QWxleA/logseq-interstitial-heading-plugin",
-      "icon": "./icon.png",
-      "effect": true,
-      "id": "logseq-interstitial-heading-plugin"
+      "title": "LogTools - productivity pack",
+      "description": "Kanban-Column view, Image Gallery, Priority Matrix, Pro-Cons, Borders, numlists",
+      "author": "cannibalOx",
+      "repo": "cannibalox/logtools",
+      "icon": "_DuynZ2rejh.png",
+      "theme": false,
+      "sponsors": "https://ko-fi.com/cannibaloxxx",
+      "id": "logtools"
     }
   ]
 }
