@@ -1,5 +1,5 @@
 {
-  "datetime": 1647612228977,
+  "datetime": 1647667190439,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -683,6 +683,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-rtl-mode-plugin",
       "icon": "./icon.png",
+      "effect": true,
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
