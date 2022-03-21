@@ -1,5 +1,5 @@
 {
-  "datetime": 1647667190439,
+  "datetime": 1647830638736,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -275,6 +275,17 @@
       "repo": "sidharth-panwar/logseq-extract-plugin",
       "icon": "./icon.svg",
       "id": "logseq-extract-plugin"
+    },
+    {
+      "title": "Logseq Find and Replace Plugin",
+      "description": "Find and Replace across your entire database",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-find-replace",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-find-and-replace"
     },
     {
       "title": "Focus Mode",
