@@ -1,5 +1,5 @@
 {
-  "datetime": 1647830638736,
+  "datetime": 1647917065129,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -493,6 +493,15 @@
       "repo": "hkgnp/logseq-mermaid-plugin",
       "icon": "./icon.svg",
       "id": "logseq-mermaid-plugin"
+    },
+    {
+      "title": "miA theme",
+      "description": "A theme inspired by macOS and iA Writer.",
+      "author": "playerofgames",
+      "repo": "playerofgames/logseq-mia-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-mia-theme"
     },
     {
       "title": "Milestone",
