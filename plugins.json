@@ -1,5 +1,5 @@
 {
-  "datetime": 1647917065129,
+  "datetime": 1648015862510,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -115,7 +115,7 @@
       "title": "Logseq Case Converter",
       "name": "Logseq Case converter",
       "description": "A utility to quickly change the casing of a block",
-      "author": "sawhney17",
+      "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-case-converter",
       "icon": "icon.png",
       "sponsors": [
@@ -209,7 +209,7 @@
       "title": "Logseq DateTag Plugin",
       "name": "Logseq DateTag Plugin",
       "description": "A utility to append the creation date of a block as a tag. Requires block timestamps to be enabled in settings",
-      "author": "sawhney17",
+      "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-datetag-plugin",
       "icon": "icon.png",
       "sponsors": [
@@ -609,6 +609,17 @@
       "repo": "hkgnp/logseq-parsecsv-plugin",
       "icon": "./icon.svg",
       "id": "logseq-parsecsv-plugin"
+    },
+    {
+      "title": "PDF Export Plugin",
+      "description": "A plugin to export a logseq page as PDF with custom css support for export",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-pdf-export",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-pdf-export-plugin"
     },
     {
       "title": "phonetonote logseq client",
