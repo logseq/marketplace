@@ -2,7 +2,7 @@
   "title": "Logseq Case Converter",
   "name": "Logseq Case converter",
   "description": "A utility to quickly change the casing of a block",
-  "author": "sawhney17",
+  "author": "Aryan Sawhney",
   "repo": "sawhney17/logseq-case-converter",
   "icon": "icon.png", 
   "sponsors": [
