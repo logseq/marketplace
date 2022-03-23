@@ -2,7 +2,7 @@
   "title": "Logseq DateTag Plugin",
   "name": "Logseq DateTag Plugin",
   "description": "A utility to append the creation date of a block as a tag. Requires block timestamps to be enabled in settings",
-  "author": "sawhney17",
+  "author": "Aryan Sawhney",
   "repo": "sawhney17/logseq-datetag-plugin",
   "icon": "icon.png",
   "sponsors": [
