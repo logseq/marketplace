@@ -1,5 +1,5 @@
 {
-  "datetime": 1648015862510,
+  "datetime": 1648360449040,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -766,10 +766,11 @@
     },
     {
       "title": "Style Carousel",
-      "description": "Toggle visibility of completed and canceled to-dos.  Buttons may be added/reconfigured for any imaginable style effects.",
+      "description": "Add button(s) configured for stylesheet-driven effects such as toggling the visibility of completed to-dos.",
       "author": "Mario T. Lanza",
       "repo": "mlanza/logseq-style-carousel",
       "icon": "./carousel.png",
+      "effect": true,
       "id": "logseq-style-carousel"
     },
     {
