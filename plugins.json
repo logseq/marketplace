@@ -1,5 +1,5 @@
 {
-  "datetime": 1648360449040,
+  "datetime": 1648438433557,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -295,6 +295,17 @@
       "icon": "icon.png",
       "theme": false,
       "id": "logseq-focus-mode"
+    },
+    {
+      "title": "logseq-github-plugin ",
+      "description": "A utility to import and keep track of github issues",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-github-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-github-plugin"
     },
     {
       "title": "GitHub theme",
@@ -897,6 +908,17 @@
       "repo": "hkgnp/logseq-trackhabits2-plugin",
       "icon": "./icon.svg",
       "id": "logseq-trackhabits2-plugin"
+    },
+    {
+      "title": "Twitter Extractor",
+      "description": "A plugin to extract text, author dat and more from a tweet and insert it with user defined templates",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-twitter-extractor",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-tweet-extractor"
     },
     {
       "title": "logseq-tweet-plugin",
