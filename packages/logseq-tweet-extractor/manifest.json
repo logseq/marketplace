@@ -1,0 +1,10 @@
+{
+    "title": "Twitter Extractor",
+    "description": "A plugin to extract text, author dat and more from a tweet and insert it with user defined templates",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-twitter-extractor",
+    "icon": "./logo.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }
