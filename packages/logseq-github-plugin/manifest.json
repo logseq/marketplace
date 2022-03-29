@@ -6,5 +6,6 @@
     "icon": "./icon.png",
     "sponsors": [
      "https://www.buymeacoffee.com/sawhney17"
-   ]
+   ],
+   "effect": true
   }
