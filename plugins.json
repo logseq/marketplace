@@ -1,5 +1,5 @@
 {
-  "datetime": 1648438433557,
+  "datetime": 1648520615667,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -305,6 +305,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
+      "effect": true,
       "id": "logseq-github-plugin"
     },
     {
@@ -658,6 +659,17 @@
       "id": "logseq-plugin-heading-level-shortcuts"
     },
     {
+      "title": "logseq-pomodoro-timer",
+      "description": "A quick, easy to use pomodoro timer for Logseq with support for system notifications.",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-pomodoro-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-pomodoro-timer"
+    },
+    {
       "title": "logseq-property-visualizer",
       "description": "Visualizing trends in page properties, requires Chart Render and Table render plugin",
       "author": "Aryan Sawhney",
@@ -918,6 +930,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
+      "effect": true,
       "id": "logseq-tweet-extractor"
     },
     {
