@@ -1,6 +1,6 @@
 {
   "title": "Logseq Deadline Countdown",
-  "description": "Show how many days left after Deadline." ,
+  "description": "Counts how many days left until the deadline.",
   "author": "xxchan",
   "repo":"xxchan/logseq-deadline-countdown",
 }
