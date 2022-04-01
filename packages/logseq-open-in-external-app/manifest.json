@@ -1,0 +1,7 @@
+{
+  "title": "Open in External App",
+  "description": "Use external app to open logseq file" ,
+  "author": "haydenull",
+  "repo":"haydenull/logseq-plugin-open-in-external-app",
+  "icon": "icon.png"
+}

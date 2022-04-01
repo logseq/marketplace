@@ -1,0 +1,7 @@
+{
+  "title": "Diagrams as Code",
+  "description": "Create diagrams from textual representation (aka 'Diagrams as Code') within Logseq",
+  "author": "npgrosser",
+  "repo": "npgrosser/logseq-diagrams-as-code",
+  "icon": "icon.svg"
+}

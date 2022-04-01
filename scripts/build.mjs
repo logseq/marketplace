@@ -3,6 +3,7 @@
 import path from 'path'
 import fs from 'fs'
 import https from 'https'
+import HttpsProxyAgent from 'https-proxy-agent'
 
 const ROOT = path.resolve('..')
 const GITHUB_ENDPOINT = 'https://api.github.com/'
@@ -10,6 +11,10 @@ const PLUGINS_ALL_FILE = 'plugins.json'
 const STATS_FILE = 'stats.json'
 const ERRORS_FILE = 'errors.json'
 const delay = (ms = 1000) => new Promise((r) => setTimeout(r, ms))
+const proxy = process.env.https_proxy || 'http://127.0.0.1:7890'
+const agent = new HttpsProxyAgent(proxy)
+
+let proxyEnabled = false
 
 function httpGet (url) {
   return new Promise((resolve, reject) => {
@@ -17,6 +22,7 @@ function httpGet (url) {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
       },
+      agent: proxyEnabled ? agent : false
     }, (res) => {
       if (res.statusCode != 200) {
         reject(`StatusCode: ${res.statusCode}`)
@@ -56,11 +62,11 @@ async function cli (action, rest) {
     case '--stat': {
       console.log('===== Building Stats =====')
 
+      proxyEnabled = rest?.includes('--proxy')
       const isFixErrors = rest?.includes('error')
       const packages = isFixErrors ?
         JSON.parse(fs.readFileSync(path.join(ROOT, ERRORS_FILE)).toString())
-        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).
-          toString()).packages
+        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).toString()).packages
 
       const outStats = isFixErrors ? JSON.parse(
         fs.readFileSync(path.join(ROOT, STATS_FILE)).toString()) : {}

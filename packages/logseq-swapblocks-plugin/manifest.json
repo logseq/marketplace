@@ -1,4 +1,5 @@
 {
+  "title": "logseq-swapblocks-plugin",
   "name": "logseq-swapblocks-plugin",
   "description": "Simple plugin to swap a reference block with its original block and preserve it's other references.",
   "author": "hkgnp",

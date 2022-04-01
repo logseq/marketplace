@@ -1,0 +1,7 @@
+{
+    "title": "Interstitial Heading Plugin",
+    "description": "Insert a bold timestamp, or heading in the current line. Makes Interstitial journaling easier",
+    "author": "qwxlea",
+    "repo": "QWxleA/logseq-interstitial-heading-plugin",
+    "icon": "./icon.png"
+  }

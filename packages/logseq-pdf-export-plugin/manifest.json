@@ -1,0 +1,10 @@
+{
+    "title": "PDF Export Plugin",
+    "description": "A plugin to export a logseq page as PDF with custom css support for export",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-pdf-export",
+    "icon": "./logo.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }

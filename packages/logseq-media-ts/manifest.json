@@ -1,0 +1,8 @@
+{
+  "title": "Media Timestamp",
+  "description": "This plugin can generate timestamps for video, audio and Bilibili video, it takes you to the corresponding video/audio position when clicked.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-media-ts",
+  "icon": "./icon.png",
+  "effect": true
+}

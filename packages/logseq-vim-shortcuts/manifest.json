@@ -1,7 +1,7 @@
 {
   "title": "VIM shortcuts",
-  "description": "VIM-like operation feeling." ,
+  "description": "VIM-like operation feeling.",
   "author": "vipzhicheng",
-  "repo":"vipzhicheng/logseq-plugin-vim-shortcuts",
+  "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
   "icon": "icon.png"
 }

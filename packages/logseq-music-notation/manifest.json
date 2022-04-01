@@ -1,0 +1,7 @@
+{
+  "title": "Music Notation",
+  "description": "Write music in Logseq using ABC Notation" ,
+  "author": "benjaffe",
+  "repo":"benjaffe/logseq-music-notation",
+  "icon": "./icon.png"
+}
