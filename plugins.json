@@ -1,5 +1,5 @@
 {
-  "datetime": 1648972309802,
+  "datetime": 1648995893841,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -444,6 +444,7 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-localassets-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-localassets-plugin"
     },
     {
@@ -657,6 +658,14 @@
       "icon": "icon.svg",
       "theme": true,
       "id": "logseq-pink-as-fox-theme"
+    },
+    {
+      "title": "Github File Getter",
+      "description": "A plugin to get files from Github to assist with documenting code using Logseq",
+      "author": "Mark J Smith",
+      "repo": "mandpd/logseq-plugin-github-get",
+      "icon": "./icon.png",
+      "id": "logseq-plugin-github-get"
     },
     {
       "title": "Heading level shortcuts",
