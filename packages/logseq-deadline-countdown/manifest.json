@@ -3,4 +3,5 @@
   "description": "Counts how many days left until the deadline.",
   "author": "xxchan",
   "repo":"xxchan/logseq-deadline-countdown",
+  "effect": true
 }
