@@ -1,0 +1,8 @@
+{
+    "title": "logseq-recipeimporter-plugin",
+    "name": "logseq-recipeimporter-plugin",
+    "description": "A simple plugin to import recipes directly into Logseq just by using the URL of the recipe!",
+    "author": "hkgnp",
+    "repo": "hkgnp/logseq-recipeimporter-plugin",
+    "icon": "./icon.svg"
+}

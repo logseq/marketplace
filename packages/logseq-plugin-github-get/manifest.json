@@ -1,0 +1,7 @@
+{
+  "title": "Github File Getter",
+  "description": "A plugin to get files from Github to assist with documenting code using Logseq",
+  "author": "Mark J Smith",
+  "repo": "mandpd/logseq-plugin-github-get",
+  "icon": "./icon.png"
+}
