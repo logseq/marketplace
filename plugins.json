@@ -1,5 +1,5 @@
 {
-  "datetime": 1648995893841,
+  "datetime": 1649130181052,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -759,6 +759,17 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "id": "logseq-rtl-mode-plugin"
+    },
+    {
+      "title": "logseq-searchable",
+      "description": "A utility to perform OCR on images, allowing the user to search for text in the image in a normal logseq search or query",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-searchable",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-searchable-images"
     },
     {
       "title": "Sepia theme",
