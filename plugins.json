@@ -1,5 +1,5 @@
 {
-  "datetime": 1648520615667,
+  "datetime": 1649130181052,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -218,6 +218,14 @@
       "id": "logseq-datetag-plugin"
     },
     {
+      "title": "Logseq Deadline Countdown",
+      "description": "Counts how many days left until the deadline.",
+      "author": "xxchan",
+      "repo": "xxchan/logseq-deadline-countdown",
+      "effect": true,
+      "id": "logseq-deadline-countdown"
+    },
+    {
       "title": "Dev theme",
       "description": "A theme inspired by Dev.to & Figma.",
       "author": "pengx17",
@@ -376,12 +384,12 @@
       "id": "logseq-inbox-telegram-plugin"
     },
     {
-      "title": "Interstitial Heading Plugin",
-      "description": "Insert a bold timestamp, or heading in the current line. Makes Interstitial journaling easier",
-      "author": "qwxlea",
+      "title": "Logseq Interstitial Journal",
+      "description": "Interstitial Journaling plugin: create time stamps, add (random) notes and notes to self to your journal",
       "repo": "QWxleA/logseq-interstitial-heading-plugin",
-      "icon": "./icon.png",
-      "id": "logseq-interstitial-heading-plugin"
+      "author": "Alex Qwxlea",
+      "icon": "icon.png",
+      "id": "logseq-interstitial"
     },
     {
       "title": "Journals calendar",
@@ -436,6 +444,7 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-localassets-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-localassets-plugin"
     },
     {
@@ -651,6 +660,14 @@
       "id": "logseq-pink-as-fox-theme"
     },
     {
+      "title": "Github File Getter",
+      "description": "A plugin to get files from Github to assist with documenting code using Logseq",
+      "author": "Mark J Smith",
+      "repo": "mandpd/logseq-plugin-github-get",
+      "icon": "./icon.png",
+      "id": "logseq-plugin-github-get"
+    },
+    {
       "title": "Heading level shortcuts",
       "description": "Bind shortcuts for heading level",
       "author": "vipzhicheng",
@@ -742,6 +759,17 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "id": "logseq-rtl-mode-plugin"
+    },
+    {
+      "title": "logseq-searchable",
+      "description": "A utility to perform OCR on images, allowing the user to search for text in the image in a normal logseq search or query",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-searchable",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-searchable-images"
     },
     {
       "title": "Sepia theme",

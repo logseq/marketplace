@@ -1,7 +1,7 @@
 {
-  "title": "Logseq Interstial Journal",
+  "title": "Logseq Interstitial Journal",
   "description": "Interstitial Journaling plugin: create time stamps, add (random) notes and notes to self to your journal",
-  "repo": "/QWxleA/logseq-interstitial-heading-plugin",
+  "repo": "QWxleA/logseq-interstitial-heading-plugin",
   "author": "Alex Qwxlea",
   "icon": "icon.png"
 }
