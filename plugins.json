@@ -1,5 +1,5 @@
 {
-  "datetime": 1649212739471,
+  "datetime": 1649249747605,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1054,7 +1054,7 @@
     {
       "title": "Unfinished Business",
       "description": "Move (yesterdays) unfinished tasks to today",
-      "repo": "/QWxleA/Unfinished-business",
+      "repo": "QWxleA/Unfinished-business",
       "author": "Alex Qwxlea",
       "icon": "icon.png",
       "id": "unfinished-business"
