@@ -1,5 +1,5 @@
 {
-  "datetime": 1648995893841,
+  "datetime": 1649249747605,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -761,6 +761,17 @@
       "id": "logseq-rtl-mode-plugin"
     },
     {
+      "title": "logseq-searchable",
+      "description": "A utility to perform OCR on images, allowing the user to search for text in the image in a normal logseq search or query",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-searchable",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-searchable-images"
+    },
+    {
       "title": "Sepia theme",
       "description": "A Sepia Logseq Theme",
       "author": "mschmidtkorth/crendl",
@@ -1039,6 +1050,14 @@
         "https://ko-fi.com/cannibaloxxx"
       ],
       "id": "logtools"
+    },
+    {
+      "title": "Unfinished Business",
+      "description": "Move (yesterdays) unfinished tasks to today",
+      "repo": "QWxleA/Unfinished-business",
+      "author": "Alex Qwxlea",
+      "icon": "icon.png",
+      "id": "unfinished-business"
     }
   ]
 }
