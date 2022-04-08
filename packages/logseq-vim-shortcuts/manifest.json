@@ -3,5 +3,6 @@
   "description": "VIM-like operation feeling.",
   "author": "vipzhicheng",
   "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
 }
