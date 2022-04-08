@@ -1,5 +1,5 @@
 {
-  "datetime": 1649249747605,
+  "datetime": 1649387730407,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -640,6 +640,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
+      "effect": true,
       "id": "logseq-pdf-export-plugin"
     },
     {
