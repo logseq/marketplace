@@ -624,7 +624,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-pdf-export",
       "icon": "./logo.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-pdf-export-plugin"
     },
     {
