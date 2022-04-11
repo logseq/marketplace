@@ -1,5 +1,5 @@
 {
-  "datetime": 1649387730407,
+  "datetime": 1649641358466,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -34,7 +34,9 @@
       "author": "debanjandhar12",
       "repo": "debanjandhar12/logseq-anki-sync",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/debanjandhar12"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/debanjandhar12"
+      ],
       "id": "logseq-anki-sync"
     },
     {
@@ -94,7 +96,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-calendars-plugin",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "effect": true,
       "id": "logseq-calendars-plugin"
     },
@@ -114,7 +118,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-case-converter",
       "icon": "icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-case-converter"
     },
     {
@@ -150,17 +156,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-comment-block",
       "icon": "./icon.png",
-      "id": "logseq-comment-block",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
-    },
-    {
-      "title": "Move Block",
-      "description": "Help you manage block movement.",
-      "author": "vipzhicheng",
-      "repo": "vipzhicheng/logseq-plugin-move-block",
-      "icon": "./icon.png",
-      "id": "logseq-copy-move-block",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-comment-block"
     },
     {
       "title": "Craft Theme",
@@ -177,7 +176,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-custom-workflow-plugin",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-custom-workflows"
     },
     {
@@ -206,7 +207,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-datetag-plugin",
       "icon": "icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-datetag-plugin"
     },
     {
@@ -282,7 +285,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-find-replace",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-find-and-replace"
     },
     {
@@ -300,7 +305,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-github-plugin",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "effect": true,
       "id": "logseq-github-plugin"
     },
@@ -385,7 +392,9 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
-      "sponsors": ["https://opencollective.com/logseq"],
+      "sponsors": [
+        "https://opencollective.com/logseq"
+      ],
       "id": "logseq-journals-calendar"
     },
     {
@@ -439,8 +448,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock",
       "icon": "./icon.png",
-      "id": "logseq-lock",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-lock"
     },
     {
       "title": "Lock screen",
@@ -448,8 +459,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock-screen",
       "icon": "icon.png",
-      "id": "logseq-lock-screen",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-lock-screen"
     },
     {
       "title": "Luckysheet",
@@ -466,8 +479,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-mark-map",
       "icon": "./icon.png",
-      "id": "logseq-mark-map",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-mark-map"
     },
     {
       "title": "Markdown Table Editor",
@@ -531,6 +546,17 @@
       "id": "logseq-mocha-theme"
     },
     {
+      "title": "Move Block",
+      "description": "Help you manage block movement.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-move-block",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-move-block"
+    },
+    {
       "title": "Music Notation",
       "description": "Write music in Logseq using ABC Notation",
       "author": "benjaffe",
@@ -544,7 +570,9 @@
       "author": "Ben Force",
       "repo": "theBenForce/logseq-plugin-my-highlights",
       "icon": "icon.svg",
-      "sponsors": ["https://www.buymeacoffee.com/theBenForce"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/theBenForce"
+      ],
       "id": "logseq-my-highlights"
     },
     {
@@ -661,8 +689,10 @@
       "author": "vipzhicheng",
       "icon": "icon.png",
       "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts",
-      "id": "logseq-plugin-heading-level-shortcuts",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-plugin-heading-level-shortcuts"
     },
     {
       "title": "logseq-pomodoro-timer",
@@ -670,7 +700,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-pomodoro-plugin",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-pomodoro-timer"
     },
     {
@@ -679,8 +711,19 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-property-visualizer",
       "icon": "./logo.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-property-visualizer"
+    },
+    {
+      "title": "logseq-psummarise-plugin",
+      "name": "logseq-psummarise-plugin",
+      "description": "A progressive summarisation plugin that emulates the workflow found in Tiago Forte's Building a Second Brain",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-psummarise-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-psummarise-plugin"
     },
     {
       "title": "Quattro Theme",
@@ -740,7 +783,9 @@
       "repo": "sawhney17/logseq-rtl-mode-plugin",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-rtl-mode-plugin"
     },
     {
@@ -749,7 +794,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-searchable",
       "icon": "./icon.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-searchable-images"
     },
     {
@@ -776,7 +823,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-smartblocks",
       "icon": "./logo.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "id": "logseq-smartblocks"
     },
     {
@@ -844,8 +893,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
       "icon": "icon.png",
-      "id": "logseq-task-management-shortcuts",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-task-management-shortcuts"
     },
     {
       "title": "Textbook theme",
@@ -935,7 +986,9 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-twitter-extractor",
       "icon": "./logo.png",
-      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
       "effect": true,
       "id": "logseq-tweet-extractor"
     },
@@ -972,8 +1025,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-vim-editor",
       "icon": "icon.png",
-      "id": "logseq-vim-editor",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-vim-editor"
     },
     {
       "title": "VIM shortcuts",
@@ -981,8 +1036,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
       "icon": "icon.png",
-      "id": "logseq-vim-shortcuts",
-      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-vim-shortcuts"
     },
     {
       "title": "Wide Eyed",
@@ -1026,7 +1083,9 @@
       "repo": "cannibalox/logtools",
       "icon": "icon.png",
       "theme": false,
-      "sponsors": ["https://ko-fi.com/cannibaloxxx"],
+      "sponsors": [
+        "https://ko-fi.com/cannibaloxxx"
+      ],
       "id": "logtools"
     },
     {
