@@ -1,7 +1,8 @@
 {
   "title": "Markmap",
-  "description": "Mind map support based on markmap library." ,
+  "description": "Mind map support based on markmap library.",
   "author": "vipzhicheng",
-  "repo":"vipzhicheng/logseq-plugin-mark-map",
-  "icon": "./icon.png"
+  "repo": "vipzhicheng/logseq-plugin-mark-map",
+  "icon": "./icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
 }

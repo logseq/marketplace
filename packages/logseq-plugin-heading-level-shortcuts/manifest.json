@@ -3,5 +3,6 @@
   "description": "Bind shortcuts for heading level",
   "author": "vipzhicheng",
   "icon": "icon.png",
-  "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts"
+  "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
 }
