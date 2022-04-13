@@ -1,5 +1,5 @@
 {
-  "datetime": 1649641358466,
+  "datetime": 1649816982039,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,14 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Log-Stats",
+      "description": "Analyse your graph's Stats",
+      "repo": "QWxleA/log-stats",
+      "author": "Alex Qwxlea",
+      "icon": "icon.png",
+      "id": "log-stats"
     },
     {
       "title": "Agenda",
