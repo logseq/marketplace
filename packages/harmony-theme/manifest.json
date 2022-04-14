@@ -3,6 +3,6 @@
   "description": "Minimalistic custom dark and white themes keeping the classic approach of the standard Logseq theme",
   "author": "Dmytro Dubinin",
   "repo": "dmytrodubinin/Harmony-theme-for-Logseq",
-  "icon": "icon.png",
+  "icon": "./logo.png",
   "theme": true
 }

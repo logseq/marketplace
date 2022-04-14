@@ -1,5 +1,5 @@
 {
-  "datetime": 1649816982039,
+  "datetime": 1649903692078,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,15 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Harmony Theme",
+      "description": "Minimalistic custom dark and white themes keeping the classic approach of the standard Logseq theme",
+      "author": "Dmytro Dubinin",
+      "repo": "dmytrodubinin/Harmony-theme-for-Logseq",
+      "icon": "./logo.png",
+      "theme": true,
+      "id": "harmony-theme"
     },
     {
       "title": "Log-Stats",
