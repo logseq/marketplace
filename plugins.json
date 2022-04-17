@@ -1,5 +1,5 @@
 {
-  "datetime": 1649903692078,
+  "datetime": 1650186956831,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -805,6 +805,17 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "id": "logseq-rtl-mode-plugin"
+    },
+    {
+      "title": "Logseq Schrodinger",
+      "description": "An awesome Logseq plugin to export to Hugo static sites and jumpstart your digital garden 🌱!",
+      "author": "Aryan Sawhney & Alex Qwxlea",
+      "repo": "sawhney17/logseq-schrodinger",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-schrodinger"
     },
     {
       "title": "logseq-searchable",
