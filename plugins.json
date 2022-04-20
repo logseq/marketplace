@@ -1,5 +1,5 @@
 {
-  "datetime": 1650186956831,
+  "datetime": 1650432653775,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -295,6 +295,15 @@
       "repo": "sidharth-panwar/logseq-extract-plugin",
       "icon": "./icon.svg",
       "id": "logseq-extract-plugin"
+    },
+    {
+      "title": "File Manager",
+      "description": "A file manager plugin for logseq (Search unused assets file).",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-file-manager",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-file-manager"
     },
     {
       "title": "Logseq Find and Replace Plugin",
