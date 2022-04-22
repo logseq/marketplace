@@ -1,0 +1,8 @@
+{
+  "title": "NEON theme",
+  "description": "Neon inspired Theme for logseq." ,
+  "author": "solariz",
+  "repo":"solariz/logseq-neon-theme",
+  "icon": "logo.jpg",
+  "theme": true
+}
