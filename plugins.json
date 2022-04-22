@@ -1,5 +1,5 @@
 {
-  "datetime": 1650432653775,
+  "datetime": 1650628543890,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -197,6 +197,14 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "id": "logseq-custom-workflows"
+    },
+    {
+      "title": "Logseq Cuvee",
+      "description": "Export queried data to CSV",
+      "repo": "QWxleA/logseq-cuvee",
+      "author": "Alex Qwxlea",
+      "icon": "icon.png",
+      "id": "logseq-cuvee"
     },
     {
       "title": "D42ker Logseq",
@@ -601,6 +609,15 @@
         "https://www.buymeacoffee.com/theBenForce"
       ],
       "id": "logseq-my-highlights"
+    },
+    {
+      "title": "NEON theme",
+      "description": "Neon inspired Theme for logseq.",
+      "author": "solariz",
+      "repo": "solariz/logseq-neon-theme",
+      "icon": "logo.jpg",
+      "theme": true,
+      "id": "logseq-neon-theme"
     },
     {
       "title": "Nord Theme",
@@ -1113,6 +1130,15 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-wrap"
+    },
+    {
+      "title": "logseq-writegood-plugin",
+      "name": "logseq-writegood-plugin",
+      "description": "This simple plugin leverages on btford's write-good plugin to offer English prose suggestions to your writing. All suggestions are provided locally and no data is sent to any external servers.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-writegood-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-writegood-plugin"
     },
     {
       "title": "LogTools - productivity pack",
