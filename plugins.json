@@ -1,5 +1,5 @@
 {
-  "datetime": 1650628543890,
+  "datetime": 1650680838229,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -525,6 +525,15 @@
       "repo": "haydenull/logseq-plugin-markdown-table",
       "icon": "icon.png",
       "id": "logseq-markdown-table"
+    },
+    {
+      "title": "media controls",
+      "description": "Media controls to skip forward / backward or change the playback rate of a audio or video.",
+      "repo": "stefanbuck/logseq-media-controls",
+      "author": "stefanbuck",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-media-controls"
     },
     {
       "title": "Media Timestamp",
