@@ -1,5 +1,5 @@
 {
-  "datetime": 1650680838229,
+  "datetime": 1650807654093,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -378,6 +378,15 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-heatmap"
+    },
+    {
+      "title": "Helium",
+      "description": "Float videos for an improved note-taking experience",
+      "repo": "vyleung/logseq-helium-plugin",
+      "author": "vyleung",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-helium-plugin"
     },
     {
       "title": "Hypothesis",

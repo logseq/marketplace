@@ -3,5 +3,6 @@
     "description": "Float videos for an improved note-taking experience",
     "repo": "vyleung/logseq-helium-plugin",
     "author": "vyleung",
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "effect": true
   }
