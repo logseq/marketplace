@@ -1,7 +1,8 @@
 {
   "title": "Comment block",
-  "description": "An automatic block comment history." ,
+  "description": "An automatic block comment history.",
   "author": "vipzhicheng",
-  "repo":"vipzhicheng/logseq-plugin-comment-block",
-  "icon": "./icon.png"
+  "repo": "vipzhicheng/logseq-plugin-comment-block",
+  "icon": "./icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
 }

@@ -1,0 +1,9 @@
+{
+  "title": "Move Block",
+  "description": "Help you manage block movement.",
+  "author": "vipzhicheng",
+  "repo": "vipzhicheng/logseq-plugin-move-block",
+  "icon": "./icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
+  "effect": true
+}

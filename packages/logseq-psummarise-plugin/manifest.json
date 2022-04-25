@@ -1,0 +1,8 @@
+{
+  "title": "logseq-psummarise-plugin",
+  "name": "logseq-psummarise-plugin",
+  "description": "A progressive summarisation plugin that emulates the workflow found in Tiago Forte's Building a Second Brain",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-psummarise-plugin",
+  "icon": "./icon.svg"
+}
