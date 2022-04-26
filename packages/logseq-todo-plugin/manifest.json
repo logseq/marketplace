@@ -1,0 +1,7 @@
+{
+  "title": "TODO List",
+  "description": "Show your all TODO items and easy to add new items on your today's journal page",
+  "author": "ahonn",
+  "icon": "./logo.svg",
+  "repo": "ahonn/logseq-plugin-todo"
+}
