@@ -1,5 +1,5 @@
 {
-  "datetime": 1650938233434,
+  "datetime": 1650966317491,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1020,6 +1020,14 @@
       "icon": "./logo.png",
       "repo": "pengx17/logseq-plugin-todo-master",
       "id": "logseq-todo-master"
+    },
+    {
+      "title": "TODO List",
+      "description": "Show your all TODO items and easy to add new items on your today's journal page",
+      "author": "ahonn",
+      "icon": "./logo.svg",
+      "repo": "ahonn/logseq-plugin-todo",
+      "id": "logseq-todo-plugin"
     },
     {
       "title": "logseq-todoist-plugin",
