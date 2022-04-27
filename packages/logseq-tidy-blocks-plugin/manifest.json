@@ -1,0 +1,7 @@
+{
+  "title": "Tidy Blocks",
+  "description": "Remove extra whitespace and line breaks to keep blocks nice and tidy",
+  "repo": "vyleung/logseq-tidy-blocks-plugin",
+  "author": "vyleung",
+  "icon": "icon.png"
+}
