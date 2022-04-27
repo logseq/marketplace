@@ -4,6 +4,11 @@ import path from 'path'
 import fs from 'fs'
 import https from 'https'
 import HttpsProxyAgent from 'https-proxy-agent'
+import cp from 'child_process'
+import dayjs from 'dayjs'
+import dayjsRelativeTime from 'dayjs/plugin/relativeTime.js'
+
+dayjs.extend(dayjsRelativeTime)
 
 const ROOT = path.resolve('..')
 const GITHUB_ENDPOINT = 'https://api.github.com/'
@@ -22,7 +27,7 @@ function httpGet (url) {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
       },
-      agent: proxyEnabled ? agent : false
+      agent: proxyEnabled ? agent : false,
     }, (res) => {
       if (res.statusCode != 200) {
         reject(`StatusCode: ${res.statusCode}`)
@@ -45,6 +50,26 @@ function httpGet (url) {
   })
 }
 
+function dateAdded (file) {
+  const output = cp.execSync(
+    `git log --follow --format=%ad --date default ${file} | tail -1`).toString()
+  const date = new Date(output)
+
+  return date.getTime()
+}
+
+function readCurrentPackages (unique = true) {
+  const outFile = path.join(ROOT, PLUGINS_ALL_FILE)
+  let pkgs = JSON.parse(fs.readFileSync(outFile).toString()).packages
+
+  if (!unique) return pkgs
+
+  return pkgs.reduce((a, b) => {
+    a[b.id] = b
+    return a
+  }, {})
+}
+
 function getRepoReleasesStat (repo) {
   const url = GITHUB_ENDPOINT + path.join('repos', repo, 'releases')
   console.log('Stat Repo:', url)
@@ -57,16 +82,17 @@ function getRepoBaseInfo (repo) {
   return httpGet(url)
 }
 
-async function cli (action, rest) {
+async function cli (action, ...rest) {
   switch (action) {
     case '--stat': {
       console.log('===== Building Stats =====')
 
-      proxyEnabled = rest?.includes('--proxy')
-      const isFixErrors = rest?.includes('error')
+      proxyEnabled = rest?.[0].includes('--proxy')
+      const isFixErrors = rest?.[0].includes('error')
       const packages = isFixErrors ?
         JSON.parse(fs.readFileSync(path.join(ROOT, ERRORS_FILE)).toString())
-        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).toString()).packages
+        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).
+          toString()).packages
 
       const outStats = isFixErrors ? JSON.parse(
         fs.readFileSync(path.join(ROOT, STATS_FILE)).toString()) : {}
@@ -116,11 +142,54 @@ async function cli (action, rest) {
       break
     }
 
+    case '--added': {
+      const input = rest[0]
+      const shouldWrite = rest[1] === 'write'
+      let dayOffsetOrDate = Number(input)
+      let date
+
+      if (Number.isNaN(dayOffsetOrDate)) {
+        date = dayjs(input)
+        if (!date.isValid()) {
+          throw new Error(`Date not valid #${input}`)
+        }
+      } else {
+        date = dayjs().subtract(Math.abs(dayOffsetOrDate), 'day')
+      }
+
+      console.log()
+      console.log(dayjs().from(date), ' [', date.toDate().toString(), ']')
+
+      const startTime = date.toDate().getTime()
+      const pkgs = readCurrentPackages(false)
+      const output = {
+        start: date.toDate().toString(),
+        themes: [],
+        plugins: [],
+      }
+
+      pkgs.forEach((it) => {
+        if (!it.addedAt) return
+        if (it.addedAt >= startTime) {
+          output[it.theme ? 'themes' : 'plugins'].push(it)
+        }
+      })
+
+      console.log('-'.repeat(60))
+      console.log(`themes: +${output.themes.length} | plugins: +${output.plugins.length}`)
+      console.log('-'.repeat(60))
+      console.log(output)
+      break
+    }
+
     case '--build':
     default: {
       // build plugins
       console.log('===== Building Plugins =====')
       console.log('')
+
+      const outFile = path.join(ROOT, PLUGINS_ALL_FILE)
+      let oldPkgs = readCurrentPackages()
 
       const pkgsRoot = path.join(ROOT, 'packages')
       let pkgs = fs.readdirSync(pkgsRoot)
@@ -129,11 +198,15 @@ async function cli (action, rest) {
 
         if (!it?.startsWith('.')) {
           let st = fs.statSync(path.join(pkgsRoot, it))
-          let mf = path.join(pkgsRoot, it, 'manifest.json')
+          let mfp = path.join(pkgsRoot, it, 'manifest.json')
 
-          if (st.isDirectory() && fs.existsSync(mf)) {
-            mf = JSON.parse(fs.readFileSync(mf).toString())
+          if (st.isDirectory() && fs.existsSync(mfp)) {
+            const mf = JSON.parse(fs.readFileSync(mfp).toString())
             mf.id = it.toLowerCase()
+            mf.addedAt = oldPkgs[mf.id]?.addedAt
+            if (!mf.addedAt) {
+              mf.addedAt = dateAdded(mfp)
+            }
             acc.push(mf)
           }
         }
@@ -141,7 +214,6 @@ async function cli (action, rest) {
         return acc
       }, [])
 
-      const outFile = path.join(ROOT, PLUGINS_ALL_FILE)
       const outData = {
         datetime: Date.now(),
         packages: pkgs,

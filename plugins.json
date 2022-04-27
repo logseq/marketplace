@@ -1,5 +1,5 @@
 {
-  "datetime": 1650966514226,
+  "datetime": 1651028275924,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -8,7 +8,8 @@
       "repo": "santiyounger/Cobra",
       "icon": "icon.png",
       "theme": true,
-      "id": "cobra-theme"
+      "id": "cobra-theme",
+      "addedAt": 1634165328000
     },
     {
       "title": "Harmony Theme",
@@ -17,7 +18,8 @@
       "repo": "dmytrodubinin/Harmony-theme-for-Logseq",
       "icon": "./logo.png",
       "theme": true,
-      "id": "harmony-theme"
+      "id": "harmony-theme",
+      "addedAt": 1649430404000
     },
     {
       "title": "Log-Stats",
@@ -25,7 +27,8 @@
       "repo": "QWxleA/log-stats",
       "author": "Alex Qwxlea",
       "icon": "icon.png",
-      "id": "log-stats"
+      "id": "log-stats",
+      "addedAt": 1649788751000
     },
     {
       "title": "Agenda",
@@ -34,7 +37,8 @@
       "repo": "haydenull/logseq-plugin-agenda",
       "icon": "icon.png",
       "effect": true,
-      "id": "logseq-agenda"
+      "id": "logseq-agenda",
+      "addedAt": 1646486302000
     },
     {
       "title": "All Day Theme",
@@ -43,7 +47,8 @@
       "author": "Turiiya",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-allday-theme"
+      "id": "logseq-allday-theme",
+      "addedAt": 1639551976000
     },
     {
       "title": "Logseq Anki Sync",
@@ -54,7 +59,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/debanjandhar12"
       ],
-      "id": "logseq-anki-sync"
+      "id": "logseq-anki-sync",
+      "addedAt": 1639308679000
     },
     {
       "title": "Atlas Theme",
@@ -63,7 +69,8 @@
       "repo": "sethfair/logseq-atlas-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-atlas-theme"
+      "id": "logseq-atlas-theme",
+      "addedAt": 1635888951000
     },
     {
       "title": "Bear Theme",
@@ -72,7 +79,8 @@
       "repo": "rcvd/logseq-bear-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-bear-theme"
+      "id": "logseq-bear-theme",
+      "addedAt": 1637514822000
     },
     {
       "title": "Block to page",
@@ -80,7 +88,8 @@
       "author": "hyrijk",
       "icon": "icon.png",
       "repo": "hyrijk/logseq-plugin-block-to-page",
-      "id": "logseq-block-to-page"
+      "id": "logseq-block-to-page",
+      "addedAt": 1632930559000
     },
     {
       "title": "Bonofix theme",
@@ -89,7 +98,8 @@
       "author": "Sansui233",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-bonofix-theme"
+      "id": "logseq-bonofix-theme",
+      "addedAt": 1630999419000
     },
     {
       "title": "Browser",
@@ -97,7 +107,8 @@
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-browser",
       "icon": "icon.png",
-      "id": "logseq-browser"
+      "id": "logseq-browser",
+      "addedAt": 1642408210000
     },
     {
       "title": "Bullet Threading",
@@ -105,7 +116,8 @@
       "author": "pengx17",
       "icon": "./logo.png",
       "repo": "pengx17/logseq-plugin-bullet-threading",
-      "id": "logseq-bullet-threading"
+      "id": "logseq-bullet-threading",
+      "addedAt": 1640832284000
     },
     {
       "title": "Calendar Plugin",
@@ -117,7 +129,8 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "effect": true,
-      "id": "logseq-calendars-plugin"
+      "id": "logseq-calendars-plugin",
+      "addedAt": 1643369830000
     },
     {
       "title": "logseq-calview-plugin",
@@ -126,7 +139,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-calview-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-calview-plugin"
+      "id": "logseq-calview-plugin",
+      "addedAt": 1645373555000
     },
     {
       "title": "Logseq Case Converter",
@@ -138,7 +152,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-case-converter"
+      "id": "logseq-case-converter",
+      "addedAt": 1644828941000
     },
     {
       "title": "Char Spacing",
@@ -147,7 +162,8 @@
       "repo": "sethyuan/logseq-plugin-charspacing",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-charspacing"
+      "id": "logseq-charspacing",
+      "addedAt": 1639475288000
     },
     {
       "title": "logseq-chartrender-plugin",
@@ -156,7 +172,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-chartrender-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-chartrender-plugin"
+      "id": "logseq-chartrender-plugin",
+      "addedAt": 1640968345000
     },
     {
       "title": "Chocolate 🍫",
@@ -165,7 +182,8 @@
       "repo": "nmartin84/logseq-chocolate",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-chocolate"
+      "id": "logseq-chocolate",
+      "addedAt": 1643595616000
     },
     {
       "title": "Comment block",
@@ -176,7 +194,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-comment-block"
+      "id": "logseq-comment-block",
+      "addedAt": 1638514760000
     },
     {
       "title": "Craft Theme",
@@ -185,7 +204,8 @@
       "repo": "rcvd/logseq-craft-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-craft-theme"
+      "id": "logseq-craft-theme",
+      "addedAt": 1644263915000
     },
     {
       "title": "logseq-custom-workflows",
@@ -196,7 +216,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-custom-workflows"
+      "id": "logseq-custom-workflows",
+      "addedAt": 1647273285000
     },
     {
       "title": "Logseq Cuvee",
@@ -204,7 +225,8 @@
       "repo": "QWxleA/logseq-cuvee",
       "author": "Alex Qwxlea",
       "icon": "icon.png",
-      "id": "logseq-cuvee"
+      "id": "logseq-cuvee",
+      "addedAt": 1650540959000
     },
     {
       "title": "D42ker Logseq",
@@ -213,7 +235,8 @@
       "repo": "LeonWong0609/D42ker-Logseq",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-d42ker-theme"
+      "id": "logseq-d42ker-theme",
+      "addedAt": 1634056271000
     },
     {
       "title": "logseq-datenlp-plugin",
@@ -223,7 +246,8 @@
       "repo": "hkgnp/logseq-datenlp-plugin",
       "icon": "./icon.svg",
       "effect": true,
-      "id": "logseq-datenlp-plugin"
+      "id": "logseq-datenlp-plugin",
+      "addedAt": 1642436252000
     },
     {
       "title": "Logseq DateTag Plugin",
@@ -235,7 +259,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-datetag-plugin"
+      "id": "logseq-datetag-plugin",
+      "addedAt": 1644179668000
     },
     {
       "title": "Logseq Deadline Countdown",
@@ -243,7 +268,8 @@
       "author": "xxchan",
       "repo": "xxchan/logseq-deadline-countdown",
       "effect": true,
-      "id": "logseq-deadline-countdown"
+      "id": "logseq-deadline-countdown",
+      "addedAt": 1643916719000
     },
     {
       "title": "Dev theme",
@@ -252,7 +278,8 @@
       "repo": "pengx17/logseq-dev-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-dev-theme"
+      "id": "logseq-dev-theme",
+      "addedAt": 1630664401000
     },
     {
       "title": "Diagrams as Code",
@@ -260,7 +287,8 @@
       "author": "npgrosser",
       "repo": "npgrosser/logseq-diagrams-as-code",
       "icon": "icon.svg",
-      "id": "logseq-diagrams-as-code"
+      "id": "logseq-diagrams-as-code",
+      "addedAt": 1645403023000
     },
     {
       "title": "Discord Like Dark Theme",
@@ -268,7 +296,8 @@
       "author": "dale502",
       "repo": "dale502/logseq-discord-like-dark-theme",
       "theme": true,
-      "id": "logseq-dicord-like-dark-theme"
+      "id": "logseq-dicord-like-dark-theme",
+      "addedAt": 1632642488000
     },
     {
       "title": "Doc View Exporter",
@@ -277,7 +306,8 @@
       "repo": "sethyuan/logseq-plugin-doc",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-doc"
+      "id": "logseq-doc",
+      "addedAt": 1640320979000
     },
     {
       "title": "Dracula theme",
@@ -286,7 +316,8 @@
       "repo": "dracula/logseq",
       "icon": "icon.svg",
       "theme": true,
-      "id": "logseq-dracula-theme"
+      "id": "logseq-dracula-theme",
+      "addedAt": 1632324168000
     },
     {
       "title": "E-ink Theme",
@@ -294,7 +325,8 @@
       "author": "DiamondYuan",
       "repo": "DiamondYuan/logseq-eink-theme",
       "theme": true,
-      "id": "logseq-eink-theme"
+      "id": "logseq-eink-theme",
+      "addedAt": 1632400068000
     },
     {
       "title": "logseq-extract-plugin",
@@ -302,7 +334,8 @@
       "author": "Sidharth Panwar",
       "repo": "sidharth-panwar/logseq-extract-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-extract-plugin"
+      "id": "logseq-extract-plugin",
+      "addedAt": 1633371656000
     },
     {
       "title": "File Manager",
@@ -311,7 +344,8 @@
       "repo": "haydenull/logseq-plugin-file-manager",
       "icon": "icon.png",
       "effect": true,
-      "id": "logseq-file-manager"
+      "id": "logseq-file-manager",
+      "addedAt": 1650425765000
     },
     {
       "title": "Logseq Find and Replace Plugin",
@@ -322,7 +356,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-find-and-replace"
+      "id": "logseq-find-and-replace",
+      "addedAt": 1647794777000
     },
     {
       "title": "Focus Mode",
@@ -331,7 +366,8 @@
       "repo": "sethfair/logseq-focus-mode",
       "icon": "icon.png",
       "theme": false,
-      "id": "logseq-focus-mode"
+      "id": "logseq-focus-mode",
+      "addedAt": 1637215252000
     },
     {
       "title": "logseq-github-plugin ",
@@ -343,7 +379,8 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "effect": true,
-      "id": "logseq-github-plugin"
+      "id": "logseq-github-plugin",
+      "addedAt": 1648401220000
     },
     {
       "title": "GitHub theme",
@@ -352,7 +389,8 @@
       "repo": "g1eny0ung/logseq-github-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-github-theme"
+      "id": "logseq-github-theme",
+      "addedAt": 1647094007000
     },
     {
       "title": "Gunmetal Theme",
@@ -361,14 +399,16 @@
       "repo": "blueteafrog/logseq-gunmetal-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-gunmetal-theme"
+      "id": "logseq-gunmetal-theme",
+      "addedAt": 1642397285000
     },
     {
       "title": "Habit Tracker",
       "description": "Track habits on daily journal pages.",
       "author": "c6p",
       "repo": "c6p/logseq-habit-tracker",
-      "id": "logseq-habit-tracker"
+      "id": "logseq-habit-tracker",
+      "addedAt": 1631638933000
     },
     {
       "title": "Heatmap",
@@ -377,7 +417,8 @@
       "repo": "pengx17/logseq-plugin-heatmap",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-heatmap"
+      "id": "logseq-heatmap",
+      "addedAt": 1631021796000
     },
     {
       "title": "Helium",
@@ -386,7 +427,8 @@
       "author": "vyleung",
       "icon": "icon.png",
       "effect": true,
-      "id": "logseq-helium-plugin"
+      "id": "logseq-helium-plugin",
+      "addedAt": 1650781091000
     },
     {
       "title": "Hypothesis",
@@ -394,7 +436,8 @@
       "author": "c6p",
       "repo": "c6p/logseq-hypothesis",
       "icon": "./icon.svg",
-      "id": "logseq-hypothesis"
+      "id": "logseq-hypothesis",
+      "addedAt": 1631638933000
     },
     {
       "title": "Image Uploader",
@@ -402,7 +445,8 @@
       "author": "jjaychen",
       "repo": "JJAYCHEN1e/logseq-plugin-image-uploader",
       "icon": "./icon.png",
-      "id": "logseq-image-uploader"
+      "id": "logseq-image-uploader",
+      "addedAt": 1641372894000
     },
     {
       "title": "Imgur Upload",
@@ -410,7 +454,8 @@
       "author": "hserranome",
       "repo": "hserranome/logseq-imgur-upload",
       "icon": "./icon.png",
-      "id": "logseq-imgur-upload"
+      "id": "logseq-imgur-upload",
+      "addedAt": 1636488826000
     },
     {
       "title": "Inbox Telegram",
@@ -419,7 +464,8 @@
       "repo": "shady2k/logseq-inbox-telegram-plugin",
       "icon": "./icon.png",
       "theme": false,
-      "id": "logseq-inbox-telegram-plugin"
+      "id": "logseq-inbox-telegram-plugin",
+      "addedAt": 1642746924000
     },
     {
       "title": "Logseq Interstitial Journal",
@@ -427,7 +473,8 @@
       "repo": "QWxleA/logseq-interstitial-heading-plugin",
       "author": "Alex Qwxlea",
       "icon": "icon.png",
-      "id": "logseq-interstitial"
+      "id": "logseq-interstitial",
+      "addedAt": 1648940658000
     },
     {
       "title": "Journals calendar",
@@ -438,7 +485,8 @@
       "sponsors": [
         "https://opencollective.com/logseq"
       ],
-      "id": "logseq-journals-calendar"
+      "id": "logseq-journals-calendar",
+      "addedAt": 1630930098000
     },
     {
       "title": "logseq-kanban-plugin",
@@ -447,7 +495,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-kanban-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-kanban-plugin"
+      "id": "logseq-kanban-plugin",
+      "addedAt": 1639157968000
     },
     {
       "title": "logseq-keywordfrequency-plugin",
@@ -456,7 +505,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-keywordfrequency-plugin",
       "icon": "./icon.png",
-      "id": "logseq-keywordfrequency-plugin"
+      "id": "logseq-keywordfrequency-plugin",
+      "addedAt": 1641389611000
     },
     {
       "title": "Laurel theme",
@@ -465,7 +515,8 @@
       "repo": "pengx17/logseq-laurel-theme",
       "icon": "laurel.png",
       "theme": true,
-      "id": "logseq-laurel-theme"
+      "id": "logseq-laurel-theme",
+      "addedAt": 1632625009000
     },
     {
       "title": "Link Preview",
@@ -473,7 +524,8 @@
       "author": "pengx17",
       "repo": "pengx17/logseq-plugin-link-preview",
       "effect": true,
-      "id": "logseq-link-preview"
+      "id": "logseq-link-preview",
+      "addedAt": 1631021584000
     },
     {
       "title": "logseq-localassets-plugin",
@@ -483,7 +535,8 @@
       "repo": "hkgnp/logseq-localassets-plugin",
       "icon": "./icon.svg",
       "effect": true,
-      "id": "logseq-localassets-plugin"
+      "id": "logseq-localassets-plugin",
+      "addedAt": 1641044165000
     },
     {
       "title": "Lock block",
@@ -494,7 +547,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-lock"
+      "id": "logseq-lock",
+      "addedAt": 1637119562000
     },
     {
       "title": "Lock screen",
@@ -505,7 +559,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-lock-screen"
+      "id": "logseq-lock-screen",
+      "addedAt": 1637119562000
     },
     {
       "title": "Luckysheet",
@@ -514,7 +569,8 @@
       "repo": "sethyuan/logseq-plugin-luckysheet",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-luckysheet"
+      "id": "logseq-luckysheet",
+      "addedAt": 1647055256000
     },
     {
       "title": "Markmap",
@@ -525,7 +581,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-mark-map"
+      "id": "logseq-mark-map",
+      "addedAt": 1630664401000
     },
     {
       "title": "Markdown Table Editor",
@@ -533,7 +590,8 @@
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-markdown-table",
       "icon": "icon.png",
-      "id": "logseq-markdown-table"
+      "id": "logseq-markdown-table",
+      "addedAt": 1634897315000
     },
     {
       "title": "media controls",
@@ -542,7 +600,8 @@
       "author": "stefanbuck",
       "icon": "icon.png",
       "effect": true,
-      "id": "logseq-media-controls"
+      "id": "logseq-media-controls",
+      "addedAt": 1650667009000
     },
     {
       "title": "Media Timestamp",
@@ -551,7 +610,8 @@
       "repo": "sethyuan/logseq-plugin-media-ts",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-media-ts"
+      "id": "logseq-media-ts",
+      "addedAt": 1646211056000
     },
     {
       "title": "logseq-mergepages-plugin",
@@ -560,7 +620,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-mergepages-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-mergepages-plugin"
+      "id": "logseq-mergepages-plugin",
+      "addedAt": 1639916353000
     },
     {
       "title": "logseq-mermaid-plugin",
@@ -569,7 +630,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-mermaid-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-mermaid-plugin"
+      "id": "logseq-mermaid-plugin",
+      "addedAt": 1644721606000
     },
     {
       "title": "miA theme",
@@ -578,7 +640,8 @@
       "repo": "playerofgames/logseq-mia-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-mia-theme"
+      "id": "logseq-mia-theme",
+      "addedAt": 1647867427000
     },
     {
       "title": "Milestone",
@@ -586,7 +649,8 @@
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-milestone",
       "icon": "icon.png",
-      "id": "logseq-milestone"
+      "id": "logseq-milestone",
+      "addedAt": 1642408210000
     },
     {
       "title": "Mocha Theme",
@@ -595,7 +659,8 @@
       "repo": "blueteafrog/logseq-mocha-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-mocha-theme"
+      "id": "logseq-mocha-theme",
+      "addedAt": 1641074271000
     },
     {
       "title": "Move Block",
@@ -607,7 +672,8 @@
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
       "effect": true,
-      "id": "logseq-move-block"
+      "id": "logseq-move-block",
+      "addedAt": 1649388185000
     },
     {
       "title": "Music Notation",
@@ -615,7 +681,8 @@
       "author": "benjaffe",
       "repo": "benjaffe/logseq-music-notation",
       "icon": "./icon.png",
-      "id": "logseq-music-notation"
+      "id": "logseq-music-notation",
+      "addedAt": 1645477645000
     },
     {
       "title": "My Highlights",
@@ -626,7 +693,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/theBenForce"
       ],
-      "id": "logseq-my-highlights"
+      "id": "logseq-my-highlights",
+      "addedAt": 1646146688000
     },
     {
       "title": "NEON theme",
@@ -635,7 +703,8 @@
       "repo": "solariz/logseq-neon-theme",
       "icon": "logo.jpg",
       "theme": true,
-      "id": "logseq-neon-theme"
+      "id": "logseq-neon-theme",
+      "addedAt": 1650551080000
     },
     {
       "title": "Nord Theme",
@@ -644,7 +713,8 @@
       "repo": "nmartin84/logseq-nord",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-nord"
+      "id": "logseq-nord",
+      "addedAt": 1640564490000
     },
     {
       "title": "Ordered Lists",
@@ -652,7 +722,8 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-ol",
       "icon": "./icon.png",
-      "id": "logseq-ol"
+      "id": "logseq-ol",
+      "addedAt": 1646704964000
     },
     {
       "title": "Open in External App",
@@ -660,7 +731,8 @@
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-open-in-external-app",
       "icon": "icon.png",
-      "id": "logseq-open-in-external-app"
+      "id": "logseq-open-in-external-app",
+      "addedAt": 1646733202000
     },
     {
       "title": "logseq-osmmaps-plugin",
@@ -670,7 +742,8 @@
       "repo": "hkgnp/logseq-osmmaps-plugin",
       "icon": "./icon.svg",
       "effect": true,
-      "id": "logseq-osmmaps-plugin"
+      "id": "logseq-osmmaps-plugin",
+      "addedAt": 1642346622000
     },
     {
       "title": "Oxford Blue Theme",
@@ -679,7 +752,8 @@
       "repo": "blueteafrog/logseq-oxfordblue-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-oxford-blue-theme"
+      "id": "logseq-oxford-blue-theme",
+      "addedAt": 1640581599000
     },
     {
       "title": "Panic theme",
@@ -688,7 +762,8 @@
       "repo": "sokirill/logseq-panic-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-panic-theme"
+      "id": "logseq-panic-theme",
+      "addedAt": 1639823010000
     },
     {
       "title": "Paper theme",
@@ -697,7 +772,8 @@
       "repo": "wirtzdan/logseq-paper-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-paper-theme"
+      "id": "logseq-paper-theme",
+      "addedAt": 1635018588000
     },
     {
       "title": "logseq-parsecsv-plugin",
@@ -706,7 +782,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-parsecsv-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-parsecsv-plugin"
+      "id": "logseq-parsecsv-plugin",
+      "addedAt": 1646395235000
     },
     {
       "title": "PDF Export Plugin",
@@ -718,7 +795,8 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "effect": true,
-      "id": "logseq-pdf-export-plugin"
+      "id": "logseq-pdf-export-plugin",
+      "addedAt": 1648012252000
     },
     {
       "title": "phonetonote logseq client",
@@ -726,7 +804,8 @@
       "author": "phonetonote",
       "repo": "phonetonote/phonetonote-logseq",
       "icon": "icon.png",
-      "id": "logseq-phonetonote"
+      "id": "logseq-phonetonote",
+      "addedAt": 1640146580000
     },
     {
       "title": "Pink as Fox Theme",
@@ -735,7 +814,8 @@
       "repo": "avoonix/logseq-pink-as-fox-theme",
       "icon": "icon.svg",
       "theme": true,
-      "id": "logseq-pink-as-fox-theme"
+      "id": "logseq-pink-as-fox-theme",
+      "addedAt": 1645044847000
     },
     {
       "title": "Github File Getter",
@@ -743,7 +823,8 @@
       "author": "Mark J Smith",
       "repo": "mandpd/logseq-plugin-github-get",
       "icon": "./icon.png",
-      "id": "logseq-plugin-github-get"
+      "id": "logseq-plugin-github-get",
+      "addedAt": 1648951996000
     },
     {
       "title": "Heading level shortcuts",
@@ -754,7 +835,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-plugin-heading-level-shortcuts"
+      "id": "logseq-plugin-heading-level-shortcuts",
+      "addedAt": 1639976862000
     },
     {
       "title": "logseq-pomodoro-timer",
@@ -765,7 +847,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-pomodoro-timer"
+      "id": "logseq-pomodoro-timer",
+      "addedAt": 1648457268000
     },
     {
       "title": "logseq-property-visualizer",
@@ -776,7 +859,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-property-visualizer"
+      "id": "logseq-property-visualizer",
+      "addedAt": 1643142701000
     },
     {
       "title": "logseq-psummarise-plugin",
@@ -785,7 +869,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-psummarise-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-psummarise-plugin"
+      "id": "logseq-psummarise-plugin",
+      "addedAt": 1649602740000
     },
     {
       "title": "Quattro Theme",
@@ -794,7 +879,8 @@
       "repo": "rcvd/logseq-quattro-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-quattro-theme"
+      "id": "logseq-quattro-theme",
+      "addedAt": 1639596533000
     },
     {
       "title": "Quick todo",
@@ -802,7 +888,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-quicktodo-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-quicktodo-plugin"
+      "id": "logseq-quicktodo-plugin",
+      "addedAt": 1643357356000
     },
     {
       "title": "Random Note",
@@ -810,7 +897,8 @@
       "author": "tankcool",
       "repo": "tankcool/logseq-random-note",
       "icon": "icon.png",
-      "id": "logseq-random-note"
+      "id": "logseq-random-note",
+      "addedAt": 1631757107000
     },
     {
       "title": "logseq-recipeimporter-plugin",
@@ -819,7 +907,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-recipeimporter-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-recipeimporter-plugin"
+      "id": "logseq-recipeimporter-plugin",
+      "addedAt": 1647502108000
     },
     {
       "title": "logseq-recurrence-plugin",
@@ -828,7 +917,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-recurrence-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-recurrence-plugin"
+      "id": "logseq-recurrence-plugin",
+      "addedAt": 1644510627000
     },
     {
       "title": "Reference Styles",
@@ -836,7 +926,8 @@
       "author": "benjaffe",
       "repo": "benjaffe/logseq-reference-styles",
       "icon": "./logo.png",
-      "id": "logseq-reference-styles"
+      "id": "logseq-reference-styles",
+      "addedAt": 1646101578000
     },
     {
       "title": "Logseq RTL Mode",
@@ -848,7 +939,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-rtl-mode-plugin"
+      "id": "logseq-rtl-mode-plugin",
+      "addedAt": 1647434298000
     },
     {
       "title": "Logseq Schrodinger",
@@ -860,7 +952,8 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "effect": true,
-      "id": "logseq-schrodinger"
+      "id": "logseq-schrodinger",
+      "addedAt": 1650123325000
     },
     {
       "title": "logseq-searchable",
@@ -871,7 +964,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-searchable-images"
+      "id": "logseq-searchable-images",
+      "addedAt": 1649012095000
     },
     {
       "title": "Sepia theme",
@@ -879,7 +973,8 @@
       "author": "mschmidtkorth/crendl",
       "repo": "crendl/logseq-sepia-theme",
       "theme": true,
-      "id": "logseq-sepia-theme"
+      "id": "logseq-sepia-theme",
+      "addedAt": 1637059777000
     },
     {
       "title": "logseq-sliders-plugin",
@@ -889,7 +984,8 @@
       "repo": "hkgnp/logseq-sliders-plugin",
       "icon": "./icon.svg",
       "effect": true,
-      "id": "logseq-sliders-plugin"
+      "id": "logseq-sliders-plugin",
+      "addedAt": 1646970193000
     },
     {
       "title": "logseq-smartblocks",
@@ -900,7 +996,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
-      "id": "logseq-smartblocks"
+      "id": "logseq-smartblocks",
+      "addedAt": 1643142588000
     },
     {
       "title": "Solarized theme",
@@ -908,14 +1005,16 @@
       "author": "nmartin84",
       "repo": "nmartin84/logseq-solarized",
       "theme": true,
-      "id": "logseq-solarized-theme"
+      "id": "logseq-solarized-theme",
+      "addedAt": 1630664401000
     },
     {
       "title": "Split block",
       "description": "Splitting multi-line text into blocks",
       "author": "hyrijk",
       "repo": "hyrijk/logseq-plugin-split-block",
-      "id": "logseq-split-block"
+      "id": "logseq-split-block",
+      "addedAt": 1631844157000
     },
     {
       "title": "Style Carousel",
@@ -924,7 +1023,8 @@
       "repo": "mlanza/logseq-style-carousel",
       "icon": "./carousel.png",
       "effect": true,
-      "id": "logseq-style-carousel"
+      "id": "logseq-style-carousel",
+      "addedAt": 1645663055000
     },
     {
       "title": "logseq-swapblocks-plugin",
@@ -933,7 +1033,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-swapblocks-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-swapblocks-plugin"
+      "id": "logseq-swapblocks-plugin",
+      "addedAt": 1642056804000
     },
     {
       "title": "logseq-tablerender-plugin",
@@ -942,7 +1043,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-tablerender-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-tablerender-plugin"
+      "id": "logseq-tablerender-plugin",
+      "addedAt": 1640357390000
     },
     {
       "title": "Tabs",
@@ -951,7 +1053,8 @@
       "repo": "pengx17/logseq-plugin-tabs",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-tabs"
+      "id": "logseq-tabs",
+      "addedAt": 1631020312000
     },
     {
       "title": "Tags",
@@ -959,7 +1062,8 @@
       "author": "Gidong Kwon",
       "repo": "gidongkwon/logseq-plugin-tags",
       "icon": "./tags-plugin-icon.png",
-      "id": "logseq-tags"
+      "id": "logseq-tags",
+      "addedAt": 1641129133000
     },
     {
       "title": "Task management shortcuts",
@@ -970,7 +1074,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-task-management-shortcuts"
+      "id": "logseq-task-management-shortcuts",
+      "addedAt": 1642406539000
     },
     {
       "title": "Textbook theme",
@@ -979,7 +1084,8 @@
       "repo": "joeykhuang/logseq-textbook-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-textbook-theme"
+      "id": "logseq-textbook-theme",
+      "addedAt": 1640884297000
     },
     {
       "title": "Things Theme",
@@ -993,7 +1099,8 @@
         "https://flattr.com/@rcvd",
         "https://www.paypal.com/paypalme/rcvd"
       ],
-      "id": "logseq-things-theme"
+      "id": "logseq-things-theme",
+      "addedAt": 1639914842000
     },
     {
       "title": "logseq-toc-plugin",
@@ -1002,7 +1109,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-toc-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-toc-plugin"
+      "id": "logseq-toc-plugin",
+      "addedAt": 1639677393000
     },
     {
       "title": "TOC Generator",
@@ -1011,7 +1119,8 @@
       "repo": "sethyuan/logseq-plugin-tocgen",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-tocgen"
+      "id": "logseq-tocgen",
+      "addedAt": 1640087962000
     },
     {
       "title": "TODO Master",
@@ -1019,7 +1128,8 @@
       "author": "pengx17",
       "icon": "./logo.png",
       "repo": "pengx17/logseq-plugin-todo-master",
-      "id": "logseq-todo-master"
+      "id": "logseq-todo-master",
+      "addedAt": 1631021584000
     },
     {
       "title": "TODO List",
@@ -1028,7 +1138,8 @@
       "icon": "./logo.svg",
       "repo": "ahonn/logseq-plugin-todo",
       "effect": true,
-      "id": "logseq-todo-plugin"
+      "id": "logseq-todo-plugin",
+      "addedAt": 1650957186000
     },
     {
       "title": "logseq-todoist-plugin",
@@ -1036,7 +1147,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-todoist-plugin",
       "icon": "./icon.png",
-      "id": "logseq-todoist-plugin"
+      "id": "logseq-todoist-plugin",
+      "addedAt": 1635672218000
     },
     {
       "title": "Tokyo theme",
@@ -1044,7 +1156,8 @@
       "author": "nmartin84",
       "repo": "nmartin84/logseq-tokyo-theme",
       "theme": true,
-      "id": "logseq-tokyo-theme"
+      "id": "logseq-tokyo-theme",
+      "addedAt": 1631075639000
     },
     {
       "title": "Logseq Toolbox",
@@ -1052,7 +1165,8 @@
       "author": "tankcool",
       "repo": "tankcool/logseq-toolbox",
       "icon": "icon.png",
-      "id": "logseq-toolbox"
+      "id": "logseq-toolbox",
+      "addedAt": 1632558716000
     },
     {
       "title": "logseq-trackhabits2-plugin",
@@ -1061,7 +1175,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-trackhabits2-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-trackhabits2-plugin"
+      "id": "logseq-trackhabits2-plugin",
+      "addedAt": 1641544884000
     },
     {
       "title": "Twitter Extractor",
@@ -1073,7 +1188,8 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "effect": true,
-      "id": "logseq-tweet-extractor"
+      "id": "logseq-tweet-extractor",
+      "addedAt": 1648389536000
     },
     {
       "title": "logseq-tweet-plugin",
@@ -1083,7 +1199,8 @@
       "repo": "hkgnp/logseq-tweet-plugin",
       "icon": "./icon.svg",
       "effect": true,
-      "id": "logseq-tweet-plugin"
+      "id": "logseq-tweet-plugin",
+      "addedAt": 1643178114000
     },
     {
       "title": "Readwise plugin (unofficial)",
@@ -1092,7 +1209,8 @@
       "repo": "hkgnp/logseq-readwise-plugin",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-unofficial-readwise-plugin"
+      "id": "logseq-unofficial-readwise-plugin",
+      "addedAt": 1638939906000
     },
     {
       "title": "Unsplash Images",
@@ -1100,7 +1218,8 @@
       "author": "clearlysid",
       "repo": "clearlysid/logseq-unsplash",
       "icon": "icon.png",
-      "id": "logseq-unsplash"
+      "id": "logseq-unsplash",
+      "addedAt": 1636481769000
     },
     {
       "title": "VIM editor",
@@ -1111,7 +1230,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-vim-editor"
+      "id": "logseq-vim-editor",
+      "addedAt": 1646707953000
     },
     {
       "title": "VIM shortcuts",
@@ -1122,7 +1242,8 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-vim-shortcuts"
+      "id": "logseq-vim-shortcuts",
+      "addedAt": 1640577548000
     },
     {
       "title": "Wide Eyed",
@@ -1130,7 +1251,8 @@
       "author": "Mario T. Lanza",
       "repo": "mlanza/logseq-wide-eyed",
       "icon": "./wide-eyed.svg",
-      "id": "logseq-wide-eyed"
+      "id": "logseq-wide-eyed",
+      "addedAt": 1644886365000
     },
     {
       "title": "logseq-wordcount-plugin",
@@ -1139,7 +1261,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-wordcount-plugin",
       "icon": "./icon.png",
-      "id": "logseq-wordcount-plugin"
+      "id": "logseq-wordcount-plugin",
+      "addedAt": 1637780918000
     },
     {
       "title": "Woz theme",
@@ -1148,7 +1271,8 @@
       "repo": "haydenull/logseq-woz-theme",
       "icon": "icon.png",
       "theme": true,
-      "id": "logseq-woz-theme"
+      "id": "logseq-woz-theme",
+      "addedAt": 1631873788000
     },
     {
       "title": "Text Wrapper",
@@ -1157,7 +1281,8 @@
       "repo": "sethyuan/logseq-plugin-wrap",
       "icon": "./icon.png",
       "effect": true,
-      "id": "logseq-wrap"
+      "id": "logseq-wrap",
+      "addedAt": 1643100515000
     },
     {
       "title": "logseq-writegood-plugin",
@@ -1166,7 +1291,8 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-writegood-plugin",
       "icon": "./icon.svg",
-      "id": "logseq-writegood-plugin"
+      "id": "logseq-writegood-plugin",
+      "addedAt": 1650554953000
     },
     {
       "title": "LogTools - productivity pack",
@@ -1178,7 +1304,8 @@
       "sponsors": [
         "https://ko-fi.com/cannibaloxxx"
       ],
-      "id": "logtools"
+      "id": "logtools",
+      "addedAt": 1647486409000
     },
     {
       "title": "Unfinished Business",
@@ -1186,7 +1313,8 @@
       "repo": "QWxleA/Unfinished-business",
       "author": "Alex Qwxlea",
       "icon": "icon.png",
-      "id": "unfinished-business"
+      "id": "unfinished-business",
+      "addedAt": 1649196269000
     }
   ]
 }
