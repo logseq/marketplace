@@ -1,5 +1,5 @@
 {
-  "datetime": 1649249747605,
+  "datetime": 1650807654093,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -9,6 +9,23 @@
       "icon": "icon.png",
       "theme": true,
       "id": "cobra-theme"
+    },
+    {
+      "title": "Harmony Theme",
+      "description": "Minimalistic custom dark and white themes keeping the classic approach of the standard Logseq theme",
+      "author": "Dmytro Dubinin",
+      "repo": "dmytrodubinin/Harmony-theme-for-Logseq",
+      "icon": "./logo.png",
+      "theme": true,
+      "id": "harmony-theme"
+    },
+    {
+      "title": "Log-Stats",
+      "description": "Analyse your graph's Stats",
+      "repo": "QWxleA/log-stats",
+      "author": "Alex Qwxlea",
+      "icon": "icon.png",
+      "id": "log-stats"
     },
     {
       "title": "Agenda",
@@ -156,15 +173,10 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-comment-block",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-comment-block"
-    },
-    {
-      "title": "Copy ref to journal",
-      "description": "Copy any page blocks ref to today's journal page, very useful for task management case.",
-      "author": "vipzhicheng",
-      "repo": "vipzhicheng/logseq-plugin-copy-ref-to-journal",
-      "icon": "./icon.png",
-      "id": "logseq-copy-ref-to-journal"
     },
     {
       "title": "Craft Theme",
@@ -185,6 +197,14 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "id": "logseq-custom-workflows"
+    },
+    {
+      "title": "Logseq Cuvee",
+      "description": "Export queried data to CSV",
+      "repo": "QWxleA/logseq-cuvee",
+      "author": "Alex Qwxlea",
+      "icon": "icon.png",
+      "id": "logseq-cuvee"
     },
     {
       "title": "D42ker Logseq",
@@ -285,6 +305,15 @@
       "id": "logseq-extract-plugin"
     },
     {
+      "title": "File Manager",
+      "description": "A file manager plugin for logseq (Search unused assets file).",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-file-manager",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-file-manager"
+    },
+    {
       "title": "Logseq Find and Replace Plugin",
       "description": "Find and Replace across your entire database",
       "author": "Aryan Sawhney",
@@ -349,6 +378,15 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-heatmap"
+    },
+    {
+      "title": "Helium",
+      "description": "Float videos for an improved note-taking experience",
+      "repo": "vyleung/logseq-helium-plugin",
+      "author": "vyleung",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-helium-plugin"
     },
     {
       "title": "Hypothesis",
@@ -453,6 +491,9 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-lock"
     },
     {
@@ -461,6 +502,9 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock-screen",
       "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-lock-screen"
     },
     {
@@ -478,6 +522,9 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-mark-map",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-mark-map"
     },
     {
@@ -487,6 +534,15 @@
       "repo": "haydenull/logseq-plugin-markdown-table",
       "icon": "icon.png",
       "id": "logseq-markdown-table"
+    },
+    {
+      "title": "media controls",
+      "description": "Media controls to skip forward / backward or change the playback rate of a audio or video.",
+      "repo": "stefanbuck/logseq-media-controls",
+      "author": "stefanbuck",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-media-controls"
     },
     {
       "title": "Media Timestamp",
@@ -542,6 +598,18 @@
       "id": "logseq-mocha-theme"
     },
     {
+      "title": "Move Block",
+      "description": "Help you manage block movement.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-move-block",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "effect": true,
+      "id": "logseq-move-block"
+    },
+    {
       "title": "Music Notation",
       "description": "Write music in Logseq using ABC Notation",
       "author": "benjaffe",
@@ -559,6 +627,15 @@
         "https://www.buymeacoffee.com/theBenForce"
       ],
       "id": "logseq-my-highlights"
+    },
+    {
+      "title": "NEON theme",
+      "description": "Neon inspired Theme for logseq.",
+      "author": "solariz",
+      "repo": "solariz/logseq-neon-theme",
+      "icon": "logo.jpg",
+      "theme": true,
+      "id": "logseq-neon-theme"
     },
     {
       "title": "Nord Theme",
@@ -640,6 +717,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
+      "effect": true,
       "id": "logseq-pdf-export-plugin"
     },
     {
@@ -673,6 +751,9 @@
       "author": "vipzhicheng",
       "icon": "icon.png",
       "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-plugin-heading-level-shortcuts"
     },
     {
@@ -696,6 +777,15 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "id": "logseq-property-visualizer"
+    },
+    {
+      "title": "logseq-psummarise-plugin",
+      "name": "logseq-psummarise-plugin",
+      "description": "A progressive summarisation plugin that emulates the workflow found in Tiago Forte's Building a Second Brain",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-psummarise-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-psummarise-plugin"
     },
     {
       "title": "Quattro Theme",
@@ -759,6 +849,17 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "id": "logseq-rtl-mode-plugin"
+    },
+    {
+      "title": "Logseq Schrodinger",
+      "description": "An awesome Logseq plugin to export to Hugo static sites and jumpstart your digital garden 🌱!",
+      "author": "Aryan Sawhney & Alex Qwxlea",
+      "repo": "sawhney17/logseq-schrodinger",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-schrodinger"
     },
     {
       "title": "logseq-searchable",
@@ -865,6 +966,9 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
       "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-task-management-shortcuts"
     },
     {
@@ -994,6 +1098,9 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-vim-editor",
       "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-vim-editor"
     },
     {
@@ -1002,6 +1109,9 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
       "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
       "id": "logseq-vim-shortcuts"
     },
     {
@@ -1038,6 +1148,15 @@
       "icon": "./icon.png",
       "effect": true,
       "id": "logseq-wrap"
+    },
+    {
+      "title": "logseq-writegood-plugin",
+      "name": "logseq-writegood-plugin",
+      "description": "This simple plugin leverages on btford's write-good plugin to offer English prose suggestions to your writing. All suggestions are provided locally and no data is sent to any external servers.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-writegood-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-writegood-plugin"
     },
     {
       "title": "LogTools - productivity pack",

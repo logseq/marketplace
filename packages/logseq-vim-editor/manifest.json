@@ -3,5 +3,6 @@
   "description": "VIM-like editor to edit blocks.",
   "author": "vipzhicheng",
   "repo": "vipzhicheng/logseq-plugin-vim-editor",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
 }

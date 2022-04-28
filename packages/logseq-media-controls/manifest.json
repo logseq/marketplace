@@ -1,0 +1,8 @@
+{
+  "title": "media controls",
+  "description": "Media controls to skip forward / backward or change the playback rate of a audio or video.",
+  "repo": "stefanbuck/logseq-media-controls",
+  "author": "stefanbuck",
+  "icon": "icon.png",
+  "effect": true
+}
