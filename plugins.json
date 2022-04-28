@@ -1,5 +1,5 @@
 {
-  "datetime": 1651028275924,
+  "datetime": 1651110111856,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -772,6 +772,9 @@
       "repo": "wirtzdan/logseq-paper-theme",
       "icon": "icon.png",
       "theme": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/wirtzdan"
+      ],
       "id": "logseq-paper-theme",
       "addedAt": 1635018588000
     },
@@ -1101,6 +1104,15 @@
       ],
       "id": "logseq-things-theme",
       "addedAt": 1639914842000
+    },
+    {
+      "title": "Tidy Blocks",
+      "description": "Remove extra whitespace and line breaks to keep blocks nice and tidy",
+      "repo": "vyleung/logseq-tidy-blocks-plugin",
+      "author": "vyleung",
+      "icon": "icon.png",
+      "id": "logseq-tidy-blocks-plugin",
+      "addedAt": 1651081732000
     },
     {
       "title": "logseq-toc-plugin",
