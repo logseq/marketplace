@@ -1,7 +1,8 @@
 {
-    "title": "Open Logseq Files in VS Code",
-    "description": "Open and edit Logseq pages and config files in VS Code" ,
-    "author": "rebornix",
-    "repo":"rebornix/logseq-open-in-code",
-    "icon": "icon.png"
-  }
+  "title": "Open Logseq Files in VS Code",
+  "description": "Open and edit Logseq pages and config files in VS Code",
+  "author": "rebornix",
+  "repo": "rebornix/logseq-open-in-code",
+  "icon": "icon.png",
+  "effect": true
+}

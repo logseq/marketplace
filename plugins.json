@@ -1,5 +1,5 @@
 {
-  "datetime": 1651110111856,
+  "datetime": 1651196890482,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -726,6 +726,16 @@
       "addedAt": 1646704964000
     },
     {
+      "title": "Open Logseq Files in VS Code",
+      "description": "Open and edit Logseq pages and config files in VS Code",
+      "author": "rebornix",
+      "repo": "rebornix/logseq-open-in-code",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-open-in-code",
+      "addedAt": 1651170839000
+    },
+    {
       "title": "Open in External App",
       "description": "Use external app to open logseq file",
       "author": "haydenull",
@@ -1133,6 +1143,19 @@
       "effect": true,
       "id": "logseq-tocgen",
       "addedAt": 1640087962000
+    },
+    {
+      "title": "TODO Exploder",
+      "description": "A quick plugin to add a hint of a dopamine rush while marking tasks as done! (Thanks to confetti!)",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-todo-exploder",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-todo-exploder",
+      "addedAt": 1651182089000
     },
     {
       "title": "TODO Master",
