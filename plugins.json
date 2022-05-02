@@ -1,5 +1,5 @@
 {
-  "datetime": 1651196890482,
+  "datetime": 1651479731792,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -862,6 +862,17 @@
       ],
       "id": "logseq-pomodoro-timer",
       "addedAt": 1648457268000
+    },
+    {
+      "title": "logseq-power-plugin",
+      "name": "logseq-power-plugin",
+      "description": "Nonsense plugin to activate `power mode` in Logseq. Keep typing if not the combo chain breaks. But if you don't stop to think, you will be rewarded by the Norse God, Thor.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-power-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-power-plugin",
+      "addedAt": 1651466320000
     },
     {
       "title": "logseq-property-visualizer",
