@@ -1,0 +1,8 @@
+{
+  "title": "logseq-power-plugin",
+  "name": "logseq-power-plugin",
+  "description": "Nonsense plugin to activate `power mode` in Logseq. Keep typing if not the combo chain breaks. But if you don't stop to think, you will be rewarded by the Norse God, Thor.",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-power-plugin",
+  "icon": "./icon.svg"
+}
