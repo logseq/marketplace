@@ -1,0 +1,8 @@
+{
+  "title": "Quick References",
+  "description": "Mention most important references easily" ,
+  "author": "cali (renato caliari)",
+  "repo":"renatocaliari/logseq-plugin-quick-references",
+  "icon": "icon.png",
+  "theme": false
+}
