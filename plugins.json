@@ -1,5 +1,5 @@
 {
-  "datetime": 1651558704081,
+  "datetime": 1651584141424,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -863,6 +863,16 @@
       ],
       "id": "logseq-plugin-heading-level-shortcuts",
       "addedAt": 1639976862000
+    },
+    {
+      "title": "Quick References",
+      "description": "Mention your most important references easily",
+      "author": "cali (renato caliari)",
+      "repo": "renatocaliari/logseq-plugin-quick-references",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-plugin-quick-references",
+      "addedAt": 1651513878000
     },
     {
       "title": "logseq-pomodoro-timer",
