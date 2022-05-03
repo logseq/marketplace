@@ -1,5 +1,5 @@
 {
-  "datetime": 1651479731792,
+  "datetime": 1651558704081,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -336,6 +336,19 @@
       "icon": "./icon.svg",
       "id": "logseq-extract-plugin",
       "addedAt": 1633371656000
+    },
+    {
+      "title": "Fenced code plus",
+      "description": "A Logseq plugin for missing types of fenced code.",
+      "repo": "xyhp915/logseq-fenced-code-plus",
+      "author": "xyhp915",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://opencollective.com/logseq"
+      ],
+      "id": "logseq-fenced-code-plus",
+      "addedAt": 1651558701000
     },
     {
       "title": "File Manager",
