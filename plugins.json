@@ -1,5 +1,5 @@
 {
-  "datetime": 1651479731792,
+  "datetime": 1651584141424,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -336,6 +336,19 @@
       "icon": "./icon.svg",
       "id": "logseq-extract-plugin",
       "addedAt": 1633371656000
+    },
+    {
+      "title": "Fenced code plus",
+      "description": "A Logseq plugin for missing types of fenced code.",
+      "repo": "xyhp915/logseq-fenced-code-plus",
+      "author": "xyhp915",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://opencollective.com/logseq"
+      ],
+      "id": "logseq-fenced-code-plus",
+      "addedAt": 1651558701000
     },
     {
       "title": "File Manager",
@@ -850,6 +863,16 @@
       ],
       "id": "logseq-plugin-heading-level-shortcuts",
       "addedAt": 1639976862000
+    },
+    {
+      "title": "Quick References",
+      "description": "Mention your most important references easily",
+      "author": "cali (renato caliari)",
+      "repo": "renatocaliari/logseq-plugin-quick-references",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-plugin-quick-references",
+      "addedAt": 1651513878000
     },
     {
       "title": "logseq-pomodoro-timer",

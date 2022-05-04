@@ -1,0 +1,13 @@
+{
+  "title": "Fenced code plus",
+  "description": "A Logseq plugin for missing types of fenced code.",
+  "repo": "xyhp915/logseq-fenced-code-plus",
+  "author": "xyhp915",
+  "icon": "icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://opencollective.com/logseq"
+  ]
+}
+
+
