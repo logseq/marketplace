@@ -1,5 +1,5 @@
 {
-  "datetime": 1651584141424,
+  "datetime": 1651730972173,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -71,6 +71,18 @@
       "theme": true,
       "id": "logseq-atlas-theme",
       "addedAt": 1635888951000
+    },
+    {
+      "title": "Automatic Linker",
+      "description": "A plugin to automatically link to existing pages while typing or parse a block for potential links",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-automatic-linker",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-automatic-linker",
+      "addedAt": 1651697819000
     },
     {
       "title": "Bear Theme",
@@ -381,6 +393,16 @@
       "theme": false,
       "id": "logseq-focus-mode",
       "addedAt": 1637215252000
+    },
+    {
+      "title": "Git",
+      "description": "A git plugin for logseq",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-git",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-git",
+      "addedAt": 1651710549000
     },
     {
       "title": "logseq-github-plugin ",
@@ -756,6 +778,15 @@
       "icon": "icon.png",
       "id": "logseq-open-in-external-app",
       "addedAt": 1646733202000
+    },
+    {
+      "title": "logseq opml drummer",
+      "description": "blog straight from logseq with Drummer and OPML",
+      "author": "phonetonote",
+      "repo": "phonetonote/tft-interop",
+      "icon": "icon.png",
+      "id": "logseq-opml-drummer",
+      "addedAt": 1651538289000
     },
     {
       "title": "logseq-osmmaps-plugin",
@@ -1313,6 +1344,16 @@
       ],
       "id": "logseq-vim-shortcuts",
       "addedAt": 1640577548000
+    },
+    {
+      "title": "Get webpage title",
+      "description": "A neat little tool to fetch the title of a link and wrap it in markdown syntax.",
+      "author": "Paul Kinlan",
+      "repo": "paulkinlan/logseq-webpage-title",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-webpage-title",
+      "addedAt": 1651657777000
     },
     {
       "title": "Wide Eyed",

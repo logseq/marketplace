@@ -2,7 +2,7 @@
     "title": "Automatic Linker",
     "description": "A plugin to automatically link to existing pages while typing or parse a block for potential links",
     "author": "Aryan Sawhney",
-    "repo": "sawhney17/logseq-automatic-linker/",
+    "repo": "sawhney17/logseq-automatic-linker",
     "icon": "./logo.png",
     "sponsors": [
      "https://www.buymeacoffee.com/sawhney17"
