@@ -1,0 +1,8 @@
+{
+    "title": "Get webpage title",
+    "description": "A neat little tool to fetch the title of a link and wrap it in markdown syntax.",
+    "author": "Paul Kinlan",
+    "repo": "paulkinlan/logseq-webpage-title",
+    "icon": "./icon.png"
+  }
+  
