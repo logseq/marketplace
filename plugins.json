@@ -1,5 +1,5 @@
 {
-  "datetime": 1651730972173,
+  "datetime": 1651912162075,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -854,6 +854,16 @@
       "effect": true,
       "id": "logseq-pdf-export-plugin",
       "addedAt": 1648012252000
+    },
+    {
+      "title": "Pdf Print",
+      "description": "Print page to pdf.",
+      "author": "superychen",
+      "repo": "supery-chen/logseq-plugin-pdf-print",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-pdf-print",
+      "addedAt": 1651909596000
     },
     {
       "title": "phonetonote logseq client",
