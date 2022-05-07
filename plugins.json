@@ -1,5 +1,5 @@
 {
-  "datetime": 1651912162075,
+  "datetime": 1651935161848,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -383,6 +383,15 @@
       ],
       "id": "logseq-find-and-replace",
       "addedAt": 1647794777000
+    },
+    {
+      "title": "flomo async",
+      "description": "Sync flomo to logseq",
+      "author": "Seyee and StanleyWind",
+      "repo": "SeyeeL/logseq-flomo-plugin",
+      "icon": "icon.png",
+      "id": "logseq-flomo-plugin",
+      "addedAt": 1651841150000
     },
     {
       "title": "Focus Mode",
