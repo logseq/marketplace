@@ -1,0 +1,8 @@
+{
+  "title": "Pdf Print",
+  "description": "Print page to pdf.",
+  "author": "superychen",
+  "repo": "supery-chen/logseq-plugin-pdf-print",
+  "icon": "./icon.png",
+  "effect": true
+}
