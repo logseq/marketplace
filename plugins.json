@@ -1,5 +1,5 @@
 {
-  "datetime": 1651935161848,
+  "datetime": 1651974218080,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -385,7 +385,7 @@
       "addedAt": 1647794777000
     },
     {
-      "title": "flomo async",
+      "title": "flomo sync",
       "description": "Sync flomo to logseq",
       "author": "Seyee and StanleyWind",
       "repo": "SeyeeL/logseq-flomo-plugin",
