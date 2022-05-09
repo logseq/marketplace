@@ -1,5 +1,5 @@
 {
-  "datetime": 1651974218080,
+  "datetime": 1652074942843,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -850,6 +850,16 @@
       "icon": "./icon.svg",
       "id": "logseq-parsecsv-plugin",
       "addedAt": 1646395235000
+    },
+    {
+      "title": "Paste More",
+      "description": "Formatted paste like word",
+      "author": "usoon",
+      "repo": "usoonees/logseq-plugin-paste-more",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-paste-more",
+      "addedAt": 1651943131000
     },
     {
       "title": "PDF Export Plugin",
