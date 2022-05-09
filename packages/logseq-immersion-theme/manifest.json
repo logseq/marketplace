@@ -1,0 +1,8 @@
+{
+  "title": "Immersion theme",
+  "description": "A clean theme for immersion into Logseq",
+  "author": "Denys Korolkov",
+  "repo": "denyskorolkov/logseq-immersion-theme",
+  "icon": "icon.png",
+  "theme": true
+}
