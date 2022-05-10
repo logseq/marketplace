@@ -1,5 +1,5 @@
 {
-  "datetime": 1652074942843,
+  "datetime": 1652151596529,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -208,6 +208,15 @@
       ],
       "id": "logseq-comment-block",
       "addedAt": 1638514760000
+    },
+    {
+      "title": "Copy Code",
+      "description": "Copy code from code blocks to your clipboard",
+      "repo": "vyleung/logseq-copy-code-plugin",
+      "author": "vyleung",
+      "icon": "icon.png",
+      "id": "logseq-copy-code-plugin",
+      "addedAt": 1652029079000
     },
     {
       "title": "Craft Theme",
@@ -500,6 +509,16 @@
       "icon": "./icon.png",
       "id": "logseq-imgur-upload",
       "addedAt": 1636488826000
+    },
+    {
+      "title": "Immersion theme",
+      "description": "A clean theme for immersion into Logseq",
+      "author": "Denys Korolkov",
+      "repo": "denyskorolkov/logseq-immersion-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-immersion-theme",
+      "addedAt": 1652112699000
     },
     {
       "title": "Inbox Telegram",
