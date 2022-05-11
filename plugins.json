@@ -1,5 +1,5 @@
 {
-  "datetime": 1652151596529,
+  "datetime": 1652250033148,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1124,6 +1124,16 @@
       ],
       "id": "logseq-smartblocks",
       "addedAt": 1643142588000
+    },
+    {
+      "title": "Solarized Extended theme",
+      "description": "Light sepia-solarized Logseq theme with extra stuff",
+      "author": "yoyurec",
+      "repo": "yoyurec/logseq-solarized-extended-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-solarized-extended-theme",
+      "addedAt": 1652248336000
     },
     {
       "title": "Solarized theme",
