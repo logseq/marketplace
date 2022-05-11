@@ -1,8 +1,0 @@
-{
-  "title": "Highlights Extractor",
-  "description": "Create a block containing all your highlighted texts in your blocks or copy them to clipboard" ,
-  "author": "cali (renato caliari)",
-  "repo":"renatocaliari/logseq-plugin-highlights-extractor",
-  "icon": "icon.png",
-  "theme": false
-}
