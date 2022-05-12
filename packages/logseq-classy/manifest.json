@@ -1,0 +1,8 @@
+{
+  "title": "Classy",
+  "description": "Facilitates otherwise impossible custom stylesheets by applying classes to blocks identified in custom queries.",
+  "author": "Mario T. Lanza",
+  "repo": "mlanza/logseq-classy",
+  "icon": "./classy.svg",
+  "effect": true
+}
