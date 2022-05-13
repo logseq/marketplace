@@ -1,5 +1,5 @@
 {
-  "datetime": 1652250033148,
+  "datetime": 1652405458825,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -196,6 +196,16 @@
       "theme": true,
       "id": "logseq-chocolate",
       "addedAt": 1643595616000
+    },
+    {
+      "title": "Classy",
+      "description": "Facilitates otherwise impossible custom stylesheets by applying classes to blocks identified in custom queries.",
+      "author": "Mario T. Lanza",
+      "repo": "mlanza/logseq-classy",
+      "icon": "./classy.svg",
+      "effect": true,
+      "id": "logseq-classy",
+      "addedAt": 1652358745000
     },
     {
       "title": "Comment block",
@@ -942,6 +952,16 @@
       ],
       "id": "logseq-plugin-heading-level-shortcuts",
       "addedAt": 1639976862000
+    },
+    {
+      "title": "Highlights Extractor",
+      "description": "Create a block containing all your highlighted texts in your blocks or copy them to clipboard",
+      "author": "cali (renato caliari)",
+      "repo": "renatocaliari/logseq-plugin-highlights-extractor",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-plugin-highlights-extractor",
+      "addedAt": 1652300645000
     },
     {
       "title": "Quick References",
