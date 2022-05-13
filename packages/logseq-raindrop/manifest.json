@@ -1,0 +1,7 @@
+{
+  "title": "Raindrop",
+  "description": "Save URLs to Raindrop." ,
+  "author": "phildenhoff",
+  "repo":"phildenhoff/logseq-raindrop",
+  "icon": "./raindrop.svg"
+}
