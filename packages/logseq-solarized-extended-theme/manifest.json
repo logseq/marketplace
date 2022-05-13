@@ -4,5 +4,9 @@
   "author": "yoyurec",
   "repo": "yoyurec/logseq-solarized-extended-theme",
   "icon": "icon.png",
+  "sponsors": [
+    "https://ko-fi.com/yoyurec"
+  ],
+  "effect": true,
   "theme": true
 }
