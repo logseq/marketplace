@@ -1,0 +1,8 @@
+{
+  "title": "logseq-plantuml-plugin",
+  "name": "logseq-plantuml-plugin",
+  "description": "This plugin help you to render plantuml diagrams in your notes.",
+  "author": "cofcool",
+  "repo": "cofcool/logseq-plantuml-plugin",
+  "icon": "./icon.png"
+}
