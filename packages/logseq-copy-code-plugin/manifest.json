@@ -3,5 +3,6 @@
   "description": "Copy code from code blocks to your clipboard",
   "repo": "vyleung/logseq-copy-code-plugin",
   "author": "vyleung",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "effect": true
 }
