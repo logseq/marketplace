@@ -1,5 +1,5 @@
 {
-  "datetime": 1652405458825,
+  "datetime": 1652455876211,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -933,6 +933,16 @@
       "addedAt": 1645044847000
     },
     {
+      "title": "logseq-plantuml-plugin",
+      "name": "logseq-plantuml-plugin",
+      "description": "This plugin help you to render plantuml diagrams in your notes.",
+      "author": "cofcool",
+      "repo": "cofcool/logseq-plantuml-plugin",
+      "icon": "./icon.png",
+      "id": "logseq-plantuml-plugin",
+      "addedAt": 1652430038000
+    },
+    {
       "title": "Github File Getter",
       "description": "A plugin to get files from Github to assist with documenting code using Logseq",
       "author": "Mark J Smith",
@@ -1036,6 +1046,15 @@
       "icon": "./icon.svg",
       "id": "logseq-quicktodo-plugin",
       "addedAt": 1643357356000
+    },
+    {
+      "title": "Raindrop",
+      "description": "Save URLs to Raindrop.",
+      "author": "phildenhoff",
+      "repo": "phildenhoff/logseq-raindrop",
+      "icon": "./raindrop.svg",
+      "id": "logseq-raindrop",
+      "addedAt": 1652431122000
     },
     {
       "title": "Random Note",
@@ -1151,6 +1170,10 @@
       "author": "yoyurec",
       "repo": "yoyurec/logseq-solarized-extended-theme",
       "icon": "icon.png",
+      "sponsors": [
+        "https://ko-fi.com/yoyurec"
+      ],
+      "effect": true,
       "theme": true,
       "id": "logseq-solarized-extended-theme",
       "addedAt": 1652248336000
