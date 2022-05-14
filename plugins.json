@@ -1,5 +1,5 @@
 {
-  "datetime": 1652455876211,
+  "datetime": 1652532715822,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -225,6 +225,7 @@
       "repo": "vyleung/logseq-copy-code-plugin",
       "author": "vyleung",
       "icon": "icon.png",
+      "effect": true,
       "id": "logseq-copy-code-plugin",
       "addedAt": 1652029079000
     },
