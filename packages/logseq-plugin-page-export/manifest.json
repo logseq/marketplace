@@ -1,0 +1,8 @@
+{
+  "title": "logseq-plugin-page-export",
+  "description": "a plugin that makes use of html2canvas to export current page in logseq",
+  "author": "William Huang",
+  "repo": "william-apps/logseq-plugin-page-export",
+  "icon": "./logo.svg",
+  "sponsors": []
+}
