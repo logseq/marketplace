@@ -4,5 +4,6 @@
   "author": "William Huang",
   "repo": "william-apps/logseq-plugin-page-export",
   "icon": "./logo.svg",
-  "sponsors": []
+  "sponsors": [],
+  "effect": true
 }
