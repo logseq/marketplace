@@ -1,5 +1,5 @@
 {
-  "datetime": 1652532715822,
+  "datetime": 1652750327032,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -975,6 +975,16 @@
       "addedAt": 1652300645000
     },
     {
+      "title": "logseq-plugin-page-export",
+      "description": "a plugin that makes use of html2canvas to export current page in logseq",
+      "author": "William Huang",
+      "repo": "william-apps/logseq-plugin-page-export",
+      "icon": "./logo.svg",
+      "sponsors": [],
+      "id": "logseq-plugin-page-export",
+      "addedAt": 1652603694000
+    },
+    {
       "title": "Quick References",
       "description": "Mention your most important references easily",
       "author": "cali (renato caliari)",
@@ -1038,6 +1048,15 @@
       "theme": true,
       "id": "logseq-quattro-theme",
       "addedAt": 1639596533000
+    },
+    {
+      "title": "Quick Add",
+      "description": "Add and duplicate blocks using keyboard shortcuts",
+      "repo": "vyleung/logseq-quick-add-plugin",
+      "author": "vyleung",
+      "icon": "icon.png",
+      "id": "logseq-quick-add-plugin",
+      "addedAt": 1652539398000
     },
     {
       "title": "Quick todo",
