@@ -1,5 +1,5 @@
 {
-  "datetime": 1652750327032,
+  "datetime": 1652798838789,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -981,6 +981,7 @@
       "repo": "william-apps/logseq-plugin-page-export",
       "icon": "./logo.svg",
       "sponsors": [],
+      "effect": true,
       "id": "logseq-plugin-page-export",
       "addedAt": 1652603694000
     },
