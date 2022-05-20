@@ -1,5 +1,5 @@
 {
-  "datetime": 1652798838789,
+  "datetime": 1653013974803,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -10,6 +10,15 @@
       "theme": true,
       "id": "cobra-theme",
       "addedAt": 1634165328000
+    },
+    {
+      "title": "flomo_memos_sync",
+      "description": "同步 flomo 笔记至 logseq",
+      "repo": "duiliuliu/logseq-flomo-plugin",
+      "author": "duiliuliu",
+      "icon": "icon.png",
+      "id": "flomo_memos_sync",
+      "addedAt": 1652944875000
     },
     {
       "title": "Harmony Theme",
