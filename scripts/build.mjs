@@ -29,7 +29,7 @@ function httpGet (url) {
       },
       agent: proxyEnabled ? agent : false,
     }, (res) => {
-      if (res.statusCode != 200) {
+      if (res.statusCode !== 200) {
         reject(`StatusCode: ${res.statusCode}`)
       }
 
@@ -87,8 +87,9 @@ async function cli (action, ...rest) {
     case '--stat': {
       console.log('===== Building Stats =====')
 
-      proxyEnabled = rest?.[0].includes('--proxy')
-      const isFixErrors = rest?.[0].includes('error')
+      proxyEnabled = rest?.join(' ').includes('--proxy')
+      const isFixErrors = rest?.join(' ').includes('--error')
+
       const packages = isFixErrors ?
         JSON.parse(fs.readFileSync(path.join(ROOT, ERRORS_FILE)).toString())
         : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).
