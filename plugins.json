@@ -1,5 +1,5 @@
 {
-  "datetime": 1653464195968,
+  "datetime": 1653625759949,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -247,6 +247,16 @@
       "theme": true,
       "id": "logseq-craft-theme",
       "addedAt": 1644263915000
+    },
+    {
+      "title": "Customized Github Theme",
+      "description": "A customized Github like theme",
+      "author": "Daniel Webber",
+      "repo": "mendax1234/logseq-cusgit-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-cusgit-theme",
+      "addedAt": 1653576513000
     },
     {
       "title": "logseq-custom-workflows",
