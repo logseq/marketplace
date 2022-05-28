@@ -1,5 +1,5 @@
 {
-  "datetime": 1653625759949,
+  "datetime": 1653711518733,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1075,6 +1075,7 @@
       "repo": "vyleung/logseq-quick-add-plugin",
       "author": "vyleung",
       "icon": "icon.png",
+      "effect": true,
       "id": "logseq-quick-add-plugin",
       "addedAt": 1652539398000
     },
