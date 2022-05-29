@@ -1,5 +1,5 @@
 {
-  "datetime": 1653711518733,
+  "datetime": 1653802045595,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -866,6 +866,16 @@
       "theme": true,
       "id": "logseq-oxford-blue-theme",
       "addedAt": 1640581599000
+    },
+    {
+      "title": "Ozean theme",
+      "description": "Ozean Theme, simple and colorful.",
+      "author": "hisea",
+      "repo": "hisea/logseq-ozean-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-ozean-theme",
+      "addedAt": 1653773658000
     },
     {
       "title": "Panic theme",
