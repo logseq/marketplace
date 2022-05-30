@@ -1,5 +1,5 @@
 {
-  "datetime": 1653802045595,
+  "datetime": 1653881953146,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -102,6 +102,19 @@
       "theme": true,
       "id": "logseq-bear-theme",
       "addedAt": 1637514822000
+    },
+    {
+      "title": "Bionic Speedreader",
+      "description": "A plugin to help read faster, with better comprehension and more retention.",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-bionic-speedreader",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-bionic-speedreader",
+      "addedAt": 1653827074000
     },
     {
       "title": "Block to page",
