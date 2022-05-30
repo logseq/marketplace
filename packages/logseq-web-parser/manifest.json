@@ -1,0 +1,11 @@
+{
+  "title": "Web Parser",
+  "description": "A plugin which takes input in the form of a link and inputs the content of the website below",
+  "author": "Aryan Sawhney",
+  "repo": "sawhney17/logseq-web-parser",
+  "icon": "./icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/sawhney17"
+  ]
+}
