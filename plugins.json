@@ -1,5 +1,5 @@
 {
-  "datetime": 1653881953146,
+  "datetime": 1653966454037,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -124,6 +124,14 @@
       "repo": "hyrijk/logseq-plugin-block-to-page",
       "id": "logseq-block-to-page",
       "addedAt": 1632930559000
+    },
+    {
+      "title": "Block Navigation",
+      "description": "Block navigation shortcuts",
+      "author": "KerfuffleV2",
+      "repo": "kerfufflev2/logseq-plugin-blocknav",
+      "id": "logseq-blocknav",
+      "addedAt": 1653928741000
     },
     {
       "title": "Bonofix theme",
@@ -1509,6 +1517,19 @@
       ],
       "id": "logseq-vim-shortcuts",
       "addedAt": 1640577548000
+    },
+    {
+      "title": "Web Parser",
+      "description": "A plugin which takes input in the form of a link and inputs the content of the website below",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-web-parser",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-web-parser",
+      "addedAt": 1653941903000
     },
     {
       "title": "Get webpage title",
