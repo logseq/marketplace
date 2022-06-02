@@ -1,5 +1,5 @@
 {
-  "datetime": 1653966454037,
+  "datetime": 1654144336703,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -966,7 +966,7 @@
     },
     {
       "title": "phonetonote logseq client",
-      "description": "fetch messages from your phonetonote feed into your logseq graph",
+      "description": "use phonetonote's mobile quick capture to send messages to your logseq graph on the go",
       "author": "phonetonote",
       "repo": "phonetonote/phonetonote-logseq",
       "icon": "icon.png",
@@ -1198,6 +1198,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-searchable",
       "icon": "./icon.png",
+      "effect": true,
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
