@@ -1,5 +1,5 @@
 {
-  "datetime": 1654144336703,
+  "datetime": 1654310909195,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -589,6 +589,14 @@
       "icon": "icon.png",
       "id": "logseq-interstitial",
       "addedAt": 1648940658000
+    },
+    {
+      "title": "Interval Hints",
+      "description": "Flexible plugin that annotates deadline/schedule times to show countdown and elapsed times. Includes a renderer to insert countdowns/elapsed hints in any block.",
+      "author": "KerfuffleV2",
+      "repo": "kerfufflev2/logseq-plugin-interval-hints",
+      "id": "logseq-interval-hints",
+      "addedAt": 1654284638000
     },
     {
       "title": "Journals calendar",
