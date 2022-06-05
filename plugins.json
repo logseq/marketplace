@@ -1,5 +1,5 @@
 {
-  "datetime": 1654310909195,
+  "datetime": 1654396435248,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -595,6 +595,7 @@
       "description": "Flexible plugin that annotates deadline/schedule times to show countdown and elapsed times. Includes a renderer to insert countdowns/elapsed hints in any block.",
       "author": "KerfuffleV2",
       "repo": "kerfufflev2/logseq-plugin-interval-hints",
+      "effect": true,
       "id": "logseq-interval-hints",
       "addedAt": 1654284638000
     },
@@ -1285,6 +1286,19 @@
       "effect": true,
       "id": "logseq-style-carousel",
       "addedAt": 1645663055000
+    },
+    {
+      "title": "Logseq Summarizer",
+      "name": "Logseq Summarizer",
+      "description": "A utility to summarize long text into its key points.",
+      "author": "Stephen Solka",
+      "repo": "trashhalo/logseq-summarizer",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://ko-fi.com/trashhalo"
+      ],
+      "id": "logseq-summarizer",
+      "addedAt": 1654351788000
     },
     {
       "title": "logseq-swapblocks-plugin",
