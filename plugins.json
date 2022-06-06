@@ -1,5 +1,5 @@
 {
-  "datetime": 1654396435248,
+  "datetime": 1654485094799,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1010,6 +1010,16 @@
       "icon": "./icon.png",
       "id": "logseq-plugin-github-get",
       "addedAt": 1648951996000
+    },
+    {
+      "title": "GPT-3 OpenAI",
+      "description": "AI assisted notetaking plugin with OpenAI GPT-3 API to summarize and generate text.",
+      "author": "Brian Sunter",
+      "repo": "briansunter/logseq-plugin-gpt3-openai",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-gpt3-openai",
+      "addedAt": 1654399953000
     },
     {
       "title": "Heading level shortcuts",
