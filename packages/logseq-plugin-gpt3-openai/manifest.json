@@ -3,5 +3,6 @@
   "description": "AI assisted notetaking plugin with OpenAI GPT-3 API to summarize and generate text.",
   "author": "Brian Sunter",
   "repo": "briansunter/logseq-plugin-gpt3-openai",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "effect": true
 }
