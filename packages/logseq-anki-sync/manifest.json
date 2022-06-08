@@ -4,6 +4,7 @@
   "author": "debanjandhar12",
   "repo":"debanjandhar12/logseq-anki-sync",
   "icon": "./icon.png",
+  "effect": true,
   "sponsors": [
     "https://www.buymeacoffee.com/debanjandhar12"
   ]
