@@ -1,5 +1,5 @@
 {
-  "datetime": 1654690553644,
+  "datetime": 1654748869060,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -496,6 +496,18 @@
       "theme": true,
       "id": "logseq-github-theme",
       "addedAt": 1647094007000
+    },
+    {
+      "title": "Go Home Now!",
+      "description": "A quick utility to go to the current daily note and append and scroll to a block",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-go-now",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-go-home-now",
+      "addedAt": 1654748834000
     },
     {
       "title": "Gunmetal Theme",
