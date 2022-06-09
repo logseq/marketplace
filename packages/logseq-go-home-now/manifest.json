@@ -1,0 +1,10 @@
+{
+    "title": "Go Home Now!",
+    "description": "A quick utility to go to the current daily note and append and scroll to a block",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-go-now",
+    "icon": "./icon.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }
