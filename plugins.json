@@ -1,5 +1,5 @@
 {
-  "datetime": 1654748869060,
+  "datetime": 1655298278971,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -465,6 +465,16 @@
       "addedAt": 1637215252000
     },
     {
+      "title": "Get YouTube Captions",
+      "description": "A plugin to download the captions for a video and insert them into the editor. Supports multiple languages.",
+      "author": "Brian Sunter",
+      "repo": "briansunter/logseq-get-youtube-captions",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-get-youtube-captions",
+      "addedAt": 1655184964000
+    },
+    {
       "title": "Git",
       "description": "A git plugin for logseq",
       "author": "haydenull",
@@ -860,6 +870,15 @@
       "icon": "./icon.png",
       "id": "logseq-ol",
       "addedAt": 1646704964000
+    },
+    {
+      "title": "logseq-omnivore",
+      "description": "Read Omnivore using Logseq blocks.",
+      "author": "Omnivore",
+      "repo": "omnivore-app/logseq-omnivore",
+      "icon": "icon.png",
+      "id": "logseq-omnivore",
+      "addedAt": 1655097012000
     },
     {
       "title": "Open Logseq Files in VS Code",
