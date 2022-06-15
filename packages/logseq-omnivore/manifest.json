@@ -1,0 +1,7 @@
+{
+    "title": "logseq-omnivore",
+    "description": "Read Omnivore using Logseq blocks.",
+    "author": "Omnivore",
+    "repo": "omnivore-app/logseq-omnivore",
+    "icon": "icon.png"
+}
