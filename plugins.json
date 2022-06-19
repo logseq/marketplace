@@ -1,5 +1,5 @@
 {
-  "datetime": 1655298278971,
+  "datetime": 1655628534686,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -506,6 +506,18 @@
       "theme": true,
       "id": "logseq-github-theme",
       "addedAt": 1647094007000
+    },
+    {
+      "title": "Global Custom CSS",
+      "description": "A plugin for Logseq themer.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-global-custom-css",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-global-custom-css",
+      "addedAt": 1655458827000
     },
     {
       "title": "Go Home Now!",
