@@ -1,5 +1,5 @@
 {
-  "datetime": 1655628534686,
+  "datetime": 1655778937530,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1181,6 +1181,15 @@
       "icon": "./icon.svg",
       "id": "logseq-quicktodo-plugin",
       "addedAt": 1643357356000
+    },
+    {
+      "title": "Logseq Rainbow Tags",
+      "description": "Highlight your tags with rainbow colors.",
+      "author": "swk777",
+      "repo": "swk777/logseq-rainbow-tags",
+      "icon": "icon.png",
+      "id": "logseq-rainbow-tags",
+      "addedAt": 1655739514000
     },
     {
       "title": "Raindrop",
