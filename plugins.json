@@ -1,5 +1,5 @@
 {
-  "datetime": 1656125349582,
+  "datetime": 1656179922999,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1697,6 +1697,15 @@
       ],
       "id": "logtools",
       "addedAt": 1647486409000
+    },
+    {
+      "title": "LogWidget",
+      "description": "A collection of logseq widgets",
+      "author": "Angboo",
+      "icon": "favicon.ico",
+      "repo": "Angboo/logwidgets",
+      "id": "logwidgets",
+      "addedAt": 1656151446000
     },
     {
       "title": "Unfinished Business",
