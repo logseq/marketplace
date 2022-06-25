@@ -1,5 +1,5 @@
 {
-  "datetime": 1655778937530,
+  "datetime": 1656125349582,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -93,6 +93,15 @@
       ],
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
+    },
+    {
+      "title": "Batch Ops",
+      "description": "Perform queries on the current graph and batch process on the results.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-batch-op",
+      "icon": "./icon.png",
+      "id": "logseq-batch-op",
+      "addedAt": 1656070651000
     },
     {
       "title": "Bear Theme",
@@ -885,7 +894,7 @@
     },
     {
       "title": "logseq-omnivore",
-      "description": "Read Omnivore using Logseq blocks.",
+      "description": "Import Omnivore highlights and articles into Logseq.",
       "author": "Omnivore",
       "repo": "omnivore-app/logseq-omnivore",
       "icon": "icon.png",
