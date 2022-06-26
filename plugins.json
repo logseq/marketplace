@@ -1,5 +1,5 @@
 {
-  "datetime": 1656179922999,
+  "datetime": 1656270034814,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1454,6 +1454,7 @@
       "repo": "vyleung/logseq-tidy-blocks-plugin",
       "author": "vyleung",
       "icon": "icon.png",
+      "effect": true,
       "id": "logseq-tidy-blocks-plugin",
       "addedAt": 1651081732000
     },
