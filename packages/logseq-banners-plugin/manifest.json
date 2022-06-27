@@ -2,9 +2,10 @@
     "title": "Banners for Logseq",
     "description": "Enliven your notes with custom Notion style banners and icons!",
     "author": "Aryan Sawhney",
-    "repo": "sawhney17/logseq-banners",
+    "repo": "sawhney17/logseq-banners-plugin",
     "icon": "./logo.png",
     "sponsors": [
      "https://www.buymeacoffee.com/sawhney17"
-   ]
+   ],
+    "effect":true
   }
