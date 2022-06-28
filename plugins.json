@@ -1,5 +1,5 @@
 {
-  "datetime": 1656270034814,
+  "datetime": 1656419242124,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -539,6 +539,19 @@
       ],
       "id": "logseq-go-home-now",
       "addedAt": 1654748834000
+    },
+    {
+      "title": "Logseq Graph Analysis",
+      "name": "Logseq Graph Analysis",
+      "description": "Learn more about the relationships between between your notes using network analysis algorithms.",
+      "author": "Stephen Solka",
+      "repo": "trashhalo/logseq-graph-analysis",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://ko-fi.com/trashhalo"
+      ],
+      "id": "logseq-graph-analysis",
+      "addedAt": 1656323540000
     },
     {
       "title": "Gunmetal Theme",
