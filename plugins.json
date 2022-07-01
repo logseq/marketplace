@@ -1,5 +1,5 @@
 {
-  "datetime": 1656419242124,
+  "datetime": 1656678434110,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -93,6 +93,19 @@
       ],
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
+    },
+    {
+      "title": "Banners for Logseq",
+      "description": "Enliven your notes with custom Notion style banners and icons!",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-banners-plugin",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "effect": true,
+      "id": "logseq-banners-plugin",
+      "addedAt": 1656355151000
     },
     {
       "title": "Batch Ops",
