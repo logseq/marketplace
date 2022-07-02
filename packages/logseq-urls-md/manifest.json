@@ -1,0 +1,7 @@
+{
+    "title": "url to markdown",
+    "description": "A Plugin that help you to Convert URL to Markdown links when you paste a url in logseq." ,
+    "author": "superman66",
+    "repo":"superman66/logseq-plugin-url-md",
+    "icon": "icon.png"
+  }
