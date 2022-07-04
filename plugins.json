@@ -1,5 +1,5 @@
 {
-  "datetime": 1656678434110,
+  "datetime": 1656935952149,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -552,6 +552,18 @@
       ],
       "id": "logseq-go-home-now",
       "addedAt": 1654748834000
+    },
+    {
+      "title": "Google Fonts",
+      "description": "Use Google Fonts for rendering.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-google-fonts",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-google-fonts",
+      "addedAt": 1656910788000
     },
     {
       "title": "Logseq Graph Analysis",
@@ -1615,6 +1627,15 @@
       "icon": "icon.png",
       "id": "logseq-unsplash",
       "addedAt": 1636481769000
+    },
+    {
+      "title": "url to markdown",
+      "description": "A Plugin that help you to Convert URL to Markdown links when you paste a url in logseq.",
+      "author": "superman66",
+      "repo": "superman66/logseq-plugin-url-md",
+      "icon": "icon.png",
+      "id": "logseq-urls-md",
+      "addedAt": 1656785146000
     },
     {
       "title": "VIM editor",
