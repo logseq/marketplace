@@ -1,5 +1,5 @@
 {
-  "datetime": 1657031536259,
+  "datetime": 1657041600242,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -547,6 +547,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-go-now",
       "icon": "./icon.png",
+      "effect": true,
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
