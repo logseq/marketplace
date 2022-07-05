@@ -1,5 +1,5 @@
 {
-  "datetime": 1656994002573,
+  "datetime": 1657031536259,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1257,7 +1257,7 @@
       "addedAt": 1631757107000
     },
     {
-      "title": "Logseq Readwise Official Plugin",
+      "title": "Readwise Official Plugin",
       "description": "Official Readwise <-> Logseq integration.",
       "author": "Readwise",
       "repo": "readwiseio/logseq-readwise-official-plugin",
