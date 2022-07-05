@@ -3,5 +3,6 @@
     "description": "Official Readwise <-> Logseq integration." ,
     "author": "Readwise",
     "repo":"readwiseio/logseq-readwise-official-plugin",
-    "icon": "icon.svg"
+    "icon": "icon.svg",
+    "effect": true
 }
