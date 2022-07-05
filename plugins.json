@@ -1,5 +1,5 @@
 {
-  "datetime": 1656935952149,
+  "datetime": 1657031536259,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1255,6 +1255,16 @@
       "icon": "icon.png",
       "id": "logseq-random-note",
       "addedAt": 1631757107000
+    },
+    {
+      "title": "Readwise Official Plugin",
+      "description": "Official Readwise <-> Logseq integration.",
+      "author": "Readwise",
+      "repo": "readwiseio/logseq-readwise-official-plugin",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-readwise-official-plugin",
+      "addedAt": 1656970886000
     },
     {
       "title": "logseq-recipeimporter-plugin",
