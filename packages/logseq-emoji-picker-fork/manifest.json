@@ -1,6 +1,6 @@
 {
     "title": "Emoji picker",
-    "description": "A plugin that lets you pick emoji.",
+    "description": "A plugin that lets you pick emoji (fork from sample).",
     "author": "Logseq",
     "repo": "walsvid/logseq-emoji-picker-fork",
     "icon": "./logo.png"
