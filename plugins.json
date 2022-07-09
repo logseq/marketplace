@@ -1,5 +1,5 @@
 {
-  "datetime": 1657075645333,
+  "datetime": 1657354659661,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -251,6 +251,18 @@
       "addedAt": 1643595616000
     },
     {
+      "title": "Citation Manager",
+      "description": "A 100% local plugin to integrate with *any* bibtex compatible markdown editor including Zotero and Paperpil",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-citation-manager",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-citation-manager",
+      "addedAt": 1657354477000
+    },
+    {
       "title": "Classy",
       "description": "Facilitates otherwise impossible custom stylesheets by applying classes to blocks identified in custom queries.",
       "author": "Mario T. Lanza",
@@ -430,7 +442,7 @@
       "repo": "walsvid/logseq-emoji-picker-fork",
       "icon": "./logo.png",
       "id": "logseq-emoji-picker-fork",
-      "addedAt": null
+      "addedAt": 1657039359000
     },
     {
       "title": "logseq-extract-plugin",
