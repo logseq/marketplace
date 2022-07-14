@@ -1,0 +1,8 @@
+{
+  "title": "Block Calendar",
+  "description": "Render a calendar in block, so you can put it onto right sidebar..",
+  "author": "vipzhicheng",
+  "repo": "vipzhicheng/logseq-plugin-block-calendar",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}
