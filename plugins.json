@@ -1,5 +1,5 @@
 {
-  "datetime": 1657851453540,
+  "datetime": 1657853121161,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -451,7 +451,7 @@
     {
       "title": "Emoji picker",
       "description": "A plugin that lets you pick emoji (fork from sample).",
-      "author": "Logseq",
+      "author": "walsvid",
       "repo": "walsvid/logseq-emoji-picker-fork",
       "icon": "./logo.png",
       "id": "logseq-emoji-picker-fork",
