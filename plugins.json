@@ -1,5 +1,5 @@
 {
-  "datetime": 1657503639642,
+  "datetime": 1657851453540,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -138,6 +138,18 @@
       ],
       "id": "logseq-bionic-speedreader",
       "addedAt": 1653827074000
+    },
+    {
+      "title": "Block Calendar",
+      "description": "Render a calendar in block, so you can put it onto right sidebar..",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-block-calendar",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-block-calendar",
+      "addedAt": 1657782839000
     },
     {
       "title": "Block to page",
