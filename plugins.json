@@ -1,5 +1,5 @@
 {
-  "datetime": 1657853121161,
+  "datetime": 1657997568005,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -97,11 +97,12 @@
     {
       "title": "Banners for Logseq",
       "description": "Enliven your notes with custom Notion style banners and icons!",
-      "author": "Aryan Sawhney",
-      "repo": "sawhney17/logseq-banners-plugin",
+      "author": "Aryan Sawhney & Yurii Piskun",
+      "repo": "yoyurec/logseq-banners-plugin",
       "icon": "./logo.png",
       "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
+        "https://www.buymeacoffee.com/sawhney17",
+        "https://www.buymeacoffee.com/yoyurec"
       ],
       "effect": true,
       "id": "logseq-banners-plugin",
