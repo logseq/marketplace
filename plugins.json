@@ -1,5 +1,5 @@
 {
-  "datetime": 1657997568005,
+  "datetime": 1658044644820,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1265,6 +1265,15 @@
       "effect": true,
       "id": "logseq-quick-add-plugin",
       "addedAt": 1652539398000
+    },
+    {
+      "title": "Quick Capture",
+      "description": "Quick capture your ideas to journal or specify page.",
+      "author": "tankcool",
+      "repo": "tankcool/logseq-quick-capture",
+      "icon": "icon.png",
+      "id": "logseq-quick-capture",
+      "addedAt": 1658034261000
     },
     {
       "title": "Quick todo",
