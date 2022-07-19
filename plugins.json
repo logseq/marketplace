@@ -1,5 +1,5 @@
 {
-  "datetime": 1658044644820,
+  "datetime": 1658209408080,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -149,6 +149,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "effect": true,
       "id": "logseq-block-calendar",
       "addedAt": 1657782839000
     },
@@ -1397,6 +1398,18 @@
       "theme": true,
       "id": "logseq-sepia-theme",
       "addedAt": 1637059777000
+    },
+    {
+      "title": "SimpRead",
+      "description": "The official Logseq plugin of SimpRead",
+      "author": "OverflowCat",
+      "repo": "OverflowCat/logseq-simpread",
+      "icon": "./logo.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/overflowcat"
+      ],
+      "id": "logseq-simpread",
+      "addedAt": 1658043625000
     },
     {
       "title": "logseq-sliders-plugin",
