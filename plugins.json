@@ -1,5 +1,5 @@
 {
-  "datetime": 1658209408080,
+  "datetime": 1658216658734,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1405,6 +1405,7 @@
       "author": "OverflowCat",
       "repo": "OverflowCat/logseq-simpread",
       "icon": "./logo.svg",
+      "effect": true,
       "sponsors": [
         "https://www.buymeacoffee.com/overflowcat"
       ],
