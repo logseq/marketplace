@@ -1,5 +1,5 @@
 {
-  "datetime": 1658216658734,
+  "datetime": 1658999580426,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -813,6 +813,16 @@
       "effect": true,
       "id": "logseq-luckysheet",
       "addedAt": 1647055256000
+    },
+    {
+      "title": "Luma",
+      "description": "A minimal and detail oriented light and dark theme for Logseq",
+      "author": "@gavmn",
+      "repo": "gavinmn/logseq-luma",
+      "icon": "luma-icon.png",
+      "theme": true,
+      "id": "logseq-luma",
+      "addedAt": 1658972312000
     },
     {
       "title": "Markmap",
