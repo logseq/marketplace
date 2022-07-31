@@ -1,5 +1,5 @@
 {
-  "datetime": 1659066305587,
+  "datetime": 1659232762452,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -926,6 +926,15 @@
       "effect": true,
       "id": "logseq-move-block",
       "addedAt": 1649388185000
+    },
+    {
+      "title": "Movies",
+      "description": "Plugin that helps you insert your favorite anime and movie titles into your documents",
+      "author": "Ilya Kirillov",
+      "repo": "darthorimar/logseq-movies-plugin",
+      "effect": true,
+      "id": "logseq-movies",
+      "addedAt": 1659213260000
     },
     {
       "title": "Music Notation",
