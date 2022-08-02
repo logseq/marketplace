@@ -1,0 +1,8 @@
+{
+  "title": "Another Embed",
+  "description": "This plugin provides 2 extra ways to embed blocks/pages.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-another-embed",
+  "icon": "./icon.png",
+  "effect": true
+}
