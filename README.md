@@ -25,4 +25,10 @@ Ensure that your plugin has a `publish.yml` file, so when you create a release f
     - `icon`- [optional] A logo for better recognition. default: `""`
     - `theme`- [optional] A theme plugin? default: `false`
     - `sponsors` - [optional] Sponsor external links. default: `[]`
+    - `effect` - [optional] Whether the sandbox is running under the same origin with host. default: `false`
+      > ⚠️ `effect`? - it's not recommended to turn on this option if you don't 
+      need a specific feature (_the current built-in plugin API does not satisfy_), 
+      which may affect the stability of the program. If it does need to be turned on, 
+      the market review process will be more strict, while there is no guarantee 
+      that it will not be allowed to be turned on in the future.
 3. Make a Github Pull Request :)
