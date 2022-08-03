@@ -1,5 +1,5 @@
 {
-  "datetime": 1659232762452,
+  "datetime": 1659495882365,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -71,6 +71,16 @@
       ],
       "id": "logseq-anki-sync",
       "addedAt": 1639308679000
+    },
+    {
+      "title": "Another Embed",
+      "description": "This plugin provides 2 extra ways to embed blocks/pages.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-another-embed",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-another-embed",
+      "addedAt": 1659419493000
     },
     {
       "title": "Atlas Theme",
