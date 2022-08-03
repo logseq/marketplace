@@ -6,7 +6,7 @@ A packages manager for Logseq marketplace plugins.
 
 This [repo](https://github.com/logseq/logseq-plugin-samples) contains sample code illustrating the Logseq Plugin API. You can read, play with or adapt from these samples to create your own plugins.
 
-Plugins API: https://logseq.github.io/plugins/.
+Plugin APIs: https://plugins-doc.logseq.com/.
 
 Ensure that your plugin has a `publish.yml` file, so when you create a release from a tag, it will do the build dance and make you a zip file. Then make a tag (something like v0.0.1), and create a release from it. Ensure the following are true before submitting your plugin:
 - The release has a zip file attached in addition to the "Source code (zip)" link. (It might take a minute for build system to create the zip after creating the release.)
