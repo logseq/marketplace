@@ -3,5 +3,6 @@
   "description": "Toggles the visibility of completed/canceled to-dos.",
   "author": "Mario T. Lanza",
   "repo": "mlanza/logseq-wide-eyed",
-  "icon": "./wide-eyed.svg"
+  "icon": "./wide-eyed.svg",
+  "effect": true
 }
