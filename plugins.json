@@ -1,5 +1,5 @@
 {
-  "datetime": 1659495882365,
+  "datetime": 1660017380374,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1766,6 +1766,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "effect": true,
       "id": "logseq-vim-shortcuts",
       "addedAt": 1640577548000
     },
@@ -1798,6 +1799,7 @@
       "author": "Mario T. Lanza",
       "repo": "mlanza/logseq-wide-eyed",
       "icon": "./wide-eyed.svg",
+      "effect": true,
       "id": "logseq-wide-eyed",
       "addedAt": 1644886365000
     },
