@@ -1,5 +1,5 @@
 {
-  "datetime": 1660096215596,
+  "datetime": 1660139611116,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -688,6 +688,7 @@
       "author": "jjaychen",
       "repo": "JJAYCHEN1e/logseq-plugin-image-uploader",
       "icon": "./icon.png",
+      "effect": true,
       "id": "logseq-image-uploader",
       "addedAt": 1641372894000
     },
