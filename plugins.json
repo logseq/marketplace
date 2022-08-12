@@ -1,5 +1,5 @@
 {
-  "datetime": 1660139611116,
+  "datetime": 1660312111441,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1390,6 +1390,18 @@
       "icon": "./logo.png",
       "id": "logseq-reference-styles",
       "addedAt": 1646101578000
+    },
+    {
+      "title": "Reset sidebar",
+      "description": "A Logseq plugin to reset a managed sidebar.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-reset-sidebar",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-reset-sidebar",
+      "addedAt": 1660277679000
     },
     {
       "title": "Logseq RTL Mode",
