@@ -1,0 +1,8 @@
+{
+  "title": "Reset sidebar",
+  "description": "A Logseq plugin to reset a managed sidebar.",
+  "author": "vipzhicheng",
+  "repo": "vipzhicheng/logseq-plugin-reset-sidebar",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}
