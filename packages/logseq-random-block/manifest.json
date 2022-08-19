@@ -1,0 +1,8 @@
+{
+  "title": "Random Block",
+  "description": "Random blocks from page, block or tags..",
+  "author": "vipzhicheng",
+  "repo": "vipzhicheng/logseq-plugin-random-block",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}
