@@ -1,5 +1,5 @@
 {
-  "datetime": 1660794167080,
+  "datetime": 1661061257118,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1344,6 +1344,18 @@
       "addedAt": 1652431122000
     },
     {
+      "title": "Random Block",
+      "description": "Random blocks from page, block or tags..",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-random-block",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-random-block",
+      "addedAt": 1660903827000
+    },
+    {
       "title": "Random Note",
       "description": "Random walk through your Logseq notes.",
       "author": "tankcool",
@@ -1392,7 +1404,7 @@
       "addedAt": 1646101578000
     },
     {
-      "title": "Reset sidebar",
+      "title": "Reset Sidebar",
       "description": "A Logseq plugin to reset a managed sidebar.",
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-reset-sidebar",
