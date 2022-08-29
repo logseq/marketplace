@@ -1,5 +1,5 @@
 {
-  "datetime": 1661061257118,
+  "datetime": 1661755029335,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -460,6 +460,15 @@
       "theme": true,
       "id": "logseq-dracula-theme",
       "addedAt": 1632324168000
+    },
+    {
+      "title": "Logseq-ECharts",
+      "description": "A plugin of logseq which integrates with ECharts",
+      "repo": "guzhongren/logseq-echarts",
+      "author": "guzhongren",
+      "icon": "icon.png",
+      "id": "logseq-echarts-plugin",
+      "addedAt": 1661573262000
     },
     {
       "title": "E-ink Theme",
