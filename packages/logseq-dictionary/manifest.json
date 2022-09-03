@@ -1,0 +1,9 @@
+{
+  "title": "Logseq Dictionary",
+  "name": "Logseq Dictionary",
+  "description": "Add definitions to your graph.",
+  "author": "Stephen Solka",
+  "repo": "trashhalo/logseq-dictionary",
+  "icon": "icon.png",
+  "sponsors": ["https://ko-fi.com/trashhalo"]
+}
