@@ -1,5 +1,5 @@
 {
-  "datetime": 1661755029335,
+  "datetime": 1662259992331,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -440,6 +440,19 @@
       "theme": true,
       "id": "logseq-dicord-like-dark-theme",
       "addedAt": 1632642488000
+    },
+    {
+      "title": "Logseq Dictionary",
+      "name": "Logseq Dictionary",
+      "description": "Add definitions to your graph.",
+      "author": "Stephen Solka",
+      "repo": "trashhalo/logseq-dictionary",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://ko-fi.com/trashhalo"
+      ],
+      "id": "logseq-dictionary",
+      "addedAt": 1662207076000
     },
     {
       "title": "Doc View Exporter",
