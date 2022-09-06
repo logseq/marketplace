@@ -1,5 +1,5 @@
 {
-  "datetime": 1662259992331,
+  "datetime": 1662429258154,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1263,6 +1263,15 @@
       "theme": false,
       "id": "logseq-plugin-quick-references",
       "addedAt": 1651513878000
+    },
+    {
+      "title": "logseq-pomodoro-technique",
+      "description": "A joyful pomodoro timer for block task item 🍅, fork logseq-plugin-samples/logseq-pomodoro-timer",
+      "author": "denvey",
+      "repo": "denvey/logseq-pomodoro-technique",
+      "icon": "./icon.png",
+      "id": "logseq-pomodoro-technique",
+      "addedAt": 1662259391000
     },
     {
       "title": "logseq-pomodoro-timer",
