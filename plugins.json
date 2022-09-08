@@ -1,5 +1,5 @@
 {
-  "datetime": 1662429258154,
+  "datetime": 1662603226131,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -38,6 +38,15 @@
       "icon": "icon.png",
       "id": "log-stats",
       "addedAt": 1649788751000
+    },
+    {
+      "title": "Admonition Panels",
+      "description": "A collection of styles for Admonition Panels",
+      "author": "Nick Martin",
+      "repo": "nmartin84/admonition-panels",
+      "icon": "./icon.png",
+      "id": "logseq-admonition-panels",
+      "addedAt": 1662599710000
     },
     {
       "title": "Agenda",
