@@ -1,0 +1,8 @@
+{
+  "title": "Merge Nested Blocks Into One",
+  "description": "Merge all nested blocks into one nested block with line breaks." ,
+  "author": "George Guimarães",
+  "repo":"georgeguimaraes/logseq-plugin-merge-nested-blocks-into-one",
+  "icon": "icon.png",
+  "theme": false
+}
