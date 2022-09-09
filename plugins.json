@@ -1,5 +1,5 @@
 {
-  "datetime": 1662603226131,
+  "datetime": 1662689331061,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -916,6 +916,16 @@
       "effect": true,
       "id": "logseq-media-ts",
       "addedAt": 1646211056000
+    },
+    {
+      "title": "Merge Nested Blocks Into One",
+      "description": "Merge all nested blocks into one nested block with line breaks.",
+      "author": "George Guimarães",
+      "repo": "georgeguimaraes/logseq-plugin-merge-nested-blocks-into-one",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-merge-nested-blocks-into-one",
+      "addedAt": 1662669290000
     },
     {
       "title": "logseq-mergepages-plugin",
