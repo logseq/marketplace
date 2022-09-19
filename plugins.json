@@ -1,5 +1,5 @@
 {
-  "datetime": 1663035944120,
+  "datetime": 1663594761312,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -100,6 +100,16 @@
       "theme": true,
       "id": "logseq-atlas-theme",
       "addedAt": 1635888951000
+    },
+    {
+      "title": "Atmos theme",
+      "description": "A theme inspired by One Dark Pro",
+      "author": "MatAmo93",
+      "repo": "MatAmo93/logseq-atmos-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-atmos-theme",
+      "addedAt": 1663563222000
     },
     {
       "title": "Automatic Linker",
