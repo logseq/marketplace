@@ -1,5 +1,5 @@
 {
-  "datetime": 1663594761312,
+  "datetime": 1663901293726,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -122,6 +122,19 @@
       ],
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
+    },
+    {
+      "title": "Awesome links",
+      "description": "Favicons for external links, page icons for internal",
+      "author": "yoyurec",
+      "repo": "yoyurec/logseq-awesome-links",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yoyurec"
+      ],
+      "effect": true,
+      "id": "logseq-awesome-links",
+      "addedAt": 1663885581000
     },
     {
       "title": "Banners for Logseq",
