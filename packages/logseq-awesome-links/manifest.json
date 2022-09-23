@@ -1,0 +1,11 @@
+{
+  "title": "Awesome links",
+  "description": "Favicons for external links, page icons for internal",
+  "author": "yoyurec",
+  "repo": "yoyurec/logseq-awesome-links",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yoyurec"
+  ],
+  "effect": true
+}
