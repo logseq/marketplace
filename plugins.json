@@ -1,5 +1,5 @@
 {
-  "datetime": 1663901293726,
+  "datetime": 1664283835530,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1217,6 +1217,18 @@
       "effect": true,
       "id": "logseq-pdf-print",
       "addedAt": 1651909596000
+    },
+    {
+      "title": "Pen",
+      "description": "Add a pen mode to Logseq",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-pen",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-pen",
+      "addedAt": 1664278121000
     },
     {
       "title": "phonetonote logseq client",
