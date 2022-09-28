@@ -1,5 +1,5 @@
 {
-  "datetime": 1664283835530,
+  "datetime": 1664332091635,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1627,6 +1627,19 @@
       "repo": "hyrijk/logseq-plugin-split-block",
       "id": "logseq-split-block",
       "addedAt": 1631844157000
+    },
+    {
+      "title": "Sticky headers",
+      "description": "Sticky H1-H5 headers on page scroll",
+      "author": "yoyurec",
+      "repo": "yoyurec/logseq-sticky-headers",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yoyurec"
+      ],
+      "effect": true,
+      "id": "logseq-sticky-headers",
+      "addedAt": 1664314380000
     },
     {
       "title": "Style Carousel",
