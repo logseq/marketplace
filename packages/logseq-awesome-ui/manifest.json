@@ -1,0 +1,11 @@
+{
+  "title": "Awesome UI",
+  "description": "Reworked, simplified, fixed and pumped-up Logseq! Layout, components, etc...",
+  "author": "yoyurec",
+  "repo": "yoyurec/logseq-awesome-ui",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yoyurec"
+  ],
+  "effect": true
+}
