@@ -1,5 +1,5 @@
 {
-  "datetime": 1664332091635,
+  "datetime": 1664419410479,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -90,6 +90,16 @@
       "effect": true,
       "id": "logseq-another-embed",
       "addedAt": 1659419493000
+    },
+    {
+      "title": "Arc Theme",
+      "description": " A Logseq theme based on Arc by The Browser Company",
+      "author": "@andyburris",
+      "repo": "andyburris/logseq-arc-theme",
+      "icon": "arc-icon.png",
+      "theme": true,
+      "id": "logseq-arc-theme",
+      "addedAt": 1664407086000
     },
     {
       "title": "Atlas Theme",
@@ -598,6 +608,15 @@
       "icon": "icon.png",
       "id": "logseq-flomo-plugin",
       "addedAt": 1651841150000
+    },
+    {
+      "title": "Flow Theme",
+      "description": "Minimalistic Theme that's soft around the edges and comes in 30+ flavors.",
+      "author": "nmartin84",
+      "repo": "nmartin84/logseq-flow",
+      "theme": true,
+      "id": "logseq-flow-theme",
+      "addedAt": 1664372220000
     },
     {
       "title": "Focus Mode",
@@ -1610,15 +1629,6 @@
       "theme": true,
       "id": "logseq-solarized-extended-theme",
       "addedAt": 1652248336000
-    },
-    {
-      "title": "Solarized theme",
-      "description": "A solarized light theme.",
-      "author": "nmartin84",
-      "repo": "nmartin84/logseq-solarized",
-      "theme": true,
-      "id": "logseq-solarized-theme",
-      "addedAt": 1630664401000
     },
     {
       "title": "Split block",
