@@ -1,5 +1,5 @@
 {
-  "datetime": 1664419410479,
+  "datetime": 1664585807831,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -145,6 +145,19 @@
       "effect": true,
       "id": "logseq-awesome-links",
       "addedAt": 1663885581000
+    },
+    {
+      "title": "Awesome UI",
+      "description": "Reworked, simplified, fixed and pumped-up Logseq! Layout, components, etc...",
+      "author": "yoyurec",
+      "repo": "yoyurec/logseq-awesome-ui",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yoyurec"
+      ],
+      "effect": true,
+      "id": "logseq-awesome-ui",
+      "addedAt": 1664472306000
     },
     {
       "title": "Banners for Logseq",
