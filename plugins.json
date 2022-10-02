@@ -1,5 +1,5 @@
 {
-  "datetime": 1664585807831,
+  "datetime": 1664754470182,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -145,6 +145,20 @@
       "effect": true,
       "id": "logseq-awesome-links",
       "addedAt": 1663885581000
+    },
+    {
+      "title": "Awesome Styler (SolarizedExt)",
+      "description": "🐱‍👤 Totally customizable theme with presets: colors, backgrounds, fonts and sizes, etc...",
+      "author": "yoyurec",
+      "repo": "yoyurec/logseq-awesome-styler",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yoyurec"
+      ],
+      "effect": true,
+      "theme": true,
+      "id": "logseq-awesome-styler",
+      "addedAt": 1664733642000
     },
     {
       "title": "Awesome UI",
@@ -1628,20 +1642,6 @@
       ],
       "id": "logseq-smartblocks",
       "addedAt": 1643142588000
-    },
-    {
-      "title": "Solarized Extended theme",
-      "description": "Solarized Logseq theme with extra stuff",
-      "author": "yoyurec",
-      "repo": "yoyurec/logseq-solarized-extended-theme",
-      "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yoyurec"
-      ],
-      "effect": true,
-      "theme": true,
-      "id": "logseq-solarized-extended-theme",
-      "addedAt": 1652248336000
     },
     {
       "title": "Split block",
