@@ -1,0 +1,12 @@
+{
+  "title": "Awesome Styler (SolarizedExt)",
+  "description": "🐱‍👤 Totally customizable theme with presets: colors, backgrounds, fonts and sizes, etc...",
+  "author": "yoyurec",
+  "repo": "yoyurec/logseq-awesome-styler",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yoyurec"
+  ],
+  "effect": true,
+  "theme": true
+}
