@@ -1,5 +1,5 @@
 {
-  "datetime": 1664754470182,
+  "datetime": 1665226240844,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1673,6 +1673,15 @@
       "effect": true,
       "id": "logseq-style-carousel",
       "addedAt": 1645663055000
+    },
+    {
+      "title": "Style Tweaks",
+      "description": "A smorgasbord of small and large style tweaks to the Logseq content and UI.",
+      "author": "Pontus Sundén",
+      "repo": "psu/logseq-style-tweaks",
+      "icon": "",
+      "id": "logseq-style-tweaks",
+      "addedAt": 1662932430000
     },
     {
       "title": "Logseq Summarizer",
