@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "title": "Atmos theme",
+    "description": "A theme inspired by One Dark Pro",
+    "author": "MatAmo93",
+    "repo": "MatAmo93/logseq-atmos-theme",
+    "icon": "icon.png",
+    "theme": true,
+    "id": "logseq-atmos-theme",
+    "addedAt": 1663563222000,
+    "error": "StatusCode: 301"
+  },
+  {
+    "title": "Panic theme",
+    "description": "A theme inspired by Panic mode tempalte from Bear notes app ",
+    "author": "SoKirill",
+    "repo": "sokirill/logseq-panic-theme",
+    "icon": "icon.png",
+    "theme": true,
+    "id": "logseq-panic-theme",
+    "addedAt": 1639823010000,
+    "error": "StatusCode: 301"
+  }
+]
