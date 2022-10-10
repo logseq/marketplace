@@ -1,0 +1,8 @@
+{
+  "title": "Sidebar Preset",
+  "description": "A Logseq plugin to provide a group of sidebar presets.",
+  "author": "vipzhicheng",
+  "repo": "vipzhicheng/logseq-plugin-sidebar-preset",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}

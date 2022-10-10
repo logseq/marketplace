@@ -75,9 +75,7 @@
       "repo": "debanjandhar12/logseq-anki-sync",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/debanjandhar12"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/debanjandhar12"],
       "id": "logseq-anki-sync",
       "addedAt": 1639308679000
     },
@@ -127,9 +125,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-automatic-linker",
       "icon": "./logo.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
     },
@@ -139,9 +135,7 @@
       "author": "yoyurec",
       "repo": "yoyurec/logseq-awesome-links",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yoyurec"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/yoyurec"],
       "effect": true,
       "id": "logseq-awesome-links",
       "addedAt": 1663885581000
@@ -152,9 +146,7 @@
       "author": "yoyurec",
       "repo": "yoyurec/logseq-awesome-styler",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yoyurec"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/yoyurec"],
       "effect": true,
       "theme": true,
       "id": "logseq-awesome-styler",
@@ -166,9 +158,7 @@
       "author": "yoyurec",
       "repo": "yoyurec/logseq-awesome-ui",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yoyurec"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/yoyurec"],
       "effect": true,
       "id": "logseq-awesome-ui",
       "addedAt": 1664472306000
@@ -213,9 +203,7 @@
       "repo": "sawhney17/logseq-bionic-speedreader",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-bionic-speedreader",
       "addedAt": 1653827074000
     },
@@ -225,9 +213,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-block-calendar",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "effect": true,
       "id": "logseq-block-calendar",
       "addedAt": 1657782839000
@@ -283,9 +269,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-calendars-plugin",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "effect": true,
       "id": "logseq-calendars-plugin",
       "addedAt": 1643369830000
@@ -307,9 +291,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-case-converter",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-case-converter",
       "addedAt": 1644828941000
     },
@@ -359,9 +341,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-citation-manager",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "effect": true,
       "id": "logseq-citation-manager",
       "addedAt": 1657354477000
@@ -383,9 +363,7 @@
       "repo": "YU000jp/Logseq-column-Layout",
       "icon": "./icon.svg",
       "repository": "https://github.com/YU000jp/Logseq-column-Layout.git",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yu000japan"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
       "id": "logseq-column-layout",
       "addedAt": 1662852627000
     },
@@ -395,9 +373,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-comment-block",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-comment-block",
       "addedAt": 1638514760000
     },
@@ -437,9 +413,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-custom-workflow-plugin",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-custom-workflows",
       "addedAt": 1647273285000
     },
@@ -480,9 +454,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-datetag-plugin",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-datetag-plugin",
       "addedAt": 1644179668000
     },
@@ -530,9 +502,7 @@
       "author": "Stephen Solka",
       "repo": "trashhalo/logseq-dictionary",
       "icon": "icon.png",
-      "sponsors": [
-        "https://ko-fi.com/trashhalo"
-      ],
+      "sponsors": ["https://ko-fi.com/trashhalo"],
       "id": "logseq-dictionary",
       "addedAt": 1662207076000
     },
@@ -599,9 +569,7 @@
       "author": "xyhp915",
       "icon": "icon.png",
       "effect": true,
-      "sponsors": [
-        "https://opencollective.com/logseq"
-      ],
+      "sponsors": ["https://opencollective.com/logseq"],
       "id": "logseq-fenced-code-plus",
       "addedAt": 1651558701000
     },
@@ -621,9 +589,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-find-replace",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-find-and-replace",
       "addedAt": 1647794777000
     },
@@ -681,9 +647,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-github-plugin",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "effect": true,
       "id": "logseq-github-plugin",
       "addedAt": 1648401220000
@@ -704,9 +668,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-global-custom-css",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-global-custom-css",
       "addedAt": 1655458827000
     },
@@ -717,9 +679,7 @@
       "repo": "sawhney17/logseq-go-now",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-go-home-now",
       "addedAt": 1654748834000
     },
@@ -729,9 +689,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-google-fonts",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-google-fonts",
       "addedAt": 1656910788000
     },
@@ -742,9 +700,7 @@
       "author": "Stephen Solka",
       "repo": "trashhalo/logseq-graph-analysis",
       "icon": "icon.png",
-      "sponsors": [
-        "https://ko-fi.com/trashhalo"
-      ],
+      "sponsors": ["https://ko-fi.com/trashhalo"],
       "id": "logseq-graph-analysis",
       "addedAt": 1656323540000
     },
@@ -858,9 +814,7 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
-      "sponsors": [
-        "https://opencollective.com/logseq"
-      ],
+      "sponsors": ["https://opencollective.com/logseq"],
       "id": "logseq-journals-calendar",
       "addedAt": 1630930098000
     },
@@ -920,9 +874,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-lock",
       "addedAt": 1637119562000
     },
@@ -932,9 +884,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-lock-screen",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-lock-screen",
       "addedAt": 1637119562000
     },
@@ -964,9 +914,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-mark-map",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-mark-map",
       "addedAt": 1630664401000
     },
@@ -1064,9 +1012,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-move-block",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "effect": true,
       "id": "logseq-move-block",
       "addedAt": 1649388185000
@@ -1095,9 +1041,7 @@
       "author": "Ben Force",
       "repo": "theBenForce/logseq-plugin-my-highlights",
       "icon": "icon.svg",
-      "sponsors": [
-        "https://www.buymeacoffee.com/theBenForce"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/theBenForce"],
       "id": "logseq-my-highlights",
       "addedAt": 1646146688000
     },
@@ -1215,9 +1159,7 @@
       "repo": "wirtzdan/logseq-paper-theme",
       "icon": "icon.png",
       "theme": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/wirtzdan"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/wirtzdan"],
       "id": "logseq-paper-theme",
       "addedAt": 1635018588000
     },
@@ -1247,9 +1189,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-pdf-export",
       "icon": "./logo.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "effect": true,
       "id": "logseq-pdf-export-plugin",
       "addedAt": 1648012252000
@@ -1270,9 +1210,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-pen",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-pen",
       "addedAt": 1664278121000
     },
@@ -1340,9 +1278,7 @@
       "author": "vipzhicheng",
       "icon": "icon.png",
       "repo": "vipzhicheng/logseq-plugin-heading-level-shortcuts",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-plugin-heading-level-shortcuts",
       "addedAt": 1639976862000
     },
@@ -1392,9 +1328,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-pomodoro-plugin",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-pomodoro-timer",
       "addedAt": 1648457268000
     },
@@ -1415,9 +1349,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-property-visualizer",
       "icon": "./logo.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-property-visualizer",
       "addedAt": 1643142701000
     },
@@ -1493,9 +1425,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-random-block",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-random-block",
       "addedAt": 1660903827000
     },
@@ -1548,15 +1478,13 @@
       "addedAt": 1646101578000
     },
     {
-      "title": "Reset Sidebar",
-      "description": "A Logseq plugin to reset a managed sidebar.",
+      "title": "Sidebar Preset",
+      "description": "A Logseq plugin to provide a group of sidebar presets.",
       "author": "vipzhicheng",
-      "repo": "vipzhicheng/logseq-plugin-reset-sidebar",
+      "repo": "vipzhicheng/logseq-plugin-sidebar-preset",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
-      "id": "logseq-reset-sidebar",
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
+      "id": "logseq-sidebar-preset",
       "addedAt": 1660277679000
     },
     {
@@ -1566,9 +1494,7 @@
       "repo": "sawhney17/logseq-rtl-mode-plugin",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-rtl-mode-plugin",
       "addedAt": 1647434298000
     },
@@ -1578,9 +1504,7 @@
       "author": "Aryan Sawhney & Alex Qwxlea",
       "repo": "sawhney17/logseq-schrodinger",
       "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "effect": true,
       "id": "logseq-schrodinger",
       "addedAt": 1650123325000
@@ -1592,9 +1516,7 @@
       "repo": "sawhney17/logseq-searchable",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-searchable-images",
       "addedAt": 1649012095000
     },
@@ -1614,9 +1536,7 @@
       "repo": "OverflowCat/logseq-simpread",
       "icon": "./logo.svg",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/overflowcat"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/overflowcat"],
       "id": "logseq-simpread",
       "addedAt": 1658043625000
     },
@@ -1637,9 +1557,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-smartblocks",
       "icon": "./logo.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-smartblocks",
       "addedAt": 1643142588000
     },
@@ -1657,9 +1575,7 @@
       "author": "yoyurec",
       "repo": "yoyurec/logseq-sticky-headers",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yoyurec"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/yoyurec"],
       "effect": true,
       "id": "logseq-sticky-headers",
       "addedAt": 1664314380000
@@ -1690,9 +1606,7 @@
       "author": "Stephen Solka",
       "repo": "trashhalo/logseq-summarizer",
       "icon": "icon.png",
-      "sponsors": [
-        "https://ko-fi.com/trashhalo"
-      ],
+      "sponsors": ["https://ko-fi.com/trashhalo"],
       "id": "logseq-summarizer",
       "addedAt": 1654351788000
     },
@@ -1741,9 +1655,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-task-management-shortcuts",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-task-management-shortcuts",
       "addedAt": 1642406539000
     },
@@ -1809,9 +1721,7 @@
       "repo": "sawhney17/logseq-todo-exploder",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-todo-exploder",
       "addedAt": 1651182089000
     },
@@ -1877,9 +1787,7 @@
       "author": "Aryan Sawhney",
       "repo": "sawhney17/logseq-twitter-extractor",
       "icon": "./logo.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "effect": true,
       "id": "logseq-tweet-extractor",
       "addedAt": 1648389536000
@@ -1929,9 +1837,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-vim-editor",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "id": "logseq-vim-editor",
       "addedAt": 1646707953000
     },
@@ -1941,9 +1847,7 @@
       "author": "vipzhicheng",
       "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
       "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
       "effect": true,
       "id": "logseq-vim-shortcuts",
       "addedAt": 1640577548000
@@ -1955,9 +1859,7 @@
       "repo": "sawhney17/logseq-web-parser",
       "icon": "./icon.png",
       "effect": true,
-      "sponsors": [
-        "https://www.buymeacoffee.com/sawhney17"
-      ],
+      "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
       "id": "logseq-web-parser",
       "addedAt": 1653941903000
     },
@@ -2028,9 +1930,7 @@
       "repo": "cannibalox/logtools",
       "icon": "icon.png",
       "theme": false,
-      "sponsors": [
-        "https://ko-fi.com/cannibaloxxx"
-      ],
+      "sponsors": ["https://ko-fi.com/cannibaloxxx"],
       "id": "logtools",
       "addedAt": 1647486409000
     },
