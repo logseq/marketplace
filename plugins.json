@@ -1,5 +1,5 @@
 {
-  "datetime": 1665469447766,
+  "datetime": 1665494979087,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -978,6 +978,15 @@
       "icon": "icon.png",
       "id": "logseq-markdown-table",
       "addedAt": 1634897315000
+    },
+    {
+      "title": "Marks (pointers to pages)",
+      "description": "Manage marks (pointers) to track references to pages, from the page you want to be marked (pointed to)",
+      "author": "Dieterbe",
+      "repo": "Dieterbe/logseq-plugin-marks",
+      "icon": "logo.png",
+      "id": "logseq-marks",
+      "addedAt": 1665429877000
     },
     {
       "title": "media controls",
