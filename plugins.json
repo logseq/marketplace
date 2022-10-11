@@ -1548,15 +1548,15 @@
       "addedAt": 1646101578000
     },
     {
-      "title": "Reset Sidebar",
-      "description": "A Logseq plugin to reset a managed sidebar.",
+      "title": "Sidebar Preset",
+      "description": "A Logseq plugin to provide a group of sidebar presets.",
       "author": "vipzhicheng",
-      "repo": "vipzhicheng/logseq-plugin-reset-sidebar",
+      "repo": "vipzhicheng/logseq-plugin-sidebar-preset",
       "icon": "icon.png",
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
-      "id": "logseq-reset-sidebar",
+      "id": "logseq-sidebar-preset",
       "addedAt": 1660277679000
     },
     {
