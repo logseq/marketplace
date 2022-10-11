@@ -1,5 +1,5 @@
 {
-  "datetime": 1665226240844,
+  "datetime": 1665469447766,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -114,8 +114,8 @@
     {
       "title": "Atmos theme",
       "description": "A theme inspired by One Dark Pro",
-      "author": "MatAmo93",
-      "repo": "MatAmo93/logseq-atmos-theme",
+      "author": "Mat4m0",
+      "repo": "Mat4m0/logseq-atmos-theme",
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-atmos-theme",
@@ -1103,7 +1103,7 @@
     },
     {
       "title": "NEON theme",
-      "description": "Neon inspired Theme for logseq.",
+      "description": "Neon inspired Theme for logseq. v0.3",
       "author": "solariz",
       "repo": "solariz/logseq-neon-theme",
       "icon": "logo.jpg",
@@ -1199,10 +1199,23 @@
       "addedAt": 1653773658000
     },
     {
+      "title": "Page-tags and Hierarchy",
+      "description": "Show page-tags and hierarchy on the right side of the page.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-page-tags-and-hierarchy",
+      "icon": "./icon.svg",
+      "repository": "https://github.com/YU000jp/logseq-page-tags-and-hierarchy.git",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-page-tags-and-hierarchy",
+      "addedAt": 1665379765000
+    },
+    {
       "title": "Panic theme",
-      "description": "A theme inspired by Panic mode tempalte from Bear notes app ",
-      "author": "SoKirill",
-      "repo": "sokirill/logseq-panic-theme",
+      "description": "A theme inspired by Panic mode template from Bear notes app ",
+      "author": "kirso",
+      "repo": "kirso/logseq-panic-theme",
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-panic-theme",
@@ -1548,18 +1561,6 @@
       "addedAt": 1646101578000
     },
     {
-      "title": "Sidebar Preset",
-      "description": "A Logseq plugin to provide a group of sidebar presets.",
-      "author": "vipzhicheng",
-      "repo": "vipzhicheng/logseq-plugin-sidebar-preset",
-      "icon": "icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/vipzhicheng"
-      ],
-      "id": "logseq-sidebar-preset",
-      "addedAt": 1660277679000
-    },
-    {
       "title": "Logseq RTL Mode",
       "description": "Support RTL mode for languages like Hebrew, Arabic, Farsi, Urdu, etc.",
       "author": "Aryan Sawhney",
@@ -1606,6 +1607,18 @@
       "theme": true,
       "id": "logseq-sepia-theme",
       "addedAt": 1637059777000
+    },
+    {
+      "title": "Sidebar Preset",
+      "description": "A Logseq plugin to provide a group of sidebar presets.",
+      "author": "vipzhicheng",
+      "repo": "vipzhicheng/logseq-plugin-sidebar-preset",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-sidebar-preset",
+      "addedAt": 1660277679000
     },
     {
       "title": "SimpRead",
