@@ -1,0 +1,7 @@
+{
+    "title": "Search Wikipedia",
+    "description": "Search Wikipedia and add the content as a block or a page" ,
+    "author": "enchantmenttable",
+    "repo":"enchantmenttable/logseq-wiki-search",
+    "icon": "icon.png"
+}
