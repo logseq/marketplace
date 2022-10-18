@@ -1,5 +1,5 @@
 {
-  "datetime": 1665494979087,
+  "datetime": 1666058181193,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2002,6 +2002,15 @@
       "effect": true,
       "id": "logseq-wide-eyed",
       "addedAt": 1644886365000
+    },
+    {
+      "title": "Search Wikipedia",
+      "description": "Search Wikipedia and add the content as a block or a page",
+      "author": "enchantmenttable",
+      "repo": "enchantmenttable/logseq-wiki-search",
+      "icon": "icon.png",
+      "id": "logseq-wiki-search",
+      "addedAt": 1665774988000
     },
     {
       "title": "logseq-wordcount-plugin",
