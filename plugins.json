@@ -1,5 +1,5 @@
 {
-  "datetime": 1666058181193,
+  "datetime": 1666320610683,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -156,7 +156,6 @@
         "https://www.buymeacoffee.com/yoyurec"
       ],
       "effect": true,
-      "theme": true,
       "id": "logseq-awesome-styler",
       "addedAt": 1664733642000
     },
@@ -1398,6 +1397,16 @@
       "theme": false,
       "id": "logseq-plugin-quick-references",
       "addedAt": 1651513878000
+    },
+    {
+      "title": "Task completion",
+      "description": "Plugin enables adding 'completed: <today's date>' property to task upon checking. See README for report generation query.",
+      "author": "Dmitrii Dushkin (https://github.com/DimitryDushkin)",
+      "repo": "DimitryDushkin/logseq-plugin-task-check-date",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-plugin-task-check-date",
+      "addedAt": 1666302710000
     },
     {
       "title": "logseq-pomodoro-technique",
