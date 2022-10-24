@@ -1,5 +1,5 @@
 {
-  "datetime": 1666320610683,
+  "datetime": 1666572970365,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -147,8 +147,8 @@
       "addedAt": 1663885581000
     },
     {
-      "title": "Awesome Styler (SolarizedExt)",
-      "description": "🐱‍👤 Totally customizable theme with presets: colors, backgrounds, fonts and sizes, etc...",
+      "title": "Awesome Styler",
+      "description": "Totally customizable theme with presets: colors, backgrounds, fonts and sizes, etc...",
       "author": "yoyurec",
       "repo": "yoyurec/logseq-awesome-styler",
       "icon": "icon.png",
