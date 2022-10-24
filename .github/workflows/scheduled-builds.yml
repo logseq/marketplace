@@ -1,0 +1,13 @@
+# .github/workflows/scheduled-builds.yml
+name: Trigger Rebuild Statistics
+
+on:
+  schedule:
+    - cron: '1 * * * *'
+jobs:
+  build:
+    name: Trigger Rebuild
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start
+        run: echo "DEBUG=> Start build"
