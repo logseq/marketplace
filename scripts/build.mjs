@@ -21,14 +21,22 @@ const agent = new HttpsProxyAgent(proxy)
 
 let proxyEnabled = false
 
+if (process.env.LSP_MK_TOKEN) {
+  console.debug(`HTTP: token ${process.env.LSP_MK_TOKEN.substr(0, 8)}`)
+}
+
 function httpGet (url) {
   return new Promise((resolve, reject) => {
+    const headers = {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'
+    }
+
+    if (process.env.LSP_MK_TOKEN) {
+      headers.Authorization = `token ${process.env.LSP_MK_TOKEN}`
+    }
+
     https.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
-        'Authorization': 'token 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'
-      },
-      agent: proxyEnabled ? agent : false,
+      headers, agent: proxyEnabled ? agent : false,
     }, (res) => {
       if (res.statusCode !== 200) {
         reject(`StatusCode: ${res.statusCode}`)
@@ -195,6 +203,10 @@ async function cli (action, ...rest) {
         [refStats, refErrors] = await batchWorker(jobs, refStats, refErrors)
 
         await delay(3000)
+
+        if (refErrors.length && refErrors[refErrors.length - 1]?.error === 'StatusCode: 403') {
+          throw new Error(`Fatal Error: ${refErrors.pop().error}`)
+        }
       }
 
       break
