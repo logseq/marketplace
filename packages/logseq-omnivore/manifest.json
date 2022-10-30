@@ -1,0 +1,7 @@
+{
+    "title": "logseq-omnivore",
+    "description": "Import Omnivore highlights and articles into Logseq.",
+    "author": "Omnivore",
+    "repo": "omnivore-app/logseq-omnivore",
+    "icon": "icon.png"
+}

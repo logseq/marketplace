@@ -1,0 +1,9 @@
+{
+  "title": "Logseq Summarizer",
+  "name": "Logseq Summarizer",
+  "description": "A utility to summarize long text into its key points.",
+  "author": "Stephen Solka",
+  "repo": "trashhalo/logseq-summarizer",
+  "icon": "icon.png",
+  "sponsors": ["https://ko-fi.com/trashhalo"]
+}

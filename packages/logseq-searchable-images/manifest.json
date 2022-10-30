@@ -4,6 +4,7 @@
     "author": "Aryan Sawhney",
     "repo": "sawhney17/logseq-searchable",
     "icon": "./icon.png",
+    "effect": true, 
     "sponsors": [
      "https://www.buymeacoffee.com/sawhney17"
    ]

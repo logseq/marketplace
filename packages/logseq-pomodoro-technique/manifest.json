@@ -1,0 +1,7 @@
+{
+    "title": "logseq-pomodoro-technique",
+    "description": "A joyful pomodoro timer for block task item 🍅, fork logseq-plugin-samples/logseq-pomodoro-timer",
+    "author": "denvey",
+    "repo": "denvey/logseq-pomodoro-technique",
+    "icon": "./icon.png"
+  }

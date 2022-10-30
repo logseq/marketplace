@@ -1,0 +1,8 @@
+{
+    "title": "Arc Theme",
+    "description": " A Logseq theme based on Arc by The Browser Company",
+    "author": "@andyburris",
+    "repo": "andyburris/logseq-arc-theme",
+    "icon": "arc-icon.png",
+    "theme": true
+  }
