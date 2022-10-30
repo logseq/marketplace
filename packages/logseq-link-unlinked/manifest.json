@@ -1,0 +1,9 @@
+{
+	"title": "Linked Unlinked References",
+	"description": "Highlight and automatically linked unlinked references",
+	"author": "usoon",
+	"repo": "usoonees/logseq-plugin-link-unlink",
+	"icon": "./icon.png",
+	"effect": true
+}
+	
