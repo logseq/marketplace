@@ -1,5 +1,5 @@
 {
-  "datetime": 1666572970365,
+  "datetime": 1667100463299,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2030,6 +2030,16 @@
       "icon": "./icon.png",
       "id": "logseq-wordcount-plugin",
       "addedAt": 1637780918000
+    },
+    {
+      "title": "WordPress Export Plugin",
+      "description": "Format and export your page or block for WordPress or any other publishing system.",
+      "author": "Artur Piszek (artpi)",
+      "repo": "artpi/logseq-wordpress-export",
+      "icon": "./logo.png",
+      "effect": true,
+      "id": "logseq-wordpress-export",
+      "addedAt": 1667069699000
     },
     {
       "title": "Woz theme",

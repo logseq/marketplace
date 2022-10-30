@@ -3,5 +3,6 @@
     "description": "Format and export your page or block for WordPress or any other publishing system.",
     "author": "Artur Piszek (artpi)",
     "repo": "artpi/logseq-wordpress-export",
-    "icon": "./logo.png"
+    "icon": "./logo.png",
+    "effect": true
 }
