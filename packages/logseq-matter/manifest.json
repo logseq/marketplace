@@ -1,0 +1,8 @@
+{
+  "title": "Matter",
+  "description": "Official Matter plugin for Logseq" ,
+  "author": "Matter",
+  "repo":"getmatterapp/logseq-matter",
+  "icon": "logo.svg",
+  "effect": true
+}
