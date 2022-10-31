@@ -1,5 +1,5 @@
 {
-  "datetime": 1667100463299,
+  "datetime": 1667182026144,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -901,6 +901,16 @@
       "effect": true,
       "id": "logseq-link-preview",
       "addedAt": 1631021584000
+    },
+    {
+      "title": "Linked Unlinked References",
+      "description": "Highlight and automatically linked unlinked references",
+      "author": "usoon",
+      "repo": "usoonees/logseq-plugin-link-unlink",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-link-unlinked",
+      "addedAt": 1667148632000
     },
     {
       "title": "logseq-localassets-plugin",
