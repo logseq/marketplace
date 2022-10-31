@@ -1,5 +1,5 @@
 {
-  "datetime": 1667183258046,
+  "datetime": 1667224944509,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -484,6 +484,16 @@
       ],
       "id": "logseq-datetag-plugin",
       "addedAt": 1644179668000
+    },
+    {
+      "title": "Days",
+      "description": "Generate a calendar with all days related to a topic highlighted. A topic is either a page or a block.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-days",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-days",
+      "addedAt": 1667209371000
     },
     {
       "title": "Logseq Deadline Countdown",
