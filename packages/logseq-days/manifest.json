@@ -1,0 +1,8 @@
+{
+  "title": "Days",
+  "description": "Generate a calendar with all days related to a topic highlighted. A topic is either a page or a block.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-days",
+  "icon": "./icon.png",
+  "effect": true
+}
