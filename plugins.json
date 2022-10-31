@@ -1,5 +1,5 @@
 {
-  "datetime": 1667182026144,
+  "datetime": 1667183258046,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -996,6 +996,16 @@
       "icon": "logo.png",
       "id": "logseq-marks",
       "addedAt": 1665429877000
+    },
+    {
+      "title": "Matter",
+      "description": "Official Matter plugin for Logseq",
+      "author": "Matter",
+      "repo": "getmatterapp/logseq-matter",
+      "icon": "logo.svg",
+      "effect": true,
+      "id": "logseq-matter",
+      "addedAt": 1666991542000
     },
     {
       "title": "media controls",
