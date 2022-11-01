@@ -1,5 +1,5 @@
 {
-  "datetime": 1667224944509,
+  "datetime": 1667280947388,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -913,8 +913,8 @@
       "addedAt": 1631021584000
     },
     {
-      "title": "Linked Unlinked References",
-      "description": "Highlight and automatically linked unlinked references",
+      "title": "Link Unlinked References",
+      "description": "Highlight keyword and automatically link in unlinked references",
       "author": "usoon",
       "repo": "usoonees/logseq-plugin-link-unlink",
       "icon": "./icon.png",
