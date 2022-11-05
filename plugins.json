@@ -1,5 +1,5 @@
 {
-  "datetime": 1667367959804,
+  "datetime": 1667618792041,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -564,6 +564,15 @@
       "theme": true,
       "id": "logseq-dracula-theme",
       "addedAt": 1632324168000
+    },
+    {
+      "title": "Dynamic Property Lookup",
+      "description": "This plugin allows you to look up properties on a target page and place the value of the property in your text.",
+      "author": "Alexander Lais",
+      "repo": "peanball/logseq-dynamic-lookup",
+      "icon": "logo.png",
+      "id": "logseq-dynamic-lookup",
+      "addedAt": 1667551686000
     },
     {
       "title": "Logseq-ECharts",
@@ -1974,6 +1983,16 @@
       "icon": "icon.png",
       "id": "logseq-unsplash",
       "addedAt": 1636481769000
+    },
+    {
+      "title": "URL+",
+      "description": "Retrieves metadata or API response of a valid URL, formats and rewrites the active block with various templates.",
+      "author": "rlhk",
+      "repo": "rlhk/logseq-url-plus",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-url-plus",
+      "addedAt": 1667578023000
     },
     {
       "title": "url to markdown",

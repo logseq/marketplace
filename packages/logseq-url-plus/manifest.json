@@ -1,7 +1,8 @@
 {
   "title": "URL+",
-  "description": "Retreives metadata or API response of a valid URL, formats and rewrites the active block with various templates.",
-   "author": "rlhk",
-  "repo":"rlhk/logseq-url-plus",
-  "icon": "icon.png"
+  "description": "Retrieves metadata or API response of a valid URL, formats and rewrites the active block with various templates.",
+  "author": "rlhk",
+  "repo": "rlhk/logseq-url-plus",
+  "icon": "icon.png",
+  "effect": true
 }
