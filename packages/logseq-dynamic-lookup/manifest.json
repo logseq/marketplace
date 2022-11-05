@@ -1,0 +1,7 @@
+{
+  "title": "Dynamic Property Lookup",
+  "description": "This plugin allows you to look up properties on a target page and place the value of the property in your text.",
+  "author": "Alexander Lais",
+  "repo": "peanball/logseq-dynamic-lookup",
+  "icon": "logo.png"
+}
