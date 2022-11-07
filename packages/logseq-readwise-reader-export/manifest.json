@@ -4,7 +4,7 @@
   "author": "Peter Stuifzand",
   "repo": "pstuifzand/logseq-readwise-reader-export",
   "sponsors": [
-      "https://ko-fi.com/pstuifzand",
+    "https://ko-fi.com/pstuifzand"
   ],
-  "effect": false
+  "effect": true
 }

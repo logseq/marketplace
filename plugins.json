@@ -1,5 +1,5 @@
 {
-  "datetime": 1667618792041,
+  "datetime": 1667802743003,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1587,6 +1587,18 @@
       "effect": true,
       "id": "logseq-readwise-official-plugin",
       "addedAt": 1656970886000
+    },
+    {
+      "title": "Readwise Reader Export",
+      "description": "Export blocks as highlights with notes to Readwise",
+      "author": "Peter Stuifzand",
+      "repo": "pstuifzand/logseq-readwise-reader-export",
+      "sponsors": [
+        "https://ko-fi.com/pstuifzand"
+      ],
+      "effect": true,
+      "id": "logseq-readwise-reader-export",
+      "addedAt": 1667741424000
     },
     {
       "title": "logseq-recipeimporter-plugin",
