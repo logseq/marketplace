@@ -1,5 +1,5 @@
 {
-  "datetime": 1667802743003,
+  "datetime": 1667874952192,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1628,6 +1628,16 @@
       "icon": "./logo.png",
       "id": "logseq-reference-styles",
       "addedAt": 1646101578000
+    },
+    {
+      "title": "Reminder",
+      "description": "System notification for Scheduled and Deadline.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-reminder",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-reminder",
+      "addedAt": 1667830179000
     },
     {
       "title": "Logseq RTL Mode",
