@@ -1,5 +1,5 @@
 {
-  "datetime": 1667874952192,
+  "datetime": 1668052491119,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1150,7 +1150,7 @@
     },
     {
       "title": "NEON theme",
-      "description": "Neon inspired Theme for logseq. v0.3",
+      "description": "v0.4 - Neon inspired Theme for logseq.",
       "author": "solariz",
       "repo": "solariz/logseq-neon-theme",
       "icon": "logo.jpg",
