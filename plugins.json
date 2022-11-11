@@ -1,5 +1,5 @@
 {
-  "datetime": 1668052491119,
+  "datetime": 1668175140276,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1734,6 +1734,16 @@
       ],
       "id": "logseq-smartblocks",
       "addedAt": 1643142588000
+    },
+    {
+      "title": "Smart Search",
+      "description": "Triggers an input that helps you search various types of data.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-smartsearch",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-smartsearch",
+      "addedAt": 1668169207000
     },
     {
       "title": "Split block",
