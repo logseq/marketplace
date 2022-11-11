@@ -1,6 +1,6 @@
 {
   "title": "Logseq Anki Sync",
-  "description": "An Logseq to Anki Flashcards integration plugin." ,
+  "description": "An logseq to anki syncing plugin with superpowers - image occlusion, card direction, incremental cards, and a lot more." ,
   "author": "debanjandhar12",
   "repo":"debanjandhar12/logseq-anki-sync",
   "icon": "./icon.png",
