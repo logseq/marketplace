@@ -1,0 +1,8 @@
+{
+  "title": "Smart Search",
+  "description": "Triggers an input that helps you search various types of data.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-smartsearch",
+  "icon": "./icon.png",
+  "effect": true
+}
