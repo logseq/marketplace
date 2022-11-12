@@ -1,5 +1,5 @@
 {
-  "datetime": 1668219173530,
+  "datetime": 1668233251482,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -266,6 +266,16 @@
       "icon": "icon.png",
       "id": "logseq-browser",
       "addedAt": 1642408210000
+    },
+    {
+      "title": "BuJo theme",
+      "description": "A theme inspired by Bullet Journals",
+      "author": "PiotrSss & stdword",
+      "repo": "stdword/logseq-bujo-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-bujo-theme",
+      "addedAt": 1668223357000
     },
     {
       "title": "Bullet Threading",
