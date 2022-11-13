@@ -1,0 +1,8 @@
+{
+  "title": "Metrics",
+  "description": "Track and visaulize your personal habits, goals and business results in Logseq." ,
+  "author": "John McCann",
+  "repo":"dangermccann/logseq-metrics",
+  "icon": "logo.png",
+  "sponsors": ["https://www.buymeacoffee.com/dangermccaC"]
+}
