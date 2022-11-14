@@ -1,5 +1,5 @@
 {
-  "datetime": 1668233251482,
+  "datetime": 1668398426628,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -384,6 +384,14 @@
       "effect": true,
       "id": "logseq-classy",
       "addedAt": 1652358745000
+    },
+    {
+      "title": "Code Formatter",
+      "description": "Format your code block in logseq.",
+      "author": "PerfectPan",
+      "repo": "PerfectPan/logseq-plugin-code-formatter",
+      "id": "logseq-code-formatter",
+      "addedAt": 1668355462000
     },
     {
       "title": "Column-Layout",
@@ -881,6 +889,16 @@
       "addedAt": 1654284638000
     },
     {
+      "title": "Logseq Jira Sync",
+      "description": "A Logseq-Jira integration.",
+      "author": "adyscorpius",
+      "repo": "adyscorpius/logseq-jira",
+      "icon": "./icon.png",
+      "theme": false,
+      "id": "logseq-jira",
+      "addedAt": 1668385318000
+    },
+    {
       "title": "Journals calendar",
       "description": "A simple journals calendar plugin for Logseq.",
       "repo": "xyhp915/logseq-journals-calendar",
@@ -1085,6 +1103,18 @@
       "icon": "./icon.svg",
       "id": "logseq-mermaid-plugin",
       "addedAt": 1644721606000
+    },
+    {
+      "title": "Metrics",
+      "description": "Track and visaulize your personal habits, goals and business results in Logseq.",
+      "author": "John McCann",
+      "repo": "dangermccann/logseq-metrics",
+      "icon": "logo.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/dangermccaC"
+      ],
+      "id": "logseq-metrics",
+      "addedAt": 1668365724000
     },
     {
       "title": "miA theme",
