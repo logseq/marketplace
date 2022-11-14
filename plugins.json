@@ -1,5 +1,5 @@
 {
-  "datetime": 1668398426628,
+  "datetime": 1668419964823,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -895,6 +895,7 @@
       "repo": "adyscorpius/logseq-jira",
       "icon": "./icon.png",
       "theme": false,
+      "effect": true,
       "id": "logseq-jira",
       "addedAt": 1668385318000
     },
