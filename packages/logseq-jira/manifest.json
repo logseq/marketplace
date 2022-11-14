@@ -4,5 +4,6 @@
   "author": "adyscorpius",
   "repo":"adyscorpius/logseq-jira",
   "icon": "./icon.png",
-  "theme": false
+  "theme": false,
+  "effect": true
 }
