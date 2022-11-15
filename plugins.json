@@ -1,5 +1,5 @@
 {
-  "datetime": 1668419964823,
+  "datetime": 1668479222296,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1111,6 +1111,7 @@
       "author": "John McCann",
       "repo": "dangermccann/logseq-metrics",
       "icon": "logo.png",
+      "effect": true,
       "sponsors": [
         "https://www.buymeacoffee.com/dangermccaC"
       ],
