@@ -4,5 +4,6 @@
   "author": "John McCann",
   "repo":"dangermccann/logseq-metrics",
   "icon": "logo.png",
+  "effect": true,
   "sponsors": ["https://www.buymeacoffee.com/dangermccaC"]
 }
