@@ -1,0 +1,8 @@
+{
+  "title": "SamePage",
+  "description": "Official LogSeq client into the intra tool-for-thought protocol.",
+  "author": "SamePage",
+  "repo": "samepage-network/logseq-samepage",
+  "icon": "./logo.svg",
+  "theme": false
+}
