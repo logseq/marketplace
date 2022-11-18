@@ -4,5 +4,6 @@
   "author": "SamePage",
   "repo": "samepage-network/logseq-samepage",
   "icon": "./logo.svg",
-  "theme": false
+  "theme": false,
+  "effect": true
 }

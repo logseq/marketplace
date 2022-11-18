@@ -1,5 +1,5 @@
 {
-  "datetime": 1668569155970,
+  "datetime": 1668742252980,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2235,6 +2235,17 @@
       "repo": "Angboo/logwidgets",
       "id": "logwidgets",
       "addedAt": 1656151446000
+    },
+    {
+      "title": "SamePage",
+      "description": "Official LogSeq client into the intra tool-for-thought protocol.",
+      "author": "SamePage",
+      "repo": "samepage-network/logseq-samepage",
+      "icon": "./logo.svg",
+      "theme": false,
+      "effect": true,
+      "id": "samepage",
+      "addedAt": 1668554654000
     },
     {
       "title": "Unfinished Business",
