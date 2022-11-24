@@ -3,5 +3,6 @@
   "description": "Query discogs.com API for album data and write it to your loqseq graph",
   "author": "axelav",
   "repo": "axelav/logseq-plugin-discogs",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "effect": true
 }

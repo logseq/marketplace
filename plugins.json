@@ -1,5 +1,5 @@
 {
-  "datetime": 1668742252980,
+  "datetime": 1669258099201,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1426,6 +1426,16 @@
       "effect": true,
       "id": "logseq-plugin-automatic-url-title",
       "addedAt": 1657445237000
+    },
+    {
+      "title": "Query Discogs",
+      "description": "Query discogs.com API for album data and write it to your loqseq graph",
+      "author": "axelav",
+      "repo": "axelav/logseq-plugin-discogs",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-plugin-discogs",
+      "addedAt": 1669236504000
     },
     {
       "title": "Github File Getter",
