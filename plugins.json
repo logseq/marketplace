@@ -1,5 +1,5 @@
 {
-  "datetime": 1669258099201,
+  "datetime": 1669527281464,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1026,6 +1026,15 @@
       "addedAt": 1658972312000
     },
     {
+      "title": "Copy from macOS Books without citation",
+      "description": "Remove the 'Excerpt From...' part when copy from macOS Books",
+      "author": "enchantmenttable",
+      "repo": "enchantmenttable/logseq-macosbooks-copy-without-citation",
+      "icon": "icon.png",
+      "id": "logseq-macosbooks-copy-without-citation",
+      "addedAt": 1669184210000
+    },
+    {
       "title": "Markmap",
       "description": "Mind map support based on markmap library.",
       "author": "vipzhicheng",
@@ -1426,6 +1435,19 @@
       "effect": true,
       "id": "logseq-plugin-automatic-url-title",
       "addedAt": 1657445237000
+    },
+    {
+      "title": "booklog-jp",
+      "description": "Create a booklist by import from https://booklog.jp/",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-booklog-jp-import",
+      "icon": "./icon.svg",
+      "repository": "https://github.com/YU000jp/logseq-plugin-booklog-jp-import",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-booklog-jp-import",
+      "addedAt": 1669444021000
     },
     {
       "title": "Query Discogs",
