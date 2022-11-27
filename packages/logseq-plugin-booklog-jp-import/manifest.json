@@ -1,0 +1,9 @@
+{
+  "title": "booklog-jp",
+  "description": "Create a booklist by import from https://booklog.jp/",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-booklog-jp-import",
+  "icon": "./icon.svg",
+  "repository":"https://github.com/YU000jp/logseq-plugin-booklog-jp-import",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"]
+}
