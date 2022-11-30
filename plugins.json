@@ -1,5 +1,5 @@
 {
-  "datetime": 1669527281464,
+  "datetime": 1669779792769,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -394,6 +394,16 @@
       "effect": true,
       "id": "logseq-classy",
       "addedAt": 1652358745000
+    },
+    {
+      "title": "logseq-clock-plugin",
+      "name": "logseq-clock-plugin",
+      "description": "This simple plugin puts in a clock in your toolbar. Offers the option to show seconds or in 12/24 hour formats.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-clock-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-clock-plugin",
+      "addedAt": 1669778695000
     },
     {
       "title": "Code Formatter",

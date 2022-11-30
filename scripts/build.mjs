@@ -133,7 +133,7 @@ async function cli (action, ...rest) {
 
             const base = _payload || await getRepoBaseInfo(repo)
 
-            await delay(500)
+            await delay(300)
 
             const ref = outStats[id] = [
               'created_at',
@@ -148,6 +148,7 @@ async function cli (action, ...rest) {
               lastFetchedAt: Date.now()
             })
 
+            // sometime break silently for network hang up
             const releases = _releases || await getRepoReleasesStat(repo)
             const refReleases = ref.releases = []
 
@@ -202,7 +203,7 @@ async function cli (action, ...rest) {
         console.debug(`Jobs: [${packages.length}th] #${jobs.map(it => it.id).join(' #')}`);
         [refStats, refErrors] = await batchWorker(jobs, refStats, refErrors)
 
-        await delay(2000)
+        await delay(500)
 
         if (refErrors.length && refErrors[refErrors.length - 1]?.error === 'StatusCode: 403') {
           throw new Error(`Fatal Error: ${refErrors.pop().error}`)
