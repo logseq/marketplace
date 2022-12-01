@@ -1,0 +1,7 @@
+{
+  "title": "Daily TODO",
+  "description": "Moves unfinished TODO tasks to new daily journals",
+  "author": "ehudhala",
+  "icon": "icon.png",
+  "repo": "ehudhala/logseq-plugin-daily-todo"
+}
