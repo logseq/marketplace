@@ -1,5 +1,5 @@
 {
-  "datetime": 1669779792769,
+  "datetime": 1669863837694,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1460,6 +1460,15 @@
       "addedAt": 1669444021000
     },
     {
+      "title": "Daily TODO",
+      "description": "Moves unfinished TODO tasks to new daily journals",
+      "author": "ehudhala",
+      "icon": "icon.png",
+      "repo": "ehudhala/logseq-plugin-daily-todo",
+      "id": "logseq-plugin-daily-todo",
+      "addedAt": 1669805457000
+    },
+    {
       "title": "Query Discogs",
       "description": "Query discogs.com API for album data and write it to your loqseq graph",
       "author": "axelav",
@@ -1856,6 +1865,16 @@
       "repo": "hyrijk/logseq-plugin-split-block",
       "id": "logseq-split-block",
       "addedAt": 1631844157000
+    },
+    {
+      "title": "Spotify Integration",
+      "description": "Displays the tracks you have recently listened to on Spotify in your log using a slash command",
+      "author": "hankhank10",
+      "repo": "hankhank10/i-listened-plugin",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-spotify",
+      "addedAt": 1669832329000
     },
     {
       "title": "Sticky headers",

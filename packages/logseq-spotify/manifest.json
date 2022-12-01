@@ -2,6 +2,7 @@
   "title": "Spotify Integration",
   "description": "Displays the tracks you have recently listened to on Spotify in your log using a slash command",
   "author": "hankhank10",
-  "repo":"hankhank10/i-listened-plugin",
-  "icon": "icon.png"
+  "repo": "hankhank10/i-listened-plugin",
+  "icon": "icon.png",
+  "effect": true
 }
