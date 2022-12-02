@@ -1,5 +1,5 @@
 {
-  "datetime": 1669863837694,
+  "datetime": 1669950243995,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1103,6 +1103,15 @@
       "effect": true,
       "id": "logseq-media-ts",
       "addedAt": 1646211056000
+    },
+    {
+      "title": "Memos Sync",
+      "description": "Sync content from Memos to Logseq",
+      "author": "EINDEX",
+      "repo": "EINDEX/logseq-memos-sync",
+      "icon": "./logo.webp",
+      "id": "logseq-memos-sync",
+      "addedAt": 1669879327000
     },
     {
       "title": "Merge Nested Blocks Into One",
