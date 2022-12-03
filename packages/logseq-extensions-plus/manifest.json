@@ -1,0 +1,13 @@
+{
+  "title": "Extensions plus",
+  "description": "A plugin to enhance functions of Logseq's internal extensions.",
+  "repo": "xyhp915/logseq-extensions-plus",
+  "author": "xyhp915",
+  "icon": "icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://opencollective.com/logseq"
+  ]
+}
+
+
