@@ -1,6 +1,6 @@
 {
   "title": "URL+",
-  "description": "Retrieves metadata or API response of a valid URL, formats and rewrites the active block with various templates.",
+  "description": "A Logseq plugin that retrieves common information based on the last term of an editing block.",
   "author": "rlhk",
   "repo": "rlhk/logseq-url-plus",
   "icon": "icon.png",

@@ -1,5 +1,5 @@
 {
-  "datetime": 1669950243995,
+  "datetime": 1670048712435,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -638,6 +638,19 @@
       "icon": "./logo.png",
       "id": "logseq-emoji-picker-fork",
       "addedAt": 1657039359000
+    },
+    {
+      "title": "Extensions plus",
+      "description": "A plugin to enhance functions of Logseq's internal extensions.",
+      "repo": "xyhp915/logseq-extensions-plus",
+      "author": "xyhp915",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://opencollective.com/logseq"
+      ],
+      "id": "logseq-extensions-plus",
+      "addedAt": 1670048597000
     },
     {
       "title": "logseq-extract-plugin",
@@ -1465,6 +1478,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/yu000japan"
       ],
+      "effect": true,
       "id": "logseq-plugin-booklog-jp-import",
       "addedAt": 1669444021000
     },
@@ -2150,7 +2164,7 @@
     },
     {
       "title": "URL+",
-      "description": "Retrieves metadata or API response of a valid URL, formats and rewrites the active block with various templates.",
+      "description": "A Logseq plugin that retrieves common information based on the last term of an editing block.",
       "author": "rlhk",
       "repo": "rlhk/logseq-url-plus",
       "icon": "icon.png",
