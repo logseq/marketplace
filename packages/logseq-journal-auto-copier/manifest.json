@@ -1,0 +1,10 @@
+{
+  "title": "Logseq Journal Auto Copier",
+  "description": "Copies the last edited journal into today's journal. Deletes completed TODOs and clears out Notes sections.",
+  "repo": "alecdibble/logseq-journal-auto-copier",
+  "author": "alecdibble",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.alecdibble.com"
+  ]
+}
