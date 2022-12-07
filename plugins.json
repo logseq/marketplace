@@ -1,5 +1,5 @@
 {
-  "datetime": 1670048712435,
+  "datetime": 1670384808067,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -933,6 +933,18 @@
       "addedAt": 1668385318000
     },
     {
+      "title": "Logseq Journal Auto Copier",
+      "description": "Copies the last edited journal into today's journal. Deletes completed TODOs and clears out Notes sections.",
+      "repo": "alecdibble/logseq-journal-auto-copier",
+      "author": "alecdibble",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.alecdibble.com"
+      ],
+      "id": "logseq-journal-auto-copier",
+      "addedAt": 1670347484000
+    },
+    {
       "title": "Journals calendar",
       "description": "A simple journals calendar plugin for Logseq.",
       "repo": "xyhp915/logseq-journals-calendar",
@@ -1552,6 +1564,18 @@
       "effect": true,
       "id": "logseq-plugin-page-export",
       "addedAt": 1652603694000
+    },
+    {
+      "title": "Panel Coloring",
+      "description": "Color blocks that contain some tags. Emphasize blocks like panels.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-panel-coloring",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-panel-coloring",
+      "addedAt": 1670330949000
     },
     {
       "title": "Logseq Query Chart",
