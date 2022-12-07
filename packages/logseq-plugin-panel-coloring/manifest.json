@@ -1,0 +1,8 @@
+{
+  "title": "Panel Coloring",
+  "description": "Color blocks that contain some tags. Emphasize blocks like panels.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-panel-coloring",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"]
+}
