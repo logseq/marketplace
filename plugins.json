@@ -1,5 +1,5 @@
 {
-  "datetime": 1670384808067,
+  "datetime": 1670988757715,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -551,6 +551,15 @@
       "theme": true,
       "id": "logseq-dev-theme",
       "addedAt": 1630664401000
+    },
+    {
+      "title": "Developer Theme",
+      "description": "A more developer-friendly minimalist theme.",
+      "author": "unickcheng",
+      "repo": "UNICKCHENG/logseq-developer-theme",
+      "theme": true,
+      "id": "logseq-developer-theme",
+      "addedAt": 1670653958000
     },
     {
       "title": "Diagrams as Code",
