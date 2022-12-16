@@ -1,0 +1,8 @@
+{
+  "title": "logseq-powertags-plugin",
+  "name": "logseq-powertags-plugin",
+  "description": "Designate selected tags as power tags, and see them auto-create properties are you use them!a",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-powertags-plugin",
+  "icon": "./icon.svg"
+}
