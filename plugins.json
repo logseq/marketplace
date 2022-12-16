@@ -1,5 +1,5 @@
 {
-  "datetime": 1670988757715,
+  "datetime": 1671157661005,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1647,6 +1647,16 @@
       "effect": true,
       "id": "logseq-power-plugin",
       "addedAt": 1651466320000
+    },
+    {
+      "title": "logseq-powertags-plugin",
+      "name": "logseq-powertags-plugin",
+      "description": "Designate selected tags as power tags, and see them auto-create properties are you use them!a",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-powertags-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-powertags-plugin",
+      "addedAt": 1671120490000
     },
     {
       "title": "logseq-property-visualizer",
