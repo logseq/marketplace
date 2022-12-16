@@ -1,5 +1,5 @@
 {
-  "datetime": 1671157661005,
+  "datetime": 1671179110262,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1655,6 +1655,7 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-powertags-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-powertags-plugin",
       "addedAt": 1671120490000
     },
