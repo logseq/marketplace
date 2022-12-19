@@ -1,5 +1,5 @@
 {
-  "datetime": 1671179110262,
+  "datetime": 1671419867507,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1311,6 +1311,16 @@
       "addedAt": 1651170839000
     },
     {
+      "title": "Open Logseq Files in Emacs",
+      "description": "Open and edit Logseq pages and config files in Emacs",
+      "author": "ksqsf",
+      "repo": "ksqsf/logseq-open-in-emacs",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-open-in-emacs",
+      "addedAt": 1671270198000
+    },
+    {
       "title": "Open in External App",
       "description": "Use external app to open logseq file",
       "author": "haydenull",
@@ -1478,6 +1488,15 @@
       "icon": "./icon.png",
       "id": "logseq-plantuml-plugin",
       "addedAt": 1652430038000
+    },
+    {
+      "title": "Areas",
+      "description": "The plugin connects the visuals with the block",
+      "author": "songOT",
+      "repo": "bsongOT/logseq-plugin-areas",
+      "icon": "icon.png",
+      "id": "logseq-plugin-areas",
+      "addedAt": 1664104209000
     },
     {
       "title": "Automatic format url title",
@@ -1902,6 +1921,16 @@
       "effect": true,
       "id": "logseq-sliders-plugin",
       "addedAt": 1646970193000
+    },
+    {
+      "title": "Smart Typing",
+      "description": "Enrich the editing experience in Logseq, automatically match all kinds of parentheses, quotation marks and mathematical equations. Support for matching Chinese punctuation marks.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-smart-typing",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-smart-typing",
+      "addedAt": 1671195380000
     },
     {
       "title": "logseq-smartblocks",

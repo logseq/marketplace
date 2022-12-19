@@ -2,7 +2,7 @@
   "title": "Open Logseq Files in Emacs",
   "description": "Open and edit Logseq pages and config files in Emacs",
   "author": "ksqsf",
-  "repo": "ksqsf/logseq-open-in-code",
+  "repo": "ksqsf/logseq-open-in-emacs",
   "icon": "icon.png",
   "effect": true
 }
