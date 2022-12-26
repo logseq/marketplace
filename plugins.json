@@ -1,5 +1,5 @@
 {
-  "datetime": 1671419867507,
+  "datetime": 1672023859415,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1583,6 +1583,16 @@
       "addedAt": 1652300645000
     },
     {
+      "title": "Leetcode",
+      "description": "A plugin that batch fetch leetcode problems to your logseq.",
+      "author": "Alucard",
+      "repo": "alucpro/logseq-plugin-leetcode",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-leetcode",
+      "addedAt": 1671962880000
+    },
+    {
       "title": "logseq-plugin-page-export",
       "description": "a plugin that makes use of html2canvas to export current page in logseq",
       "author": "William Huang",
@@ -1634,6 +1644,16 @@
       "theme": false,
       "id": "logseq-plugin-task-check-date",
       "addedAt": 1666302710000
+    },
+    {
+      "title": "Weather",
+      "description": "Query https://openweathermap.org API for weather data and write it to your logseq graph",
+      "author": "axelav",
+      "repo": "axelav/logseq-plugin-weather",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-plugin-weather",
+      "addedAt": 1672006539000
     },
     {
       "title": "logseq-pomodoro-technique",
