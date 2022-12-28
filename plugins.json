@@ -1,5 +1,5 @@
 {
-  "datetime": 1672023859415,
+  "datetime": 1672196619902,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -994,6 +994,16 @@
       "theme": true,
       "id": "logseq-laurel-theme",
       "addedAt": 1632625009000
+    },
+    {
+      "title": "Logseq Linear.app Integration",
+      "description": "A utility to link your Linear.app issues with Logseq using the Linear issue id,",
+      "author": "Gezim Hoxha",
+      "repo": "hgezim/logseq-linear-plugin",
+      "icon": "./linear-icon.png",
+      "effect": true,
+      "id": "logseq-linear-plugin",
+      "addedAt": 1672177070000
     },
     {
       "title": "Link Preview",
