@@ -1,5 +1,5 @@
 {
-  "datetime": 1672196619902,
+  "datetime": 1672281466795,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -566,7 +566,7 @@
       "description": "Create diagrams from textual representation (aka 'Diagrams as Code') within Logseq",
       "author": "npgrosser",
       "repo": "npgrosser/logseq-diagrams-as-code",
-      "icon": "icon.svg",
+      "icon": "icon.png",
       "id": "logseq-diagrams-as-code",
       "addedAt": 1645403023000
     },
