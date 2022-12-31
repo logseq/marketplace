@@ -1,8 +1,8 @@
 {
-  "title": "Dev theme",
-  "description": "A theme inspired by Dev.to & Figma." ,
-  "author": "pengx17",
-  "repo":"pengx17/logseq-dev-theme",
+  "title": "logseq-query-builder-plugin",
+  "description": "A plugin that creates advanced queries from simple commands" ,
+  "author": "adxsoft",
+  "repo":"adxsoft/logseq-query-builder-plugin",
   "icon": "icon.png",
   "theme": true
 }
