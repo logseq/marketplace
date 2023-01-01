@@ -1,0 +1,8 @@
+{
+  "title": "Open Logseq Files in Obsidian",
+  "description": "Open and edit Logseq pages in Obsidian",
+  "author": "Barca",
+  "repo": "FranciscoBarCa/logseq-open-in-obsidian",
+  "icon": "icon.png",
+  "effect": true
+}
