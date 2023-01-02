@@ -1,5 +1,5 @@
 {
-  "datetime": 1672281466795,
+  "datetime": 1672642079992,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -814,6 +814,16 @@
       "addedAt": 1656910788000
     },
     {
+      "title": "Logseq Grammarly",
+      "description": "Toggle Grammarly inside Logseq and configure the suggestions.",
+      "repo": "xflash96/logseq-grammarly",
+      "author": "xflash96",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-grammarly",
+      "addedAt": 1672557598000
+    },
+    {
       "title": "Logseq Graph Analysis",
       "name": "Logseq Graph Analysis",
       "description": "Learn more about the relationships between between your notes using network analysis algorithms.",
@@ -1274,7 +1284,7 @@
     },
     {
       "title": "NEON theme",
-      "description": "v0.4 - Neon inspired Theme for logseq.",
+      "description": "v0.5 - Neon inspired Theme for logseq.",
       "author": "solariz",
       "repo": "solariz/logseq-neon-theme",
       "icon": "logo.jpg",
