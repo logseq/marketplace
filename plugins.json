@@ -1,5 +1,5 @@
 {
-  "datetime": 1672642079992,
+  "datetime": 1672993268765,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -38,6 +38,16 @@
       "icon": "icon.png",
       "id": "log-stats",
       "addedAt": 1649788751000
+    },
+    {
+      "title": "LogLink Integration (beta)",
+      "description": "Send text, location and images to your Logseq graph from mobile apps like Telegram",
+      "repo": "hankhank10/loglink-plugin",
+      "author": "hankhank10",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "loglink-integration",
+      "addedAt": 1672937968000
     },
     {
       "title": "Add PARA Properties Into Page",
