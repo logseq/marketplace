@@ -1,5 +1,5 @@
 {
-  "datetime": 1672993268765,
+  "datetime": 1673585450636,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2202,6 +2202,9 @@
       "icon": "./logo.svg",
       "repo": "ahonn/logseq-plugin-todo",
       "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/yuexunjiang"
+      ],
       "id": "logseq-todo-plugin",
       "addedAt": 1650957186000
     },
