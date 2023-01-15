@@ -3,5 +3,6 @@
     "description": "Import Audiobookshelf items into Logseq.",
     "author": "Demistify",
     "repo": "etopeter/logseq-plugin-audiobookshelf-import",
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "effect": true
 }

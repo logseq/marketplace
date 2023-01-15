@@ -1,5 +1,5 @@
 {
-  "datetime": 1673585450636,
+  "datetime": 1673763719267,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1527,6 +1527,16 @@
       "icon": "icon.png",
       "id": "logseq-plugin-areas",
       "addedAt": 1664104209000
+    },
+    {
+      "title": "logseq-plugin-audiobookshelf-import",
+      "description": "Import Audiobookshelf items into Logseq.",
+      "author": "Demistify",
+      "repo": "etopeter/logseq-plugin-audiobookshelf-import",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-plugin-audiobookshelf-import",
+      "addedAt": 1673729630000
     },
     {
       "title": "Automatic format url title",
