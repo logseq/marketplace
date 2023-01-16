@@ -1,5 +1,5 @@
 {
-  "datetime": 1673763719267,
+  "datetime": 1673853187626,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1322,7 +1322,7 @@
       "addedAt": 1646704964000
     },
     {
-      "title": "logseq-omnivore",
+      "title": "Omnivore",
       "description": "Import Omnivore highlights and articles into Logseq.",
       "author": "Omnivore",
       "repo": "omnivore-app/logseq-omnivore",
