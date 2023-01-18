@@ -1,5 +1,5 @@
 {
-  "datetime": 1673853187626,
+  "datetime": 1674031858261,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1467,6 +1467,19 @@
       "effect": true,
       "id": "logseq-pdf-export-plugin",
       "addedAt": 1648012252000
+    },
+    {
+      "title": "PDF Navigation",
+      "description": "Navigate between internal links in the PDF viewer with ease",
+      "author": "OverflowCat",
+      "repo": "OverflowCat/logseq-pdf-nav",
+      "icon": "./logo.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/OverflowCat"
+      ],
+      "effect": true,
+      "id": "logseq-pdf-nav",
+      "addedAt": 1673993073000
     },
     {
       "title": "Pdf Print",
