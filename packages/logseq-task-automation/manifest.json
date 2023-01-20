@@ -3,5 +3,6 @@
     "description": "A plugin that simplifies the process of initiating and completing tasks on Logseq.",
     "author": "aiiroByte",
     "repo": "aiirobyte/logseq-task-automation",
-    "icon": "./icon.png"
+    "icon": "./icon.png",
+    "effect": true
 }
