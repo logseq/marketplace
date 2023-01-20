@@ -1,5 +1,5 @@
 {
-  "datetime": 1674031858261,
+  "datetime": 1674181119433,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1004,6 +1004,15 @@
       "icon": "./icon.png",
       "id": "logseq-keywordfrequency-plugin",
       "addedAt": 1641389611000
+    },
+    {
+      "title": "Kindle Highlights Import",
+      "description": "Import Highlights from kindle exported Highlights file.",
+      "author": "nicdun",
+      "repo": "nicdun/logseq-kindle-import",
+      "icon": "./kindle-logo.png",
+      "id": "logseq-kindle-import",
+      "addedAt": 1674115480000
     },
     {
       "title": "Laurel theme",
@@ -2128,6 +2137,15 @@
       "icon": "./tags-plugin-icon.png",
       "id": "logseq-tags",
       "addedAt": 1641129133000
+    },
+    {
+      "title": "Task Automation",
+      "description": "A plugin that simplifies the process of initiating and completing tasks on Logseq.",
+      "author": "aiiroByte",
+      "repo": "aiirobyte/logseq-task-automation",
+      "icon": "./icon.png",
+      "id": "logseq-task-automation",
+      "addedAt": 1674141254000
     },
     {
       "title": "Task management shortcuts",
