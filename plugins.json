@@ -1,5 +1,5 @@
 {
-  "datetime": 1674181119433,
+  "datetime": 1674269509598,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2144,6 +2144,7 @@
       "author": "aiiroByte",
       "repo": "aiirobyte/logseq-task-automation",
       "icon": "./icon.png",
+      "effect": true,
       "id": "logseq-task-automation",
       "addedAt": 1674141254000
     },
