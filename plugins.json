@@ -1,5 +1,5 @@
 {
-  "datetime": 1674269509598,
+  "datetime": 1674972682392,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1340,6 +1340,15 @@
       "addedAt": 1655097012000
     },
     {
+      "title": "On This Day",
+      "description": "Review previous journals on this day.",
+      "author": "imrickysu",
+      "repo": "imrickysu/logseq-plugin-on-this-day",
+      "icon": "icon.png",
+      "id": "logseq-on-this-day",
+      "addedAt": 1674833788000
+    },
+    {
       "title": "Open Logseq Files in VS Code",
       "description": "Open and edit Logseq pages and config files in VS Code",
       "author": "rebornix",
@@ -2396,6 +2405,19 @@
       "effect": true,
       "id": "logseq-webpage-title",
       "addedAt": 1651657777000
+    },
+    {
+      "title": "WeRead Importer",
+      "description": "Importing WeRead notes into Logseq",
+      "author": "ahonn",
+      "icon": "./logo.svg",
+      "repo": "ahonn/logseq-plugin-weread-importer",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/yuexunjiang"
+      ],
+      "id": "logseq-weread-importer-plugin",
+      "addedAt": 1674288955000
     },
     {
       "title": "Wide Eyed",
