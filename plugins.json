@@ -1,5 +1,5 @@
 {
-  "datetime": 1674972682392,
+  "datetime": 1675065928223,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -341,6 +341,19 @@
       ],
       "id": "logseq-case-converter",
       "addedAt": 1644828941000
+    },
+    {
+      "title": "Catppuccin",
+      "description": "🦫 Soothing pastel theme for Logseq",
+      "author": "Soumik (griimick)",
+      "repo": "catppuccin/logseq",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://opencollective.com/catppuccin"
+      ],
+      "theme": true,
+      "id": "logseq-catppuccin",
+      "addedAt": 1675028902000
     },
     {
       "title": "Char Spacing",
