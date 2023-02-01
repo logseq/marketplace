@@ -1,5 +1,5 @@
 {
-  "datetime": 1675065928223,
+  "datetime": 1675257772426,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2533,6 +2533,16 @@
       "effect": true,
       "id": "samepage",
       "addedAt": 1668554654000
+    },
+    {
+      "title": "Tufte Theme",
+      "description": "A port of Tufte-CSS based on the principles of Edward Tufte",
+      "author": "jones melton",
+      "repo": "jonesmelton/logseq-tufte-theme",
+      "icon": "./icon.png",
+      "theme": true,
+      "id": "tufte-theme",
+      "addedAt": 1675253912000
     },
     {
       "title": "Unfinished Business",
