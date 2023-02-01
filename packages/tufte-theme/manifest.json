@@ -1,0 +1,8 @@
+{
+  "title": "Tufte Theme",
+  "description": "A port of Tufte-CSS based on the principles of Edward Tufte" ,
+  "author": "jones melton",
+  "repo":"jonesmelton/logseq-tufte-theme",
+  "icon": "./icon.png",
+  "theme": true
+}
