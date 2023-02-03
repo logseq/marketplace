@@ -1,5 +1,5 @@
 {
-  "datetime": 1675257772426,
+  "datetime": 1675425029114,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -521,6 +521,14 @@
       "theme": true,
       "id": "logseq-d42ker-theme",
       "addedAt": 1634056271000
+    },
+    {
+      "title": "Date-Between",
+      "description": "Display date between today",
+      "author": "Cologler",
+      "repo": "Cologler/logseq-date-between-typescript",
+      "id": "logseq-date-between",
+      "addedAt": 1675332883000
     },
     {
       "title": "logseq-datenlp-plugin",
