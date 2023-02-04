@@ -1,0 +1,9 @@
+{
+  "title": "Template Gallery",
+  "description": "Discover and share your favorite templates with other memebers of the Logseq community." ,
+  "author": "John McCann",
+  "repo":"dangermccann/logseq-template-gallery",
+  "icon": "logo.png",
+  "effect": true,
+  "sponsors": ["https://www.buymeacoffee.com/dangermccaC"]
+}
