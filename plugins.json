@@ -1,5 +1,5 @@
 {
-  "datetime": 1675425029114,
+  "datetime": 1675603919464,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2541,6 +2541,19 @@
       "effect": true,
       "id": "samepage",
       "addedAt": 1668554654000
+    },
+    {
+      "title": "Template Gallery",
+      "description": "Discover and share your favorite templates with other memebers of the Logseq community.",
+      "author": "John McCann",
+      "repo": "dangermccann/logseq-template-gallery",
+      "icon": "logo.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/dangermccaC"
+      ],
+      "id": "template-gallery",
+      "addedAt": 1675523235000
     },
     {
       "title": "Tufte Theme",
