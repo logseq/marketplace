@@ -1,0 +1,8 @@
+{
+  "title": "HamsterBase official Plugin",
+  "description": "Official HamsterBase > Logseq integration.",
+  "author": "HamsterBase",
+  "repo": "hamsterbase/logseq-hamsterbase",
+  "icon": "icon.png",
+  "effect": true
+}
