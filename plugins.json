@@ -1,5 +1,5 @@
 {
-  "datetime": 1675603919464,
+  "datetime": 1675738357138,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -384,16 +384,6 @@
       "theme": false,
       "id": "logseq-chinese-tools",
       "addedAt": 1659905299000
-    },
-    {
-      "title": "Chocolate 🍫",
-      "description": "A rich, yummy, delicious theme for Logseq.",
-      "author": "nmartin84",
-      "repo": "nmartin84/logseq-chocolate",
-      "icon": "icon.png",
-      "theme": true,
-      "id": "logseq-chocolate",
-      "addedAt": 1643595616000
     },
     {
       "title": "Citation Manager",
@@ -886,6 +876,16 @@
       "addedAt": 1631638933000
     },
     {
+      "title": "HamsterBase official Plugin",
+      "description": "Official HamsterBase > Logseq integration.",
+      "author": "HamsterBase",
+      "repo": "hamsterbase/logseq-hamsterbase",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-hamsterbase",
+      "addedAt": 1675693503000
+    },
+    {
       "title": "Heatmap",
       "description": "Activity heatmap based on how many journal blocks created that day",
       "author": "pengx17",
@@ -1331,16 +1331,6 @@
       "theme": true,
       "id": "logseq-neon-theme",
       "addedAt": 1650551080000
-    },
-    {
-      "title": "Nord Theme",
-      "description": "A theme for Nord.",
-      "author": "nmartin84",
-      "repo": "nmartin84/logseq-nord",
-      "icon": "icon.png",
-      "theme": true,
-      "id": "logseq-nord",
-      "addedAt": 1640564490000
     },
     {
       "title": "Ordered Lists",
@@ -2288,15 +2278,6 @@
       "icon": "./icon.png",
       "id": "logseq-todoist-plugin",
       "addedAt": 1635672218000
-    },
-    {
-      "title": "Tokyo theme",
-      "description": "Port of the Obsidian MD theme Tokyo Night.",
-      "author": "nmartin84",
-      "repo": "nmartin84/logseq-tokyo-theme",
-      "theme": true,
-      "id": "logseq-tokyo-theme",
-      "addedAt": 1631075639000
     },
     {
       "title": "Logseq Toolbox",
