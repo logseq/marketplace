@@ -1,5 +1,5 @@
 {
-  "datetime": 1675821806826,
+  "datetime": 1675825485986,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -212,6 +212,7 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-batch-op",
       "icon": "./icon.png",
+      "effect": true,
       "id": "logseq-batch-op",
       "addedAt": 1656070651000
     },
