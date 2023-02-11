@@ -1,5 +1,5 @@
 {
-  "datetime": 1675831529651,
+  "datetime": 1676126974035,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1279,6 +1279,16 @@
       "theme": true,
       "id": "logseq-mocha-theme",
       "addedAt": 1641074271000
+    },
+    {
+      "title": "Monokai for Logseq",
+      "description": "A dark theme for Logseq inspired by Monokai and Dracula.",
+      "author": "Toby Law",
+      "repo": "tzcl/logseq-monokai",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-monokai",
+      "addedAt": 1676112193000
     },
     {
       "title": "Move Block",
