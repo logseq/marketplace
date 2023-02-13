@@ -1,5 +1,5 @@
 {
-  "datetime": 1676126974035,
+  "datetime": 1676301332002,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1074,6 +1074,16 @@
       "effect": true,
       "id": "logseq-link-unlinked",
       "addedAt": 1667148632000
+    },
+    {
+      "title": "Local Telegram Bot",
+      "description": "A local Telegram bot that can handle messages from and share notes with specific Telegram users",
+      "author": "LelouchHe",
+      "repo": "LelouchHe/logseq-local-telegram-bot",
+      "icon": "./icon.png",
+      "theme": false,
+      "id": "logseq-local-telegram-bot",
+      "addedAt": 1676276669000
     },
     {
       "title": "logseq-localassets-plugin",
