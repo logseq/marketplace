@@ -1,5 +1,5 @@
 {
-  "datetime": 1676301332002,
+  "datetime": 1676429439885,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -165,6 +165,19 @@
       "effect": true,
       "id": "logseq-awesome-links",
       "addedAt": 1663885581000
+    },
+    {
+      "title": "Awesome Props",
+      "description": "Restyled and iconized properties for Logseq ala Notion/Tana",
+      "author": "yoyurec",
+      "repo": "yoyurec/logseq-awesome-props",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yoyurec"
+      ],
+      "effect": true,
+      "id": "logseq-awesome-props",
+      "addedAt": 1676423084000
     },
     {
       "title": "Awesome Styler",
