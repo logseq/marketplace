@@ -8,6 +8,9 @@ This [repo](https://github.com/logseq/logseq-plugin-samples) contains sample cod
 
 Plugin APIs: https://plugins-doc.logseq.com/.
 
+> ⚠️ To avoid loading plugin failures occasionally and for performance reasons, 
+> it is recommended to keep the plugin SDK [@logseq/libs](https://www.npmjs.com/package/@logseq/libs) as up-to-date as possible.
+
 Ensure that your plugin has a `publish.yml` file, so when you create a release from a tag, it will do the build dance and make you a zip file. Then make a tag (something like v0.0.1), and create a release from it. Ensure the following are true before submitting your plugin:
 - The release has a zip file attached in addition to the "Source code (zip)" link. (It might take a minute for build system to create the zip after creating the release.)
 - It's clear from your README what the plugin does, and how to use it.
