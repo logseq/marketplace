@@ -1,8 +1,0 @@
-{
-  "title": "Woz theme",
-  "description": "A theme base logseq-dev-theme." ,
-  "author": "haydenull",
-  "repo":"haydenull/logseq-woz-theme",
-  "icon": "icon.png",
-  "theme": true
-}

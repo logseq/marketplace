@@ -1,7 +1,0 @@
-{
-  "title": "Add lock screen",
-  "description": "Add lock screen to Logseq for safer and fun.",
-  "author": "vipzhicheng",
-  "repo": "vipzhicheng/logseq-plugin-lock-screen",
-  "icon": "icon.png"
-}

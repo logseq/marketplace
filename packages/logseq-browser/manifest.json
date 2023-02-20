@@ -1,7 +1,0 @@
-{
-  "title": "Browser",
-  "description": "A browser plugin for logseq" ,
-  "author": "haydenull",
-  "repo":"haydenull/logseq-plugin-browser",
-  "icon": "icon.png"
-}

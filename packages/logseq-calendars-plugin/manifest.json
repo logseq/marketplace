@@ -1,9 +1,0 @@
-{
-  "title": "Calendar Plugin",
-  "description": "Sync your logseq daily note with your google, icloud or outlook calendar",
-  "author": "Aryan Sawhney",
-  "repo": "sawhney17/logseq-calendars-plugin",
-  "icon": "./icon.png",
-  "sponsors": ["https://www.buymeacoffee.com/sawhney17"],
-  "effect": true
-}

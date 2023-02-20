@@ -1,8 +1,0 @@
-{
-  "title": "Inbox Telegram",
-  "description": "A Logseq plugin that reads Telegram chat and pull messages to daily journal." ,
-  "author": "shady2k",
-  "repo":"shady2k/logseq-inbox-telegram-plugin",
-  "icon": "./icon.png",
-  "theme": false
-}

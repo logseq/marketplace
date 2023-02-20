@@ -1,7 +1,0 @@
-{
-    "title": "Unsplash Images",
-    "description": "A plugin to add Unsplash images via slash commands in Logseq" ,
-    "author": "clearlysid",
-    "repo":"clearlysid/logseq-unsplash",
-    "icon": "icon.png"
-  }

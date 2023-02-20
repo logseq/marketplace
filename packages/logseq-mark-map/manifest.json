@@ -1,7 +1,0 @@
-{
-  "title": "Markmap",
-  "description": "Mind map support based on markmap library." ,
-  "author": "vipzhicheng",
-  "repo":"vipzhicheng/logseq-plugin-mark-map",
-  "icon": "./icon.png"
-}
