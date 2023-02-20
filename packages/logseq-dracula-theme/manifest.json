@@ -1,0 +1,8 @@
+{
+  "title": "Dracula theme",
+  "description": "🧛 Dark theme for Logseq.",
+  "author": "slybouhafs",
+  "repo": "dracula/logseq",
+  "icon": "icon.svg",
+  "theme": true
+}

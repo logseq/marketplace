@@ -1,0 +1,13 @@
+{
+  "title": "Things Theme",
+  "description": "The things you used to own, now they own you.",
+  "author": "Alexander Rink",
+  "repo": "rcvd/logseq-things-theme",
+  "icon": "icon.png",
+  "theme": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/rcvdio",
+    "https://flattr.com/@rcvd",
+    "https://www.paypal.com/paypalme/rcvd"
+  ]
+}

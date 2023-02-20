@@ -1,0 +1,10 @@
+{
+    "title": "logseq-property-visualizer",
+    "description": "Visualizing trends in page properties, requires Chart Render and Table render plugin",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-property-visualizer",
+    "icon": "./logo.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }

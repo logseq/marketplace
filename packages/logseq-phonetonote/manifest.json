@@ -1,0 +1,7 @@
+{
+  "title": "phonetonote logseq client",
+  "description": "fetch messages from your phonetonote feed into your logseq graph",
+  "author": "phonetonote",
+  "repo": "phonetonote/phonetonote-logseq",
+  "icon": "icon.png"
+}

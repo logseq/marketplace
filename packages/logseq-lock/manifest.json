@@ -1,0 +1,7 @@
+{
+  "title": "Lock block",
+  "description": "Lock block with your password, and only can unlock with your password." ,
+  "author": "vipzhicheng",
+  "repo":"vipzhicheng/logseq-plugin-lock",
+  "icon": "./icon.png"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Copy ref to journal",
+  "description": "Copy any page blocks ref to today's journal page, very useful for task management case." ,
+  "author": "vipzhicheng",
+  "repo":"vipzhicheng/logseq-plugin-copy-ref-to-journal",
+  "icon": "./icon.png"
+}

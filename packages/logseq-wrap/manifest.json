@@ -1,0 +1,8 @@
+{
+  "title": "Text Wrapper",
+  "description": "Create your own wrappings with optional key bindings for selected text, a set of useful defaults is also provided.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-wrap",
+  "icon": "./icon.png",
+  "effect": true
+}
