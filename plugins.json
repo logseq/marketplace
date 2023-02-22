@@ -1,5 +1,5 @@
 {
-  "datetime": 1677039422513,
+  "datetime": 1677041298619,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2484,6 +2484,15 @@
       ],
       "id": "logseq-weread-importer-plugin",
       "addedAt": 1674288955000
+    },
+    {
+      "title": "WeRead Sync",
+      "description": "Sync WeRead with your Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-weread-sync",
+      "icon": "./icon.png",
+      "id": "logseq-weread-sync",
+      "addedAt": 1676902374000
     },
     {
       "title": "Wide Eyed",
