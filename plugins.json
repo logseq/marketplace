@@ -1,5 +1,5 @@
 {
-  "datetime": 1676429439885,
+  "datetime": 1677039422513,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1804,6 +1804,16 @@
       "addedAt": 1651466320000
     },
     {
+      "title": "logseq-powerblocks-plugin",
+      "name": "logseq-powerblocks-plugin",
+      "description": "Create regular or button templates by simply tagging a block, and use them together to create powerful templates.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-powerblocks-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-powerblocks-plugin",
+      "addedAt": 1676894072000
+    },
+    {
       "title": "logseq-powertags-plugin",
       "name": "logseq-powertags-plugin",
       "description": "Designate selected tags as power tags, and see them auto-create properties are you use them!a",
@@ -1912,6 +1922,16 @@
       "icon": "icon.png",
       "id": "logseq-random-note",
       "addedAt": 1631757107000
+    },
+    {
+      "title": "logseq-randomutils-plugin",
+      "name": "logseq-randomutils-plugin",
+      "description": "A series of random, small, simple utilities that enhances the Logseq experience.",
+      "author": "hkgnp",
+      "repo": "hkgnp/logseq-randomutils-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-randomutils-plugin",
+      "addedAt": 1676894072000
     },
     {
       "title": "Readwise Official Plugin",
