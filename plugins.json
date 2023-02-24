@@ -1,5 +1,5 @@
 {
-  "datetime": 1677041298619,
+  "datetime": 1677209758481,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1855,6 +1855,15 @@
       "theme": true,
       "id": "logseq-quattro-theme",
       "addedAt": 1639596533000
+    },
+    {
+      "title": "logseq-query-builder-plugin",
+      "description": "A plugin that creates advanced queries from simple commands",
+      "author": "adxsoft",
+      "repo": "adxsoft/logseq-query-builder-plugin",
+      "icon": "icon.png",
+      "id": "logseq-query-builder-plugin",
+      "addedAt": 1630664401000
     },
     {
       "title": "Quick Add",
