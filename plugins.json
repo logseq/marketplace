@@ -1,5 +1,5 @@
 {
-  "datetime": 1677387019882,
+  "datetime": 1677466477553,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -522,6 +522,7 @@
       "author": "b-yp",
       "repo": "b-yp/logseq-d2",
       "icon": "./icon.png",
+      "effect": true,
       "id": "logseq-d2",
       "addedAt": 1677383409000
     },
