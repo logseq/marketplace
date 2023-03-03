@@ -1,0 +1,8 @@
+{
+  "title": "Lilypond",
+  "description": "Lilypond integration for logseq",
+  "repo": "dot-asterisk-nl/logseq-lilypond",
+  "author": "Marcel Visser",
+  "icon": "LilyPond-logo.png",
+  "sponsors": ["https://dot-asterisk.nl"]
+}
