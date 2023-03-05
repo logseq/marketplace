@@ -1,5 +1,5 @@
 {
-  "datetime": 1677809298214,
+  "datetime": 1678011049403,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -62,8 +62,8 @@
     {
       "title": "Admonition Panels",
       "description": "A collection of styles for Admonition Panels",
-      "author": "Nick Martin",
-      "repo": "nmartin84/admonition-panels",
+      "author": "Zyrohex",
+      "repo": "Zyrohex/admonition-panels",
       "icon": "./icon.png",
       "id": "logseq-admonition-panels",
       "addedAt": 1662599710000
@@ -762,8 +762,8 @@
     {
       "title": "Flow Theme",
       "description": "Minimalistic Theme that's soft around the edges and comes in 30+ flavors.",
-      "author": "nmartin84",
-      "repo": "nmartin84/logseq-flow",
+      "author": "Zyrohex",
+      "repo": "Zyrohex/logseq-flow",
       "theme": true,
       "id": "logseq-flow-theme",
       "addedAt": 1664372220000
@@ -2213,6 +2213,19 @@
       "icon": "./icon.svg",
       "id": "logseq-swapblocks-plugin",
       "addedAt": 1642056804000
+    },
+    {
+      "title": "Tabler picker",
+      "description": "Tabler icon picker plugin for Logseq",
+      "author": "yoyurec",
+      "repo": "yoyurec/logseq-tabler-picker",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yoyurec"
+      ],
+      "effect": true,
+      "id": "logseq-tabler-picker",
+      "addedAt": 1664314380000
     },
     {
       "title": "logseq-tablerender-plugin",
