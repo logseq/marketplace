@@ -1,6 +1,6 @@
 {
   "title": "URL+",
-  "description": "A Logseq plugin that retrieves common information based on the last term of an editing block.",
+  "description": "The plugin takes the last token of an editing block, be it a word or URL, and augments the block with related metadata from the internet.",
   "author": "rlhk",
   "repo": "rlhk/logseq-url-plus",
   "icon": "icon.png",
