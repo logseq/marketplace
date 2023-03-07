@@ -3,5 +3,5 @@
   "description": "A plugin for sending tasks to OmniFocus",
   "author": "zhengyu-yang",
   "icon": "./icon.png",
-  "repo": "zhengyu-yang/logseq-plugin-omnifocus",
+  "repo": "zhengyu-yang/logseq-plugin-omnifocus"
 }
