@@ -1,5 +1,5 @@
 {
-  "datetime": 1678155016377,
+  "datetime": 1678193617176,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1744,6 +1744,15 @@
       "addedAt": 1671962880000
     },
     {
+      "title": "OmniFocus Plugin",
+      "description": "A plugin for sending tasks to OmniFocus",
+      "author": "zhengyu-yang",
+      "icon": "./icon.png",
+      "repo": "zhengyu-yang/logseq-plugin-omnifocus",
+      "id": "logseq-plugin-omnifocus",
+      "addedAt": 1678172459000
+    },
+    {
       "title": "logseq-plugin-page-export",
       "description": "a plugin that makes use of html2canvas to export current page in logseq",
       "author": "William Huang",
@@ -2464,7 +2473,7 @@
     },
     {
       "title": "URL+",
-      "description": "A Logseq plugin that retrieves common information based on the last term of an editing block.",
+      "description": "The plugin takes the last token of an editing block, be it a word or URL, and augments the block with related metadata from the internet.",
       "author": "rlhk",
       "repo": "rlhk/logseq-url-plus",
       "icon": "icon.png",
