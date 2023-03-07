@@ -1,0 +1,8 @@
+{
+  "title": "OmniFocus Plugin",
+  "description": "A plugin for sending tasks to OmniFocus",
+  "author": "zhengyu-yang",
+  "icon": "./icon.png",
+  "repo": "zhengyu-yang/logseq-plugin-omnifocus",
+  "effect": true
+}
