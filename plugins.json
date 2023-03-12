@@ -1,5 +1,5 @@
 {
-  "datetime": 1678193617176,
+  "datetime": 1678590740920,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1772,6 +1772,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/yu000japan"
       ],
+      "effect": true,
       "id": "logseq-plugin-panel-coloring",
       "addedAt": 1670330949000
     },
