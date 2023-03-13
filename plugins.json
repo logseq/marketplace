@@ -1,5 +1,5 @@
 {
-  "datetime": 1678590740920,
+  "datetime": 1678676068357,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -463,6 +463,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/yu000japan"
       ],
+      "effect": true,
       "id": "logseq-column-layout",
       "addedAt": 1662852627000
     },
@@ -1044,6 +1045,16 @@
       "addedAt": 1630930098000
     },
     {
+      "title": "Kanban Board",
+      "description": "Draggable, editable Kanban view.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-kanban-board",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-kanban-board",
+      "addedAt": 1678604497000
+    },
+    {
       "title": "logseq-kanban-plugin",
       "name": "logseq-kanban-plugin",
       "description": "Simple plugin to help visualise data on a Kanban Board!",
@@ -1507,6 +1518,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/yu000japan"
       ],
+      "effect": true,
       "id": "logseq-page-tags-and-hierarchy",
       "addedAt": 1665379765000
     },
