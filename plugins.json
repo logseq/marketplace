@@ -1,5 +1,5 @@
 {
-  "datetime": 1678760271316,
+  "datetime": 1678936907218,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2049,6 +2049,16 @@
       "icon": "./logo.png",
       "id": "logseq-reference-styles",
       "addedAt": 1646101578000
+    },
+    {
+      "title": "Reflect Theme",
+      "description": "A theme inspired by Reflect Notes.",
+      "author": "natsustan",
+      "repo": "natsustan/logseq-reflect-theme",
+      "icon": "reflect-icon.png",
+      "theme": true,
+      "id": "logseq-reflect-theme",
+      "addedAt": 1678868692000
     },
     {
       "title": "Reminder",
