@@ -1,5 +1,5 @@
 {
-  "datetime": 1678936907218,
+  "datetime": 1678940397036,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -58,15 +58,6 @@
       "theme": false,
       "id": "logseq-add-para-properties",
       "addedAt": 1668437633000
-    },
-    {
-      "title": "Admonition Panels",
-      "description": "A collection of styles for Admonition Panels",
-      "author": "Zyrohex",
-      "repo": "Zyrohex/admonition-panels",
-      "icon": "./icon.png",
-      "id": "logseq-admonition-panels",
-      "addedAt": 1662599710000
     },
     {
       "title": "Agenda",
@@ -772,15 +763,6 @@
       "icon": "icon.png",
       "id": "logseq-flomo-plugin",
       "addedAt": 1651841150000
-    },
-    {
-      "title": "Flow Theme",
-      "description": "Minimalistic Theme that's soft around the edges and comes in 30+ flavors.",
-      "author": "Zyrohex",
-      "repo": "Zyrohex/logseq-flow",
-      "theme": true,
-      "id": "logseq-flow-theme",
-      "addedAt": 1664372220000
     },
     {
       "title": "Focus Mode",
