@@ -1,0 +1,11 @@
+{
+  "title": "AI Assistant",
+  "description": "A powerful tool that enhances your Logseq experience by allowing you to interact with AI models like OpenAI's gpt-3.5-turbo.",
+  "author": "ahonn",
+  "icon": "./logo.svg",
+  "repo": "ahonn/logseq-plugin-ai-assistant",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/yuexunjiang"
+  ]
+}
