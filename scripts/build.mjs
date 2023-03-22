@@ -257,13 +257,14 @@ async function cli (action, ...rest) {
     default: {
       // build plugins
       console.log('===== Building Plugins =====')
-      console.log('')
 
       const outFile = path.join(ROOT, PLUGINS_ALL_FILE)
       let oldPkgs = readCurrentPackages()
 
       const pkgsRoot = path.join(ROOT, 'packages')
       let pkgs = fs.readdirSync(pkgsRoot)
+
+      console.log('Found packages: ', pkgs.length)
 
       pkgs = pkgs.reduce((acc, it) => {
 
@@ -279,6 +280,8 @@ async function cli (action, ...rest) {
               mf.addedAt = dateAdded(mfp)
             }
             acc.push(mf)
+          } else {
+            console.warn('Error package: ', mfp)
           }
         }
 
@@ -290,6 +293,7 @@ async function cli (action, ...rest) {
         packages: pkgs,
       }
 
+      console.log('='.repeat(30))
       fs.writeFileSync(outFile, JSON.stringify(outData, null, 2))
     }
   }
