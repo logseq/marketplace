@@ -1,5 +1,5 @@
 {
-  "datetime": 1679551568862,
+  "datetime": 1679562743436,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -392,6 +392,19 @@
       "icon": "./icon.svg",
       "id": "logseq-chartrender-plugin",
       "addedAt": 1640968345000
+    },
+    {
+      "title": "Logseq ChatGPT Plugin",
+      "description": "An tightly integrated ChatGPT plugin for Logseq.",
+      "author": "debanjandhar12",
+      "repo": "debanjandhar12/logseq-chatgpt-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/debanjandhar12"
+      ],
+      "id": "logseq-chatgpt-plugin",
+      "addedAt": 1679558997000
     },
     {
       "title": "Logseq Chinese Tools",
