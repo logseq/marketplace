@@ -1,0 +1,7 @@
+{
+	"title": "Jump to block",
+	"description": "Quickly jump to a block within the current page.",
+	"author": "freder",
+	"repo": "freder/logseq-plugin-jump-to-block",
+	"icon": "icon.png"
+}
