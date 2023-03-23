@@ -1,0 +1,11 @@
+{
+  "title": "Logseq ChatGPT Plugin",
+  "description": "An tightly integrated ChatGPT plugin for Logseq." ,
+  "author": "debanjandhar12",
+  "repo":"debanjandhar12/logseq-chatgpt-plugin",
+  "icon": "./icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/debanjandhar12"
+  ]
+}
