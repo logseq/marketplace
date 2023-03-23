@@ -1,5 +1,5 @@
 {
-  "datetime": 1679456825598,
+  "datetime": 1679551568862,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1635,7 +1635,7 @@
         "https://www.buymeacoffee.com/yuexunjiang"
       ],
       "id": "logseq-plugin-ai-assistant",
-      "addedAt": null
+      "addedAt": 1679451870000
     },
     {
       "title": "Areas",
@@ -1739,6 +1739,15 @@
       "theme": false,
       "id": "logseq-plugin-highlights-extractor",
       "addedAt": 1652300645000
+    },
+    {
+      "title": "Jump to block",
+      "description": "Quickly jump to a block within the current page.",
+      "author": "freder",
+      "repo": "freder/logseq-plugin-jump-to-block",
+      "icon": "icon.png",
+      "id": "logseq-plugin-jump-to-block",
+      "addedAt": 1679492966000
     },
     {
       "title": "Leetcode",
