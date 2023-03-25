@@ -1,8 +1,8 @@
 {
     "title": "Reflect Theme",
-    "description": "A theme inspired by Reflect Notes.",
+    "description": "A theme inspired by Reflect App",
     "author": "natsustan",
     "repo": "natsustan/logseq-reflect-theme",
-    "icon": "reflect-icon.png",
+    "icon": "logo.png",
     "theme": true
   }
