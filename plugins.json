@@ -1,5 +1,5 @@
 {
-  "datetime": 1679741510818,
+  "datetime": 1679799329457,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1759,6 +1759,7 @@
       "author": "freder",
       "repo": "freder/logseq-plugin-jump-to-block",
       "icon": "icon.png",
+      "effect": true,
       "id": "logseq-plugin-jump-to-block",
       "addedAt": 1679492966000
     },
