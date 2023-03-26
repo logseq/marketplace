@@ -1,0 +1,9 @@
+{
+  "title": "Rakuten-books",
+  "description": "Utilize Rakuten books API to import book data. (The site from Japan)",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-rakuten-books",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
