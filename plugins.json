@@ -1,5 +1,5 @@
 {
-  "datetime": 1679886581482,
+  "datetime": 1679917954869,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1391,6 +1391,7 @@
       "author": "Ben Force",
       "repo": "theBenForce/logseq-plugin-my-highlights",
       "icon": "icon.svg",
+      "effect": true,
       "sponsors": [
         "https://www.buymeacoffee.com/theBenForce"
       ],
