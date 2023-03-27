@@ -1,0 +1,7 @@
+{
+	"title": "Jump to block",
+	"description": "Shortcut to insert a new block above the current one",
+	"author": "freder",
+	"repo": "freder/logseq-plugin-insert-above",
+	"icon": "icon.png"
+}
