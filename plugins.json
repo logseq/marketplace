@@ -1,5 +1,5 @@
 {
-  "datetime": 1679799329457,
+  "datetime": 1679886581482,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1755,6 +1755,15 @@
     },
     {
       "title": "Jump to block",
+      "description": "Shortcut to insert a new block above the current one",
+      "author": "freder",
+      "repo": "freder/logseq-plugin-insert-above",
+      "icon": "icon.png",
+      "id": "logseq-plugin-insert-above",
+      "addedAt": 1679842140000
+    },
+    {
+      "title": "Jump to block",
       "description": "Quickly jump to a block within the current page.",
       "author": "freder",
       "repo": "freder/logseq-plugin-jump-to-block",
@@ -1825,6 +1834,19 @@
       "theme": false,
       "id": "logseq-plugin-quick-references",
       "addedAt": 1651513878000
+    },
+    {
+      "title": "Rakuten-books",
+      "description": "Utilize Rakuten books API to import book data. (The site from Japan)",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-rakuten-books",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-rakuten-books",
+      "addedAt": 1679827016000
     },
     {
       "title": "Task completion",
