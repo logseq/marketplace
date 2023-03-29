@@ -1,5 +1,5 @@
 {
-  "datetime": 1679917954869,
+  "datetime": 1680055150476,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -548,7 +548,7 @@
       "title": "D42ker Logseq",
       "description": "A darker Logseq theme.",
       "author": "LeonWong0609",
-      "repo": "LeonWong0609/D42ker-Logseq",
+      "repo": "l3ony2k/D42ker-Logseq",
       "icon": "icon.png",
       "theme": true,
       "id": "logseq-d42ker-theme",
