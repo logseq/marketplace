@@ -1,5 +1,5 @@
 {
-	"title": "Jump to block",
+	"title": "Insert above",
 	"description": "Shortcut to insert a new block above the current one",
 	"author": "freder",
 	"repo": "freder/logseq-plugin-insert-above",
