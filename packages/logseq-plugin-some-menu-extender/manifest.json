@@ -1,0 +1,9 @@
+{
+  "title": "SomeMenuExtender",
+  "description": "Adds new functions to context menus and others, allowing for more efficient and convenient operations.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-some-menu-extender",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
