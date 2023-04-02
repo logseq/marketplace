@@ -1,5 +1,5 @@
 {
-  "datetime": 1680091629279,
+  "datetime": 1680409140104,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1848,6 +1848,19 @@
       "effect": true,
       "id": "logseq-plugin-rakuten-books",
       "addedAt": 1679827016000
+    },
+    {
+      "title": "SomeMenuExtender",
+      "description": "Adds new functions to context menus and others, allowing for more efficient and convenient operations.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-some-menu-extender",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-some-menu-extender",
+      "addedAt": 1680332187000
     },
     {
       "title": "Task completion",
