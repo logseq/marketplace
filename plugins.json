@@ -1,5 +1,5 @@
 {
-  "datetime": 1681120649776,
+  "datetime": 1681215466686,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2401,6 +2401,15 @@
       ],
       "id": "logseq-things-theme",
       "addedAt": 1639914842000
+    },
+    {
+      "title": "TickTick",
+      "description": "TickTick plugin for Logseq.",
+      "author": "Maximilian Schöll",
+      "repo": "mxschll/logseq-ticktick-plugin",
+      "icon": "icon.png",
+      "id": "logseq-ticktick-plugin",
+      "addedAt": 1681147322000
     },
     {
       "title": "Tidy Blocks",
