@@ -1,5 +1,5 @@
 {
-  "datetime": 1681215466686,
+  "datetime": 1681525174469,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -10,6 +10,17 @@
       "theme": true,
       "id": "cobra-theme",
       "addedAt": 1634165328000
+    },
+    {
+      "title": "darwis-mathlive-plugin",
+      "name": "darwis-mathlive-plugin",
+      "description": "Use Mathlive to input mathematical expressions in Logseq.",
+      "author": "hkgnp",
+      "repo": "hkgnp/darwis-mathlive-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "darwis-mathlive-plugin",
+      "addedAt": 1681456468000
     },
     {
       "title": "flomo_memos_sync",
