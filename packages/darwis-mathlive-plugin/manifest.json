@@ -4,5 +4,6 @@
   "description": "Use Mathlive to input mathematical expressions in Logseq.",
   "author": "hkgnp",
   "repo": "hkgnp/darwis-mathlive-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "effect": true
 }
