@@ -4,5 +4,6 @@
   "description": "A series of random, small, simple utilities that enhances the Logseq experience.",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-randomutils-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "effect": true
 }
