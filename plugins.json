@@ -1,5 +1,5 @@
 {
-  "datetime": 1681525174469,
+  "datetime": 1681783366638,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2061,6 +2061,7 @@
       "author": "hkgnp",
       "repo": "hkgnp/logseq-randomutils-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-randomutils-plugin",
       "addedAt": 1676894072000
     },
