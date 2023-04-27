@@ -1,5 +1,5 @@
 {
-  "datetime": 1682300412866,
+  "datetime": 1682567401527,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -721,6 +721,16 @@
       "icon": "./logo.png",
       "id": "logseq-emoji-picker-fork",
       "addedAt": 1657039359000
+    },
+    {
+      "title": "Excalidraw",
+      "description": "A plugin designed to seamlessly integrate Excalidraw into Logseq",
+      "author": "haydenull",
+      "repo": "haydenull/logseq-plugin-excalidraw",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-excalidraw",
+      "addedAt": 1682508566000
     },
     {
       "title": "Extensions plus",
@@ -1725,6 +1735,15 @@
       "addedAt": 1669236504000
     },
     {
+      "title": "Extra editing commands",
+      "description": "Logseq plugin that provides additional editing functionality",
+      "author": "freder",
+      "repo": "freder/logseq-plugin-extra-editing-commands",
+      "icon": "icon.png",
+      "id": "logseq-plugin-extra-editing-commands",
+      "addedAt": 1682526477000
+    },
+    {
       "title": "Github File Getter",
       "description": "A plugin to get files from Github to assist with documenting code using Logseq",
       "author": "Mark J Smith",
@@ -1764,15 +1783,6 @@
       "theme": false,
       "id": "logseq-plugin-highlights-extractor",
       "addedAt": 1652300645000
-    },
-    {
-      "title": "Insert above",
-      "description": "Shortcut to insert a new block above the current one",
-      "author": "freder",
-      "repo": "freder/logseq-plugin-insert-above",
-      "icon": "icon.png",
-      "id": "logseq-plugin-insert-above",
-      "addedAt": 1679842140000
     },
     {
       "title": "Jump to block",
