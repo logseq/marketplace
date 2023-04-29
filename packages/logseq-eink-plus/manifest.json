@@ -1,0 +1,8 @@
+{
+  "title": "High Contrast e-ink Theme",
+  "description": "A high-contrast, desaturated Logseq theme which extends the eink theme with dark mode" ,
+  "author": "candide",
+  "repo":"candideu/logseq-eink-plus",
+  "icon": "icon.png",
+  "theme": true
+}
