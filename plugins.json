@@ -1,5 +1,5 @@
 {
-  "datetime": 1682567401527,
+  "datetime": 1682763135321,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -807,6 +807,19 @@
       "theme": false,
       "id": "logseq-focus-mode",
       "addedAt": 1637215252000
+    },
+    {
+      "title": "Logseq Furigana",
+      "description": "A plugin for furigana (ruby characters) support in logseq",
+      "author": "David Davó",
+      "repo": "daviddavo/logseq-furigana",
+      "sponsors": [
+        "https://github.com/sponsors/daviddavo",
+        "https://www.buymeacoffee.com/ddavo"
+      ],
+      "icon": "icon.svg",
+      "id": "logseq-furigana",
+      "addedAt": 1682760159000
     },
     {
       "title": "Get YouTube Captions",
