@@ -1,5 +1,5 @@
 {
-  "datetime": 1682763135321,
+  "datetime": 1682904588223,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1441,6 +1441,15 @@
       "theme": true,
       "id": "logseq-neon-theme",
       "addedAt": 1650551080000
+    },
+    {
+      "title": "Logseq OCR",
+      "description": "Read image from clipboard and OCR it!",
+      "author": "xxchan",
+      "repo": "xxchan/logseq-ocr",
+      "effect": true,
+      "id": "logseq-ocr",
+      "addedAt": 1682873297000
     },
     {
       "title": "Ordered Lists",

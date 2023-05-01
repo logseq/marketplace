@@ -2,5 +2,6 @@
   "title": "Logseq OCR",
   "description": "Read image from clipboard and OCR it!",
   "author": "xxchan",
-  "repo":"xxchan/logseq-ocr"
+  "repo":"xxchan/logseq-ocr",
+  "effect": true
 }
