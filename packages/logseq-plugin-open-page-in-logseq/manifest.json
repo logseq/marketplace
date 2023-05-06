@@ -1,0 +1,8 @@
+{
+	"title": "Open page in Logseq",
+	"description": "Creates a .url file for the current page that – when opened – opens the the page in Logseq.",
+	"author": "freder",
+	"repo": "freder/logseq-plugin-open-page-in-logseq",
+	"icon": "icon.png",
+	"effect": true
+}
