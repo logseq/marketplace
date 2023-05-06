@@ -1,5 +1,5 @@
 {
-  "datetime": 1683166925015,
+  "datetime": 1683346012478,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -700,6 +700,7 @@
       "description": "A plugin of logseq which integrates with ECharts",
       "repo": "guzhongren/logseq-echarts",
       "author": "guzhongren",
+      "effect": true,
       "icon": "icon.png",
       "id": "logseq-echarts-plugin",
       "addedAt": 1661573262000
@@ -1834,6 +1835,16 @@
       "repo": "zhengyu-yang/logseq-plugin-omnifocus",
       "id": "logseq-plugin-omnifocus",
       "addedAt": 1678172459000
+    },
+    {
+      "title": "Open page in Logseq",
+      "description": "Creates a .url file for the current page that – when opened – opens the the page in Logseq.",
+      "author": "freder",
+      "repo": "freder/logseq-plugin-open-page-in-logseq",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-plugin-open-page-in-logseq",
+      "addedAt": 1683299732000
     },
     {
       "title": "logseq-plugin-page-export",
