@@ -1,0 +1,7 @@
+{
+    "title": "WuCai Highlight Official",
+    "description": "Official WuCai <-> Logseq integration." ,
+    "author": "五彩",
+    "repo":"makediff/logseq-wucai-official-plugin",
+    "icon": "icon.png"
+}
