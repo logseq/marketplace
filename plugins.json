@@ -1,5 +1,5 @@
 {
-  "datetime": 1683346012478,
+  "datetime": 1683685405877,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2795,6 +2795,16 @@
       "icon": "./icon.svg",
       "id": "logseq-writegood-plugin",
       "addedAt": 1650554953000
+    },
+    {
+      "title": "WuCai Highlight Official",
+      "description": "Official WuCai <-> Logseq integration.",
+      "author": "五彩",
+      "repo": "makediff/logseq-wucai-official-plugin",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-wucai-official-plugin",
+      "addedAt": 1683625582000
     },
     {
       "title": "Full House Templates",
