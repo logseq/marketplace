@@ -1,5 +1,5 @@
 {
-  "datetime": 1683685405877,
+  "datetime": 1684112895241,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2775,6 +2775,16 @@
       "theme": true,
       "id": "logseq-woz-theme",
       "addedAt": 1631873788000
+    },
+    {
+      "title": "WPM Counter",
+      "description": "A simple words per minute counter to measure your typing speed.",
+      "author": "Evan Hall",
+      "repo": "hallx833/logseq-wpm-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-wpm-counter",
+      "addedAt": 1682745687000
     },
     {
       "title": "Text Wrapper",
