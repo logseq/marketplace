@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Notion Sync",
+  "description": "This plugin helps you synchronize Logseq content with Notion.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-notion-sync",
+  "icon": "./icon.png",
+  "effect": true
+}
