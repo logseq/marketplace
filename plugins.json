@@ -1,5 +1,5 @@
 {
-  "datetime": 1682567401527,
+  "datetime": 1684112895241,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -700,6 +700,7 @@
       "description": "A plugin of logseq which integrates with ECharts",
       "repo": "guzhongren/logseq-echarts",
       "author": "guzhongren",
+      "effect": true,
       "icon": "icon.png",
       "id": "logseq-echarts-plugin",
       "addedAt": 1661573262000
@@ -807,6 +808,19 @@
       "theme": false,
       "id": "logseq-focus-mode",
       "addedAt": 1637215252000
+    },
+    {
+      "title": "Logseq Furigana",
+      "description": "A plugin for furigana (ruby characters) support in logseq",
+      "author": "David Davó",
+      "repo": "daviddavo/logseq-furigana",
+      "sponsors": [
+        "https://github.com/sponsors/daviddavo",
+        "https://www.buymeacoffee.com/ddavo"
+      ],
+      "icon": "icon.svg",
+      "id": "logseq-furigana",
+      "addedAt": 1682760159000
     },
     {
       "title": "Get YouTube Captions",
@@ -1430,6 +1444,15 @@
       "addedAt": 1650551080000
     },
     {
+      "title": "Logseq OCR",
+      "description": "Read image from clipboard and OCR it!",
+      "author": "xxchan",
+      "repo": "xxchan/logseq-ocr",
+      "effect": true,
+      "id": "logseq-ocr",
+      "addedAt": 1682873297000
+    },
+    {
       "title": "Ordered Lists",
       "description": "Ordered lists, flat or nested, multiple formats ordered lists.",
       "author": "sethyuan",
@@ -1814,6 +1837,16 @@
       "addedAt": 1678172459000
     },
     {
+      "title": "Open page in Logseq",
+      "description": "Creates a .url file for the current page that – when opened – opens the the page in Logseq.",
+      "author": "freder",
+      "repo": "freder/logseq-plugin-open-page-in-logseq",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-plugin-open-page-in-logseq",
+      "addedAt": 1683299732000
+    },
+    {
       "title": "logseq-plugin-page-export",
       "description": "a plugin that makes use of html2canvas to export current page in logseq",
       "author": "William Huang",
@@ -1915,6 +1948,19 @@
       "effect": true,
       "id": "logseq-plugin-weather",
       "addedAt": 1672006539000
+    },
+    {
+      "title": "Weekdays and Holidays (Templates)",
+      "description": "Plugin for switching journal templates for weekdays and weekends, public holidays.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-weekdays-and-weekends",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-weekdays-and-weekends",
+      "addedAt": 1682978544000
     },
     {
       "title": "logseq-pomodoro-technique",
@@ -2731,6 +2777,16 @@
       "addedAt": 1631873788000
     },
     {
+      "title": "WPM Counter",
+      "description": "A simple words per minute counter to measure your typing speed.",
+      "author": "Evan Hall",
+      "repo": "hallx833/logseq-wpm-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-wpm-counter",
+      "addedAt": 1682745687000
+    },
+    {
       "title": "Text Wrapper",
       "description": "Create your own wrappings with optional key bindings for selected text, a set of useful defaults is also provided.",
       "author": "sethyuan",
@@ -2749,6 +2805,16 @@
       "icon": "./icon.svg",
       "id": "logseq-writegood-plugin",
       "addedAt": 1650554953000
+    },
+    {
+      "title": "WuCai Highlight Official",
+      "description": "Official WuCai <-> Logseq integration.",
+      "author": "五彩",
+      "repo": "makediff/logseq-wucai-official-plugin",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-wucai-official-plugin",
+      "addedAt": 1683625582000
     },
     {
       "title": "Full House Templates",

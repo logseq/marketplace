@@ -1,0 +1,9 @@
+{
+  "title": "Weekdays and Holidays (Templates)",
+  "description": "Plugin for switching journal templates for weekdays and weekends, public holidays.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-weekdays-and-weekends",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
