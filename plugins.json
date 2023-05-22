@@ -1,5 +1,5 @@
 {
-  "datetime": 1684112895241,
+  "datetime": 1684733243539,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -687,6 +687,25 @@
       "addedAt": 1632324168000
     },
     {
+      "title": "Drawio Plugin",
+      "description": "This plugin allows you to use drawio diagrams in logseq.",
+      "author": "Jimmie Lee",
+      "repo": "lee88688/logseq-drawio-plugin",
+      "icon": "logo.png",
+      "id": "logseq-drawio-plugin",
+      "addedAt": 1684684094000
+    },
+    {
+      "title": "Draw It",
+      "description": "Simple Stable Diffusion WebUI frontend for Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-drawit",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-drawit",
+      "addedAt": 1684718655000
+    },
+    {
       "title": "Dynamic Property Lookup",
       "description": "This plugin allows you to look up properties on a target page and place the value of the property in your text.",
       "author": "Alexander Lais",
@@ -704,6 +723,19 @@
       "icon": "icon.png",
       "id": "logseq-echarts-plugin",
       "addedAt": 1661573262000
+    },
+    {
+      "title": "High Contrast e-ink Theme",
+      "description": "A high-contrast, desaturated, and minimal Logseq theme which extends the eink theme with dark mode",
+      "author": "candide, DiamondYuan",
+      "repo": "candideu/logseq-eink-plus",
+      "icon": "icon.png",
+      "theme": true,
+      "sponsors": [
+        "https://bmc.link/candideu"
+      ],
+      "id": "logseq-eink-plus",
+      "addedAt": 1682743190000
     },
     {
       "title": "E-ink Theme",
@@ -1442,6 +1474,16 @@
       "theme": true,
       "id": "logseq-neon-theme",
       "addedAt": 1650551080000
+    },
+    {
+      "title": "Logseq Notion Sync",
+      "description": "This plugin helps you synchronize Logseq content with Notion.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-notion-sync",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-notion-sync",
+      "addedAt": 1684585696000
     },
     {
       "title": "Logseq OCR",
