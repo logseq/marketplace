@@ -1,21 +1,9 @@
 {
-    "name": "nord-theme",
+    "title": "Nord theme",
     "description": "An arctic, north-bluish color palette 🧊",
     "author": "Bad3r",
     "version": "0.0.1",
     "repo": "Bad3r/Logseq-Nord-Theme",
-    "license": "MIT",
-    "homepage": "https://nordtheme.com",
-    "logseq": {
-        "themes": [
-            {
-                "name": "Nord Theme",
-                "description": "An arctic, north-bluish color palette 🧊",
-                "url": "./custom.css",
-                "mode": "dark"
-            }
-        ],
-        "id": "nord",
-        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 80 67.664\">\n  <path fill=\"#4c566a\" d=\"M54.438 67.664L26.667 32.116v-9.863l30.779 39.79h16.54V6.015H46.168L40.154 0H80v67.664z\"/>\n  <path fill=\"#eceff4\" d=\"M25.562 0l27.771 35.546v9.864L22.554 5.62H6.015v56.028h27.817l6.014 6.015H0V0z\"/>\n</svg>"
-    }
+    "icon": "icon.svg",
+    "theme": true
 }
