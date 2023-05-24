@@ -1,5 +1,5 @@
 {
-  "datetime": 1684733243539,
+  "datetime": 1684898673403,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -2892,6 +2892,17 @@
       "repo": "Angboo/logwidgets",
       "id": "logwidgets",
       "addedAt": 1656151446000
+    },
+    {
+      "title": "Nord theme",
+      "description": "An arctic, north-bluish color palette 🧊",
+      "author": "Bad3r",
+      "version": "0.0.1",
+      "repo": "Bad3r/Logseq-Nord-Theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "nord-theme",
+      "addedAt": 1684603895000
     },
     {
       "title": "SamePage",
