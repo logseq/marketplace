@@ -1,0 +1,9 @@
+{
+  "title": "Flow Nord theme",
+  "description": "A minimal theme that focuses on a clean and sleek interface that's soft on the edges and comes with Nord palette",
+  "author": "nmartin84 and henices",
+  "repo": "henices/logseq-flow-nord",
+  "icon": "icon.png",
+  "theme": true,
+  "sponsors": []
+}
