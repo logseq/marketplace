@@ -1,5 +1,5 @@
 {
-  "datetime": 1685031076122,
+  "datetime": 1685070384320,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -830,6 +830,17 @@
       "icon": "icon.png",
       "id": "logseq-flomo-plugin",
       "addedAt": 1651841150000
+    },
+    {
+      "title": "Flow Nord theme",
+      "description": "A minimal theme that focuses on a clean and sleek interface that's soft on the edges and comes with Nord palette",
+      "author": "nmartin84 and henices",
+      "repo": "henices/logseq-flow-nord",
+      "icon": "icon.png",
+      "theme": true,
+      "sponsors": [],
+      "id": "logseq-flow-nord-theme",
+      "addedAt": 1685010724000
     },
     {
       "title": "Focus Mode",
