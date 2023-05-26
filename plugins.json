@@ -1,5 +1,5 @@
 {
-  "datetime": 1684898673403,
+  "datetime": 1685031076122,
   "packages": [
     {
       "title": "Cobra Theme",
@@ -1944,6 +1944,19 @@
       "effect": true,
       "id": "logseq-plugin-rakuten-books",
       "addedAt": 1679827016000
+    },
+    {
+      "title": "Show Weekday and Week-number",
+      "description": "Plugin for showing week day and, week-number within the year or month beside journals page titles.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-show-weekday-and-week-number",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-show-weekday-and-week-number",
+      "addedAt": 1685024271000
     },
     {
       "title": "SomeMenuExtender",
