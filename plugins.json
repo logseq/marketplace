@@ -1,5 +1,5 @@
 {
-  "datetime": 1685327500013,
+  "datetime": 1685376008176,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -119,6 +119,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-another-embed",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-another-embed",
       "addedAt": 1659419493000
@@ -250,6 +253,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-batch-op",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-batch-op",
       "addedAt": 1656070651000
@@ -400,6 +406,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-charspacing",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-charspacing",
       "addedAt": 1639475288000
@@ -613,6 +622,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-days",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-days",
       "addedAt": 1667209371000
@@ -682,6 +694,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-doc",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-doc",
       "addedAt": 1640320979000
@@ -711,6 +726,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-drawit",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-drawit",
       "addedAt": 1684718655000
@@ -1133,6 +1151,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-kanban-board",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-kanban-board",
       "addedAt": 1678604497000
@@ -1268,6 +1289,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-luckysheet",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-luckysheet",
       "addedAt": 1647055256000
@@ -1347,6 +1371,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-media-ts",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-media-ts",
       "addedAt": 1646211056000
@@ -1521,6 +1548,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-ol",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "id": "logseq-ol",
       "addedAt": 1646704964000
     },
@@ -2277,6 +2307,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-reminder",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-reminder",
       "addedAt": 1667830179000
@@ -2371,6 +2404,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-smart-typing",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-smart-typing",
       "addedAt": 1671195380000
@@ -2393,6 +2429,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-smartsearch",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-smartsearch",
       "addedAt": 1668169207000
@@ -2604,6 +2643,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-tocgen",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-tocgen",
       "addedAt": 1640087962000
@@ -2800,6 +2842,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-weread-sync",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "id": "logseq-weread-sync",
       "addedAt": 1676902374000
     },
@@ -2868,6 +2913,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-wrap",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-wrap",
       "addedAt": 1643100515000
