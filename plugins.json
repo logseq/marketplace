@@ -1,6 +1,16 @@
 {
-  "datetime": 1685070384320,
+  "datetime": 1685327500013,
   "packages": [
+    {
+      "title": "Cobra Kai Fira Theme",
+      "description": "If Cobra Kai had a Logseq theme this would be it! (Made for fans of dark-mode).",
+      "author": "Santi Younger (Fira variant by Martín Pozo)",
+      "repo": "Martin1887/CobraKaiFira",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "cobra-kai-fira-theme",
+      "addedAt": 1634165328000
+    },
     {
       "title": "Cobra Theme",
       "description": "If Cobra Kai had a Logseq theme this would be it! (Made for fans of dark-mode).",
