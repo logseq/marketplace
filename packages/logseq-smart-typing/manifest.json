@@ -4,5 +4,8 @@
   "author": "sethyuan",
   "repo": "sethyuan/logseq-plugin-smart-typing",
   "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
   "effect": true
 }
