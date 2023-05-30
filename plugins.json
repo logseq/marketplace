@@ -1,5 +1,5 @@
 {
-  "datetime": 1685376008176,
+  "datetime": 1685418566593,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2979,7 +2979,6 @@
       "title": "Nord theme",
       "description": "An arctic, north-bluish color palette 🧊",
       "author": "Bad3r",
-      "version": "0.0.1",
       "repo": "Bad3r/Logseq-Nord-Theme",
       "icon": "icon.svg",
       "theme": true,
