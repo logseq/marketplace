@@ -1,5 +1,5 @@
 {
-  "datetime": 1685418566593,
+  "datetime": 1685520947925,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1995,6 +1995,18 @@
       "effect": true,
       "id": "logseq-plugin-rakuten-books",
       "addedAt": 1679827016000
+    },
+    {
+      "title": "Logseq Refile",
+      "description": "LogSeq plugin to refile items in your graph.",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-refile",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "id": "logseq-plugin-refile",
+      "addedAt": 1685515840000
     },
     {
       "title": "Show Weekday and Week-number",
