@@ -3,6 +3,6 @@
   "description": "This plugin helps you synchronize Logseq content with Notion.",
   "author": "b-yp",
   "repo": "b-yp/logseq-notion-sync",
-  "icon": "./icon.png",
+  "icon": "./icon.svg",
   "effect": true
 }
