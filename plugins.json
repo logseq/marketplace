@@ -1,5 +1,5 @@
 {
-  "datetime": 1685586410402,
+  "datetime": 1685648524562,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1536,7 +1536,7 @@
       "description": "This plugin helps you synchronize Logseq content with Notion.",
       "author": "b-yp",
       "repo": "b-yp/logseq-notion-sync",
-      "icon": "./icon.png",
+      "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-notion-sync",
       "addedAt": 1684585696000
