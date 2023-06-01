@@ -2,6 +2,5 @@
   "title": "AI Assistant",
   "description": "A Logseq plugin empowered by AI for effortless note-taking." ,
   "author": "unickcheng",
-  "repo":"UNICKCHENG/logseq-ai-assistant",
-  "effect": true
+  "repo":"UNICKCHENG/logseq-ai-assistant"
 }

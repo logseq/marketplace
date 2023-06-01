@@ -1,5 +1,5 @@
 {
-  "datetime": 1685520947925,
+  "datetime": 1685586410402,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -89,6 +89,14 @@
       "effect": true,
       "id": "logseq-agenda",
       "addedAt": 1646486302000
+    },
+    {
+      "title": "AI Assistant",
+      "description": "A Logseq plugin empowered by AI for effortless note-taking.",
+      "author": "unickcheng",
+      "repo": "UNICKCHENG/logseq-ai-assistant",
+      "id": "logseq-ai-assistant",
+      "addedAt": 1685525024000
     },
     {
       "title": "All Day Theme",
