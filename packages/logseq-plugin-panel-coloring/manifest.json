@@ -1,6 +1,6 @@
 {
   "title": "Panel Coloring",
-  "description": "Color blocks that contain some tags. Emphasize blocks like panels.",
+  "description": "Accentuate specified pages or tagged blocks by coloring.",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-panel-coloring",
   "icon": "./icon.svg",
