@@ -1,5 +1,5 @@
 {
-  "datetime": 1685648524562,
+  "datetime": 1686456083422,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1051,6 +1051,19 @@
       "effect": true,
       "id": "logseq-helium-plugin",
       "addedAt": 1650781091000
+    },
+    {
+      "title": "Hide EveryThing",
+      "description": "Hide any UI elements in Logseq that you don't want",
+      "author": "ahonn",
+      "icon": "./logo.svg",
+      "repo": "ahonn/logseq-plugin-hide-everything",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/yuexunjiang"
+      ],
+      "id": "logseq-hide-everything-plugin",
+      "addedAt": 1686319584000
     },
     {
       "title": "Hypothesis",
