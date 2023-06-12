@@ -1,5 +1,5 @@
 {
-  "datetime": 1686539090246,
+  "datetime": 1686540686206,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -496,8 +496,8 @@
       "addedAt": 1668355462000
     },
     {
-      "title": "Column-Layout",
-      "description": "If you're using wide monitors, you can place journals, linked references, and journal queries side by side.",
+      "title": "Column-Layout (UI)",
+      "description": "For quick reference, it is possible to place journals, linked references, and journal queries side by side.",
       "author": "YU000jp",
       "repo": "YU000jp/Logseq-column-Layout",
       "icon": "./icon.svg",
@@ -1673,8 +1673,8 @@
       "addedAt": 1653773658000
     },
     {
-      "title": "Page-tags and Hierarchy",
-      "description": "Show page-tags and hierarchy on the right side of the page.",
+      "title": "Page-tags and Hierarchy (UI)",
+      "description": "Place page tags and hierarchy in non-standard positions (right or bottom of the page).",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-page-tags-and-hierarchy",
       "icon": "./icon.svg",
@@ -1863,6 +1863,32 @@
       "addedAt": 1669444021000
     },
     {
+      "title": "Confirmation DONE task",
+      "description": "When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-confirmation-done-task",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-confirmation-done-task",
+      "addedAt": 1686405119000
+    },
+    {
+      "title": "Confirmation Hyperlink (Paste URL)",
+      "description": "Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-confirmation-hyperlink",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-confirmation-hyperlink",
+      "addedAt": 1686405260000
+    },
+    {
       "title": "Daily TODO",
       "description": "Moves unfinished TODO tasks to new daily journals",
       "author": "ehudhala",
@@ -1983,7 +2009,7 @@
     },
     {
       "title": "Panel Coloring",
-      "description": "Color blocks that contain some tags. Emphasize blocks like panels.",
+      "description": "Accentuate specified pages or tagged blocks by coloring.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-panel-coloring",
       "icon": "./icon.svg",
@@ -2015,6 +2041,19 @@
       "addedAt": 1651513878000
     },
     {
+      "title": "Quickly PARA Method",
+      "description": "This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-quickly-para-method",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-quickly-para-method",
+      "addedAt": 1686321578000
+    },
+    {
       "title": "Rakuten-books",
       "description": "Utilize Rakuten books API to import book data. (The site from Japan)",
       "author": "YU000jp",
@@ -2040,6 +2079,19 @@
       "addedAt": 1685515840000
     },
     {
+      "title": "Short Namespaces",
+      "description": "This plugin is providing abbreviated representation for namespaces (hierarchy).",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-short-namespaces",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-short-namespaces",
+      "addedAt": 1686319366000
+    },
+    {
       "title": "Show Weekday and Week-number",
       "description": "Plugin for showing week day and, week-number within the year or month beside journals page titles.",
       "author": "YU000jp",
@@ -2053,8 +2105,8 @@
       "addedAt": 1685024271000
     },
     {
-      "title": "SomeMenuExtender",
-      "description": "Adds new functions to context menus and others, allowing for more efficient and convenient operations.",
+      "title": "Innovation Lab",
+      "description": "This plugin provides several features that are currently in the development stage.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-some-menu-extender",
       "icon": "./icon.svg",
@@ -2067,7 +2119,7 @@
     },
     {
       "title": "Sticky Popup",
-      "description": "Showing selected text in a movable popup and positioning a block calendar.",
+      "description": "Plugin for showing selected text in a movable pop-up and positioning calendar.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-sticky-popup",
       "icon": "./icon.svg",
