@@ -1,6 +1,6 @@
 {
-  "title": "Page-tags and Hierarchy",
-  "description": "Show page-tags and hierarchy on the right side of the page.",
+  "title": "Page-tags and Hierarchy (UI)",
+  "description": "Place page tags and hierarchy in non-standard positions (right or bottom of the page).",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-page-tags-and-hierarchy",
   "icon": "./icon.svg",

@@ -1,0 +1,9 @@
+{
+  "title": "Confirmation Hyperlink (Paste URL)",
+  "description": "Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-confirmation-hyperlink",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

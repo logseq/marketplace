@@ -1,0 +1,9 @@
+{
+  "title": "Quickly PARA Method",
+  "description": "This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-quickly-para-method",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
