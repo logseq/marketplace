@@ -1,5 +1,5 @@
 {
-  "datetime": 1686456083422,
+  "datetime": 1686539090246,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -695,6 +695,16 @@
       ],
       "id": "logseq-dictionary",
       "addedAt": 1662207076000
+    },
+    {
+      "title": "Logseq Display Math",
+      "description": "Make all math render in display style.",
+      "author": "Allan Chain",
+      "repo": "AllanChain/logseq-display-math",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-display-math",
+      "addedAt": 1686398234000
     },
     {
       "title": "Doc View Exporter",

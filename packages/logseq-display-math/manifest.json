@@ -3,5 +3,6 @@
   "description": "Make all math render in display style.",
   "author": "Allan Chain",
   "repo": "AllanChain/logseq-display-math",
-  "icon": "icon.svg"
+  "icon": "icon.svg",
+  "effect": true
 }
