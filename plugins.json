@@ -1,5 +1,5 @@
 {
-  "datetime": 1686540686206,
+  "datetime": 1687008536674,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -899,6 +899,14 @@
       "addedAt": 1637215252000
     },
     {
+      "title": "logseq-footnote-plugin",
+      "description": "Create easy and simple Footnotes.",
+      "author": "gremi-jr",
+      "repo": "gremi-jr/logseq-footnote-plugin",
+      "id": "logseq-footnote-plugin",
+      "addedAt": 1686944280000
+    },
+    {
       "title": "Logseq Furigana",
       "description": "A plugin for furigana (ruby characters) support in logseq",
       "author": "David Davó",
@@ -1241,16 +1249,6 @@
       "addedAt": 1677705549000
     },
     {
-      "title": "Logseq Linear.app Integration",
-      "description": "A utility to link your Linear.app issues with Logseq using the Linear issue id,",
-      "author": "Gezim Hoxha",
-      "repo": "hgezim/logseq-linear-plugin",
-      "icon": "./linear-icon.png",
-      "effect": true,
-      "id": "logseq-linear-plugin",
-      "addedAt": 1672177070000
-    },
-    {
       "title": "Link Preview",
       "description": "Show basic link information for external links in Logseq.",
       "author": "pengx17",
@@ -1258,6 +1256,16 @@
       "effect": true,
       "id": "logseq-link-preview",
       "addedAt": 1631021584000
+    },
+    {
+      "title": "Logseq link to local",
+      "description": "Convert network assets into local assets.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-link-to-local",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-link-to-local",
+      "addedAt": 1686943622000
     },
     {
       "title": "Link Unlinked References",
