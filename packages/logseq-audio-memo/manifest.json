@@ -1,0 +1,8 @@
+{
+  "title": "Logseq audio memo",
+  "description": "Plugin for recording audio and inserting documents.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-audio-memo",
+  "icon": "./logo.svg",
+  "effect": true
+}
