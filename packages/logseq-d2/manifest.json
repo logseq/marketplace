@@ -3,6 +3,6 @@
   "description": "Logseq D2 plugin",
   "author": "b-yp",
   "repo": "b-yp/logseq-d2",
-  "icon": "./icon.png",
+  "icon": "./logo.svg",
   "effect": true
 }
