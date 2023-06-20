@@ -3,5 +3,6 @@
   "description": "This plugin allows you to use drawio diagrams in logseq.",
   "author": "Jimmie Lee",
   "repo": "lee88688/logseq-drawio-plugin",
-  "icon": "logo.png"
+  "icon": "logo.png",
+  "effect": true
 }
