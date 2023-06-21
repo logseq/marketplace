@@ -1,5 +1,5 @@
 {
-  "datetime": 1687008536674,
+  "datetime": 1687318171426,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -163,6 +163,16 @@
       "theme": true,
       "id": "logseq-atmos-theme",
       "addedAt": 1663563222000
+    },
+    {
+      "title": "Logseq audio memo",
+      "description": "Plugin for recording audio and inserting documents.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-audio-memo",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-audio-memo",
+      "addedAt": 1687202635000
     },
     {
       "title": "Automatic Linker",
@@ -577,7 +587,7 @@
       "description": "Logseq D2 plugin",
       "author": "b-yp",
       "repo": "b-yp/logseq-d2",
-      "icon": "./icon.png",
+      "icon": "./logo.svg",
       "effect": true,
       "id": "logseq-d2",
       "addedAt": 1677383409000
@@ -735,6 +745,7 @@
       "author": "Jimmie Lee",
       "repo": "lee88688/logseq-drawio-plugin",
       "icon": "logo.png",
+      "effect": true,
       "id": "logseq-drawio-plugin",
       "addedAt": 1684684094000
     },
