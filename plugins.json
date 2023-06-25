@@ -1,5 +1,5 @@
 {
-  "datetime": 1687326098815,
+  "datetime": 1687674619651,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1829,6 +1829,16 @@
       "addedAt": 1645044847000
     },
     {
+      "title": "Logseq pinyin match tags",
+      "description": "使用拼音首字母或者全拼匹配标签🏷并插入文档.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-pinyin-match-tags",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-pinyin-match-tags",
+      "addedAt": 1687660505000
+    },
+    {
       "title": "logseq-plantuml-plugin",
       "name": "logseq-plantuml-plugin",
       "description": "This plugin help you to render plantuml diagrams in your notes.",
@@ -1893,6 +1903,19 @@
       "effect": true,
       "id": "logseq-plugin-booklog-jp-import",
       "addedAt": 1669444021000
+    },
+    {
+      "title": "Bullet Point Style",
+      "description": "Change bullet points style and color.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-bullet-point-style",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-bullet-point-style",
+      "addedAt": 1687660849000
     },
     {
       "title": "Confirmation DONE task",
@@ -2635,6 +2658,19 @@
       "icon": "./icon.svg",
       "id": "logseq-swapblocks-plugin",
       "addedAt": 1642056804000
+    },
+    {
+      "title": "Tabbed Sidebar",
+      "description": "Alternative sidebar that's organized in tabs.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-tabbed-sidebar",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-tabbed-sidebar",
+      "addedAt": 1687656553000
     },
     {
       "title": "Tabler picker",
