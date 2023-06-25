@@ -1,0 +1,9 @@
+{
+  "title": "Bullet Point Style",
+  "description": "Change bullet points style and color.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-bullet-point-style",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
