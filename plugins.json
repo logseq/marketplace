@@ -1,5 +1,5 @@
 {
-  "datetime": 1687674619651,
+  "datetime": 1687855542561,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2031,6 +2031,19 @@
       "effect": true,
       "id": "logseq-plugin-leetcode",
       "addedAt": 1671962880000
+    },
+    {
+      "title": "Multiple Files into Assets",
+      "description": "Save multiple files into assets and embed or link the content.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-multiple-assets",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-multiple-assets",
+      "addedAt": 1687855542548
     },
     {
       "title": "OmniFocus Plugin",

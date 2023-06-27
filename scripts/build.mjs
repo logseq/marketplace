@@ -64,7 +64,7 @@ function dateAdded (file) {
     `git log --follow --format=%ad --date default ${file} | tail -1`).toString()
   const date = new Date(output)
 
-  return date.getTime()
+  return date.getTime() || Date.now()
 }
 
 function readCurrentPackages (unique = true) {
