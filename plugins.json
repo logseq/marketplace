@@ -1,5 +1,5 @@
 {
-  "datetime": 1687855542561,
+  "datetime": 1688097719785,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1154,6 +1154,16 @@
       "theme": false,
       "id": "logseq-inbox-telegram-plugin",
       "addedAt": 1642746924000
+    },
+    {
+      "title": "Logseq insert movie properties",
+      "description": "A plugin to insert movie information or actor information in Logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-insert-movie-properties",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-insert-movie-properties",
+      "addedAt": 1688050906000
     },
     {
       "title": "Logseq Interstitial Journal",
