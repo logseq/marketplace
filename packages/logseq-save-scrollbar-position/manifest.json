@@ -1,0 +1,8 @@
+{
+  "title": "Save Scrollbar Position",
+  "description": "A simple logseq extension that saves the position of the scrollbar on each page",
+  "author": "studyduck",
+  "repo": "studyduck/logseq-save-scrollbar-position",
+  "icon": "icon.svg",
+  "theme": false
+}
