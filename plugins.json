@@ -1,5 +1,5 @@
 {
-  "datetime": 1688349375169,
+  "datetime": 1688379935240,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1987,7 +1987,6 @@
       "author": "meain",
       "repo": "meain/logseq-plugin-favorite-jump",
       "icon": "./icon.png",
-      "effect": true,
       "sponsors": [
         "https://github.com/sponsors/meain"
       ],
@@ -2512,6 +2511,17 @@
       ],
       "id": "logseq-rtl-mode-plugin",
       "addedAt": 1647434298000
+    },
+    {
+      "title": "Save Scrollbar Position",
+      "description": "A simple logseq extension that saves the position of the scrollbar on each page",
+      "author": "studyduck",
+      "repo": "studyduck/logseq-save-scrollbar-position",
+      "icon": "icon.svg",
+      "effect": true,
+      "theme": false,
+      "id": "logseq-save-scrollbar-position",
+      "addedAt": 1688112435000
     },
     {
       "title": "Logseq Schrodinger",

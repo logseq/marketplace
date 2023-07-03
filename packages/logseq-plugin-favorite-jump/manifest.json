@@ -4,6 +4,5 @@
   "author": "meain",
   "repo": "meain/logseq-plugin-favorite-jump",
   "icon": "./icon.png",
-  "effect": true,
   "sponsors": ["https://github.com/sponsors/meain"]
 }

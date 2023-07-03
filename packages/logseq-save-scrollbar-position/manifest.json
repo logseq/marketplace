@@ -4,5 +4,6 @@
   "author": "studyduck",
   "repo": "studyduck/logseq-save-scrollbar-position",
   "icon": "icon.svg",
+  "effect": true,
   "theme": false
 }
