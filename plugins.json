@@ -1,5 +1,5 @@
 {
-  "datetime": 1688097719785,
+  "datetime": 1688379935240,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1982,6 +1982,18 @@
       "addedAt": 1682526477000
     },
     {
+      "title": "Favorite Jump",
+      "description": "Use shortcuts to switch between favorite pages",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-favorite-jump",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "id": "logseq-plugin-favorite-jump",
+      "addedAt": 1688009639000
+    },
+    {
       "title": "Github File Getter",
       "description": "A plugin to get files from Github to assist with documenting code using Logseq",
       "author": "Mark J Smith",
@@ -2501,6 +2513,17 @@
       "addedAt": 1647434298000
     },
     {
+      "title": "Save Scrollbar Position",
+      "description": "A simple logseq extension that saves the position of the scrollbar on each page",
+      "author": "studyduck",
+      "repo": "studyduck/logseq-save-scrollbar-position",
+      "icon": "icon.svg",
+      "effect": true,
+      "theme": false,
+      "id": "logseq-save-scrollbar-position",
+      "addedAt": 1688112435000
+    },
+    {
       "title": "Logseq Schrodinger",
       "description": "An awesome Logseq plugin to export to Hugo static sites and jumpstart your digital garden 🌱!",
       "author": "Aryan Sawhney & Alex Qwxlea",
@@ -2922,6 +2945,16 @@
       "effect": true,
       "id": "logseq-tweet-plugin",
       "addedAt": 1643178114000
+    },
+    {
+      "title": "Typewriter Mode",
+      "description": "Logseq Typewriter Mode Plugin.",
+      "author": "b-yp",
+      "repo": "b-yp/loseq-typewriter-mode",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-typewriter-mode",
+      "addedAt": 1688324848000
     },
     {
       "title": "Readwise plugin (unofficial)",
