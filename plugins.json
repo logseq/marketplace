@@ -1,5 +1,5 @@
 {
-  "datetime": 1688379935240,
+  "datetime": 1688526989745,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -466,6 +466,16 @@
       ],
       "id": "logseq-chatgpt-plugin",
       "addedAt": 1679558997000
+    },
+    {
+      "title": "Chinese Idiom Dictionary",
+      "description": "A plugin for querying and inserting Chinese idiom information in logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-chinese-idiom-dictionary",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-chinese-idiom-dictionary",
+      "addedAt": 1688484886000
     },
     {
       "title": "Logseq Chinese Tools",
@@ -1899,6 +1909,16 @@
       "effect": true,
       "id": "logseq-plugin-automatic-url-title",
       "addedAt": 1657445237000
+    },
+    {
+      "title": "Better Tasks",
+      "description": "A collection of utilities to make tasks more useful in Logseq.",
+      "author": "David Šarman",
+      "repo": "dsarman/logseq-plugin-better-tasks",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-plugin-better-tasks",
+      "addedAt": 1688305677000
     },
     {
       "title": "booklog-jp",
