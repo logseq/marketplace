@@ -1,0 +1,8 @@
+{
+  "title": "Chinese Idiom Dictionary",
+  "description": "A plugin for querying and inserting Chinese idiom information in logseq.",
+  "author": "b-yp",
+  "repo": "b-yp/loseq-chinese-idiom-dictionary",
+  "icon": "./logo.svg",
+  "effect": true
+}
