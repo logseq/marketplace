@@ -1,5 +1,5 @@
 {
-  "datetime": 1688526989745,
+  "datetime": 1688874244062,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1683,6 +1683,16 @@
       "icon": "icon.png",
       "id": "logseq-open-in-external-app",
       "addedAt": 1646733202000
+    },
+    {
+      "title": "Open Logseq Files in VS Code",
+      "description": "Open and edit Logseq pages and config files in VS Code (Visual Studio Code)",
+      "author": "rebornix, e-zz",
+      "repo": "ThinkSalat/logseq-open-in-code",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-open-in-vs-code",
+      "addedAt": 1651170839000
     },
     {
       "title": "logseq opml drummer",
