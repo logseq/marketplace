@@ -1,5 +1,5 @@
 {
-  "datetime": 1688874244062,
+  "datetime": 1689477897277,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1125,6 +1125,16 @@
       "icon": "./icon.svg",
       "id": "logseq-hypothesis",
       "addedAt": 1631638933000
+    },
+    {
+      "title": "logseq-image-auto-resizer",
+      "description": "Automatically resize markdown image in logseq",
+      "author": "Yutao Dou",
+      "repo": "yutaodou/logseq-image-auto-resizer",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-image-auto-resizer",
+      "addedAt": 1689426235000
     },
     {
       "title": "Image Uploader",
