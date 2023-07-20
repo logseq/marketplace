@@ -1,5 +1,5 @@
 {
-  "datetime": 1689477897277,
+  "datetime": 1689840161766,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -466,6 +466,16 @@
       ],
       "id": "logseq-chatgpt-plugin",
       "addedAt": 1679558997000
+    },
+    {
+      "title": "Logseq Chess",
+      "description": "Render chessboards in your Logseq documents",
+      "author": "r8",
+      "repo": "r8/logseq-chess",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-chess",
+      "addedAt": 1689021670000
     },
     {
       "title": "Chinese Idiom Dictionary",
