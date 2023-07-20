@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Chess",
+  "description": "Render chessboards in your Logseq documents",
+  "author": "r8",
+  "repo": "r8/logseq-chess",
+  "icon": "icon.png",
+  "effect": true
+}
