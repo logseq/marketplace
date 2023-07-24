@@ -1,5 +1,5 @@
 {
-  "datetime": 1689840161766,
+  "datetime": 1690171324151,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -982,6 +982,16 @@
       "effect": true,
       "id": "logseq-git",
       "addedAt": 1651710549000
+    },
+    {
+      "title": "logseq-git-diff-since",
+      "description": "Show what has been changed recently in Logseq",
+      "author": "Glooory",
+      "repo": "Glooory/logseq-git-diff-since",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-git-diff-since",
+      "addedAt": 1690007639000
     },
     {
       "title": "logseq-github-plugin ",
@@ -2548,6 +2558,16 @@
       "effect": true,
       "id": "logseq-reminder",
       "addedAt": 1667830179000
+    },
+    {
+      "title": "RSS Reader",
+      "description": "Read and import RSS content into Logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-rss-reader",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-rss-reader",
+      "addedAt": 1690054534000
     },
     {
       "title": "Logseq RTL Mode",
