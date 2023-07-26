@@ -1,5 +1,5 @@
 {
-  "datetime": 1690171324151,
+  "datetime": 1690336742389,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2560,6 +2560,14 @@
       "addedAt": 1667830179000
     },
     {
+      "title": "Remove empty blocks",
+      "description": "Added remove empty blocks context menus",
+      "author": "Cologler",
+      "repo": "Cologler/logseq-remove-empty-blocks-typescript",
+      "id": "logseq-remove-empty-blocks",
+      "addedAt": 1690280458000
+    },
+    {
       "title": "RSS Reader",
       "description": "Read and import RSS content into Logseq.",
       "author": "b-yp",
@@ -2701,6 +2709,14 @@
       "effect": true,
       "id": "logseq-smartsearch",
       "addedAt": 1668169207000
+    },
+    {
+      "title": "Sort blocks",
+      "description": "Added sort blocks context menus",
+      "author": "Cologler",
+      "repo": "Cologler/logseq-sort-blocks-typescript",
+      "id": "logseq-sort-blocks",
+      "addedAt": 1690280443000
     },
     {
       "title": "Split block",
