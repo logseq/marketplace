@@ -1,0 +1,12 @@
+{
+  "title": "Classic dark theme pack",
+  "description": "A pack featuring color variations based on Logseq's original design theme.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-theme-classic-dark-theme-pack",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true,
+  "theme": true
+}
