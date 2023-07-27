@@ -1,5 +1,5 @@
 {
-  "datetime": 1690336742389,
+  "datetime": 1690464279045,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2877,6 +2877,20 @@
       "theme": true,
       "id": "logseq-textbook-theme",
       "addedAt": 1640884297000
+    },
+    {
+      "title": "Classic dark theme pack",
+      "description": "A pack featuring color variations based on Logseq's original design theme.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-theme-classic-dark-theme-pack",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "theme": true,
+      "id": "logseq-theme-classic-dark-theme-pack",
+      "addedAt": 1690463571000
     },
     {
       "title": "Things Theme",
