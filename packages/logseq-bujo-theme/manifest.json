@@ -1,0 +1,8 @@
+{
+  "title": "BuJo theme",
+  "description": "A theme inspired by Bullet Journals",
+  "author": "PiotrSss & stdword",
+  "repo": "stdword/logseq-bujo-theme",
+  "icon": "icon.png",
+  "theme": true
+}

@@ -1,0 +1,8 @@
+{
+  "title": "File Manager",
+  "description": "A file manager plugin for logseq (Search unused assets file)." ,
+  "author": "haydenull",
+  "repo":"haydenull/logseq-plugin-file-manager",
+  "icon": "icon.png",
+  "effect": true
+}

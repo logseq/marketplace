@@ -1,0 +1,10 @@
+{
+  "title": "LogLink Integration (beta)",
+  "description": "Send text, location and images to your Logseq graph from mobile apps like Telegram",
+  "repo": "hankhank10/loglink-plugin",
+  "author": "hankhank10",
+  "icon": "icon.png",
+  "effect": true
+}
+
+

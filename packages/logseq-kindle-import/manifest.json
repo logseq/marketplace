@@ -1,0 +1,7 @@
+{
+  "title": "Kindle Highlights Import",
+  "description": "Import Highlights from kindle exported Highlights file." ,
+  "author": "nicdun",
+  "repo":"nicdun/logseq-kindle-import",
+  "icon": "./kindle-logo.png"
+}

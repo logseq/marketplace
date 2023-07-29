@@ -1,0 +1,9 @@
+{
+    "title": "Task completion",
+    "description": "Plugin enables adding 'completed: <today's date>' property to task upon checking. See README for report generation query." ,
+    "author": "Dmitrii Dushkin (https://github.com/DimitryDushkin)",
+    "repo":"DimitryDushkin/logseq-plugin-task-check-date",
+    "icon": "icon.png",
+    "theme": false
+  }
+  

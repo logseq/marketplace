@@ -1,0 +1,8 @@
+{
+  "title": "Agenda",
+  "description": "An agenda manager plugin for logseq" ,
+  "author": "haydenull",
+  "repo":"haydenull/logseq-plugin-agenda",
+  "icon": "icon.png",
+  "effect": true
+}

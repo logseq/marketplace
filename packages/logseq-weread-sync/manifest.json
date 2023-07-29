@@ -1,0 +1,10 @@
+{
+  "title": "WeRead Sync",
+  "description": "Sync WeRead with your Logseq.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-weread-sync",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ]
+}

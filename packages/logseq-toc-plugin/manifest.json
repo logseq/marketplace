@@ -1,0 +1,8 @@
+{
+  "title": "logseq-toc-plugin",
+  "name": "logseq-toc-plugin",
+  "description": "Interactive (style-able), real-time rendering of Table of Contents.",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-toc-plugin",
+  "icon": "./icon.svg"
+}

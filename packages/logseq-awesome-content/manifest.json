@@ -1,0 +1,11 @@
+{
+  "title": "Awesome Content",
+  "description": "Enhanced content blocks (tasks, quotes, flashcards, headers, queries, diagrams, etc...)",
+  "author": "yoyurec",
+  "repo": "yoyurec/logseq-awesome-content",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yoyurec"
+  ],
+  "effect": true
+}

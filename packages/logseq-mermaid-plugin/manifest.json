@@ -1,0 +1,8 @@
+{
+  "title": "logseq-mermaid-plugin",
+  "name": "logseq-mermaid-plugin",
+  "description": "This simple plugin allows you to quickly insert mermaid diagrams in your notes.",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-mermaid-plugin",
+  "icon": "./icon.svg"
+}

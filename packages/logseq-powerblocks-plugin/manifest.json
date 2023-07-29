@@ -1,0 +1,8 @@
+{
+  "title": "logseq-powerblocks-plugin",
+  "name": "logseq-powerblocks-plugin",
+  "description": "Create regular or button templates by simply tagging a block, and use them together to create powerful templates.",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-powerblocks-plugin",
+  "icon": "./icon.svg"
+}

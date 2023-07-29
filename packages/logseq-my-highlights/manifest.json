@@ -1,0 +1,11 @@
+{
+  "title": "My Highlights",
+  "description": "Import highlights into logseq",
+  "author": "Ben Force",
+  "repo": "theBenForce/logseq-plugin-my-highlights",
+  "icon": "icon.svg",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/theBenForce"
+  ]
+}

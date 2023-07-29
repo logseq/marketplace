@@ -1,0 +1,8 @@
+{
+  "title": "Automatic format url title",
+  "description": "Automatically fetches the title of a website and wraps it into markdown link format. Also, renders the favicon of the url next to it.",
+  "author": "0x7b1",
+  "repo": "0x7b1/logseq-plugin-automatic-url-title",
+  "icon": "./icon.png",
+  "effect": true
+}

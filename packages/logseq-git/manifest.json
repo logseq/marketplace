@@ -1,0 +1,8 @@
+{
+  "title": "Git",
+  "description": "A git plugin for logseq" ,
+  "author": "haydenull",
+  "repo":"haydenull/logseq-plugin-git",
+  "icon": "icon.png",
+  "effect": true
+}

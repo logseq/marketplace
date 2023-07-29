@@ -1,0 +1,8 @@
+{
+  "title": "logseq-recurrence-plugin",
+  "name": "logseq-recurrence-plugin",
+  "description": "This plugin allows you to quickly add recurring blocks based on your desired recurrence. It also allows you to delete inserted recurring blocks as well!",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-recurrence-plugin",
+  "icon": "./icon.svg"
+}

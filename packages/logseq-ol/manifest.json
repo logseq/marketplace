@@ -1,0 +1,10 @@
+{
+  "title": "Ordered Lists",
+  "description": "Ordered lists, flat or nested, multiple formats ordered lists.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-ol",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ]
+}

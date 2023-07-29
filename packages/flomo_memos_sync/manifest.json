@@ -1,0 +1,8 @@
+{
+  "title": "flomo_memos_sync",
+  "description": "同步 flomo 笔记至 logseq",
+  "repo": "duiliuliu/logseq-flomo-plugin",
+  "author": "duiliuliu",
+  "icon": "icon.png"
+}
+  

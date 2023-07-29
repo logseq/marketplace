@@ -1,0 +1,8 @@
+{
+  "title": "Style Carousel",
+  "description": "Add button(s) configured for stylesheet-driven effects such as toggling the visibility of completed to-dos.",
+  "author": "Mario T. Lanza",
+  "repo": "mlanza/logseq-style-carousel",
+  "icon": "./carousel.png",
+  "effect": true
+}

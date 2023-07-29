@@ -1,0 +1,8 @@
+{
+  "title": "Pen",
+  "description": "Add a pen mode to Logseq",
+  "author": "vipzhicheng",
+  "repo": "vipzhicheng/logseq-plugin-pen",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}

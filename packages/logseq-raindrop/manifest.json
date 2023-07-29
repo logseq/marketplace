@@ -1,0 +1,7 @@
+{
+  "title": "Raindrop",
+  "description": "Pull in annotations & highlights and save URLs to Raindrop." ,
+  "author": "phildenhoff",
+  "repo":"phildenhoff/logseq-raindrop",
+  "icon": "./raindrop.svg"
+}

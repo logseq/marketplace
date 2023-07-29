@@ -1,0 +1,9 @@
+{
+  "title": "Catppuccin",
+  "description": "🦫 Soothing pastel theme for Logseq",
+  "author": "Soumik (griimick)",
+  "repo": "catppuccin/logseq",
+  "icon": "icon.png",
+  "sponsors": ["https://opencollective.com/catppuccin"],
+  "theme": true
+}

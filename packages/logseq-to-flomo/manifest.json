@@ -1,0 +1,8 @@
+{
+  "title": "logseq to flomo",
+  "description": "Send logseq to flomo",
+  "repo": "prnake/logseq-to-flomo",
+  "author": "papersnake",
+  "icon": "icon.png",
+  "effect": true
+}

@@ -1,0 +1,10 @@
+{
+    "title": "logseq-pomodoro-timer",
+    "description": "A quick, easy to use pomodoro timer for Logseq with support for system notifications.",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-pomodoro-plugin",
+    "icon": "./icon.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }

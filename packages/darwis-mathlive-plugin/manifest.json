@@ -1,0 +1,9 @@
+{
+  "title": "darwis-mathlive-plugin",
+  "name": "darwis-mathlive-plugin",
+  "description": "Use Mathlive to input mathematical expressions in Logseq.",
+  "author": "hkgnp",
+  "repo": "hkgnp/darwis-mathlive-plugin",
+  "icon": "./icon.svg",
+  "effect": true
+}

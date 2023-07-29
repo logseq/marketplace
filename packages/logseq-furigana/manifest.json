@@ -1,0 +1,11 @@
+{
+  "title": "Logseq Furigana",
+  "description": "A plugin for furigana (ruby characters) support in logseq",
+  "author": "David Davó",
+  "repo": "daviddavo/logseq-furigana",
+  "sponsors": [
+    "https://github.com/sponsors/daviddavo",
+    "https://www.buymeacoffee.com/ddavo"
+  ],
+  "icon": "icon.svg"
+}

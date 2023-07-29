@@ -1,0 +1,8 @@
+{
+  "title": "logseq-writegood-plugin",
+  "name": "logseq-writegood-plugin",
+  "description": "This simple plugin leverages on btford's write-good plugin to offer English prose suggestions to your writing. All suggestions are provided locally and no data is sent to any external servers.",
+  "author": "hkgnp",
+  "repo": "hkgnp/logseq-writegood-plugin",
+  "icon": "./icon.svg"
+}
