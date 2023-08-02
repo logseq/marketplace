@@ -1,0 +1,8 @@
+{
+  "title": "Image Editor",
+  "description": "Edit and save images in Logseq.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-image-editor",
+  "icon": "./logo.svg",
+  "effect": true
+}
