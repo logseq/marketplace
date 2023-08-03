@@ -1,5 +1,5 @@
 {
-  "datetime": 1690464279045,
+  "datetime": 1691036622703,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1155,6 +1155,16 @@
       "theme": false,
       "id": "logseq-image-auto-resizer",
       "addedAt": 1689426235000
+    },
+    {
+      "title": "Image Editor",
+      "description": "Edit and save images in Logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-image-editor",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-image-editor",
+      "addedAt": 1690996140000
     },
     {
       "title": "Image Uploader",
