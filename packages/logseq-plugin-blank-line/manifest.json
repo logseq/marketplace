@@ -1,0 +1,8 @@
+{
+  "title": "Blank Line",
+  "description": "Quickly insert blank lines below the selected block or the block of the page.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-blank-line",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"]
+}
