@@ -4,5 +4,8 @@
   "author": "r8",
   "repo": "r8/logseq-chess",
   "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/reight"
+  ],
   "effect": true
 }
