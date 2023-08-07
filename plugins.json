@@ -1,5 +1,5 @@
 {
-  "datetime": 1691036622703,
+  "datetime": 1691377226133,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -473,6 +473,9 @@
       "author": "r8",
       "repo": "r8/logseq-chess",
       "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/reight"
+      ],
       "effect": true,
       "id": "logseq-chess",
       "addedAt": 1689021670000
@@ -1969,6 +1972,18 @@
       "theme": false,
       "id": "logseq-plugin-better-tasks",
       "addedAt": 1688305677000
+    },
+    {
+      "title": "Blank Line",
+      "description": "Quickly insert blank lines below the selected block or the block of the page.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-blank-line",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-blank-line",
+      "addedAt": 1691237478000
     },
     {
       "title": "booklog-jp",
