@@ -1,5 +1,5 @@
 {
-  "datetime": 1691377226133,
+  "datetime": 1691468124798,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2892,6 +2892,16 @@
       ],
       "id": "logseq-task-management-shortcuts",
       "addedAt": 1642406539000
+    },
+    {
+      "title": "Tenset Security",
+      "description": "Beautiful theme made for smart contract auditors",
+      "author": "Tenset",
+      "repo": "tenset-security/logseq-tenset-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-tenset-theme",
+      "addedAt": 1691066740000
     },
     {
       "title": "Textbook theme",
