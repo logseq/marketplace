@@ -1,5 +1,5 @@
 {
-  "datetime": 1691468124798,
+  "datetime": 1691546871317,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -101,7 +101,7 @@
     {
       "title": "All Day Theme",
       "description": "A clean theme styled for high readability and minimal eye strain.",
-      "repo": "tobealive/logseq-allday-theme",
+      "repo": "ttytm/logseq-allday-theme",
       "author": "Turiiya",
       "icon": "icon.png",
       "theme": true,
