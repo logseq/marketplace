@@ -1,5 +1,5 @@
 {
-  "datetime": 1691546871317,
+  "datetime": 1692003903559,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3306,6 +3306,14 @@
       "effect": true,
       "id": "logseq13-full-house",
       "addedAt": 1677980704000
+    },
+    {
+      "title": "Block Spacer",
+      "description": "A plugin for Logseq to keep first child block empty",
+      "author": "gfgafn",
+      "repo": "gfgafn/logseq_block_spacer",
+      "id": "logseq_block_spacer",
+      "addedAt": 1691997220000
     },
     {
       "title": "LogTools - productivity pack",
