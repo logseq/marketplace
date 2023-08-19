@@ -1,5 +1,5 @@
 {
-  "datetime": 1692003903559,
+  "datetime": 1692412038671,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2892,6 +2892,19 @@
       ],
       "id": "logseq-task-management-shortcuts",
       "addedAt": 1642406539000
+    },
+    {
+      "title": "Task Reminder",
+      "description": "A pomodoro timer for your tasks.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-task-reminder",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-task-reminder",
+      "addedAt": 1678604497000
     },
     {
       "title": "Tenset Security",
