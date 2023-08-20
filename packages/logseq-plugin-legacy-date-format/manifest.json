@@ -1,0 +1,9 @@
+{
+  "title": "Legacy date format",
+  "description": "Replace and redirect to enable the use of legacy date formats.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-legacy-date-format",
+  "icon": "./icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
