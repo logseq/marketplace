@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "title": "Legacy date format",
+    "description": "Replace and redirect to enable the use of legacy date formats.",
+    "author": "YU000jp",
+    "repo": "YU000jp/logseq-plugin-legacy-date-format",
+    "icon": "./icon.png",
+    "sponsors": [
+      "https://www.buymeacoffee.com/yu000japan"
+    ],
+    "effect": true,
+    "id": "logseq-plugin-legacy-date-format",
+    "addedAt": 1692447938000
+  },
+  {
+    "title": "Show GitHub Star",
+    "description": "A simple logseq plugin that will display the star number for GitHub repo links",
+    "author": "studyduck",
+    "repo": "studyduck/logseq-show-github-star",
+    "icon": "icon.svg",
+    "effect": true,
+    "theme": false,
+    "id": "logseq-show-github-star",
+    "addedAt": 1692439110000
+  },
+  {
+    "title": "Favorite Tree",
+    "description": "A hierarchical favorites in the left sidebar.",
+    "author": "sethyuan",
+    "repo": "sethyuan/logseq-plugin-favorite-tree",
+    "icon": "./icon.png",
+    "sponsors": [
+      "https://www.buymeacoffee.com/sethyuan"
+    ],
+    "effect": true,
+    "id": "logseq-task-favorite-tree",
+    "addedAt": 1692414252000
+  }
+]
