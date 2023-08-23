@@ -1,5 +1,5 @@
 {
-  "datetime": 1692493208605,
+  "datetime": 1692759682900,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1365,6 +1365,16 @@
       "addedAt": 1667148632000
     },
     {
+      "title": "Logseq Live Math",
+      "description": "Type LaTeX in live mode!",
+      "author": "Allan Chain",
+      "repo": "AllanChain/logseq-live-math",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-live-math",
+      "addedAt": 1692713055000
+    },
+    {
       "title": "Local Telegram Bot",
       "description": "A local Telegram bot that can handle messages from and share notes with specific Telegram users",
       "author": "LelouchHe",
@@ -2151,6 +2161,19 @@
       "effect": true,
       "id": "logseq-plugin-legacy-date-format",
       "addedAt": 1692447938000
+    },
+    {
+      "title": "Flex date format",
+      "description": "Localize date format. Or switch to style of the selected format.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-flex-date-format",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-legacy-date-format copy",
+      "addedAt": 1692759682886
     },
     {
       "title": "Multiple Files into Assets",
