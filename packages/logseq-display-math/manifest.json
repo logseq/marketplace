@@ -1,6 +1,6 @@
 {
   "title": "Logseq Display Math",
-  "description": "Make all math render in display style.",
+  "description": "Tweak LaTeX rendering and styling.",
   "author": "Allan Chain",
   "repo": "AllanChain/logseq-display-math",
   "icon": "icon.svg",
