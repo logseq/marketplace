@@ -3,5 +3,6 @@
     "description": "A Logseq plugin for adding bidirectional text support",
     "author": "Mostafa Ahangarha",
     "repo": "dobidi/logseq-bidi",
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "effect": true
   }

@@ -1,5 +1,5 @@
 {
-  "datetime": 1692759682900,
+  "datetime": 1692856132398,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -300,6 +300,16 @@
       "theme": true,
       "id": "logseq-bear-theme",
       "addedAt": 1637514822000
+    },
+    {
+      "title": "Logseq Bidi",
+      "description": "A Logseq plugin for adding bidirectional text support",
+      "author": "Mostafa Ahangarha",
+      "repo": "dobidi/logseq-bidi",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-bidi",
+      "addedAt": 1692823029000
     },
     {
       "title": "Bionic Speedreader",
@@ -744,7 +754,7 @@
     },
     {
       "title": "Logseq Display Math",
-      "description": "Make all math render in display style.",
+      "description": "Tweak LaTeX rendering and styling.",
       "author": "Allan Chain",
       "repo": "AllanChain/logseq-display-math",
       "icon": "icon.svg",
