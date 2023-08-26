@@ -1,5 +1,5 @@
 {
-  "datetime": 1692856132398,
+  "datetime": 1693044524286,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2216,6 +2216,16 @@
       "effect": true,
       "id": "logseq-plugin-open-page-in-logseq",
       "addedAt": 1683299732000
+    },
+    {
+      "title": "logseq-openproject",
+      "description": "Integration of OpenProject Tasks into Logseq",
+      "author": "mkluge",
+      "repo": "mkluge/logseq-openproject",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-openproject",
+      "addedAt": 1692816643000
     },
     {
       "title": "logseq-plugin-page-export",
