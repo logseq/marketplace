@@ -1,5 +1,5 @@
 {
-  "datetime": 1692856132398,
+  "datetime": 1693286991530,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1151,6 +1151,19 @@
       "addedAt": 1686319584000
     },
     {
+      "title": "Hierarchy Jump",
+      "description": "Identifies the current page's hierarchy and offer a quicker navigation.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-hierarchy-jump",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-hierarchy-jump",
+      "addedAt": 1693205337000
+    },
+    {
       "title": "Hypothesis",
       "description": "Sync hypothes.is annotations to Logseq.",
       "author": "c6p",
@@ -2216,6 +2229,16 @@
       "effect": true,
       "id": "logseq-plugin-open-page-in-logseq",
       "addedAt": 1683299732000
+    },
+    {
+      "title": "logseq-openproject",
+      "description": "Integration of OpenProject Tasks into Logseq",
+      "author": "mkluge",
+      "repo": "mkluge/logseq-openproject",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-openproject",
+      "addedAt": 1692816643000
     },
     {
       "title": "logseq-plugin-page-export",

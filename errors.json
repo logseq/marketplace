@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "title": "Hierarchy Jump",
+    "description": "Identifies the current page's hierarchy and offer a quicker navigation.",
+    "author": "sethyuan",
+    "repo": "sethyuan/logseq-plugin-hierarchy-jump",
+    "icon": "./icon.png",
+    "sponsors": [
+      "https://www.buymeacoffee.com/sethyuan"
+    ],
+    "effect": true,
+    "id": "logseq-hierarchy-jump",
+    "addedAt": 1693205337000
+  }
+]
