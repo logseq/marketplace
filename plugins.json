@@ -1,5 +1,5 @@
 {
-  "datetime": 1693194270387,
+  "datetime": 1693286991530,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1149,6 +1149,19 @@
       ],
       "id": "logseq-hide-everything-plugin",
       "addedAt": 1686319584000
+    },
+    {
+      "title": "Hierarchy Jump",
+      "description": "Identifies the current page's hierarchy and offer a quicker navigation.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-hierarchy-jump",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-hierarchy-jump",
+      "addedAt": 1693205337000
     },
     {
       "title": "Hypothesis",
