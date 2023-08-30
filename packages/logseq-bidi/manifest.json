@@ -1,6 +1,6 @@
 {
     "title": "Logseq Bidi",
-    "description": "A Logseq plugin for adding bidirectional text support",
+    "description": "A Logseq plugin for adding bidirectional text support, making it possible to manage knowledge in both LTR and RTL languages.",
     "author": "Mostafa Ahangarha",
     "repo": "dobidi/logseq-bidi",
     "icon": "icon.png",
