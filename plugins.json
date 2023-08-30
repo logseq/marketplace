@@ -1,5 +1,5 @@
 {
-  "datetime": 1693286991530,
+  "datetime": 1693363587070,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -72,7 +72,7 @@
     },
     {
       "title": "Add PARA Properties Into Page",
-      "description": "Add some commands to easily add properties related to my PARA workflow.",
+      "description": "Easily add PARA into your workflow. Comes with a PARA page to list all your Projects, Areas, Resources.",
       "author": "George Guimarães",
       "repo": "georgeguimaraes/logseq-plugin-add-PARA-properties",
       "icon": "icon.png",
@@ -303,7 +303,7 @@
     },
     {
       "title": "Logseq Bidi",
-      "description": "A Logseq plugin for adding bidirectional text support",
+      "description": "A Logseq plugin for adding bidirectional text support, making it possible to manage knowledge in both LTR and RTL languages.",
       "author": "Mostafa Ahangarha",
       "repo": "dobidi/logseq-bidi",
       "icon": "icon.png",
