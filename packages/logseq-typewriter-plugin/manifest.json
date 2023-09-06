@@ -1,0 +1,8 @@
+{
+  "title": "Typewriter Plugin",
+  "description": "A simple typewriter plugin for Logseq.",
+  "repo": "dinushkaherath/logseq-typewriter-plugin",
+  "author": "Glorious Inheritor",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/glorious.inheritor"]
+}
