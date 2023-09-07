@@ -1,5 +1,5 @@
 {
-  "datetime": 1693805056017,
+  "datetime": 1694093127157,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3196,6 +3196,19 @@
       "effect": true,
       "id": "logseq-typewriter-mode",
       "addedAt": 1688324848000
+    },
+    {
+      "title": "Typewriter Plugin",
+      "description": "A simple typewriter plugin for Logseq.",
+      "repo": "dinushkaherath/logseq-typewriter-plugin",
+      "author": "Glorious Inheritor",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/glorious.inheritor"
+      ],
+      "id": "logseq-typewriter-plugin",
+      "addedAt": 1694032117000
     },
     {
       "title": "Readwise plugin (unofficial)",

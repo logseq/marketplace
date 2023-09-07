@@ -4,5 +4,8 @@
   "repo": "dinushkaherath/logseq-typewriter-plugin",
   "author": "Glorious Inheritor",
   "icon": "icon.png",
-  "sponsors": ["https://www.buymeacoffee.com/glorious.inheritor"]
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/glorious.inheritor"
+  ]
 }
