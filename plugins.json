@@ -1,5 +1,5 @@
 {
-  "datetime": 1694093127157,
+  "datetime": 1694141376888,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1588,6 +1588,16 @@
       ],
       "id": "logseq-metrics",
       "addedAt": 1668365724000
+    },
+    {
+      "title": "MHTML/HTML Viewer Plugin",
+      "description": "This plugin allows you to view mhtml or html archive file in logseq.",
+      "author": "Jimmie Lee",
+      "repo": "lee88688/logseq-mhtml-view-plugin",
+      "icon": "logo.jpg",
+      "effect": true,
+      "id": "logseq-mhtml-viewer",
+      "addedAt": 1694103496000
     },
     {
       "title": "miA theme",
