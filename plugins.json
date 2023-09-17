@@ -1,5 +1,5 @@
 {
-  "datetime": 1694483881041,
+  "datetime": 1694917237259,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3499,6 +3499,19 @@
       ],
       "id": "template-gallery",
       "addedAt": 1675523235000
+    },
+    {
+      "title": "timeflow plugin",
+      "description": "A simple timeflow plugin for Logseq. Add timestamps, which can be toggled on or off at any time.",
+      "author": "yourmoonlight",
+      "repo": "yourmoonlight/timeflow_for_logseq",
+      "icon": "./logo.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/realMrD"
+      ],
+      "id": "timeflow_for_logseq",
+      "addedAt": 1694854430000
     },
     {
       "title": "Tufte Theme",
