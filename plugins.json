@@ -1,5 +1,5 @@
 {
-  "datetime": 1694917237259,
+  "datetime": 1695003141146,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2220,6 +2220,19 @@
       "effect": true,
       "id": "logseq-plugin-multiple-assets",
       "addedAt": 1687855542548
+    },
+    {
+      "title": "Noisy",
+      "description": "Enhance your LogSeq experience with sounds",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-noisy",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-noisy",
+      "addedAt": 1694767706000
     },
     {
       "title": "OmniFocus Plugin",
