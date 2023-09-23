@@ -1,0 +1,11 @@
+{
+  "title": "2 hop link",
+  "description": "Displays collections of links at bottom of a page content.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-two-hop-link",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}
