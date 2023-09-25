@@ -1,5 +1,5 @@
 {
-  "datetime": 1695569341532,
+  "datetime": 1695610130799,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2027,6 +2027,15 @@
       ],
       "id": "logseq-plugin-blank-line",
       "addedAt": 1691237478000
+    },
+    {
+      "title": "block transform plugin for logseq",
+      "description": "Split block and transform block to nice display",
+      "author": "JuniverseCoder",
+      "repo": "JuniverseCoder/logseq-plugin-block-transformer",
+      "icon": "logo.png",
+      "id": "logseq-plugin-block-transformer",
+      "addedAt": 1695474214000
     },
     {
       "title": "booklog-jp",
