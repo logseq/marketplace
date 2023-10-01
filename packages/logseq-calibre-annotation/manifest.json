@@ -1,0 +1,9 @@
+{
+    "title": "logseq-calibre-annotation",
+    "description": "View ebooks from Calibre and sync annotations",
+    "author": "duydl",
+    "repo": "https://github.com/duydl/logseq-calibre-plugins/tree/publish/calibre-annotation",
+    "icon": "./icon.jpg",
+    "sponsors": ["https://www.buymeacoffee.com/duydole00"],
+    "effect": true
+  }
