@@ -1,0 +1,11 @@
+{
+  "title": "Left-Sidebar Enhance",
+  "description": "Includes some features such as mouse over to show left sidebar.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-left-sidebar-enhance",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}
