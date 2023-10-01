@@ -2,7 +2,7 @@
     "title": "logseq-calibre-metadata",
     "description": "View ebooks from Calibre and sync annotations",
     "author": "duydl",
-    "repo": "duydl/logseq-calibre-plugins/tree/publish/calibre-metadata",
+    "repo": "duydl/logseq-calibre-metadata",
     "icon": "./icon.jpg",
     "sponsors": ["https://www.buymeacoffee.com/duydole00"],
     "effect": true
