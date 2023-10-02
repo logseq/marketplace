@@ -1,5 +1,5 @@
 {
-  "datetime": 1695610130799,
+  "datetime": 1696215739807,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -404,6 +404,32 @@
       "effect": true,
       "id": "logseq-calendars-plugin",
       "addedAt": 1643369830000
+    },
+    {
+      "title": "logseq-calibre-annotation",
+      "description": "View ebooks from Calibre and sync annotations",
+      "author": "duydl",
+      "repo": "duydl/logseq-calibre-annotation",
+      "icon": "./icon.jpg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/duydole00"
+      ],
+      "effect": true,
+      "id": "logseq-calibre-annotation",
+      "addedAt": 1696159123000
+    },
+    {
+      "title": "logseq-calibre-metadata",
+      "description": "View ebooks from Calibre and sync annotations",
+      "author": "duydl",
+      "repo": "duydl/logseq-calibre-metadata",
+      "icon": "./icon.jpg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/duydole00"
+      ],
+      "effect": true,
+      "id": "logseq-calibre-metadata",
+      "addedAt": 1696159123000
     },
     {
       "title": "logseq-calview-plugin",
@@ -2190,6 +2216,19 @@
       "effect": true,
       "id": "logseq-plugin-leetcode",
       "addedAt": 1671962880000
+    },
+    {
+      "title": "Left-Sidebar Enhance",
+      "description": "Includes some features such as mouse over to show left sidebar.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-left-sidebar-enhance",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-left-sidebar-enhance",
+      "addedAt": 1696147911000
     },
     {
       "title": "Legacy date format",
