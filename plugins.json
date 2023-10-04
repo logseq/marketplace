@@ -1,5 +1,5 @@
 {
-  "datetime": 1696215739807,
+  "datetime": 1696409482920,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -420,7 +420,7 @@
     },
     {
       "title": "logseq-calibre-metadata",
-      "description": "View ebooks from Calibre and sync annotations",
+      "description": "Create pages for Calibre books",
       "author": "duydl",
       "repo": "duydl/logseq-calibre-metadata",
       "icon": "./icon.jpg",
