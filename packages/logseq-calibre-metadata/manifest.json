@@ -1,6 +1,6 @@
 {
     "title": "logseq-calibre-metadata",
-    "description": "View ebooks from Calibre and sync annotations",
+    "description": "Create pages for Calibre books",
     "author": "duydl",
     "repo": "duydl/logseq-calibre-metadata",
     "icon": "./icon.jpg",
