@@ -1,5 +1,5 @@
 {
-  "datetime": 1696645386970,
+  "datetime": 1696732518424,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3509,6 +3509,18 @@
       "effect": true,
       "id": "logseq13-full-house",
       "addedAt": 1677980704000
+    },
+    {
+      "title": "Shorten My Links",
+      "description": "Shorts redundant hierarchical references to reduce visual efforts 👁️",
+      "author": "stdword",
+      "repo": "stdword/logseq13-shorten-my-links",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/stdword"
+      ],
+      "id": "logseq13-shorten-my-links",
+      "addedAt": 1696718330000
     },
     {
       "title": "Block Spacer",
