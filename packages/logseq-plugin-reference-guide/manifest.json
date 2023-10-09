@@ -1,0 +1,11 @@
+{
+  "title": "Reference guide",
+  "description": "Show size of referenced block next to every reference.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-reference-guide",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}
