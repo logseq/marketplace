@@ -1,0 +1,8 @@
+{
+    "title": "logseq-privacy-mode",
+    "description": "Hide or encrypt all children of blocks with user-defined tags.",
+    "author": "duydl",
+    "repo": "duydl/logseq-privacy-mode",
+    "icon": "./icon.png",
+    "sponsors": ["https://www.buymeacoffee.com/duydole00"]
+  }
