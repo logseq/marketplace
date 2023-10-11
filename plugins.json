@@ -1,5 +1,5 @@
 {
-  "datetime": 1696860972315,
+  "datetime": 1696996638064,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2556,6 +2556,18 @@
       "effect": true,
       "id": "logseq-powertags-plugin",
       "addedAt": 1671120490000
+    },
+    {
+      "title": "logseq-privacy-mode",
+      "description": "Hide or encrypt all children of blocks with user-defined tags.",
+      "author": "duydl",
+      "repo": "duydl/logseq-privacy-mode",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/duydole00"
+      ],
+      "id": "logseq-privacy-mode",
+      "addedAt": 1696924122000
     },
     {
       "title": "logseq-property-visualizer",
