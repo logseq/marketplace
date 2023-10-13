@@ -1,5 +1,5 @@
 {
-  "datetime": 1696996638064,
+  "datetime": 1697165421118,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3544,6 +3544,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/stdword"
       ],
+      "effect": true,
       "id": "logseq13-shorten-my-links",
       "addedAt": 1696718330000
     },
