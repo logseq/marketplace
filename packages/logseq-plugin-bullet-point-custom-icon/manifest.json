@@ -1,6 +1,6 @@
 {
   "title": "Bullet Point Custom Icon",
-  "description": "Use custom icons for bullets with specific tags.",
+  "description": "Apply custom icons for bullet points with specific tags.",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-bullet-point-custom-icon",
   "icon": "./icon.svg",
