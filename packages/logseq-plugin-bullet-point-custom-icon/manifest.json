@@ -1,0 +1,10 @@
+{
+  "title": "Bullet Point Custom Icon",
+  "description": "Use custom icons for bullets with specific tags.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-bullet-point-custom-icon",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ]
+}
