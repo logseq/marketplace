@@ -1,5 +1,5 @@
 {
-  "datetime": 1697165421118,
+  "datetime": 1697368380555,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2078,6 +2078,18 @@
       "addedAt": 1669444021000
     },
     {
+      "title": "Bullet Point Custom Icon",
+      "description": "Apply custom icons for bullet points with specific tags.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-bullet-point-custom-icon",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-bullet-point-custom-icon",
+      "addedAt": 1697294144000
+    },
+    {
       "title": "Bullet Point Style",
       "description": "Change bullet points style and color.",
       "author": "YU000jp",
@@ -2407,6 +2419,19 @@
       "addedAt": 1685515840000
     },
     {
+      "title": "Run JS",
+      "description": "Run arbitrary javascript and show output on a page",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-runjs",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-runjs",
+      "addedAt": 1697259873000
+    },
+    {
       "title": "Short Namespaces",
       "description": "This plugin is providing abbreviated representation for namespaces (hierarchy).",
       "author": "YU000jp",
@@ -2431,6 +2456,18 @@
       "effect": true,
       "id": "logseq-plugin-show-weekday-and-week-number",
       "addedAt": 1685024271000
+    },
+    {
+      "title": "Side Block",
+      "description": "Place child blocks next to the parent block.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-side-block",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-side-block",
+      "addedAt": 1697177962000
     },
     {
       "title": "Innovation Lab",
@@ -3429,6 +3466,16 @@
       ],
       "id": "logseq-weread-sync",
       "addedAt": 1676902374000
+    },
+    {
+      "title": "Whisper Subtitles for Videos",
+      "description": "Generate subtitles with timestamp for videos using local Whisper",
+      "author": "usoon",
+      "repo": "usoonees/logseq-plugin-whisper-subtitles",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-whisper-subtitles",
+      "addedAt": 1697224114000
     },
     {
       "title": "Wide Eyed",

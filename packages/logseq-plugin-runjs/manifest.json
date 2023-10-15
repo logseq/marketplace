@@ -4,5 +4,8 @@
   "author": "meain",
   "repo": "meain/logseq-plugin-runjs",
   "icon": "./icon.png",
-  "sponsors": ["https://github.com/sponsors/meain"]
+  "sponsors": [
+    "https://github.com/sponsors/meain"
+  ],
+  "effect": true
 }
