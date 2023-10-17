@@ -1,5 +1,5 @@
 {
-  "datetime": 1697368380555,
+  "datetime": 1697556349516,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -143,6 +143,15 @@
       "theme": true,
       "id": "logseq-arc-theme",
       "addedAt": 1664407086000
+    },
+    {
+      "title": "Assets plus",
+      "description": "A Logseq plugin to enhance the assets features.",
+      "author": "xyhp915",
+      "repo": "xyhp915/logseq-assets-plus",
+      "icon": "icon.png",
+      "id": "logseq-assets-plus",
+      "addedAt": 1697553832000
     },
     {
       "title": "Atlas Theme",
