@@ -1,5 +1,5 @@
 {
-  "datetime": 1697556349516,
+  "datetime": 1697988353513,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2602,6 +2602,16 @@
       "effect": true,
       "id": "logseq-powertags-plugin",
       "addedAt": 1671120490000
+    },
+    {
+      "title": "Logseq preview footnote",
+      "description": "Float preview logseq footnote",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-preview-footnote",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-preview-footnote",
+      "addedAt": 1697973672000
     },
     {
       "title": "logseq-privacy-mode",
