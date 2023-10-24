@@ -1,5 +1,5 @@
 {
-  "datetime": 1697988353513,
+  "datetime": 1698162545460,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -937,6 +937,16 @@
       ],
       "id": "logseq-fenced-code-plus",
       "addedAt": 1651558701000
+    },
+    {
+      "title": "Figma Integration",
+      "description": "A Logseq plugin for embedding figma frame.",
+      "repo": "CNLHC/logseq-figma",
+      "author": "CNLHC",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-figma",
+      "addedAt": 1698154805000
     },
     {
       "title": "File Manager",
