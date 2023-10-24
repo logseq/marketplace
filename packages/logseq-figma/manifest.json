@@ -1,0 +1,7 @@
+{
+    "title": "Figma Integration",
+    "description": "A Logseq plugin for embedding figma frame.",
+    "repo": "CNLHC/logseq-figma",
+    "author": "CNLHC",
+    "icon": "icon.png"
+}
