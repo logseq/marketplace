@@ -1,0 +1,11 @@
+{
+  "title": "File Linker",
+  "description": "Dynamically replaces a link's path. It allows you to store big files (like video) outside of Logseq.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-linker",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}
