@@ -1,5 +1,5 @@
 {
-  "datetime": 1698162545460,
+  "datetime": 1698423532304,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1431,6 +1431,19 @@
       "effect": true,
       "id": "logseq-link-unlinked",
       "addedAt": 1667148632000
+    },
+    {
+      "title": "File Linker",
+      "description": "Dynamically replaces a link's path. It allows you to store big files (like video) outside of Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-linker",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-linker",
+      "addedAt": 1698375232000
     },
     {
       "title": "Logseq Live Math",
@@ -3366,7 +3379,7 @@
       "title": "Typewriter Mode",
       "description": "Logseq Typewriter Mode Plugin.",
       "author": "b-yp",
-      "repo": "b-yp/loseq-typewriter-mode",
+      "repo": "b-yp/logseq-typewriter-mode",
       "icon": "./logo.svg",
       "effect": true,
       "id": "logseq-typewriter-mode",

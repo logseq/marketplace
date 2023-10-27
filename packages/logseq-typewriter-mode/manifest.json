@@ -2,7 +2,7 @@
   "title": "Typewriter Mode",
   "description": "Logseq Typewriter Mode Plugin.",
   "author": "b-yp",
-  "repo": "b-yp/loseq-typewriter-mode",
+  "repo": "b-yp/logseq-typewriter-mode",
   "icon": "./logo.svg",
   "effect": true
 }
