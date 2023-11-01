@@ -1,5 +1,5 @@
 {
-  "datetime": 1698423532304,
+  "datetime": 1698808093216,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1606,7 +1606,7 @@
     },
     {
       "title": "Merge Nested Blocks Into One",
-      "description": "Merge all nested blocks into one nested block with line breaks.",
+      "description": "Merge them all and have it as a single node in Logseq.",
       "author": "George Guimarães",
       "repo": "georgeguimaraes/logseq-plugin-merge-nested-blocks-into-one",
       "icon": "icon.png",
