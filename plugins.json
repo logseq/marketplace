@@ -1,5 +1,5 @@
 {
-  "datetime": 1698808093216,
+  "datetime": 1698892542677,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -97,6 +97,16 @@
       "repo": "UNICKCHENG/logseq-ai-assistant",
       "id": "logseq-ai-assistant",
       "addedAt": 1685525024000
+    },
+    {
+      "title": "Logseq AI Auto Tags",
+      "description": "Using AI to automatically tag blocks and pages",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-ai-auto-tags",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-ai-auto-tags",
+      "addedAt": 1698845571000
     },
     {
       "title": "All Day Theme",
