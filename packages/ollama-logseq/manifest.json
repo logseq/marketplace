@@ -1,0 +1,8 @@
+{
+  "title": "ollama-logseq",
+  "description": "Logseq plugin to integerate with ollama",
+  "author": "Omar Magdy",
+  "repo": "omagdy7/ollama-logseq",
+  "icon": "./logo.png",
+  "theme": false
+}
