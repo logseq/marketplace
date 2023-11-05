@@ -1,5 +1,5 @@
 {
-  "datetime": 1698892542677,
+  "datetime": 1699156085962,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1141,6 +1141,7 @@
       "sponsors": [
         "https://ko-fi.com/trashhalo"
       ],
+      "effect": true,
       "id": "logseq-graph-analysis",
       "addedAt": 1656323540000
     },
@@ -2905,6 +2906,16 @@
       "effect": true,
       "id": "logseq-schrodinger",
       "addedAt": 1650123325000
+    },
+    {
+      "title": "Scroll past bottom",
+      "description": "Allows you to scroll past the bottom of a page",
+      "repo": "RubenSmn/logseq-scroll-past-bottom",
+      "author": "RubenSmn",
+      "icon": "icon.png",
+      "effect": false,
+      "id": "logseq-scroll-past-bottom",
+      "addedAt": 1699130503000
     },
     {
       "title": "logseq-searchable",
