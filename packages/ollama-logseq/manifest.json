@@ -4,5 +4,6 @@
   "author": "Omar Magdy",
   "repo": "omagdy7/ollama-logseq",
   "icon": "./logo.png",
-  "theme": false
+  "theme": false,
+  "effect": true
 }
