@@ -1,5 +1,5 @@
 {
-  "datetime": 1699183923700,
+  "datetime": 1699238643587,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2497,6 +2497,19 @@
       "addedAt": 1686319366000
     },
     {
+      "title": "Show page date",
+      "description": "Display creation and modification dates on pages.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-show-page-date",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-show-page-date",
+      "addedAt": 1699184741000
+    },
+    {
       "title": "Show Weekday and Week-number",
       "description": "Plugin for showing week day and, week-number within the year or month beside journals page titles.",
       "author": "YU000jp",
@@ -3706,6 +3719,16 @@
       "theme": true,
       "id": "nord-theme",
       "addedAt": 1684603895000
+    },
+    {
+      "title": "ollama-logseq",
+      "description": "Logseq plugin to integrate with ollama",
+      "author": "Omar Magdy",
+      "repo": "omagdy7/ollama-logseq",
+      "icon": "./logo.png",
+      "theme": false,
+      "id": "ollama-logseq",
+      "addedAt": 1699224300000
     },
     {
       "title": "SamePage",
