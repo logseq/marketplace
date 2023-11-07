@@ -1,5 +1,5 @@
 {
-  "datetime": 1699238643587,
+  "datetime": 1699350553163,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3727,6 +3727,7 @@
       "repo": "omagdy7/ollama-logseq",
       "icon": "./logo.png",
       "theme": false,
+      "effect": true,
       "id": "ollama-logseq",
       "addedAt": 1699224300000
     },
