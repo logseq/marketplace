@@ -1,5 +1,5 @@
 {
-  "datetime": 1699350553163,
+  "datetime": 1699520268638,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -69,6 +69,16 @@
       "effect": true,
       "id": "loglink-integration",
       "addedAt": 1672937968000
+    },
+    {
+      "title": "Animal Crossing Keijiban",
+      "description": "Display a random quote from the bullitein board in Animal Crossing Wild World",
+      "author": "breadfruit_burial",
+      "repo": "matteron/logseq-ac-keijiban",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-ac-keijiban",
+      "addedAt": 1699496546000
     },
     {
       "title": "Add PARA Properties Into Page",
