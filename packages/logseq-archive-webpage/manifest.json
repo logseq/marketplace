@@ -1,0 +1,10 @@
+{
+  "title": "Archive Webpage",
+  "description": "Archive URLs directly in Logseq and save locally." ,
+  "author": "Pat Migliaccio",
+  "repo":"patmigliaccio/logseq-archive-webpage",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/patmigliaccio"
+  ]
+}
