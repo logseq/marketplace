@@ -1,5 +1,5 @@
 {
-  "datetime": 1699520268638,
+  "datetime": 1699678465521,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -163,6 +163,19 @@
       "theme": true,
       "id": "logseq-arc-theme",
       "addedAt": 1664407086000
+    },
+    {
+      "title": "Archive Webpage",
+      "description": "Archive URLs directly in Logseq and save locally.",
+      "author": "Pat Migliaccio",
+      "repo": "patmigliaccio/logseq-archive-webpage",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/patmigliaccio"
+      ],
+      "id": "logseq-archive-webpage",
+      "addedAt": 1699606391000
     },
     {
       "title": "Assets plus",
@@ -2189,6 +2202,14 @@
       "effect": true,
       "id": "logseq-plugin-confirmation-hyperlink",
       "addedAt": 1686405260000
+    },
+    {
+      "title": "Copy Page Properties",
+      "description": "Create a new note copying the page properties of your current note to the new note.",
+      "author": "gso",
+      "repo": "gso/logseq-plugin-copy-page-properties",
+      "id": "logseq-plugin-copy-page-properties",
+      "addedAt": 1699569452000
     },
     {
       "title": "Daily TODO",
