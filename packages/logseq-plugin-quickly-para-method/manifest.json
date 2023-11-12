@@ -1,6 +1,6 @@
 {
   "title": "Quickly PARA Method",
-  "description": "This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.",
+  "description": "Provides quick menu for The PARA method.",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-quickly-para-method",
   "icon": "./icon.svg",
