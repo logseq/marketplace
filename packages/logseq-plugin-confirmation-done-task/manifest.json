@@ -1,6 +1,6 @@
 {
-  "title": "Confirmation DONE task",
-  "description": "When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.",
+  "title": "DONE task property",
+  "description": "Add completed property to the DONE task",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-confirmation-done-task",
   "icon": "./icon.svg",
