@@ -1,0 +1,9 @@
+{
+  "title": "Preview Image",
+  "description": "Displays images on each page in a small size and displays a preview when hover over it.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-preview-image",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
