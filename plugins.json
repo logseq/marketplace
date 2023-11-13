@@ -1,5 +1,5 @@
 {
-  "datetime": 1699678465521,
+  "datetime": 1699884735027,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -620,7 +620,7 @@
       "addedAt": 1668355462000
     },
     {
-      "title": "Column-Layout (UI)",
+      "title": "Column-Layout (Journals UI)",
       "description": "For quick reference, it is possible to place journals, linked references, and journal queries side by side.",
       "author": "YU000jp",
       "repo": "YU000jp/Logseq-column-Layout",
@@ -1913,8 +1913,8 @@
       "addedAt": 1653773658000
     },
     {
-      "title": "Page-tags and Hierarchy (UI)",
-      "description": "Place page tags and hierarchy in non-standard positions (right or bottom of the page).",
+      "title": "Page-tags and Hierarchy (Page UI)",
+      "description": "Split page title hierarchy as links / Page view UI for page-tags and hierarchy",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-page-tags-and-hierarchy",
       "icon": "./icon.svg",
@@ -2118,8 +2118,8 @@
       "addedAt": 1688305677000
     },
     {
-      "title": "Blank Line",
-      "description": "Quickly insert blank lines below the selected block or the block of the page.",
+      "title": "Blank Line Shortcut",
+      "description": "Insert Rows (blocks) at Selected Lines or the Beginning and End of a Page.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-blank-line",
       "icon": "./icon.svg",
@@ -2178,8 +2178,8 @@
       "addedAt": 1687660849000
     },
     {
-      "title": "Confirmation DONE task",
-      "description": "When a task is marked as DONE, a confirmation dialog is displayed, and a property with a date is added to the block.",
+      "title": "DONE task property",
+      "description": "Add completed property to the DONE task",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-confirmation-done-task",
       "icon": "./icon.svg",
@@ -2191,8 +2191,8 @@
       "addedAt": 1686405119000
     },
     {
-      "title": "Confirmation Hyperlink (Paste URL)",
-      "description": "Create a Markdown Hyperlink by pasting a URL and retrieving the page title through a confirmation dialog.",
+      "title": "URL HyperLink",
+      "description": "Create a Hyperlink by pasting a URL.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-confirmation-hyperlink",
       "icon": "./icon.svg",
@@ -2326,7 +2326,7 @@
       "addedAt": 1696147911000
     },
     {
-      "title": "Legacy date format",
+      "title": "Old date format",
       "description": "Replace and redirect to enable the use of legacy date formats.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-legacy-date-format",
@@ -2339,7 +2339,7 @@
       "addedAt": 1692447938000
     },
     {
-      "title": "Flex date format",
+      "title": "Flexible date format",
       "description": "Localize date format. Or switch to style of the selected format.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-flex-date-format",
@@ -2431,6 +2431,19 @@
       "addedAt": 1670330949000
     },
     {
+      "title": "Preview Image",
+      "description": "Displays images on each page in a small size and displays a preview when hover over it.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-preview-image",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-preview-image",
+      "addedAt": 1699768689000
+    },
+    {
       "title": "Logseq Query Chart",
       "description": "a plugin that create a chart according to advanced query",
       "author": "miki0w0",
@@ -2452,7 +2465,7 @@
     },
     {
       "title": "Quickly PARA Method",
-      "description": "This plugin is designed to provide workflows for the PARA method. It quickly adds page-tags property.",
+      "description": "Provides quick menu for The PARA method.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-quickly-para-method",
       "icon": "./icon.svg",
@@ -2516,7 +2529,7 @@
     },
     {
       "title": "Short Namespaces",
-      "description": "This plugin is providing abbreviated representation for namespaces (hierarchy).",
+      "description": "Abbreviated representation for namespaces (hierarchy)",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-short-namespaces",
       "icon": "./icon.svg",
@@ -2541,8 +2554,8 @@
       "addedAt": 1699184741000
     },
     {
-      "title": "Show Weekday and Week-number",
-      "description": "Plugin for showing week day and, week-number within the year or month beside journals page titles.",
+      "title": "Show weekday and week-number",
+      "description": "Show weekday and week number beside journal titles. etc.. mini-calendar for daily page.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-show-weekday-and-week-number",
       "icon": "./icon.svg",
@@ -2625,8 +2638,8 @@
       "addedAt": 1672006539000
     },
     {
-      "title": "Weekdays and Holidays (Templates)",
-      "description": "Plugin for switching journal templates for weekdays and weekends, public holidays.",
+      "title": "More journal templates",
+      "description": "Journal Templates for each day of the week",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-weekdays-and-weekends",
       "icon": "./icon.svg",
@@ -3283,7 +3296,7 @@
     },
     {
       "title": "Classic dark theme pack",
-      "description": "A pack featuring color variations based on Logseq's original design theme.",
+      "description": "This pack includes new color variations based on Logseq's original dark theme.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-theme-classic-dark-theme-pack",
       "icon": "./icon.svg",
