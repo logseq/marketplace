@@ -1,6 +1,6 @@
 {
-  "title": "Show Weekday and Week-number",
-  "description": "Plugin for showing week day and, week-number within the year or month beside journals page titles.",
+  "title": "Show weekday and week-number",
+  "description": "Show weekday and week number beside journal titles. etc.. mini-calendar for daily page.",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-show-weekday-and-week-number",
   "icon": "./icon.svg",

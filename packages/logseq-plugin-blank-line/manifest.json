@@ -1,6 +1,6 @@
 {
-  "title": "Blank Line",
-  "description": "Quickly insert blank lines below the selected block or the block of the page.",
+  "title": "Blank Line Shortcut",
+  "description": "Insert Rows (blocks) at Selected Lines or the Beginning and End of a Page.",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-blank-line",
   "icon": "./icon.svg",
