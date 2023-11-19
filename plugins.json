@@ -1,5 +1,5 @@
 {
-  "datetime": 1699884735027,
+  "datetime": 1700360024970,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -482,6 +482,19 @@
       "icon": "./icon.svg",
       "id": "logseq-calview-plugin",
       "addedAt": 1645373555000
+    },
+    {
+      "title": "Logseq CardBox",
+      "description": "Plugin to add thumbnail cards to Logseq that are displayed in order of update.",
+      "author": "Hidekazu Kubota",
+      "repo": "sosuisen/logseq-cardbox",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/hidekaz"
+      ],
+      "id": "logseq-cardbox",
+      "addedAt": 1700110951000
     },
     {
       "title": "Logseq Case Converter",
@@ -1040,6 +1053,16 @@
       "repo": "gremi-jr/logseq-footnote-plugin",
       "id": "logseq-footnote-plugin",
       "addedAt": 1686944280000
+    },
+    {
+      "title": "Logseq LaTex Formula OCR",
+      "description": "Convert LaTex formula images from the clipboard into LaTex code",
+      "repo": "olmobaldoni/logseq-formula-ocr-plugin",
+      "author": "Olmo Baldoni",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-formula-ocr-plugin",
+      "addedAt": 1700261427000
     },
     {
       "title": "Logseq Furigana",
@@ -2176,6 +2199,15 @@
       "effect": true,
       "id": "logseq-plugin-bullet-point-style",
       "addedAt": 1687660849000
+    },
+    {
+      "title": "Colored Threads",
+      "description": "Change thread colors to indicate indentation level",
+      "author": "Patrick DeVries",
+      "repo": "PatrickDeVries/logseq-plugin-colored-threads",
+      "icon": "./icon.svg",
+      "id": "logseq-plugin-colored-threads",
+      "addedAt": 1700028024000
     },
     {
       "title": "DONE task property",
