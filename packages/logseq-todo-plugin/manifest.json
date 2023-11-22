@@ -1,11 +1,7 @@
 {
   "title": "TODO List",
-  "description": "Show your all TODO items and easy to add new items on your today's journal page",
-  "author": "ahonn",
-  "icon": "./logo.svg",
-  "repo": "ahonn/logseq-plugin-todo",
-  "effect": true,
-  "sponsors": [
-    "https://www.buymeacoffee.com/yuexunjiang"
-  ]
+  "description": "Show your all TODO items and easy to add new items on your today's journal page." ,
+  "author": "HJ Works",
+  "repo":"zuntopia/logseq-plugin-todo",
+  "icon": "./logo.svg"
 }
