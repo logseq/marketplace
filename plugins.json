@@ -1,5 +1,5 @@
 {
-  "datetime": 1700360024970,
+  "datetime": 1700966880229,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1808,6 +1808,15 @@
       "addedAt": 1650551080000
     },
     {
+      "title": "Nostr sync",
+      "description": "Allows you to send Direct Messages to a specific Nostr public key and download them to your journal based on the creation date.",
+      "author": "KoalaSat",
+      "repo": "KoalaSat/logseq-nostr-sync",
+      "icon": "icon.svg",
+      "id": "logseq-nostr-sync",
+      "addedAt": 1700407816000
+    },
+    {
       "title": "Logseq Notion Sync",
       "description": "This plugin helps you synchronize Logseq content with Notion.",
       "author": "b-yp",
@@ -3036,6 +3045,15 @@
       "theme": true,
       "id": "logseq-sepia-theme",
       "addedAt": 1637059777000
+    },
+    {
+      "title": "Block Shallow Copy",
+      "description": "The Block Shallow Copy plugin empowers users with a seamless copying block's children experience.",
+      "author": "Mateusz Myalski",
+      "repo": "MateuszMyalski/logseq-plugin-shallow-copy",
+      "icon": "./icon.png",
+      "id": "logseq-shallow-copy",
+      "addedAt": 1700828837000
     },
     {
       "title": "Show GitHub Star",
