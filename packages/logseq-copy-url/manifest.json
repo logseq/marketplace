@@ -1,0 +1,8 @@
+{
+  "title": "Copy URL",
+  "description": "A simple plugin that enhances your Logseq experience by adding a convenient \"Copy URL\" button next to external links, allowing you to easily copy the URL to your clipboard",
+  "repo": "RubenSmn/logseq-copy-url",
+  "author": "RubenSmn",
+  "icon": "icon.png",
+  "effect": false
+}
