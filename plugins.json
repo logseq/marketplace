@@ -1,5 +1,5 @@
 {
-  "datetime": 1700966880229,
+  "datetime": 1701222374360,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -667,6 +667,16 @@
       "effect": true,
       "id": "logseq-copy-code-plugin",
       "addedAt": 1652029079000
+    },
+    {
+      "title": "Copy URL",
+      "description": "A simple plugin that enhances your Logseq experience by adding a convenient \"Copy URL\" button next to external links, allowing you to easily copy the URL to your clipboard",
+      "repo": "RubenSmn/logseq-copy-url",
+      "author": "RubenSmn",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-copy-url",
+      "addedAt": 1701176518000
     },
     {
       "title": "Craft Theme",
