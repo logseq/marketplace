@@ -1,5 +1,5 @@
 {
-  "datetime": 1701222374360,
+  "datetime": 1701658324867,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3062,6 +3062,7 @@
       "author": "Mateusz Myalski",
       "repo": "MateuszMyalski/logseq-plugin-shallow-copy",
       "icon": "./icon.png",
+      "effect": true,
       "id": "logseq-shallow-copy",
       "addedAt": 1700828837000
     },
