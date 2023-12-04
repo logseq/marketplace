@@ -3,5 +3,6 @@
   "description": "The Block Shallow Copy plugin empowers users with a seamless copying block's children experience.",
   "author": "Mateusz Myalski",
   "repo": "MateuszMyalski/logseq-plugin-shallow-copy",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "effect": true
 }
