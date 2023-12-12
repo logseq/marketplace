@@ -1,0 +1,11 @@
+{
+  "title": "Long Form",
+  "description": "A long form editing experience for Logseq.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-long-form",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}
