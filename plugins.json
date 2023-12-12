@@ -1,5 +1,5 @@
 {
-  "datetime": 1701658324867,
+  "datetime": 1702354542896,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1566,6 +1566,19 @@
       ],
       "id": "logseq-lock-screen",
       "addedAt": 1637119562000
+    },
+    {
+      "title": "Long Form",
+      "description": "A long form editing experience for Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-long-form",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-long-form",
+      "addedAt": 1678604497000
     },
     {
       "title": "Luckysheet",
