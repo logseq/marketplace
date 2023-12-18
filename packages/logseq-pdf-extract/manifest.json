@@ -1,10 +1,11 @@
 {
-    "title": "PDF Export Plugin",
-    "description": "A plugin to improve PDF workflow, i.e. fully local support for Zotero, PDF annotation styling and so on.",
-    "author": "e-zz",
-    "repo": "e-zz/logseq-pdf-extract",
-    "icon": "./icon.png",
-    "sponsors": [
-     "https://www.buymeacoffee.com/e.zz"
-   ]
-  }
+  "title": "PDF Export Plugin",
+  "description": "A plugin to improve PDF workflow, i.e. fully local support for Zotero, PDF annotation styling and so on.",
+  "author": "e-zz",
+  "repo": "e-zz/logseq-pdf-extract",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/e.zz"
+  ],
+  "effect": true
+}

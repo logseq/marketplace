@@ -2,5 +2,6 @@
   "title": "Logsync",
   "description": "Sync data from various sources into Logseq",
   "author": "clstb",
-  "repo": "clstb/logsync"
+  "repo": "clstb/logsync",
+  "effect": true
 }
