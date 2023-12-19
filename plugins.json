@@ -1,5 +1,5 @@
 {
-  "datetime": 1702871928285,
+  "datetime": 1702954375249,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2047,7 +2047,7 @@
       "addedAt": 1648012252000
     },
     {
-      "title": "PDF Export Plugin",
+      "title": "PDF Extract",
       "description": "A plugin to improve PDF workflow, i.e. fully local support for Zotero, PDF annotation styling and so on.",
       "author": "e-zz",
       "repo": "e-zz/logseq-pdf-extract",
