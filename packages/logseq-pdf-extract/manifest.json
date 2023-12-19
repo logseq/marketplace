@@ -1,5 +1,5 @@
 {
-  "title": "PDF Export Plugin",
+  "title": "PDF Extract",
   "description": "A plugin to improve PDF workflow, i.e. fully local support for Zotero, PDF annotation styling and so on.",
   "author": "e-zz",
   "repo": "e-zz/logseq-pdf-extract",
