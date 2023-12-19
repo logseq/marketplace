@@ -1,0 +1,11 @@
+{
+  "title": "Math Editor",
+  "description": "Easier editing of math formulas.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-math-editor",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}
