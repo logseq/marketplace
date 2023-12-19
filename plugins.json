@@ -1,5 +1,5 @@
 {
-  "datetime": 1702954375249,
+  "datetime": 1702955144936,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1086,6 +1086,16 @@
       "icon": "icon.svg",
       "id": "logseq-furigana",
       "addedAt": 1682760159000
+    },
+    {
+      "title": "Get link title",
+      "description": "Automatically fetching title of a hyperlink, and converting it into the markdown format.",
+      "author": "abcvav",
+      "repo": "abcvav/logseq-get-link-title",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-get-link-title",
+      "addedAt": 1700470370000
     },
     {
       "title": "Get YouTube Captions",
