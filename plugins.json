@@ -1,5 +1,5 @@
 {
-  "datetime": 1702955144936,
+  "datetime": 1702979522352,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1651,6 +1651,19 @@
       "icon": "logo.png",
       "id": "logseq-marks",
       "addedAt": 1665429877000
+    },
+    {
+      "title": "Math Editor",
+      "description": "Easier editing of math formulas.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-math-editor",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-math-editor",
+      "addedAt": 1678604497000
     },
     {
       "title": "Matter",
