@@ -1,0 +1,8 @@
+{
+  "title": "Add PARA Properties Into Page",
+  "description": "Easily add PARA into your workflow. Comes with a PARA page to list all your Projects, Areas, Resources.",
+  "author": "George Guimarães",
+  "repo": "georgeguimaraes/logseq-plugin-add-PARA-properties",
+  "icon": "icon.png",
+  "theme": false
+}

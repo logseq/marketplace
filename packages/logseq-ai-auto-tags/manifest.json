@@ -1,0 +1,8 @@
+{
+  "title": "Logseq AI Auto Tags",
+  "description": "Using AI to automatically tag blocks and pages",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-ai-auto-tags",
+  "icon": "./logo.svg",
+  "effect": true
+}

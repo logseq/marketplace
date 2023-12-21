@@ -1,0 +1,6 @@
+{
+    "title": "Remove empty blocks",
+    "description": "Added remove empty blocks context menus",
+    "author": "Cologler",
+    "repo": "Cologler/logseq-remove-empty-blocks-typescript"
+}

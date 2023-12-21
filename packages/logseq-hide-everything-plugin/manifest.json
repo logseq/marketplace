@@ -1,0 +1,11 @@
+{
+  "title": "Hide EveryThing",
+  "description": "Hide any UI elements in Logseq that you don't want",
+  "author": "ahonn",
+  "icon": "./logo.svg",
+  "repo": "ahonn/logseq-plugin-hide-everything",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/yuexunjiang"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "logseq-git-diff-since",
+  "description": "Show what has been changed recently in Logseq" ,
+  "author": "Glooory",
+  "repo":"Glooory/logseq-git-diff-since",
+  "icon": "icon.png",
+  "effect": true
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Tabler picker",
+  "description": "Tabler icon picker plugin for Logseq",
+  "author": "yoyurec",
+  "repo": "yoyurec/logseq-tabler-picker",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yoyurec"
+  ],
+  "effect": true
+}

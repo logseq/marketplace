@@ -1,0 +1,8 @@
+{
+  "title": "Favorite Jump",
+  "description": "Use shortcuts to switch between favorite pages",
+  "author": "meain",
+  "repo": "meain/logseq-plugin-favorite-jump",
+  "icon": "./icon.png",
+  "sponsors": ["https://github.com/sponsors/meain"]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "DONE task property",
+  "description": "Add completed property to the DONE task",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-confirmation-done-task",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

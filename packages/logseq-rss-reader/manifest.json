@@ -1,0 +1,8 @@
+{
+  "title": "RSS Reader",
+  "description": "Read and import RSS content into Logseq.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-rss-reader",
+  "icon": "./logo.svg",
+  "effect": true
+}

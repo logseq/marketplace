@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Grammarly",
+  "description": "Toggle Grammarly inside Logseq and configure the suggestions.",
+  "repo": "xflash96/logseq-grammarly",
+  "author": "xflash96",
+  "icon": "icon.png",
+  "effect": true
+}

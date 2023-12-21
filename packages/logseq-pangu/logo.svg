@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1687090801402" class="icon" viewBox="0 0 1024 1024" version="1.1"
+  xmlns="http://www.w3.org/2000/svg" p-id="9164" data-spm-anchor-id="a313x.7781069.0.i9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+  <defs>
+    <filter id="blur-filter" x="0" y="0" width="100%" height="100%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+    <radialGradient id="gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color: #85c8c8" />
+      <stop offset="100%" style="stop-color: #0e2a33" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" rx="512" ry="512" fill="url(#gradient)" filter="url(#blur-filter)" />
+  <g transform="scale(0.6, 0.8) translate(380, 150)">
+    <path d="M840 192h-56v-72c0-13.3-10.7-24-24-24H168c-13.3 0-24 10.7-24 24v272c0 13.3 10.7 24 24 24h592c13.3 0 24-10.7 24-24V256h32v200H465c-22.1 0-40 17.9-40 40v136h-44c-4.4 0-8 3.6-8 8v228c0 1.1 0.2 2.2 0.6 3.1-0.4 1.6-0.6 3.2-0.6 4.9 0 46.4 37.6 84 84 84s84-37.6 84-84c0-1.7-0.2-3.3-0.6-4.9 0.4-1 0.6-2 0.6-3.1V640c0-4.4-3.6-8-8-8h-44V520h351c22.1 0 40-17.9 40-40V232c0-22.1-17.9-40-40-40z" p-id="1455" data-spm-anchor-id="a313x.search_index.0.i1.18903a81981rGt" class="selected" fill="#e87b35"></path>
+  </g>
+  <text x="900" y="1000" font-family="Verdana" font-size="30  " fill="#84bebf">
+    b-yp
+  </text>
+</svg>

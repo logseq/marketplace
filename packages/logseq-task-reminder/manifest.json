@@ -1,0 +1,11 @@
+{
+  "title": "Task Reminder",
+  "description": "A pomodoro timer for your tasks.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-task-reminder",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

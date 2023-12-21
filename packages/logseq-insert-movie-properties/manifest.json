@@ -1,0 +1,8 @@
+{
+  "title": "Logseq insert movie properties",
+  "description": "A plugin to insert movie information or actor information in Logseq.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-insert-movie-properties",
+  "icon": "./logo.svg",
+  "effect": true
+}

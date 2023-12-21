@@ -1,0 +1,10 @@
+{
+  "title": "Page-tags and Hierarchy (Page UI)",
+  "description": "Split page title hierarchy as links / Page view UI for page-tags and hierarchy",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-page-tags-and-hierarchy",
+  "icon": "./icon.svg",
+  "repository":"https://github.com/YU000jp/logseq-page-tags-and-hierarchy.git",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1687090801402" class="icon" viewBox="0 0 1024 1024" version="1.1"
+  xmlns="http://www.w3.org/2000/svg" p-id="9164" data-spm-anchor-id="a313x.7781069.0.i9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+  <defs>
+    <filter id="blur-filter" x="0" y="0" width="100%" height="100%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+    <radialGradient id="gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color: #85c8c8" />
+      <stop offset="100%" style="stop-color: #0e2a33" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" rx="512" ry="512" fill="url(#gradient)" filter="url(#blur-filter)" />
+  <g transform="scale(0.6), translate(360, 300)">
+    <path d="M1024 483.555556L625.777778 85.333333v227.555556c-398.222222 56.888889-568.888889 341.333333-625.777778 625.777778C142.222222 739.555556 341.333333 648.533333 625.777778 648.533333v233.244445L1024 483.555556z" p-id="62312" fill="#0e2a33"></path>
+  </g>
+  <text x="900" y="1000" font-family="Verdana" font-size="30  " fill="#84bebf">
+    b-yp
+  </text>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "title": "Logseq Jira Sync",
+  "description": "A Logseq-Jira integration." ,
+  "author": "adyscorpius",
+  "repo":"adyscorpius/logseq-jira",
+  "icon": "./icon.png",
+  "theme": false,
+  "effect": true
+}

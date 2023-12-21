@@ -1,0 +1,11 @@
+{
+  "title": "Draw It",
+  "description": "Simple Stable Diffusion WebUI frontend for Logseq.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-drawit",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

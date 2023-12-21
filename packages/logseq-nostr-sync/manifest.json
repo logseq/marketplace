@@ -1,0 +1,7 @@
+{
+    "title": "Nostr sync",
+    "description": "Allows you to send Direct Messages to a specific Nostr public key and download them to your journal based on the creation date." ,
+    "author": "KoalaSat",
+    "repo":"KoalaSat/logseq-nostr-sync",
+    "icon": "icon.svg"
+}

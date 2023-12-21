@@ -1,0 +1,11 @@
+{
+  "title": "Awesome Props",
+  "description": "Restyled and iconized properties for Logseq ala Notion/Tana",
+  "author": "yoyurec",
+  "repo": "yoyurec/logseq-awesome-props",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yoyurec"
+  ],
+  "effect": true
+}

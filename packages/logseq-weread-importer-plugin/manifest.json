@@ -1,0 +1,11 @@
+{
+  "title": "WeRead Importer",
+  "description": "Importing WeRead notes into Logseq",
+  "author": "ahonn",
+  "icon": "./logo.svg",
+  "repo": "ahonn/logseq-plugin-weread-importer",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/yuexunjiang"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Display Math",
+  "description": "Tweak LaTeX rendering and styling.",
+  "author": "Allan Chain",
+  "repo": "AllanChain/logseq-display-math",
+  "icon": "icon.svg",
+  "effect": true
+}

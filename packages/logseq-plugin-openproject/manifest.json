@@ -1,0 +1,8 @@
+{
+  "title": "logseq-openproject",
+  "description": "Integration of OpenProject Tasks into Logseq",
+  "author": "mkluge",
+  "repo": "mkluge/logseq-openproject",
+  "icon": "./icon.png",
+  "effect": true
+}

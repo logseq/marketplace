@@ -1,0 +1,9 @@
+{
+  "title": "Flexible date format",
+  "description": "Localize date format. Or switch to style of the selected format.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-flex-date-format",
+  "icon": "./icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

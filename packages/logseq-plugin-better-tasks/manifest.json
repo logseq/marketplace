@@ -1,0 +1,8 @@
+{
+    "title": "Better Tasks",
+    "description": "A collection of utilities to make tasks more useful in Logseq.",
+    "author": "David Šarman",
+    "repo": "dsarman/logseq-plugin-better-tasks",
+    "icon": "icon.png",
+    "theme": false
+}

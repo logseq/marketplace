@@ -1,0 +1,7 @@
+{
+  "title": "TickTick",
+  "description": "TickTick plugin for Logseq." ,
+  "author": "Maximilian Schöll",
+  "repo":"mxschll/logseq-ticktick-plugin",
+  "icon": "icon.png"
+}

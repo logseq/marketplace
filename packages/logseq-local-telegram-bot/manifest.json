@@ -1,0 +1,8 @@
+{
+  "title": "Local Telegram Bot",
+  "description": "A local Telegram bot that can handle messages from and share notes with specific Telegram users" ,
+  "author": "LelouchHe",
+  "repo":"LelouchHe/logseq-local-telegram-bot",
+  "icon": "./icon.png",
+  "theme": false
+}

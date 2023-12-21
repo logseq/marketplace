@@ -1,0 +1,8 @@
+{
+  "title": "Global Custom CSS",
+  "description": "A plugin for Logseq themer.",
+  "author": "vipzhicheng",
+  "repo": "vipzhicheng/logseq-plugin-global-custom-css",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}

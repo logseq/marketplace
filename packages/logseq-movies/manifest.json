@@ -1,0 +1,7 @@
+{
+  "title": "Movies",
+  "description": "Plugin that helps you insert your favorite anime and movie titles into your documents",
+  "author": "Ilya Kirillov",
+  "repo": "darthorimar/logseq-movies-plugin",
+  "effect": true
+}

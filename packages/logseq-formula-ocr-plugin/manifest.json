@@ -1,0 +1,9 @@
+{
+  "title": "Logseq LaTex Formula OCR",
+  "description": "Convert LaTex formula images from the clipboard into LaTex code",
+  "repo": "olmobaldoni/logseq-formula-ocr-plugin",
+  "author": "Olmo Baldoni",
+  "icon": "./icon.svg",
+  "effect": true
+}
+  

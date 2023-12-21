@@ -1,0 +1,10 @@
+{
+  "title": "Logseq-ECharts",
+  "description": "A plugin of logseq which integrates with ECharts",
+  "repo": "guzhongren/logseq-echarts",
+  "author": "guzhongren",
+  "effect": true,
+  "icon": "icon.png"
+}
+
+

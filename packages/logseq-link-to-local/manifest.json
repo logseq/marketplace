@@ -1,0 +1,8 @@
+{
+  "title": "Logseq link to local",
+  "description": "Convert network assets into local assets.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-link-to-local",
+  "icon": "./logo.svg",
+  "effect": true
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Shorten My Links",
+  "description": "Shorts redundant hierarchical references to reduce visual efforts 👁️" ,
+  "author": "stdword",
+  "repo": "stdword/logseq13-shorten-my-links",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/stdword"
+  ],
+  "effect": true
+}
