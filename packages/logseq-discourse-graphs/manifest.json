@@ -1,0 +1,11 @@
+{
+  "title": "Discourse Graphs",
+  "description": "A plugin enabling Discourse Graph workflows in Logseq",
+  "author": "Aryan Sawhney",
+  "repo": "sawhney17/logseq-discourse-graphs",
+  "icon": "./icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/sawhney17"
+  ]
+}
