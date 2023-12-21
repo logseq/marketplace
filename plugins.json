@@ -1,5 +1,5 @@
 {
-  "datetime": 1703129946453,
+  "datetime": 1703150403305,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -842,6 +842,19 @@
       ],
       "id": "logseq-dictionary",
       "addedAt": 1662207076000
+    },
+    {
+      "title": "Discourse Graphs",
+      "description": "A plugin enabling Discourse Graph workflows in Logseq",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-discourse-graphs",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-discourse-graphs",
+      "addedAt": 1703143941000
     },
     {
       "title": "Logseq Display Math",
