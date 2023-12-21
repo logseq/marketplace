@@ -1,5 +1,5 @@
 {
-  "datetime": 1703049765971,
+  "datetime": 1703129946453,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3830,6 +3830,18 @@
       "effect": true,
       "id": "logseq13-full-house",
       "addedAt": 1677980704000
+    },
+    {
+      "title": "Missing Commands & Views",
+      "description": "🪚 Sorting blocks, tabular view, auto complete in search, split by sentences, remove numbering, etc.",
+      "author": "stdword",
+      "repo": "stdword/logseq13-missing-commands",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/stdword"
+      ],
+      "id": "logseq13-missing-commands",
+      "addedAt": 1703118709000
     },
     {
       "title": "Shorten My Links",
