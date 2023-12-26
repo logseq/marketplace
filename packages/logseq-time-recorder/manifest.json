@@ -1,0 +1,7 @@
+{
+  "title": "Time Recorder",
+  "description": "A simple time recorder (punch clock) plugin for Logseq.",
+  "repo": "5hir0kur0/logseq-time-recorder",
+  "author": "5hir0kur0",
+  "icon": "icon.png"
+}
