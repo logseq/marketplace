@@ -1,5 +1,5 @@
 {
-  "datetime": 1703150403305,
+  "datetime": 1703561141323,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3474,6 +3474,15 @@
       "effect": true,
       "id": "logseq-tidy-blocks-plugin",
       "addedAt": 1651081732000
+    },
+    {
+      "title": "Time Recorder",
+      "description": "A simple time recorder (punch clock) plugin for Logseq.",
+      "repo": "5hir0kur0/logseq-time-recorder",
+      "author": "5hir0kur0",
+      "icon": "icon.png",
+      "id": "logseq-time-recorder",
+      "addedAt": 1703553764000
     },
     {
       "title": "logseq to flomo",
