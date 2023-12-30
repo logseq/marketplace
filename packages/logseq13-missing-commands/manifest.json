@@ -1,10 +1,11 @@
 {
   "title": "Missing Commands & Views",
-  "description": "🪚 Sorting blocks, tabular view, auto complete in search, split by sentences, remove numbering, etc." ,
+  "description": "Sort blocks, TAB-trigger on search, split by sentences, parse text structure, blocks navigation, etc." ,
   "author": "stdword",
   "repo": "stdword/logseq13-missing-commands",
   "icon": "icon.png",
   "sponsors": [
     "https://www.buymeacoffee.com/stdword"
-  ]
+  ],
+  "effect": true
 }
