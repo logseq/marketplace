@@ -1,5 +1,5 @@
 {
-  "datetime": 1703904685975,
+  "datetime": 1704244416483,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2700,6 +2700,18 @@
       ],
       "id": "logseq-plugin-side-block",
       "addedAt": 1697177962000
+    },
+    {
+      "title": "Single Journal",
+      "description": "Displays today's diary instead of journals.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-single-journal",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-single-journal",
+      "addedAt": 1704241523000
     },
     {
       "title": "Innovation Lab",
