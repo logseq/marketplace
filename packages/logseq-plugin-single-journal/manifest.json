@@ -1,0 +1,10 @@
+{
+  "title": "Single Journal",
+  "description": "Displays today's diary instead of journals.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-single-journal",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ]
+}
