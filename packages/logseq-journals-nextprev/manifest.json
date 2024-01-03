@@ -1,0 +1,7 @@
+{
+    "title": "Journals Next/Prev",
+    "description": "Provides buttons to jump to the next or previous journal entry",
+    "repo": "isosphere/logseq-journals-nextprev",
+    "author": "isosphere",
+    "icon": "icon.png"
+  }
