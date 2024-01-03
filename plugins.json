@@ -1,5 +1,5 @@
 {
-  "datetime": 1704244416483,
+  "datetime": 1704248638158,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1428,6 +1428,15 @@
       ],
       "id": "logseq-journals-calendar",
       "addedAt": 1630930098000
+    },
+    {
+      "title": "Journals Next/Prev",
+      "description": "Provides buttons to jump to the next or previous journal entry",
+      "repo": "isosphere/logseq-journals-nextprev",
+      "author": "isosphere",
+      "icon": "icon.png",
+      "id": "logseq-journals-nextprev",
+      "addedAt": 1704247563000
     },
     {
       "title": "Kanban Board",
