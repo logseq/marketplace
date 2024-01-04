@@ -1,5 +1,5 @@
 {
-  "datetime": 1704248638158,
+  "datetime": 1704342622546,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2770,6 +2770,14 @@
       "effect": true,
       "id": "logseq-plugin-two-hop-link",
       "addedAt": 1695463504000
+    },
+    {
+      "title": "Generate Vocabulary Card",
+      "description": "A logseq plugin for creating vocabulary card",
+      "author": "Richard Hao",
+      "repo": "0xRichardH/logseq-plugin-vocabulary-card",
+      "id": "logseq-plugin-vocabulary-card",
+      "addedAt": 1704303824000
     },
     {
       "title": "Weather",
