@@ -1,5 +1,5 @@
 {
-  "datetime": 1704342622546,
+  "datetime": 1704872306060,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3309,6 +3309,16 @@
       "icon": "",
       "id": "logseq-style-tweaks",
       "addedAt": 1662932430000
+    },
+    {
+      "title": "Summarize",
+      "description": "A Logseq plugin to optimize your time with concise summaries of web pages and YouTube videos",
+      "author": "avelino",
+      "repo": "avelino/logseq-summarize",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-summarize",
+      "addedAt": 1704851674000
     },
     {
       "title": "Logseq Summarizer",
