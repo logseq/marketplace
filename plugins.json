@@ -1,5 +1,5 @@
 {
-  "datetime": 1704872306060,
+  "datetime": 1705213325039,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -416,7 +416,7 @@
       "addedAt": 1642408210000
     },
     {
-      "title": "BuJo themes",
+      "title": "Bullet Journal theme",
       "description": "Sepia, Coffee, White, Black: 4 themes inspired by Bullet Journals",
       "author": "PiotrSss & stdword",
       "repo": "stdword/logseq-bujo-theme",
