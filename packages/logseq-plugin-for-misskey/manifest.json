@@ -1,0 +1,7 @@
+{
+    "title": "Logseq Misskey Plugin",
+    "description": "LogseqからMisskeyにノートを投稿したりLogseqにMisskeyのノートを埋め込めるようになります",
+    "author": "minimarimo3",
+    "repo": "minimarimo3/logseq-plugin-for-misskey",
+    "icon": "icon_ki.png"
+}
