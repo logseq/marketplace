@@ -1,5 +1,5 @@
 {
-  "datetime": 1705213325039,
+  "datetime": 1705550172160,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2384,6 +2384,15 @@
       "addedAt": 1688009639000
     },
     {
+      "title": "Logseq Misskey Plugin",
+      "description": "LogseqからMisskeyにノートを投稿したりLogseqにMisskeyのノートを埋め込めるようになります",
+      "author": "minimarimo3",
+      "repo": "minimarimo3/logseq-plugin-for-misskey",
+      "icon": "icon_ki.png",
+      "id": "logseq-plugin-for-misskey",
+      "addedAt": 1705513365000
+    },
+    {
       "title": "Github File Getter",
       "description": "A plugin to get files from Github to assist with documenting code using Logseq",
       "author": "Mark J Smith",
@@ -3202,6 +3211,16 @@
       ],
       "id": "logseq-simpread",
       "addedAt": 1658043625000
+    },
+    {
+      "title": "Slavsko Theme",
+      "description": "Minimal light Logseq theme with bold typography and cyrillic font support.",
+      "author": "Stan Voo",
+      "repo": "stan-voo/logseq-slavsko-theme",
+      "icon": "./icon.png",
+      "theme": true,
+      "id": "logseq-slavsko-theme",
+      "addedAt": 1700266427000
     },
     {
       "title": "logseq-sliders-plugin",
