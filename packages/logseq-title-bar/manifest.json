@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Title Bar",
+  "description": "Show graph title and some quick actions in the title bar",
+  "repo": "vipzhicheng/logseq-plugin-title-bar",
+  "author": "vipzhicheng",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}
