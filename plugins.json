@@ -1,5 +1,5 @@
 {
-  "datetime": 1705550172160,
+  "datetime": 1705928383232,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3541,6 +3541,18 @@
       "icon": "icon.png",
       "id": "logseq-time-recorder",
       "addedAt": 1703553764000
+    },
+    {
+      "title": "Logseq Title Bar",
+      "description": "Show graph title and some quick actions in the title bar",
+      "repo": "vipzhicheng/logseq-plugin-title-bar",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-title-bar",
+      "addedAt": 1705921715000
     },
     {
       "title": "logseq to flomo",
