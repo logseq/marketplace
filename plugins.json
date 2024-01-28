@@ -1,5 +1,5 @@
 {
-  "datetime": 1705928383232,
+  "datetime": 1706443217815,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -961,6 +961,16 @@
       "icon": "./logo.png",
       "id": "logseq-emoji-picker-fork",
       "addedAt": 1657039359000
+    },
+    {
+      "title": "Everforest",
+      "description": "Warm green, low-contrast theme.",
+      "author": "Kevin Houlihan",
+      "repo": "khoulihan/logseq-everforest-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-everforest-theme",
+      "addedAt": 1706366289000
     },
     {
       "title": "Excalidraw",
