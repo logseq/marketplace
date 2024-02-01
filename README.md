@@ -35,3 +35,23 @@ Ensure that your plugin has a `publish.yml` file, so when you create a release f
       the market review process will be more strict, while there is no guarantee 
       that it will not be allowed to be turned on in the future.
 3. Make a Github Pull Request :)
+
+## How to update plugins' stat?
+
+Note: This step is optional!
+
+To update the plugins' stat,
+you need run `scripts/build.mjs` script with a valid
+[GitHub access token](https://github.com/settings/tokens).
+Assuming you have a token,
+take the following steps:
+
+```sh
+yarn install
+cd scripts
+LSP_MK_TOKEN=YOUR_TOKEN ./build.mjs --stat
+```
+
+Ensure only `stats.json` file is updated.
+If `errors.json` is changed,
+rerun the steps to ensure no plugin is missed.
