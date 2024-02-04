@@ -1,0 +1,10 @@
+{
+    "title": "Logseq Gallery",
+    "description": "A plugin for Gallery support in logseq",
+    "author": "CorrectRoadH",
+    "repo": "CorrectRoadH/logseq-gallery",
+    "sponsors": [
+      "https://github.com/sponsors/CorrectRoadH"
+    ],
+    "icon": "icon.png"
+}
