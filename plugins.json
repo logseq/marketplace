@@ -1,5 +1,5 @@
 {
-  "datetime": 1707094590126,
+  "datetime": 1707123634001,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1118,7 +1118,7 @@
       "sponsors": [
         "https://github.com/sponsors/CorrectRoadH"
       ],
-      "icon": "icon.png",
+      "icon": "logo.png",
       "id": "logseq-gallery",
       "addedAt": 1707007233000
     },
