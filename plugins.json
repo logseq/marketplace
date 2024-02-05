@@ -1,5 +1,5 @@
 {
-  "datetime": 1706443217815,
+  "datetime": 1707094590126,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1109,6 +1109,18 @@
       "icon": "icon.svg",
       "id": "logseq-furigana",
       "addedAt": 1682760159000
+    },
+    {
+      "title": "Logseq Gallery",
+      "description": "A plugin for Gallery support in logseq",
+      "author": "CorrectRoadH",
+      "repo": "CorrectRoadH/logseq-gallery",
+      "sponsors": [
+        "https://github.com/sponsors/CorrectRoadH"
+      ],
+      "icon": "icon.png",
+      "id": "logseq-gallery",
+      "addedAt": 1707007233000
     },
     {
       "title": "Get link title",
