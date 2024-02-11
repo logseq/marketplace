@@ -1,5 +1,5 @@
 {
-  "datetime": 1707123634001,
+  "datetime": 1707627109150,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2263,7 +2263,7 @@
       "addedAt": 1688305677000
     },
     {
-      "title": "Blank Line Shortcut",
+      "title": "New Line Shortcut",
       "description": "Insert Rows (blocks) at Selected Lines or the Beginning and End of a Page.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-blank-line",
@@ -2411,6 +2411,7 @@
       "author": "minimarimo3",
       "repo": "minimarimo3/logseq-plugin-for-misskey",
       "icon": "icon_ki.png",
+      "effect": true,
       "id": "logseq-plugin-for-misskey",
       "addedAt": 1705513365000
     },
