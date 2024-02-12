@@ -3,5 +3,6 @@
   "description": "A koreader to logseq syncing plugin. Reference and read annotations in your notebook.",
   "repo": "isosphere/logseq-koreader-sync",
   "author": "isosphere",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "effect": true
 }
