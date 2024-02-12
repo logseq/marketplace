@@ -1,5 +1,5 @@
 {
-  "datetime": 1707627109150,
+  "datetime": 1707703982954,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1501,6 +1501,15 @@
       "icon": "./kindle-logo.png",
       "id": "logseq-kindle-import",
       "addedAt": 1674115480000
+    },
+    {
+      "title": "Koreader Sync",
+      "description": "A koreader to logseq syncing plugin. Reference and read annotations in your notebook.",
+      "repo": "isosphere/logseq-koreader-sync",
+      "author": "isosphere",
+      "icon": "icon.png",
+      "id": "logseq-koreader-sync",
+      "addedAt": 1707701225000
     },
     {
       "title": "Laurel theme",
