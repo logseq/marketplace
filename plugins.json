@@ -1,5 +1,5 @@
 {
-  "datetime": 1707703982954,
+  "datetime": 1707707836393,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1508,6 +1508,7 @@
       "repo": "isosphere/logseq-koreader-sync",
       "author": "isosphere",
       "icon": "icon.png",
+      "effect": true,
       "id": "logseq-koreader-sync",
       "addedAt": 1707701225000
     },
