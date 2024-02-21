@@ -1,5 +1,5 @@
 {
-  "datetime": 1707707836393,
+  "datetime": 1708487541565,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3777,6 +3777,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "effect": true,
       "id": "logseq-vim-editor",
       "addedAt": 1646707953000
     },
