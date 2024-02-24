@@ -1,5 +1,5 @@
 {
-  "datetime": 1708487541565,
+  "datetime": 1708767285174,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -136,6 +136,7 @@
       "icon": "./icon.png",
       "effect": true,
       "sponsors": [
+        "https://github.com/sponsors/debanjandhar12",
         "https://www.buymeacoffee.com/debanjandhar12"
       ],
       "id": "logseq-anki-sync",
