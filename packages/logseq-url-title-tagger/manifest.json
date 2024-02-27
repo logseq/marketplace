@@ -1,0 +1,7 @@
+{
+  "title": "URL Title Tagger",
+  "description": "Add title to URL in markdown automatically",
+  "author": "imjn",
+  "repo":"imjn/logseq-url-title-tagger",
+  "icon": "icon.png"
+}
