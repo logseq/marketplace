@@ -1,5 +1,5 @@
 {
-  "datetime": 1708767285174,
+  "datetime": 1709081482836,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3759,6 +3759,15 @@
       "effect": true,
       "id": "logseq-url-plus",
       "addedAt": 1667578023000
+    },
+    {
+      "title": "URL Title Tagger",
+      "description": "Add title to URL in markdown automatically",
+      "author": "imjn",
+      "repo": "imjn/logseq-url-title-tagger",
+      "icon": "icon.png",
+      "id": "logseq-url-title-tagger",
+      "addedAt": 1709063288000
     },
     {
       "title": "url to markdown",
