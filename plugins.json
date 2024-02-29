@@ -1,5 +1,5 @@
 {
-  "datetime": 1709081482836,
+  "datetime": 1709176887566,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3766,6 +3766,7 @@
       "author": "imjn",
       "repo": "imjn/logseq-url-title-tagger",
       "icon": "icon.png",
+      "effect": true,
       "id": "logseq-url-title-tagger",
       "addedAt": 1709063288000
     },
