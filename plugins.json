@@ -1,5 +1,5 @@
 {
-  "datetime": 1709176887566,
+  "datetime": 1709524784740,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3099,6 +3099,16 @@
       "theme": true,
       "id": "logseq-reflect-theme",
       "addedAt": 1678868692000
+    },
+    {
+      "title": "Regex Linker",
+      "description": "Automatic text replacement via regex while typing",
+      "author": "AskMeAgain",
+      "repo": "AskMeAgain/logseq-regex-linker",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-regex-linker",
+      "addedAt": 1709462142000
     },
     {
       "title": "Reminder",
