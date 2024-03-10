@@ -520,6 +520,7 @@
         "https://opencollective.com/catppuccin"
       ],
       "theme": true,
+      "effect": true,
       "id": "logseq-catppuccin",
       "addedAt": 1675028902000
     },
