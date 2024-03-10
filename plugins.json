@@ -1,5 +1,5 @@
 {
-  "datetime": 1709524784740,
+  "datetime": 1710084389986,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -408,6 +408,16 @@
       "addedAt": 1630999419000
     },
     {
+      "title": "Book Fetch",
+      "description": "Fetches book data based on an ISBN using the Google Books API.",
+      "author": "LuloDev",
+      "repo": "LuloDev/logseq-book-fetch",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-book-fetch",
+      "addedAt": 1709860627000
+    },
+    {
       "title": "Browser",
       "description": "A browser plugin for logseq",
       "author": "haydenull",
@@ -520,7 +530,6 @@
         "https://opencollective.com/catppuccin"
       ],
       "theme": true,
-      "effect": true,
       "id": "logseq-catppuccin",
       "addedAt": 1675028902000
     },
