@@ -1,5 +1,5 @@
 {
-  "datetime": 1710084389986,
+  "datetime": 1710676119864,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3795,7 +3795,7 @@
       "description": "A Plugin that help you to Convert URL to Markdown links when you paste a url in logseq.",
       "author": "superman66",
       "repo": "superman66/logseq-plugin-url-md",
-      "icon": "icon.png",
+      "icon": "icon.jpeg",
       "id": "logseq-urls-md",
       "addedAt": 1656785146000
     },
@@ -3898,7 +3898,7 @@
       "description": "Search Wikipedia and add the content as a block or a page",
       "author": "enchantmenttable",
       "repo": "enchantmenttable/logseq-wiki-search",
-      "icon": "icon.png",
+      "icon": "logo.png",
       "id": "logseq-wiki-search",
       "addedAt": 1665774988000
     },
