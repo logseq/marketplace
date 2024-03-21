@@ -1,0 +1,7 @@
+{
+  "title": "DONE time",
+  "description": "Adds a timestamp property to a task when it's marked as DONE",
+  "author": "Menno Finlay-Smits",
+  "repo": "mjs/logseq-done-time",
+  "icon": "icon.png"
+}
