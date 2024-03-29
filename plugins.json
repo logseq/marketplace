@@ -1,5 +1,5 @@
 {
-  "datetime": 1711031275143,
+  "datetime": 1711706407936,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3149,6 +3149,16 @@
       "repo": "Cologler/logseq-remove-empty-blocks-typescript",
       "id": "logseq-remove-empty-blocks",
       "addedAt": 1690280458000
+    },
+    {
+      "title": "Rosé Pine Theme",
+      "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+      "author": "Evangeline Barruel",
+      "repo": "ebarruel/logseq-rose-pine-theme",
+      "icon": "./icon.png",
+      "theme": true,
+      "id": "logseq-rose-pine-theme",
+      "addedAt": 1711680528000
     },
     {
       "title": "RSS Reader",
