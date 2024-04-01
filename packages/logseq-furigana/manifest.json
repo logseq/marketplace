@@ -7,5 +7,6 @@
     "https://github.com/sponsors/daviddavo",
     "https://www.buymeacoffee.com/ddavo"
   ],
-  "icon": "icon.svg"
+  "icon": "icon.svg",
+  "effect": true
 }
