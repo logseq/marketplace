@@ -1,5 +1,5 @@
 {
-  "datetime": 1711706407936,
+  "datetime": 1712024798975,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1127,6 +1127,7 @@
         "https://www.buymeacoffee.com/ddavo"
       ],
       "icon": "icon.svg",
+      "effect": true,
       "id": "logseq-furigana",
       "addedAt": 1682760159000
     },
