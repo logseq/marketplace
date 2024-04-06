@@ -1,5 +1,5 @@
 {
-  "datetime": 1712378698105,
+  "datetime": 1712392236220,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -983,7 +983,7 @@
       "addedAt": 1657039359000
     },
     {
-      "title": "Logseq Furigana",
+      "title": "Logseq Emoji Shortcodes",
       "description": "A plugin for emoji shortcodes support in logseq",
       "author": "David Davó",
       "repo": "daviddavo/logseq-emoji-shortcodes",
