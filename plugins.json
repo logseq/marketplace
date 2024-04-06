@@ -1,5 +1,5 @@
 {
-  "datetime": 1712024798975,
+  "datetime": 1712378698105,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -981,6 +981,20 @@
       "icon": "./logo.png",
       "id": "logseq-emoji-picker-fork",
       "addedAt": 1657039359000
+    },
+    {
+      "title": "Logseq Furigana",
+      "description": "A plugin for emoji shortcodes support in logseq",
+      "author": "David Davó",
+      "repo": "daviddavo/logseq-emoji-shortcodes",
+      "sponsors": [
+        "https://github.com/sponsors/daviddavo",
+        "https://www.buymeacoffee.com/ddavo"
+      ],
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-emoji-shortcodes",
+      "addedAt": 1682760159000
     },
     {
       "title": "Everforest",
