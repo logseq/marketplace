@@ -1,5 +1,5 @@
 {
-  "datetime": 1712392236220,
+  "datetime": 1712737403939,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3311,6 +3311,18 @@
       "addedAt": 1700266427000
     },
     {
+      "title": "Logseq Slide Reveal",
+      "description": "A better slide solution for Logseq",
+      "repo": "vipzhicheng/logseq-plugin-slide-reveal",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-slide-reveal",
+      "addedAt": 1712735771000
+    },
+    {
       "title": "logseq-sliders-plugin",
       "name": "logseq-sliders-plugin",
       "description": "Simple plugin to insert a slider into your notes to use as a visualisation tool!",
@@ -3639,6 +3651,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "effect": true,
       "id": "logseq-title-bar",
       "addedAt": 1705921715000
     },
