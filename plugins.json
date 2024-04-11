@@ -1,5 +1,5 @@
 {
-  "datetime": 1712737403939,
+  "datetime": 1712804539765,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1099,7 +1099,9 @@
       "repo": "henices/logseq-flow-nord",
       "icon": "icon.png",
       "theme": true,
-      "sponsors": [],
+      "sponsors": [
+        "https://www.buymeacoffee.com/henices"
+      ],
       "id": "logseq-flow-nord-theme",
       "addedAt": 1685010724000
     },
