@@ -4,6 +4,7 @@
     "author": "life is strange (https://github.com/luckykellan)",
     "repo":"luckykellan/logseq-plugin-ticktick",
     "icon": "icon.png",
-    "theme": false
-  }
+    "theme": false,
+    "effect": true
+}
   
