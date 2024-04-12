@@ -1,0 +1,9 @@
+{
+    "title": "Logseq TickTick Sync",
+    "description": "A non-intrusive TickTick synchronization plugin for Logseq" ,
+    "author": "life is strange (https://github.com/luckykellan)",
+    "repo":"luckykellan/logseq-plugin-ticktick",
+    "icon": "icon.png",
+    "theme": false
+  }
+  
