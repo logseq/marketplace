@@ -1,5 +1,5 @@
 {
-  "datetime": 1712887827156,
+  "datetime": 1712978838667,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2844,6 +2844,7 @@
       "repo": "luckykellan/logseq-plugin-ticktick",
       "icon": "icon.png",
       "theme": false,
+      "effect": true,
       "id": "logseq-plugin-ticktick",
       "addedAt": 1712711293000
     },
