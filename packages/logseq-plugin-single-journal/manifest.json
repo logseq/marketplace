@@ -6,5 +6,6 @@
   "icon": "./icon.svg",
   "sponsors": [
     "https://www.buymeacoffee.com/yu000japan"
-  ]
+  ],
+  "effect": true
 }
