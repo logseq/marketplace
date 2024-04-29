@@ -1,5 +1,5 @@
 {
-  "datetime": 1712978838667,
+  "datetime": 1714372699148,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2798,6 +2798,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/yu000japan"
       ],
+      "effect": true,
       "id": "logseq-plugin-single-journal",
       "addedAt": 1704241523000
     },
