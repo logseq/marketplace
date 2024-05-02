@@ -1,5 +1,5 @@
 {
-  "datetime": 1714372699148,
+  "datetime": 1714619777286,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -416,6 +416,15 @@
       "effect": true,
       "id": "logseq-book-fetch",
       "addedAt": 1709860627000
+    },
+    {
+      "title": "Logseq Block Reference Context",
+      "description": "Make block references perdurable adding context",
+      "author": "tejonaco",
+      "icon": "./icon.png",
+      "repo": "tejonaco/logseq-brc",
+      "id": "logseq-brc",
+      "addedAt": 1714578420000
     },
     {
       "title": "Browser",
