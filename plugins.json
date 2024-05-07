@@ -1,5 +1,5 @@
 {
-  "datetime": 1714619777286,
+  "datetime": 1715045803947,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1267,6 +1267,14 @@
       ],
       "id": "logseq-google-fonts",
       "addedAt": 1656910788000
+    },
+    {
+      "title": "Google Tasks",
+      "description": "A Logseq plugin that does bidirectional synchoroization with Google Tasks.",
+      "author": "weynhamz",
+      "repo": "weynhamz/logseq-google-tasks",
+      "id": "logseq-google-tasks",
+      "addedAt": 1714997395000
     },
     {
       "title": "Logseq Grammarly",
