@@ -1,0 +1,7 @@
+{
+  "title": "Logseq Crypto",
+  "description": "Simple encryption for logseq pages",
+  "author": "tejonaco",
+  "icon": "./icon.png",
+  "repo": "tejonaco/logseq-crypto"
+}
