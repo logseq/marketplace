@@ -25,38 +25,24 @@ if (process.env.LSP_MK_TOKEN) {
   console.debug(`HTTP: token ${process.env.LSP_MK_TOKEN.substr(0, 8)}`)
 }
 
-function httpGet (url) {
-  return new Promise((resolve, reject) => {
-    const headers = {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'
-    }
+async function httpGet (url) {
+  const headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+  }
 
-    if (process.env.LSP_MK_TOKEN) {
-      headers.Authorization = `token ${process.env.LSP_MK_TOKEN}`
-    }
+  if (process.env.LSP_MK_TOKEN) {
+    headers.Authorization = `token ${process.env.LSP_MK_TOKEN}`
+  }
 
-    https.get(url, {
-      headers, agent: proxyEnabled ? agent : false,
-    }, (res) => {
-      if (res.statusCode !== 200) {
-        reject(`StatusCode: ${res.statusCode}`)
-      }
-
-      const chunks = []
-      res.on('data', (chunk) => {
-        chunks.push(chunk)
-      })
-      res.on('end', () => {
-        try {
-          const data = JSON.parse(chunks.join(''))
-          resolve(data)
-        } catch (e) {
-          reject(new Error('Data parse error'))
-        }
-      })
-
-    }).on('error', reject)
+  const res = await fetch(url, {
+    headers, agent: proxyEnabled ? agent : false,
   })
+
+  if (res.status !== 200) {
+    throw new Error(`Bad Status: ${res.status}`)
+  }
+
+  return res.json()
 }
 
 function dateAdded (file) {
@@ -100,10 +86,13 @@ async function cli (action, ...rest) {
       const isFixErrors = rest?.join(' ').includes('--error')
       const isWorkByErrorPkg = rest?.join(' ').includes('--10x')
 
-      let lastStats = JSON.parse(fs.readFileSync(path.join(ROOT, STATS_FILE)).toString())
-      let errorPackages = JSON.parse(fs.readFileSync(path.join(ROOT, ERRORS_FILE)).toString())
+      let lastStats = JSON.parse(
+        fs.readFileSync(path.join(ROOT, STATS_FILE)).toString())
+      let errorPackages = JSON.parse(
+        fs.readFileSync(path.join(ROOT, ERRORS_FILE)).toString())
       let packages = isFixErrors ? errorPackages
-        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).toString()).packages
+        : JSON.parse(fs.readFileSync(path.join(ROOT, PLUGINS_ALL_FILE)).
+          toString()).packages
 
       /**
        * @param packages
@@ -112,8 +101,10 @@ async function cli (action, ...rest) {
        * @returns {Promise<(any|*[])[]>}
        */
       async function batchWorker (packages, refStats, refErrors) {
-        const outStats = (!refStats || isFixErrors) ? JSON.parse(
-          fs.readFileSync(path.join(ROOT, STATS_FILE)).toString()) : (refStats || {})
+        const outStats = (!refStats || isFixErrors)
+          ? JSON.parse(
+            fs.readFileSync(path.join(ROOT, STATS_FILE)).toString())
+          : (refStats || {})
         const outErrors = refErrors || []
 
         for (let pkg of packages) {
@@ -145,7 +136,7 @@ async function cli (action, ...rest) {
               ac[it] = base[it]
               return ac
             }, {
-              lastFetchedAt: Date.now()
+              lastFetchedAt: Date.now(),
             })
 
             // sometime break silently for network hang up
@@ -185,7 +176,8 @@ async function cli (action, ...rest) {
       let refErrors = []
 
       if (!isFixErrors && errorPackages?.length && isWorkByErrorPkg) {
-        const workErrorPkg = errorPackages.find(it => it?.error === 'StatusCode: 403')
+        const workErrorPkg = errorPackages.find(
+          it => it?.error === 'StatusCode: 403')
         if (workErrorPkg) {
           const startPkgOffset = packages.findIndex(it => {
             return it.id === workErrorPkg.id
@@ -195,17 +187,20 @@ async function cli (action, ...rest) {
         }
       }
 
-      console.debug('Jobs: start from #', packages[0]?.id, ' total: ', packages?.length)
+      console.debug('Jobs: start from #', packages[0]?.id, ' total: ',
+        packages?.length)
 
       while (jobs = packages.splice(0, perPageJobs)) {
         if (!jobs.length) break
 
-        console.debug(`Jobs: [${packages.length}th] #${jobs.map(it => it.id).join(' #')}`);
+        console.debug(
+          `Jobs: [${packages.length}th] #${jobs.map(it => it.id).join(' #')}`);
         [refStats, refErrors] = await batchWorker(jobs, refStats, refErrors)
 
         await delay(500)
 
-        if (refErrors.length && refErrors[refErrors.length - 1]?.error === 'StatusCode: 403') {
+        if (refErrors.length && refErrors[refErrors.length - 1]?.error ===
+          'StatusCode: 403') {
           throw new Error(`Fatal Error: ${refErrors.pop().error}`)
         }
       }
@@ -247,7 +242,8 @@ async function cli (action, ...rest) {
       })
 
       console.log('-'.repeat(60))
-      console.log(`themes: +${output.themes.length} | plugins: +${output.plugins.length}`)
+      console.log(
+        `themes: +${output.themes.length} | plugins: +${output.plugins.length}`)
       console.log('-'.repeat(60))
       console.log(output)
       break
