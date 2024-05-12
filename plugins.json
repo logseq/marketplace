@@ -1,5 +1,5 @@
 {
-  "datetime": 1715045803947,
+  "datetime": 1715507276933,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -707,6 +707,15 @@
       "theme": true,
       "id": "logseq-craft-theme",
       "addedAt": 1644263915000
+    },
+    {
+      "title": "Logseq Crypto",
+      "description": "Simple encryption for logseq pages",
+      "author": "tejonaco",
+      "icon": "./icon.png",
+      "repo": "tejonaco/logseq-crypto",
+      "id": "logseq-crypto",
+      "addedAt": 1715372773000
     },
     {
       "title": "Customized Github Theme",
