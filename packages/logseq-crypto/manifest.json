@@ -3,5 +3,6 @@
   "description": "Simple encryption for logseq pages",
   "author": "tejonaco",
   "icon": "./icon.png",
-  "repo": "tejonaco/logseq-crypto"
+  "repo": "tejonaco/logseq-crypto",
+  "effect": true
 }
