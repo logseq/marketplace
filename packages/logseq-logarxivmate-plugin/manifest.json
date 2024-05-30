@@ -3,5 +3,6 @@
   "description": "Logseq-LogArxivMate is a plugin that extracts paper information from arXiv links and creates customizable pages in Logseq.",
   "author": "SSamDav",
   "repo": "SSamDav/logseq-logarxivmate-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "effect": true
 }

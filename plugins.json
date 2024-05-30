@@ -1,5 +1,5 @@
 {
-  "datetime": 1715507385292,
+  "datetime": 1717036306498,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1694,6 +1694,16 @@
       ],
       "id": "logseq-lock-screen",
       "addedAt": 1637119562000
+    },
+    {
+      "title": "Arxiv Mate",
+      "description": "Logseq-LogArxivMate is a plugin that extracts paper information from arXiv links and creates customizable pages in Logseq.",
+      "author": "SSamDav",
+      "repo": "SSamDav/logseq-logarxivmate-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-logarxivmate-plugin",
+      "addedAt": 1716844009000
     },
     {
       "title": "Long Form",
