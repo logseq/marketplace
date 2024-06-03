@@ -1,5 +1,5 @@
 {
-  "datetime": 1717375230889,
+  "datetime": 1717403571673,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1792,6 +1792,16 @@
       "effect": true,
       "id": "logseq-math-editor",
       "addedAt": 1678604497000
+    },
+    {
+      "title": "Matrix AMOLED (OLED) Theme",
+      "description": "Pure black background, really good theme for OLED monitors",
+      "author": "KonTy",
+      "repo": "KonTy/marketplace",
+      "icon": "logo.png",
+      "theme": true,
+      "id": "logseq-matrix-amoled-theme",
+      "addedAt": 1717391532000
     },
     {
       "title": "Matter",
