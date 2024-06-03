@@ -1,5 +1,5 @@
 {
-  "datetime": 1717036306498,
+  "datetime": 1717375230889,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2507,6 +2507,19 @@
       "icon": "./icon.png",
       "id": "logseq-plugin-github-get",
       "addedAt": 1648951996000
+    },
+    {
+      "title": "Google Books",
+      "description": "Utilize Google books API to import book data",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-google-books",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-google-books",
+      "addedAt": 1717328355000
     },
     {
       "title": "GPT-3 OpenAI",
