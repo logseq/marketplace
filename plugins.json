@@ -1,5 +1,5 @@
 {
-  "datetime": 1717552827840,
+  "datetime": 1717990547673,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1479,6 +1479,16 @@
       "effect": true,
       "id": "logseq-interval-hints",
       "addedAt": 1654284638000
+    },
+    {
+      "title": "Logseq Jalali",
+      "description": " A Logseq plugin to show Jalali date.",
+      "author": "Mostafa Ahangarha",
+      "repo": "ahangarha/logseq-jalali",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-jalali",
+      "addedAt": 1717953730000
     },
     {
       "title": "Logseq Jira Sync",
