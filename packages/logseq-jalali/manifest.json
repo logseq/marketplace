@@ -1,0 +1,8 @@
+{
+    "title": "Logseq Jalali",
+    "description": " A Logseq plugin to show Jalali date.",
+    "author": "Mostafa Ahangarha",
+    "repo": "ahangarha/logseq-jalali",
+    "icon": "icon.png",
+    "effect": true
+  }
