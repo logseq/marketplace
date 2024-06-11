@@ -1,5 +1,5 @@
 {
-  "datetime": 1717990547673,
+  "datetime": 1718078611569,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3658,6 +3658,18 @@
       "theme": true,
       "id": "logseq-tenset-theme",
       "addedAt": 1691066740000
+    },
+    {
+      "title": "Logseq Terminal",
+      "description": "A terminal simulator for Logseq",
+      "repo": "vipzhicheng/logseq-plugin-terminal",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-terminal",
+      "addedAt": 1718025165000
     },
     {
       "title": "Textbook theme",
