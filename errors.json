@@ -1,14 +1,1 @@
-[
-  {
-    "title": "Logseq Terminal",
-    "description": "A terminal simulator for Logseq",
-    "repo": "vipzhicheng/logseq-plugin-terminal",
-    "author": "vipzhicheng",
-    "icon": "icon.png",
-    "sponsors": [
-      "https://www.buymeacoffee.com/vipzhicheng"
-    ],
-    "id": "logseq-terminal",
-    "addedAt": 1718025165000
-  }
-]
+[]
