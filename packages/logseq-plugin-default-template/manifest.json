@@ -1,0 +1,11 @@
+{
+  "title": "Default Template (for New Page)",
+  "description": "Automatically a insert template when creating a page",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-default-template",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}
