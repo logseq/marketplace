@@ -1,5 +1,5 @@
 {
-  "datetime": 1719062495568,
+  "datetime": 1719444266412,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3028,6 +3028,16 @@
       "effect": true,
       "id": "logseq-powertags-plugin",
       "addedAt": 1671120490000
+    },
+    {
+      "title": "logseq-pretty-html-export",
+      "description": "Export Logseq page to pretty HTML file.",
+      "author": "hisaknown",
+      "repo": "hisaknown/logseq-pretty-html-export",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-pretty-html-export",
+      "addedAt": 1719409803000
     },
     {
       "title": "Logseq preview footnote",
