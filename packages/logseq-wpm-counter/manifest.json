@@ -1,0 +1,8 @@
+{
+  "title": "WPM Counter",
+  "description": "A simple words per minute counter to measure your typing speed.",
+  "author": "Evan Hall",
+  "repo": "hallx833/logseq-wpm-plugin",
+  "icon": "./icon.png",
+  "effect": true
+}

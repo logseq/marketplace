@@ -1,0 +1,8 @@
+{
+  "title": "Book Fetch",
+  "description": "Fetches book data based on an ISBN using the Google Books API.",
+  "author": "LuloDev",
+  "repo": "LuloDev/logseq-book-fetch",
+  "icon": "./icon.png",
+  "effect": true
+}

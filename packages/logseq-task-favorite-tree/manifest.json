@@ -1,0 +1,11 @@
+{
+  "title": "Favorite Tree",
+  "description": "A hierarchical favorites in the left sidebar.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-favorite-tree",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

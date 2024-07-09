@@ -1,0 +1,7 @@
+{
+    "title": "Memos Sync",
+    "description": "Sync content from Memos to Logseq",
+    "author": "EINDEX",
+    "repo": "EINDEX/logseq-memos-sync",
+    "icon": "./logo.webp"
+}

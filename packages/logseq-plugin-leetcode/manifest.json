@@ -1,0 +1,8 @@
+{
+  "title": "Leetcode",
+  "description": "A plugin that batch fetch leetcode problems to your logseq.",
+  "author": "Alucard",
+  "repo": "alucpro/logseq-plugin-leetcode",
+  "icon": "./icon.png",
+  "effect": true
+}

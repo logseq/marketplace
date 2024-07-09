@@ -1,0 +1,11 @@
+{
+  "title": "Reminder",
+  "description": "System notification for Scheduled and Deadline.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-reminder",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

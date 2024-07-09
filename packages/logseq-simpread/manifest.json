@@ -1,0 +1,11 @@
+{
+    "title": "SimpRead",
+    "description": "The official Logseq plugin of SimpRead",
+    "author": "OverflowCat",
+    "repo": "OverflowCat/logseq-simpread",
+    "icon": "./logo.svg",
+    "effect": true,
+    "sponsors": [
+        "https://www.buymeacoffee.com/overflowcat"
+    ]
+}

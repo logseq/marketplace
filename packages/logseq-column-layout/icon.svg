@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" style="background-color: #ffffff">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>1095_pc_h</title>
+  <g>
+    <rect class="a" x="5" y="6.5" width="38" height="26" rx="3"/>
+    <line class="a" x1="5" y1="26.5" x2="43" y2="26.5"/>
+    <line class="a" x1="22" y1="33.5" x2="22" y2="37.5"/>
+    <line class="a" x1="26" y1="33.5" x2="26" y2="37.5"/>
+    <path class="a" d="M21,37.5h6.75c1.24,0,2.25,1.34,2.25,3v1H18v-1c0-1.66,1-3,2.25-3H21"/>
+    <line class="a" x1="22" y1="11.5" x2="14.5" y2="19"/>
+    <line class="a" x1="26" y1="13.5" x2="20.5" y2="19"/>
+  </g>
+</svg>

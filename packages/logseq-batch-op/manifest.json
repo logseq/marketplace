@@ -1,0 +1,11 @@
+{
+  "title": "Batch Ops",
+  "description": "Perform queries on the current graph and batch process on the results.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-batch-op",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

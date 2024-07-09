@@ -1,0 +1,11 @@
+{
+  "title": "Logseq RTL Mode",
+  "description": "Support RTL mode for languages like Hebrew, Arabic, Farsi, Urdu, etc.",
+  "author": "Aryan Sawhney",
+  "repo": "sawhney17/logseq-rtl-mode-plugin",
+  "icon": "./icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/sawhney17"
+  ]
+}

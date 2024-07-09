@@ -1,0 +1,10 @@
+{
+  "title": "Side Block",
+  "description": "Place child blocks next to the parent block.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-side-block",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ]
+}

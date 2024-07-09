@@ -1,0 +1,11 @@
+{
+  "title": "Logseq Chess",
+  "description": "Render chessboards in your Logseq documents",
+  "author": "r8",
+  "repo": "r8/logseq-chess",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/reight"
+  ],
+  "effect": true
+}

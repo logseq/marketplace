@@ -1,0 +1,7 @@
+{
+    "title": "Copy from macOS Books without citation",
+    "description": "Remove the 'Excerpt From...' part when copy from macOS Books" ,
+    "author": "enchantmenttable",
+    "repo":"enchantmenttable/logseq-macosbooks-copy-without-citation",
+    "icon": "icon.png"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Slipbox",
+  "description": "Write notes on mobile, save them to Logseq later. Requires Tailscale.",
+  "author": "phildenhoff",
+  "repo": "phildenhoff/logseq-slipbox",
+  "icon": "./slipbox.png"
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Luma",
+    "description": "A minimal and detail oriented light and dark theme for Logseq",
+    "author": "@gavmn",
+    "repo": "gavinmn/logseq-luma",
+    "icon": "luma-icon.png",
+    "theme": true
+  }

@@ -1,0 +1,11 @@
+{
+  "title": "Kanban Board",
+  "description": "Draggable, editable Kanban view.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-kanban-board",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

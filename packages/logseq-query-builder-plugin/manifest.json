@@ -1,0 +1,7 @@
+{
+  "title": "logseq-query-builder-plugin",
+  "description": "A plugin that creates advanced queries from simple commands" ,
+  "author": "adxsoft",
+  "repo":"adxsoft/logseq-query-builder-plugin",
+  "icon": "icon.png"
+}

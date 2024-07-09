@@ -1,0 +1,7 @@
+{
+  "title": "Interval Hints",
+  "description": "Flexible plugin that annotates deadline/schedule times to show countdown and elapsed times. Includes a renderer to insert countdowns/elapsed hints in any block.",
+  "author": "KerfuffleV2",
+  "repo": "kerfufflev2/logseq-plugin-interval-hints",
+  "effect": true
+}

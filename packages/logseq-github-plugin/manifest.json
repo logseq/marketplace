@@ -1,0 +1,11 @@
+{
+    "title": "logseq-github-plugin ",
+    "description": "A utility to import and keep track of github issues",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-github-plugin",
+    "icon": "./icon.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ],
+   "effect": true
+  }

@@ -1,0 +1,11 @@
+{
+  "title": "Bionic Speedreader",
+  "description": "A plugin to help read faster, with better comprehension and more retention.",
+  "author": "Aryan Sawhney",
+  "repo": "sawhney17/logseq-bionic-speedreader",
+  "icon": "./icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/sawhney17"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Logseq Case Converter",
+  "name": "Logseq Case converter",
+  "description": "A utility to quickly change the casing of a block",
+  "author": "Aryan Sawhney",
+  "repo": "sawhney17/logseq-case-converter",
+  "icon": "icon.png", 
+  "sponsors": [
+    "https://www.buymeacoffee.com/sawhney17"
+  ]
+}

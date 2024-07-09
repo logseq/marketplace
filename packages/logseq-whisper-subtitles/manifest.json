@@ -1,0 +1,9 @@
+{
+	"title": "Whisper Subtitles for Videos",
+	"description": "Generate subtitles with timestamp for videos using local Whisper",
+	"author": "usoon",
+	"repo": "usoonees/logseq-plugin-whisper-subtitles",
+	"icon": "./icon.png",
+	"effect": true
+}
+	

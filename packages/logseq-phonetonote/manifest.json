@@ -1,6 +1,6 @@
 {
   "title": "phonetonote logseq client",
-  "description": "fetch messages from your phonetonote feed into your logseq graph",
+  "description": "use phonetonote's mobile quick capture to send messages to your logseq graph on the go",
   "author": "phonetonote",
   "repo": "phonetonote/phonetonote-logseq",
   "icon": "icon.png"

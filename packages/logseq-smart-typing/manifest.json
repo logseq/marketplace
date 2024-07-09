@@ -1,0 +1,11 @@
+{
+  "title": "Smart Typing",
+  "description": "Enrich the editing experience in Logseq, automatically match all kinds of parentheses, quotation marks and mathematical equations. Support for matching Chinese punctuation marks.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-smart-typing",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

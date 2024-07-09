@@ -1,0 +1,9 @@
+{
+  "title": "Panel Coloring",
+  "description": "Accentuate specified pages or tagged blocks by coloring.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-panel-coloring",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Colored Threads",
+  "description": "Change thread colors to indicate indentation level",
+  "author": "Patrick DeVries",
+  "repo": "PatrickDeVries/logseq-plugin-colored-threads",
+  "icon": "./icon.svg"
+}

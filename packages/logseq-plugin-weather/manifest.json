@@ -1,0 +1,8 @@
+{
+  "title": "Weather",
+  "description": "Query https://openweathermap.org API for weather data and write it to your logseq graph",
+  "author": "axelav",
+  "repo": "axelav/logseq-plugin-weather",
+  "icon": "icon.png",
+  "effect": true
+}

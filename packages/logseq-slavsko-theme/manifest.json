@@ -1,0 +1,8 @@
+{
+    "title": "Slavsko Theme",
+    "description": "Minimal light Logseq theme with bold typography and cyrillic font support.",
+    "author": "Stan Voo",
+    "repo": "stan-voo/logseq-slavsko-theme",
+    "icon": "./icon.png",
+    "theme": true
+  }

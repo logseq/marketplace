@@ -1,0 +1,7 @@
+{
+    "title": "Marks (pointers to pages)",
+    "description": "Manage marks (pointers) to track references to pages, from the page you want to be marked (pointed to)" ,
+    "author": "Dieterbe",
+    "repo":"Dieterbe/logseq-plugin-marks",
+    "icon": "logo.png"
+  }

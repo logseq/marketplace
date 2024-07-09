@@ -1,0 +1,10 @@
+{
+    "title": "logseq-custom-workflows",
+    "description": "Create custom workflows for logseq similar to `command enter` for task management",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-custom-workflow-plugin",
+    "icon": "./icon.png",
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }

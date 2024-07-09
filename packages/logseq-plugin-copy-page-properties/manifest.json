@@ -1,0 +1,6 @@
+{
+  "title": "Copy Page Properties",
+  "description": "Create a new note copying the page properties of your current note to the new note.",
+  "author": "gso",
+  "repo": "gso/logseq-plugin-copy-page-properties"
+}

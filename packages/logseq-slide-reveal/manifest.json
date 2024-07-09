@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Slide Reveal",
+  "description": "A better slide solution for Logseq",
+  "repo": "vipzhicheng/logseq-plugin-slide-reveal",
+  "author": "vipzhicheng",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+}

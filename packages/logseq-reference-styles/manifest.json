@@ -1,0 +1,7 @@
+{
+  "title": "Reference Styles",
+  "description": "Add emoji or custom colors to block references that match particular patterns" ,
+  "author": "benjaffe",
+  "repo":"benjaffe/logseq-reference-styles",
+  "icon": "./logo.png"
+}

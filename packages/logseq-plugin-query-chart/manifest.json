@@ -1,0 +1,9 @@
+{
+    "title": "Logseq Query Chart",
+    "description": "a plugin that create a chart according to advanced query",
+    "author": "miki0w0",
+    "repo": "0w0miki/logseq-plugin-query-chart",
+    "sponsors": [],
+    "effect": true
+  }
+  

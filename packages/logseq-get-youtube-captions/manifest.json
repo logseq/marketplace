@@ -1,0 +1,8 @@
+{
+  "title": "Get YouTube Captions",
+  "description": "A plugin to download the captions for a video and insert them into the editor. Supports multiple languages.",
+  "author": "Brian Sunter",
+  "repo": "briansunter/logseq-get-youtube-captions",
+  "icon": "./icon.png",
+  "effect": true
+}

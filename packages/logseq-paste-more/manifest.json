@@ -1,0 +1,9 @@
+{
+  "title": "Paste More",
+  "description": "Formatted paste like word",
+  "author": "usoon",
+  "repo": "usoonees/logseq-plugin-paste-more",
+  "icon": "./icon.png",
+  "effect": true
+}
+  

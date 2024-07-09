@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1687090801402" class="icon" viewBox="0 0 1024 1024" version="1.1"
+  xmlns="http://www.w3.org/2000/svg" p-id="9164" data-spm-anchor-id="a313x.7781069.0.i9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+  <defs>
+    <filter id="blur-filter" x="0" y="0" width="100%" height="100%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+    <radialGradient id="gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color: #85c8c8" />
+      <stop offset="100%" style="stop-color: #0e2a33" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" rx="512" ry="512" fill="url(#gradient)" filter="url(#blur-filter)" />
+  <g transform="scale(0.7) translate(230, 220)">
+    <path fill="#85c8c8" d="M85.3 170.4a42.7 42.7 0 0 1 42.4-42.4h768.7c23.4 0 42.3 19 42.3 42.4v683.3a42.7 42.7 0 0 1-42.3 42.4H127.7a42.4 42.4 0 0 1-42.4-42.5V170.4z m256 42.9v597.3h341.3V213.3H341.3z m-170.6 0v85.3H256v-85.3h-85.3z m597.3 0v85.3h85.3v-85.3H768zM170.7 384v85.3H256V384h-85.3z m597.3 0v85.3h85.3V384H768zM170.7 554.7V640H256v-85.3h-85.3z m597.3 0V640h85.3v-85.3H768zM170.7 725.3v85.3H256v-85.3h-85.3z m597.3 0v85.3h85.3v-85.3H768z" p-id="15010" data-spm-anchor-id="a313x.7781069.0.i34" class=""></path>
+  </g>
+  <text x="900" y="1000" font-family="Verdana" font-size="30  " fill="#84bebf">
+    b-yp
+  </text>
+</svg>

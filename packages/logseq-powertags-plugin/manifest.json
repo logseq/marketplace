@@ -4,5 +4,6 @@
   "description": "Designate selected tags as power tags, and see them auto-create properties are you use them!a",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-powertags-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "effect": true
 }

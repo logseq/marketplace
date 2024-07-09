@@ -1,0 +1,8 @@
+{
+  "title": "Logseq pinyin match tags",
+  "description": "使用拼音首字母或者全拼匹配标签🏷并插入文档.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-pinyin-match-tags",
+  "icon": "./logo.svg",
+  "effect": true
+}

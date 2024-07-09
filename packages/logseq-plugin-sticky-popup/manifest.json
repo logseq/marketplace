@@ -1,0 +1,9 @@
+{
+  "title": "Sticky Popup",
+  "description": "Plugin for showing selected text in a movable pop-up and positioning calendar.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-sticky-popup",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

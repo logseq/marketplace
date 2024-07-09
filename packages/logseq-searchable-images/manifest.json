@@ -1,0 +1,11 @@
+{
+    "title": "logseq-searchable",
+    "description": "A utility to perform OCR on images, allowing the user to search for text in the image in a normal logseq search or query",
+    "author": "Aryan Sawhney",
+    "repo": "sawhney17/logseq-searchable",
+    "icon": "./icon.png",
+    "effect": true, 
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }

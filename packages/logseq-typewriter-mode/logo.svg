@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1687090801402" class="icon" viewBox="0 0 1024 1024" version="1.1"
+  xmlns="http://www.w3.org/2000/svg" p-id="9164" data-spm-anchor-id="a313x.7781069.0.i9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+  <defs>
+    <filter id="blur-filter" x="0" y="0" width="100%" height="100%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+    <radialGradient id="gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color: #85c8c8" />
+      <stop offset="100%" style="stop-color: #0e2a33" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" rx="512" ry="512" fill="url(#gradient)" filter="url(#blur-filter)" />
+
+  <g transform="scale(0.6), translate(360, 300)">
+    <path fill="#0e2a33" d="M994 364a30 30 0 0 0-30 30V424h-67.16c-12.384-34.92-45.728-60-84.84-60h-30V210c0-7.488-2.848-15.12-8.792-21.216L593.192 8.76A30.16 30.16 0 0 0 572 0H272a30 30 0 0 0-30 30V364H212c-39.112 0-72.456 25.08-84.84 60H60v-30a30 30 0 0 0-60 0v120a30 30 0 0 0 60 0V484h67.16a90.424 90.424 0 0 0 54.84 54.84V604H92a30 30 0 0 0-30 30v120a30 30 0 0 0 60 0V664h51.576l-50.68 202.72c-0.504 2-0.896 4.872-0.896 7.28v60c0 49.624 40.376 90 90 90h600c49.624 0 90-40.376 90-90v-60a34.4 34.4 0 0 0-0.896-7.28l-59.104-236.416V538.84a90.424 90.424 0 0 0 54.84-54.84h67.16v30a30 30 0 0 0 60 0v-120a30 30 0 0 0-30-30z m-392-261.576l77.576 77.576H602v-77.576zM302 60h240v150A30 30 0 0 0 572 240h150v124h-420v-304z m540 874a30.032 30.032 0 0 1-30 30h-600a30.032 30.032 0 0 1-30-30V904h660v30zM788.576 664l45 180H190.424L235.424 664h553.152zM242 604V544h540v60h-540z m570-120h-600a30.032 30.032 0 0 1-30-30A30.032 30.032 0 0 1 212 424h600a30.032 30.032 0 0 1 30 30 30.032 30.032 0 0 1-30 30zM272 784a30 30 0 1 1 0-60 30 30 0 0 1 0 60z m120 0a30 30 0 1 1 0-60 30 30 0 0 1 0 60z m120 0a30 30 0 1 1 0-60 30 30 0 0 1 0 60z m120 0a30 30 0 1 1 0-60 30 30 0 0 1 0 60z m120 0a30 30 0 1 1 0-60 30 30 0 0 1 0 60z" p-id="14201" data-spm-anchor-id="a313x.7781069.0.i0" class="selected"></path>
+  </g>
+
+
+  <text x="900" y="1000" font-family="Verdana" font-size="30  " fill="#84bebf">
+    b-yp
+  </text>
+</svg>

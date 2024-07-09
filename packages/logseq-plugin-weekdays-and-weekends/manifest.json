@@ -1,0 +1,9 @@
+{
+  "title": "More journal templates",
+  "description": "Journal Templates for each day of the week",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-weekdays-and-weekends",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

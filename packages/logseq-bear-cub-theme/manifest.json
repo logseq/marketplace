@@ -1,0 +1,9 @@
+{
+  "title": "Bear Cub Theme for Logseq",
+  "description": "The Bear Cub theme is minimalistic and functional.  This theme doesn't distract you with an explosion of color and graphical elements. Instead, it helps you stay focused. It creates a clear distinction between different structural and functional elements, which helps you see a bigger picture at a glance at any time.",
+  "author": "Sh00Fly",
+  "repo": "Sh00Fly/logseq-bear-cub-theme",
+  "icon": "icon.png",
+  "sponsors": ["https://www.buymeacoffee.com/Sh00Fly"],
+  "theme": true
+}

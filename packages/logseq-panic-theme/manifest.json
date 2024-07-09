@@ -1,8 +1,8 @@
 {
 	"title": "Panic theme",
-	"description": "A theme inspired by Panic mode tempalte from Bear notes app ",
-	"author": "SoKirill",
-	"repo": "sokirill/logseq-panic-theme",
+	"description": "A theme inspired by Panic mode template from Bear notes app ",
+	"author": "kirso",
+	"repo": "kirso/logseq-panic-theme",
 	"icon": "icon.png",
 	"theme": true
 }

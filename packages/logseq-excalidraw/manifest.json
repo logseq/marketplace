@@ -1,0 +1,8 @@
+{
+  "title": "Excalidraw",
+  "description": "A plugin designed to seamlessly integrate Excalidraw into Logseq",
+  "author": "haydenull",
+  "repo": "haydenull/logseq-plugin-excalidraw",
+  "icon": "icon.png",
+  "effect": true
+}

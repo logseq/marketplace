@@ -1,0 +1,9 @@
+{
+  "title": "Show weekday and week-number",
+  "description": "Show weekday and week number beside journal titles. etc.. mini-calendar for daily page.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-show-weekday-and-week-number",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
