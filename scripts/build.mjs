@@ -2,7 +2,6 @@
 
 import path from 'path'
 import fs from 'fs'
-import https from 'https'
 import HttpsProxyAgent from 'https-proxy-agent'
 import cp from 'child_process'
 import dayjs from 'dayjs'
