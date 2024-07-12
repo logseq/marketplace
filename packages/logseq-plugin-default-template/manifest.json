@@ -1,9 +1,9 @@
 {
-  "title": "Default Template (for New Page)",
-  "description": "Automatically a insert template when creating a page",
+  "title": "Default Page Template / Footprint",
+  "description": "Automatically apply a page template / Property the date and time the page was last opened",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-default-template",
-  "icon": "./icon.svg",
+  "icon": "./icon.png",
   "sponsors": [
     "https://www.buymeacoffee.com/yu000japan"
   ],
