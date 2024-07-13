@@ -1,5 +1,5 @@
 {
-  "datetime": 1720776282267,
+  "datetime": 1720857264496,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3789,9 +3789,10 @@
       "title": "logseq-toc-plugin",
       "name": "logseq-toc-plugin",
       "description": "Interactive (style-able), real-time rendering of Table of Contents.",
-      "author": "hkgnp",
-      "repo": "hkgnp/logseq-toc-plugin",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-toc-plugin",
       "icon": "./icon.svg",
+      "effect": "true",
       "id": "logseq-toc-plugin",
       "addedAt": 1639677393000
     },
