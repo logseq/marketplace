@@ -1,0 +1,8 @@
+{
+	"title": "logseq-renamedates-plugin",
+	"name": "logseq-renamedates-plugin",
+	"description": "Rename pages and block references across the graph when the preferred date format is changed.",
+	"author": "benjypng",
+	"repo": "benjypng/logseq-renamedates-plugin",
+	"icon": "./icon.svg"
+}
