@@ -1,5 +1,5 @@
 {
-  "datetime": 1720857264496,
+  "datetime": 1721448123472,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3274,6 +3274,16 @@
       "addedAt": 1690280458000
     },
     {
+      "title": "logseq-renamedates-plugin",
+      "name": "logseq-renamedates-plugin",
+      "description": "Rename pages and block references across the graph when the preferred date format is changed.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-renamedates-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-renamedates-plugin",
+      "addedAt": 1721441481000
+    },
+    {
       "title": "Rosé Pine Theme",
       "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
       "author": "Evangeline Barruel",
@@ -3808,6 +3818,15 @@
       "effect": true,
       "id": "logseq-tocgen",
       "addedAt": 1640087962000
+    },
+    {
+      "title": "logseq-todayevents-plugin",
+      "description": "Import today's events from a .ics file and insert it into your graph based on your template.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-todayevents-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-todayevents-plugin",
+      "addedAt": 1721441481000
     },
     {
       "title": "TODO Exploder",
