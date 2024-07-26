@@ -1,0 +1,11 @@
+{
+  "title": "Template Block from Toolbar",
+  "description": "Make Logseq templates easier to use.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-template-block-from-toolbar",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}
