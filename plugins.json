@@ -1,5 +1,5 @@
 {
-  "datetime": 1722045324689,
+  "datetime": 1722589401649,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3658,6 +3658,15 @@
       "effect": true,
       "id": "logseq-task-automation",
       "addedAt": 1674141254000
+    },
+    {
+      "title": "Task Done Time Mini",
+      "description": "A logseq plugin to add task done time information silently.",
+      "author": "mlhiter",
+      "repo": "mlhiter/logseq-task-done-time-mini",
+      "icon": "./icon.png",
+      "id": "logseq-task-done-time-mini",
+      "addedAt": 1722535956000
     },
     {
       "title": "Favorite Tree",

@@ -3,6 +3,5 @@
   "description": "A logseq plugin to add task done time information silently.",
   "author": "mlhiter",
   "repo": "mlhiter/logseq-task-done-time-mini",
-  "icon": "./icon.png",
-  "effect": true
+  "icon": "./icon.png"
 }
