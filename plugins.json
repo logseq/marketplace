@@ -1,5 +1,5 @@
 {
-  "datetime": 1722822690203,
+  "datetime": 1722842665968,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -177,6 +177,18 @@
       ],
       "id": "logseq-archive-webpage",
       "addedAt": 1699606391000
+    },
+    {
+      "title": "Logseq Ask PDF",
+      "description": "A plugin that allows you to ask questions about PDF highlights using Large Language Models (LLM)",
+      "author": "hi-jin",
+      "repo": "hi-jin/logseq-ask-pdf",
+      "icon": "icon.png",
+      "theme": false,
+      "sponsors": [],
+      "effect": false,
+      "id": "logseq-ask-pdf",
+      "addedAt": 1722831980000
     },
     {
       "title": "Assets plus",
