@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Magic ToDo",
+  "description": "Logseq Magic ToDo is a plugin specifically designed for Logseq, utilizing AI technology to automatically break down complex tasks into smaller, more manageable ones.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-magic-todo",
+  "icon": "./logo.svg",
+  "effect": true
+}
