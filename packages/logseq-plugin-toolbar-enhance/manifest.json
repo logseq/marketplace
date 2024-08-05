@@ -1,0 +1,9 @@
+{
+  "title": "Toolbar Enhance",
+  "description": "Add function buttons to the toolbar (Favorite, Delete and more)",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-toolbar-enhance",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
