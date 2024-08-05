@@ -1,5 +1,5 @@
 {
-  "datetime": 1722589401649,
+  "datetime": 1722822690203,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2946,6 +2946,19 @@
       "effect": true,
       "id": "logseq-plugin-ticktick",
       "addedAt": 1712711293000
+    },
+    {
+      "title": "Toolbar Enhance",
+      "description": "Add function buttons to the toolbar (Favorite, Delete and more)",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-toolbar-enhance",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-toolbar-enhance",
+      "addedAt": 1722724968000
     },
     {
       "title": "2 hop link",
