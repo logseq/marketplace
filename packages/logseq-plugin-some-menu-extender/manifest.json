@@ -1,6 +1,6 @@
 {
-  "title": "SomeMenuExtender",
-  "description": "Adds new functions to context menus and others, allowing for more efficient and convenient operations.",
+  "title": "Innovation Lab",
+  "description": "This plugin provides several features that are currently in the development stage.",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-some-menu-extender",
   "icon": "./icon.svg",

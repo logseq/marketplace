@@ -1,0 +1,11 @@
+{
+  "title": "Multiple Files into Assets",
+  "description": "Save multiple files into assets and embed or link the content.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-multiple-assets",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}

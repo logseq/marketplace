@@ -1,0 +1,7 @@
+{
+    "title": "block transform plugin for logseq",
+    "description": "Split block and transform block to nice display" ,
+    "author": "JuniverseCoder",
+    "repo":"JuniverseCoder/logseq-plugin-block-transformer",
+    "icon": "logo.png"
+  }

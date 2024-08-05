@@ -1,0 +1,9 @@
+{
+  "title": "Show GitHub Star",
+  "description": "A simple logseq plugin that will display the star number for GitHub repo links",
+  "author": "studyduck",
+  "repo": "studyduck/logseq-show-github-star",
+  "icon": "icon.svg",
+  "effect": true,
+  "theme": false
+}

@@ -1,8 +1,0 @@
-{
-    "title": "Logseq Linear.app Integration",
-    "description": "A utility to link your Linear.app issues with Logseq using the Linear issue id,",
-    "author": "Gezim Hoxha",
-    "repo": "hgezim/logseq-linear-plugin",
-    "icon": "./linear-icon.png",
-    "effect": true
-}

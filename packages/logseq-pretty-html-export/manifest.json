@@ -1,0 +1,8 @@
+{
+  "title": "logseq-pretty-html-export",
+  "description": "Export Logseq page to pretty HTML file.",
+  "author": "hisaknown",
+  "repo": "hisaknown/logseq-pretty-html-export",
+  "icon": "icon.png",
+  "theme": false
+}

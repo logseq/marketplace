@@ -1,0 +1,8 @@
+{
+  "title": "Summarize",
+  "description": "A Logseq plugin to optimize your time with concise summaries of web pages and YouTube videos" ,
+  "author": "avelino",
+  "repo":"avelino/logseq-summarize",
+  "icon": "icon.png",
+  "effect": true
+}

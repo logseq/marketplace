@@ -1,0 +1,11 @@
+{
+  "title": "timeflow plugin",
+  "description": "A simple timeflow plugin for Logseq. Add timestamps, which can be toggled on or off at any time.",
+  "author": "yourmoonlight",
+  "repo": "yourmoonlight/timeflow_for_logseq",
+  "icon": "./logo.png",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/realMrD"
+  ]
+}

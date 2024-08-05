@@ -1,0 +1,8 @@
+{
+    "title": "MHTML/HTML Viewer Plugin",
+    "description": "This plugin allows you to view mhtml or html archive file in logseq.",
+    "author": "Jimmie Lee",
+    "repo": "lee88688/logseq-mhtml-view-plugin",
+    "icon": "logo.jpg",
+    "effect": true
+}

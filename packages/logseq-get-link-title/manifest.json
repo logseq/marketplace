@@ -1,0 +1,8 @@
+{
+  "title": "Get link title",
+  "description": "Automatically fetching title of a hyperlink, and converting it into the markdown format.",
+  "author": "abcvav",
+  "repo": "abcvav/logseq-get-link-title",
+  "icon": "icon.png",
+  "effect": true
+}

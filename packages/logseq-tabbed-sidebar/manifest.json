@@ -1,0 +1,11 @@
+{
+  "title": "Tabbed Sidebar",
+  "description": "Alternative sidebar that's organized in tabs.",
+  "author": "sethyuan",
+  "repo": "sethyuan/logseq-plugin-tabbed-sidebar",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/sethyuan"
+  ],
+  "effect": true
+}

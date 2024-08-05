@@ -1,6 +1,6 @@
 {
   "title": "Sticky Popup",
-  "description": "Showing selected text in a movable popup and positioning a block calendar.",
+  "description": "Plugin for showing selected text in a movable pop-up and positioning calendar.",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-sticky-popup",
   "icon": "./icon.svg",

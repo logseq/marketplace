@@ -1,0 +1,8 @@
+{
+  "title": "Scroll past bottom",
+  "description": "Allows you to scroll past the bottom of a page",
+  "repo": "RubenSmn/logseq-scroll-past-bottom",
+  "author": "RubenSmn",
+  "icon": "icon.png",
+  "effect": false
+}

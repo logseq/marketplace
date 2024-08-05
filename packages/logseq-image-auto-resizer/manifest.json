@@ -1,0 +1,8 @@
+{
+    "title": "logseq-image-auto-resizer",
+    "description": "Automatically resize markdown image in logseq",
+    "author": "Yutao Dou",
+    "repo": "yutaodou/logseq-image-auto-resizer",
+    "icon": "icon.png",
+    "theme": false
+}

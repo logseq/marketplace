@@ -1,6 +1,6 @@
 {
-  "title": "Weekdays and Holidays (Templates)",
-  "description": "Plugin for switching journal templates for weekdays and weekends, public holidays.",
+  "title": "More journal templates",
+  "description": "Journal Templates for each day of the week",
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-weekdays-and-weekends",
   "icon": "./icon.svg",

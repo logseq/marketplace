@@ -1,0 +1,11 @@
+{
+  "title": "Logseq CardBox",
+  "description": "Plugin to add thumbnail cards to Logseq that are displayed in order of update." ,
+  "author": "Hidekazu Kubota",
+  "repo":"sosuisen/logseq-cardbox",
+  "icon": "./icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://www.buymeacoffee.com/hidekaz"
+  ]
+}

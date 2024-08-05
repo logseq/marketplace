@@ -1,0 +1,6 @@
+{
+  "title": "Google Tasks",
+  "description": "A Logseq plugin that does bidirectional synchoroization with Google Tasks.",
+  "author": "weynhamz",
+  "repo": "weynhamz/logseq-google-tasks"
+}

@@ -4,5 +4,6 @@
   "author": "vipzhicheng",
   "repo": "vipzhicheng/logseq-plugin-vim-editor",
   "icon": "icon.png",
-  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"]
+  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
+  "effect": true
 }

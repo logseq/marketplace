@@ -1,0 +1,11 @@
+{
+  "title": "Google Books",
+  "description": "Utilize Google books API to import book data",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-google-books",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}

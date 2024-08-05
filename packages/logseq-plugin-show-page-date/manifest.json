@@ -1,0 +1,9 @@
+{
+  "title": "Show page date",
+  "description": "Display creation and modification dates on pages.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-show-page-date",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}

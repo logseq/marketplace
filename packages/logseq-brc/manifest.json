@@ -1,0 +1,7 @@
+{
+  "title": "Logseq Block Reference Context",
+  "description": "Make block references perdurable adding context",
+  "author": "tejonaco",
+  "icon": "./icon.png",
+  "repo": "tejonaco/logseq-brc"
+}

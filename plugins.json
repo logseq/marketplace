@@ -1,6 +1,16 @@
 {
-  "datetime": 1684112895241,
+  "datetime": 1722842665968,
   "packages": [
+    {
+      "title": "Cobra Kai Fira Theme",
+      "description": "If Cobra Kai had a Logseq theme this would be it! (Made for fans of dark-mode).",
+      "author": "Santi Younger (Fira variant by Martín Pozo)",
+      "repo": "Martin1887/CobraKaiFira",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "cobra-kai-fira-theme",
+      "addedAt": 1634165328000
+    },
     {
       "title": "Cobra Theme",
       "description": "If Cobra Kai had a Logseq theme this would be it! (Made for fans of dark-mode).",
@@ -61,8 +71,18 @@
       "addedAt": 1672937968000
     },
     {
+      "title": "Animal Crossing Keijiban",
+      "description": "Display a random quote from the bullitein board in Animal Crossing Wild World",
+      "author": "breadfruit_burial",
+      "repo": "matteron/logseq-ac-keijiban",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-ac-keijiban",
+      "addedAt": 1699496546000
+    },
+    {
       "title": "Add PARA Properties Into Page",
-      "description": "Add some commands to easily add properties related to my PARA workflow.",
+      "description": "Easily add PARA into your workflow. Comes with a PARA page to list all your Projects, Areas, Resources.",
       "author": "George Guimarães",
       "repo": "georgeguimaraes/logseq-plugin-add-PARA-properties",
       "icon": "icon.png",
@@ -81,9 +101,27 @@
       "addedAt": 1646486302000
     },
     {
+      "title": "AI Assistant",
+      "description": "A Logseq plugin empowered by AI for effortless note-taking.",
+      "author": "unickcheng",
+      "repo": "UNICKCHENG/logseq-ai-assistant",
+      "id": "logseq-ai-assistant",
+      "addedAt": 1685525024000
+    },
+    {
+      "title": "Logseq AI Auto Tags",
+      "description": "Using AI to automatically tag blocks and pages",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-ai-auto-tags",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-ai-auto-tags",
+      "addedAt": 1698845571000
+    },
+    {
       "title": "All Day Theme",
       "description": "A clean theme styled for high readability and minimal eye strain.",
-      "repo": "tobealive/logseq-allday-theme",
+      "repo": "ttytm/logseq-allday-theme",
       "author": "Turiiya",
       "icon": "icon.png",
       "theme": true,
@@ -98,6 +136,7 @@
       "icon": "./icon.png",
       "effect": true,
       "sponsors": [
+        "https://github.com/sponsors/debanjandhar12",
         "https://www.buymeacoffee.com/debanjandhar12"
       ],
       "id": "logseq-anki-sync",
@@ -109,6 +148,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-another-embed",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-another-embed",
       "addedAt": 1659419493000
@@ -122,6 +164,40 @@
       "theme": true,
       "id": "logseq-arc-theme",
       "addedAt": 1664407086000
+    },
+    {
+      "title": "Archive Webpage",
+      "description": "Archive URLs directly in Logseq and save locally.",
+      "author": "Pat Migliaccio",
+      "repo": "patmigliaccio/logseq-archive-webpage",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/patmigliaccio"
+      ],
+      "id": "logseq-archive-webpage",
+      "addedAt": 1699606391000
+    },
+    {
+      "title": "Logseq Ask PDF",
+      "description": "A plugin that allows you to ask questions about PDF highlights using Large Language Models (LLM)",
+      "author": "hi-jin",
+      "repo": "hi-jin/logseq-ask-pdf",
+      "icon": "icon.png",
+      "theme": false,
+      "sponsors": [],
+      "effect": false,
+      "id": "logseq-ask-pdf",
+      "addedAt": 1722831980000
+    },
+    {
+      "title": "Assets plus",
+      "description": "A Logseq plugin to enhance the assets features.",
+      "author": "xyhp915",
+      "repo": "xyhp915/logseq-assets-plus",
+      "icon": "icon.png",
+      "id": "logseq-assets-plus",
+      "addedAt": 1697553832000
     },
     {
       "title": "Atlas Theme",
@@ -142,6 +218,16 @@
       "theme": true,
       "id": "logseq-atmos-theme",
       "addedAt": 1663563222000
+    },
+    {
+      "title": "Logseq audio memo",
+      "description": "Plugin for recording audio and inserting documents.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-audio-memo",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-audio-memo",
+      "addedAt": 1687202635000
     },
     {
       "title": "Automatic Linker",
@@ -240,9 +326,25 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-batch-op",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-batch-op",
       "addedAt": 1656070651000
+    },
+    {
+      "title": "Bear Cub Theme for Logseq",
+      "description": "The Bear Cub theme is minimalistic and functional.  This theme doesn't distract you with an explosion of color and graphical elements. Instead, it helps you stay focused. It creates a clear distinction between different structural and functional elements, which helps you see a bigger picture at a glance at any time.",
+      "author": "Sh00Fly",
+      "repo": "Sh00Fly/logseq-bear-cub-theme",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/Sh00Fly"
+      ],
+      "theme": true,
+      "id": "logseq-bear-cub-theme",
+      "addedAt": 1687225943000
     },
     {
       "title": "Bear Theme",
@@ -253,6 +355,16 @@
       "theme": true,
       "id": "logseq-bear-theme",
       "addedAt": 1637514822000
+    },
+    {
+      "title": "Logseq Bidi",
+      "description": "A Logseq plugin for adding bidirectional text support, making it possible to manage knowledge in both LTR and RTL languages.",
+      "author": "Mostafa Ahangarha",
+      "repo": "dobidi/logseq-bidi",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-bidi",
+      "addedAt": 1692823029000
     },
     {
       "title": "Bionic Speedreader",
@@ -308,6 +420,25 @@
       "addedAt": 1630999419000
     },
     {
+      "title": "Book Fetch",
+      "description": "Fetches book data based on an ISBN using the Google Books API.",
+      "author": "LuloDev",
+      "repo": "LuloDev/logseq-book-fetch",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-book-fetch",
+      "addedAt": 1709860627000
+    },
+    {
+      "title": "Logseq Block Reference Context",
+      "description": "Make block references perdurable adding context",
+      "author": "tejonaco",
+      "icon": "./icon.png",
+      "repo": "tejonaco/logseq-brc",
+      "id": "logseq-brc",
+      "addedAt": 1714578420000
+    },
+    {
       "title": "Browser",
       "description": "A browser plugin for logseq",
       "author": "haydenull",
@@ -317,8 +448,8 @@
       "addedAt": 1642408210000
     },
     {
-      "title": "BuJo theme",
-      "description": "A theme inspired by Bullet Journals",
+      "title": "Bullet Journal theme",
+      "description": "Sepia, Coffee, White, Black: 4 themes inspired by Bullet Journals",
       "author": "PiotrSss & stdword",
       "repo": "stdword/logseq-bujo-theme",
       "icon": "icon.png",
@@ -349,6 +480,32 @@
       "addedAt": 1643369830000
     },
     {
+      "title": "logseq-calibre-annotation",
+      "description": "View ebooks from Calibre and sync annotations",
+      "author": "duydl",
+      "repo": "duydl/logseq-calibre-annotation",
+      "icon": "./icon.jpg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/duydole00"
+      ],
+      "effect": true,
+      "id": "logseq-calibre-annotation",
+      "addedAt": 1696159123000
+    },
+    {
+      "title": "logseq-calibre-metadata",
+      "description": "Create pages for Calibre books",
+      "author": "duydl",
+      "repo": "duydl/logseq-calibre-metadata",
+      "icon": "./icon.jpg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/duydole00"
+      ],
+      "effect": true,
+      "id": "logseq-calibre-metadata",
+      "addedAt": 1696159123000
+    },
+    {
       "title": "logseq-calview-plugin",
       "name": "logseq-calview-plugin",
       "description": "This plugin offers a calendar from within Logseq that captures your blocks with event parameters in a calendar view.",
@@ -357,6 +514,19 @@
       "icon": "./icon.svg",
       "id": "logseq-calview-plugin",
       "addedAt": 1645373555000
+    },
+    {
+      "title": "Logseq CardBox",
+      "description": "Plugin to add thumbnail cards to Logseq that are displayed in order of update.",
+      "author": "Hidekazu Kubota",
+      "repo": "sosuisen/logseq-cardbox",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/hidekaz"
+      ],
+      "id": "logseq-cardbox",
+      "addedAt": 1700110951000
     },
     {
       "title": "Logseq Case Converter",
@@ -390,6 +560,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-charspacing",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-charspacing",
       "addedAt": 1639475288000
@@ -416,6 +589,29 @@
       ],
       "id": "logseq-chatgpt-plugin",
       "addedAt": 1679558997000
+    },
+    {
+      "title": "Logseq Chess",
+      "description": "Render chessboards in your Logseq documents",
+      "author": "r8",
+      "repo": "r8/logseq-chess",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/reight"
+      ],
+      "effect": true,
+      "id": "logseq-chess",
+      "addedAt": 1689021670000
+    },
+    {
+      "title": "Chinese Idiom Dictionary",
+      "description": "A plugin for querying and inserting Chinese idiom information in logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-chinese-idiom-dictionary",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-chinese-idiom-dictionary",
+      "addedAt": 1688484886000
     },
     {
       "title": "Logseq Chinese Tools",
@@ -469,8 +665,8 @@
       "addedAt": 1668355462000
     },
     {
-      "title": "Column-Layout",
-      "description": "If you're using wide monitors, you can place journals, linked references, and journal queries side by side.",
+      "title": "Column-Layout (Journals UI)",
+      "description": "For quick reference, it is possible to place journals, linked references, and journal queries side by side.",
       "author": "YU000jp",
       "repo": "YU000jp/Logseq-column-Layout",
       "icon": "./icon.svg",
@@ -505,6 +701,16 @@
       "addedAt": 1652029079000
     },
     {
+      "title": "Copy URL",
+      "description": "A simple plugin that enhances your Logseq experience by adding a convenient \"Copy URL\" button next to external links, allowing you to easily copy the URL to your clipboard",
+      "repo": "RubenSmn/logseq-copy-url",
+      "author": "RubenSmn",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-copy-url",
+      "addedAt": 1701176518000
+    },
+    {
       "title": "Craft Theme",
       "description": "Almost all creativity requires purposeful play. A craft theme for Logseq",
       "author": "Alexander Rink",
@@ -513,6 +719,16 @@
       "theme": true,
       "id": "logseq-craft-theme",
       "addedAt": 1644263915000
+    },
+    {
+      "title": "Logseq Crypto",
+      "description": "Simple encryption for logseq pages",
+      "author": "tejonaco",
+      "icon": "./icon.png",
+      "repo": "tejonaco/logseq-crypto",
+      "effect": true,
+      "id": "logseq-crypto",
+      "addedAt": 1715372773000
     },
     {
       "title": "Customized Github Theme",
@@ -550,7 +766,7 @@
       "description": "Logseq D2 plugin",
       "author": "b-yp",
       "repo": "b-yp/logseq-d2",
-      "icon": "./icon.png",
+      "icon": "./logo.svg",
       "effect": true,
       "id": "logseq-d2",
       "addedAt": 1677383409000
@@ -603,6 +819,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-days",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-days",
       "addedAt": 1667209371000
@@ -667,14 +886,49 @@
       "addedAt": 1662207076000
     },
     {
+      "title": "Discourse Graphs",
+      "description": "A plugin enabling Discourse Graph workflows in Logseq",
+      "author": "Aryan Sawhney",
+      "repo": "sawhney17/logseq-discourse-graphs",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/sawhney17"
+      ],
+      "id": "logseq-discourse-graphs",
+      "addedAt": 1703143941000
+    },
+    {
+      "title": "Logseq Display Math",
+      "description": "Tweak LaTeX rendering and styling.",
+      "author": "Allan Chain",
+      "repo": "AllanChain/logseq-display-math",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-display-math",
+      "addedAt": 1686398234000
+    },
+    {
       "title": "Doc View Exporter",
       "description": "Show page in a more document like look and provide quick exporting.",
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-doc",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-doc",
       "addedAt": 1640320979000
+    },
+    {
+      "title": "DONE time",
+      "description": "Adds a timestamp property to a task when it's marked as DONE",
+      "author": "Menno Finlay-Smits",
+      "repo": "mjs/logseq-done-time",
+      "icon": "icon.png",
+      "id": "logseq-done-time",
+      "addedAt": 1710353393000
     },
     {
       "title": "Dracula theme",
@@ -685,6 +939,29 @@
       "theme": true,
       "id": "logseq-dracula-theme",
       "addedAt": 1632324168000
+    },
+    {
+      "title": "Drawio Plugin",
+      "description": "This plugin allows you to use drawio diagrams in logseq.",
+      "author": "Jimmie Lee",
+      "repo": "lee88688/logseq-drawio-plugin",
+      "icon": "logo.png",
+      "effect": true,
+      "id": "logseq-drawio-plugin",
+      "addedAt": 1684684094000
+    },
+    {
+      "title": "Draw It",
+      "description": "Simple Stable Diffusion WebUI frontend for Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-drawit",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-drawit",
+      "addedAt": 1684718655000
     },
     {
       "title": "Dynamic Property Lookup",
@@ -706,6 +983,19 @@
       "addedAt": 1661573262000
     },
     {
+      "title": "High Contrast e-ink Theme",
+      "description": "A high-contrast, desaturated, and minimal Logseq theme which extends the eink theme with dark mode",
+      "author": "candide, DiamondYuan",
+      "repo": "candideu/logseq-eink-plus",
+      "icon": "icon.png",
+      "theme": true,
+      "sponsors": [
+        "https://bmc.link/candideu"
+      ],
+      "id": "logseq-eink-plus",
+      "addedAt": 1682743190000
+    },
+    {
       "title": "E-ink Theme",
       "description": "A pure E-ink theme for black-and-white monitors.",
       "author": "DiamondYuan",
@@ -722,6 +1012,30 @@
       "icon": "./logo.png",
       "id": "logseq-emoji-picker-fork",
       "addedAt": 1657039359000
+    },
+    {
+      "title": "Logseq Emoji Shortcodes",
+      "description": "A plugin for emoji shortcodes support in logseq",
+      "author": "David Davó",
+      "repo": "daviddavo/logseq-emoji-shortcodes",
+      "sponsors": [
+        "https://github.com/sponsors/daviddavo",
+        "https://www.buymeacoffee.com/ddavo"
+      ],
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-emoji-shortcodes",
+      "addedAt": 1682760159000
+    },
+    {
+      "title": "Everforest",
+      "description": "Warm green, low-contrast theme.",
+      "author": "Kevin Houlihan",
+      "repo": "khoulihan/logseq-everforest-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-everforest-theme",
+      "addedAt": 1706366289000
     },
     {
       "title": "Excalidraw",
@@ -769,6 +1083,16 @@
       "addedAt": 1651558701000
     },
     {
+      "title": "Figma Integration",
+      "description": "A Logseq plugin for embedding figma frame.",
+      "repo": "CNLHC/logseq-figma",
+      "author": "CNLHC",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-figma",
+      "addedAt": 1698154805000
+    },
+    {
       "title": "File Manager",
       "description": "A file manager plugin for logseq (Search unused assets file).",
       "author": "haydenull",
@@ -800,6 +1124,19 @@
       "addedAt": 1651841150000
     },
     {
+      "title": "Flow Nord theme",
+      "description": "A minimalist theme that focuses on a clean and sleek interface with various color palette options.",
+      "author": "nmartin84 and henices",
+      "repo": "henices/logseq-flow-nord",
+      "icon": "icon.png",
+      "theme": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/henices"
+      ],
+      "id": "logseq-flow-nord-theme",
+      "addedAt": 1685010724000
+    },
+    {
       "title": "Focus Mode",
       "description": "Focus mode for Logseq.",
       "author": "Seth Fair",
@@ -808,6 +1145,24 @@
       "theme": false,
       "id": "logseq-focus-mode",
       "addedAt": 1637215252000
+    },
+    {
+      "title": "logseq-footnote-plugin",
+      "description": "Create easy and simple Footnotes.",
+      "author": "gremi-jr",
+      "repo": "gremi-jr/logseq-footnote-plugin",
+      "id": "logseq-footnote-plugin",
+      "addedAt": 1686944280000
+    },
+    {
+      "title": "Logseq LaTex Formula OCR",
+      "description": "Convert LaTex formula images from the clipboard into LaTex code",
+      "repo": "olmobaldoni/logseq-formula-ocr-plugin",
+      "author": "Olmo Baldoni",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-formula-ocr-plugin",
+      "addedAt": 1700261427000
     },
     {
       "title": "Logseq Furigana",
@@ -819,8 +1174,31 @@
         "https://www.buymeacoffee.com/ddavo"
       ],
       "icon": "icon.svg",
+      "effect": true,
       "id": "logseq-furigana",
       "addedAt": 1682760159000
+    },
+    {
+      "title": "Logseq Gallery",
+      "description": "A plugin for Gallery support in logseq",
+      "author": "CorrectRoadH",
+      "repo": "CorrectRoadH/logseq-gallery",
+      "sponsors": [
+        "https://github.com/sponsors/CorrectRoadH"
+      ],
+      "icon": "logo.png",
+      "id": "logseq-gallery",
+      "addedAt": 1707007233000
+    },
+    {
+      "title": "Get link title",
+      "description": "Automatically fetching title of a hyperlink, and converting it into the markdown format.",
+      "author": "abcvav",
+      "repo": "abcvav/logseq-get-link-title",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-get-link-title",
+      "addedAt": 1700470370000
     },
     {
       "title": "Get YouTube Captions",
@@ -841,6 +1219,16 @@
       "effect": true,
       "id": "logseq-git",
       "addedAt": 1651710549000
+    },
+    {
+      "title": "logseq-git-diff-since",
+      "description": "Show what has been changed recently in Logseq",
+      "author": "Glooory",
+      "repo": "Glooory/logseq-git-diff-since",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-git-diff-since",
+      "addedAt": 1690007639000
     },
     {
       "title": "logseq-github-plugin ",
@@ -903,6 +1291,14 @@
       "addedAt": 1656910788000
     },
     {
+      "title": "Google Tasks",
+      "description": "A Logseq plugin that does bidirectional synchoroization with Google Tasks.",
+      "author": "weynhamz",
+      "repo": "weynhamz/logseq-google-tasks",
+      "id": "logseq-google-tasks",
+      "addedAt": 1714997395000
+    },
+    {
       "title": "Logseq Grammarly",
       "description": "Toggle Grammarly inside Logseq and configure the suggestions.",
       "repo": "xflash96/logseq-grammarly",
@@ -922,6 +1318,7 @@
       "sponsors": [
         "https://ko-fi.com/trashhalo"
       ],
+      "effect": true,
       "id": "logseq-graph-analysis",
       "addedAt": 1656323540000
     },
@@ -974,6 +1371,32 @@
       "addedAt": 1650781091000
     },
     {
+      "title": "Hide EveryThing",
+      "description": "Hide any UI elements in Logseq that you don't want",
+      "author": "ahonn",
+      "icon": "./logo.svg",
+      "repo": "ahonn/logseq-plugin-hide-everything",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/yuexunjiang"
+      ],
+      "id": "logseq-hide-everything-plugin",
+      "addedAt": 1686319584000
+    },
+    {
+      "title": "Hierarchy Jump",
+      "description": "Identifies the current page's hierarchy and offer a quicker navigation.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-hierarchy-jump",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-hierarchy-jump",
+      "addedAt": 1693205337000
+    },
+    {
       "title": "Hypothesis",
       "description": "Sync hypothes.is annotations to Logseq.",
       "author": "c6p",
@@ -981,6 +1404,26 @@
       "icon": "./icon.svg",
       "id": "logseq-hypothesis",
       "addedAt": 1631638933000
+    },
+    {
+      "title": "logseq-image-auto-resizer",
+      "description": "Automatically resize markdown image in logseq",
+      "author": "Yutao Dou",
+      "repo": "yutaodou/logseq-image-auto-resizer",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-image-auto-resizer",
+      "addedAt": 1689426235000
+    },
+    {
+      "title": "Image Editor",
+      "description": "Edit and save images in Logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-image-editor",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-image-editor",
+      "addedAt": 1690996140000
     },
     {
       "title": "Image Uploader",
@@ -1022,6 +1465,16 @@
       "addedAt": 1642746924000
     },
     {
+      "title": "Logseq insert movie properties",
+      "description": "A plugin to insert movie information or actor information in Logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-insert-movie-properties",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-insert-movie-properties",
+      "addedAt": 1688050906000
+    },
+    {
       "title": "Logseq Interstitial Journal",
       "description": "Interstitial Journaling plugin: create time stamps, add (random) notes and notes to self to your journal",
       "repo": "QWxleA/logseq-interstitial-heading-plugin",
@@ -1038,6 +1491,16 @@
       "effect": true,
       "id": "logseq-interval-hints",
       "addedAt": 1654284638000
+    },
+    {
+      "title": "Logseq Jalali",
+      "description": " A Logseq plugin to show Jalali date.",
+      "author": "Mostafa Ahangarha",
+      "repo": "ahangarha/logseq-jalali",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-jalali",
+      "addedAt": 1717953730000
     },
     {
       "title": "Logseq Jira Sync",
@@ -1075,11 +1538,23 @@
       "addedAt": 1630930098000
     },
     {
+      "title": "Journals Next/Prev",
+      "description": "Provides buttons to jump to the next or previous journal entry",
+      "repo": "isosphere/logseq-journals-nextprev",
+      "author": "isosphere",
+      "icon": "icon.png",
+      "id": "logseq-journals-nextprev",
+      "addedAt": 1704247563000
+    },
+    {
       "title": "Kanban Board",
       "description": "Draggable, editable Kanban view.",
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-kanban-board",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-kanban-board",
       "addedAt": 1678604497000
@@ -1087,10 +1562,11 @@
     {
       "title": "logseq-kanban-plugin",
       "name": "logseq-kanban-plugin",
-      "description": "Simple plugin to help visualise data on a Kanban Board!",
+      "description": "Visualise data on a Kanban Board, including drag and drop to update blocks.",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-kanban-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-kanban-plugin",
       "addedAt": 1639157968000
     },
@@ -1112,6 +1588,16 @@
       "icon": "./kindle-logo.png",
       "id": "logseq-kindle-import",
       "addedAt": 1674115480000
+    },
+    {
+      "title": "Koreader Sync",
+      "description": "A koreader to logseq syncing plugin. Reference and read annotations in your notebook.",
+      "repo": "isosphere/logseq-koreader-sync",
+      "author": "isosphere",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-koreader-sync",
+      "addedAt": 1707701225000
     },
     {
       "title": "Laurel theme",
@@ -1136,16 +1622,6 @@
       "addedAt": 1677705549000
     },
     {
-      "title": "Logseq Linear.app Integration",
-      "description": "A utility to link your Linear.app issues with Logseq using the Linear issue id,",
-      "author": "Gezim Hoxha",
-      "repo": "hgezim/logseq-linear-plugin",
-      "icon": "./linear-icon.png",
-      "effect": true,
-      "id": "logseq-linear-plugin",
-      "addedAt": 1672177070000
-    },
-    {
       "title": "Link Preview",
       "description": "Show basic link information for external links in Logseq.",
       "author": "pengx17",
@@ -1153,6 +1629,16 @@
       "effect": true,
       "id": "logseq-link-preview",
       "addedAt": 1631021584000
+    },
+    {
+      "title": "Logseq link to local",
+      "description": "Convert network assets into local assets.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-link-to-local",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-link-to-local",
+      "addedAt": 1686943622000
     },
     {
       "title": "Link Unlinked References",
@@ -1163,6 +1649,29 @@
       "effect": true,
       "id": "logseq-link-unlinked",
       "addedAt": 1667148632000
+    },
+    {
+      "title": "File Linker",
+      "description": "Dynamically replaces a link's path. It allows you to store big files (like video) outside of Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-linker",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-linker",
+      "addedAt": 1698375232000
+    },
+    {
+      "title": "Logseq Live Math",
+      "description": "Type LaTeX in live mode!",
+      "author": "Allan Chain",
+      "repo": "AllanChain/logseq-live-math",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-live-math",
+      "addedAt": 1692713055000
     },
     {
       "title": "Local Telegram Bot",
@@ -1210,11 +1719,37 @@
       "addedAt": 1637119562000
     },
     {
+      "title": "Arxiv Mate",
+      "description": "Logseq-LogArxivMate is a plugin that extracts paper information from arXiv links and creates customizable pages in Logseq.",
+      "author": "SSamDav",
+      "repo": "SSamDav/logseq-logarxivmate-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-logarxivmate-plugin",
+      "addedAt": 1716844009000
+    },
+    {
+      "title": "Long Form",
+      "description": "A long form editing experience for Logseq.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-long-form",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-long-form",
+      "addedAt": 1678604497000
+    },
+    {
       "title": "Luckysheet",
       "description": "Embed Luckysheet (spreadsheet) into Logseq.",
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-luckysheet",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-luckysheet",
       "addedAt": 1647055256000
@@ -1269,6 +1804,29 @@
       "addedAt": 1665429877000
     },
     {
+      "title": "Math Editor",
+      "description": "Easier editing of math formulas.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-math-editor",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-math-editor",
+      "addedAt": 1678604497000
+    },
+    {
+      "title": "Matrix AMOLED (OLED) Theme",
+      "description": "Pure black background, really good theme for OLED monitors",
+      "author": "KonTy",
+      "repo": "KonTy/logseq-matrix-amoled",
+      "icon": "logo.png",
+      "theme": true,
+      "id": "logseq-matrix-amoled-theme",
+      "addedAt": 1717391532000
+    },
+    {
       "title": "Matter",
       "description": "Official Matter plugin for Logseq",
       "author": "Matter",
@@ -1294,6 +1852,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-media-ts",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-media-ts",
       "addedAt": 1646211056000
@@ -1309,7 +1870,7 @@
     },
     {
       "title": "Merge Nested Blocks Into One",
-      "description": "Merge all nested blocks into one nested block with line breaks.",
+      "description": "Merge them all and have it as a single node in Logseq.",
       "author": "George Guimarães",
       "repo": "georgeguimaraes/logseq-plugin-merge-nested-blocks-into-one",
       "icon": "icon.png",
@@ -1349,6 +1910,16 @@
       ],
       "id": "logseq-metrics",
       "addedAt": 1668365724000
+    },
+    {
+      "title": "MHTML/HTML Viewer Plugin",
+      "description": "This plugin allows you to view mhtml or html archive file in logseq.",
+      "author": "Jimmie Lee",
+      "repo": "lee88688/logseq-mhtml-view-plugin",
+      "icon": "logo.jpg",
+      "effect": true,
+      "id": "logseq-mhtml-viewer",
+      "addedAt": 1694103496000
     },
     {
       "title": "miA theme",
@@ -1444,6 +2015,25 @@
       "addedAt": 1650551080000
     },
     {
+      "title": "Nostr sync",
+      "description": "Allows you to send Direct Messages to a specific Nostr public key and download them to your journal based on the creation date.",
+      "author": "KoalaSat",
+      "repo": "KoalaSat/logseq-nostr-sync",
+      "icon": "icon.svg",
+      "id": "logseq-nostr-sync",
+      "addedAt": 1700407816000
+    },
+    {
+      "title": "Logseq Notion Sync",
+      "description": "This plugin helps you synchronize Logseq content with Notion.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-notion-sync",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-notion-sync",
+      "addedAt": 1684585696000
+    },
+    {
       "title": "Logseq OCR",
       "description": "Read image from clipboard and OCR it!",
       "author": "xxchan",
@@ -1458,6 +2048,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-ol",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "id": "logseq-ol",
       "addedAt": 1646704964000
     },
@@ -1478,6 +2071,16 @@
       "icon": "icon.png",
       "id": "logseq-on-this-day",
       "addedAt": 1674833788000
+    },
+    {
+      "title": "One Theme",
+      "description": "A clean theme inspired by One Dark Pro.",
+      "repo": "femto-code/logseq-one-theme",
+      "author": "femto-code",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-one-theme",
+      "addedAt": 1703001198000
     },
     {
       "title": "Open Logseq Files in VS Code",
@@ -1507,6 +2110,16 @@
       "icon": "icon.png",
       "id": "logseq-open-in-external-app",
       "addedAt": 1646733202000
+    },
+    {
+      "title": "Open Logseq Files in VS Code",
+      "description": "Open and edit Logseq pages and config files in VS Code (Visual Studio Code)",
+      "author": "rebornix, e-zz",
+      "repo": "ThinkSalat/logseq-open-in-code",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-open-in-vs-code",
+      "addedAt": 1651170839000
     },
     {
       "title": "logseq opml drummer",
@@ -1549,8 +2162,8 @@
       "addedAt": 1653773658000
     },
     {
-      "title": "Page-tags and Hierarchy",
-      "description": "Show page-tags and hierarchy on the right side of the page.",
+      "title": "Page-tags and Hierarchy (Page UI)",
+      "description": "Split page title hierarchy as links / Page view UI for page-tags and hierarchy",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-page-tags-and-hierarchy",
       "icon": "./icon.svg",
@@ -1561,6 +2174,15 @@
       "effect": true,
       "id": "logseq-page-tags-and-hierarchy",
       "addedAt": 1665379765000
+    },
+    {
+      "title": "Logseq Pangu",
+      "description": "此插件会自动将 Logseq 中所有的中文字和半形的英文、数字、符号之间插入空白，汉学家称这个空白字元为「盘古之白」，因为它劈开了全形字和半形字之间的混沌。",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-pangu",
+      "icon": "./logo.svg",
+      "id": "logseq-pangu",
+      "addedAt": 1699183414000
     },
     {
       "title": "Panic theme",
@@ -1619,6 +2241,19 @@
       "addedAt": 1648012252000
     },
     {
+      "title": "PDF Extract",
+      "description": "A plugin to improve PDF workflow, i.e. fully local support for Zotero, PDF annotation styling and so on.",
+      "author": "e-zz",
+      "repo": "e-zz/logseq-pdf-extract",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/e.zz"
+      ],
+      "effect": true,
+      "id": "logseq-pdf-extract",
+      "addedAt": 1702868129000
+    },
+    {
       "title": "PDF Navigation",
       "description": "Navigate between internal links in the PDF viewer with ease",
       "author": "OverflowCat",
@@ -1673,6 +2308,16 @@
       "addedAt": 1645044847000
     },
     {
+      "title": "Logseq pinyin match tags",
+      "description": "使用拼音首字母或者全拼匹配标签🏷并插入文档.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-pinyin-match-tags",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-pinyin-match-tags",
+      "addedAt": 1687660505000
+    },
+    {
       "title": "logseq-plantuml-plugin",
       "name": "logseq-plantuml-plugin",
       "description": "This plugin help you to render plantuml diagrams in your notes.",
@@ -1725,6 +2370,37 @@
       "addedAt": 1657445237000
     },
     {
+      "title": "Better Tasks",
+      "description": "A collection of utilities to make tasks more useful in Logseq.",
+      "author": "David Šarman",
+      "repo": "dsarman/logseq-plugin-better-tasks",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-plugin-better-tasks",
+      "addedAt": 1688305677000
+    },
+    {
+      "title": "New Line Shortcut",
+      "description": "Insert Rows (blocks) at Selected Lines or the Beginning and End of a Page.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-blank-line",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-blank-line",
+      "addedAt": 1691237478000
+    },
+    {
+      "title": "block transform plugin for logseq",
+      "description": "Split block and transform block to nice display",
+      "author": "JuniverseCoder",
+      "repo": "JuniverseCoder/logseq-plugin-block-transformer",
+      "icon": "logo.png",
+      "id": "logseq-plugin-block-transformer",
+      "addedAt": 1695474214000
+    },
+    {
       "title": "booklog-jp",
       "description": "Create a booklist by import from https://booklog.jp/",
       "author": "YU000jp",
@@ -1739,6 +2415,74 @@
       "addedAt": 1669444021000
     },
     {
+      "title": "Bullet Point Custom Icon",
+      "description": "Apply custom icons for bullet points with specific tags.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-bullet-point-custom-icon",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "id": "logseq-plugin-bullet-point-custom-icon",
+      "addedAt": 1697294144000
+    },
+    {
+      "title": "Bullet Point Style",
+      "description": "Change bullet points style and color.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-bullet-point-style",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-bullet-point-style",
+      "addedAt": 1687660849000
+    },
+    {
+      "title": "Colored Threads",
+      "description": "Change thread colors to indicate indentation level",
+      "author": "Patrick DeVries",
+      "repo": "PatrickDeVries/logseq-plugin-colored-threads",
+      "icon": "./icon.svg",
+      "id": "logseq-plugin-colored-threads",
+      "addedAt": 1700028024000
+    },
+    {
+      "title": "DONE task property",
+      "description": "Add completed property to the DONE task",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-confirmation-done-task",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-confirmation-done-task",
+      "addedAt": 1686405119000
+    },
+    {
+      "title": "URL HyperLink",
+      "description": "Create a Hyperlink by pasting a URL.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-confirmation-hyperlink",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-confirmation-hyperlink",
+      "addedAt": 1686405260000
+    },
+    {
+      "title": "Copy Page Properties",
+      "description": "Create a new note copying the page properties of your current note to the new note.",
+      "author": "gso",
+      "repo": "gso/logseq-plugin-copy-page-properties",
+      "id": "logseq-plugin-copy-page-properties",
+      "addedAt": 1699569452000
+    },
+    {
       "title": "Daily TODO",
       "description": "Moves unfinished TODO tasks to new daily journals",
       "author": "ehudhala",
@@ -1746,6 +2490,19 @@
       "repo": "ehudhala/logseq-plugin-daily-todo",
       "id": "logseq-plugin-daily-todo",
       "addedAt": 1669805457000
+    },
+    {
+      "title": "Default Page Template / Footprint",
+      "description": "Automatically apply a page template / Property the date and time the page was last opened",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-default-template",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-default-template",
+      "addedAt": 1719046241000
     },
     {
       "title": "Query Discogs",
@@ -1767,6 +2524,28 @@
       "addedAt": 1682526477000
     },
     {
+      "title": "Favorite Jump",
+      "description": "Use shortcuts to switch between favorite pages",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-favorite-jump",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "id": "logseq-plugin-favorite-jump",
+      "addedAt": 1688009639000
+    },
+    {
+      "title": "Logseq Misskey Plugin",
+      "description": "LogseqからMisskeyにノートを投稿したりLogseqにMisskeyのノートを埋め込めるようになります",
+      "author": "minimarimo3",
+      "repo": "minimarimo3/logseq-plugin-for-misskey",
+      "icon": "icon_ki.png",
+      "effect": true,
+      "id": "logseq-plugin-for-misskey",
+      "addedAt": 1705513365000
+    },
+    {
       "title": "Github File Getter",
       "description": "A plugin to get files from Github to assist with documenting code using Logseq",
       "author": "Mark J Smith",
@@ -1774,6 +2553,19 @@
       "icon": "./icon.png",
       "id": "logseq-plugin-github-get",
       "addedAt": 1648951996000
+    },
+    {
+      "title": "Google Books",
+      "description": "Utilize Google books API to import book data",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-google-books",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-google-books",
+      "addedAt": 1717328355000
     },
     {
       "title": "GPT-3 OpenAI",
@@ -1828,6 +2620,71 @@
       "addedAt": 1671962880000
     },
     {
+      "title": "Left-Sidebar Enhance",
+      "description": "Includes some features such as mouse over to show left sidebar.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-left-sidebar-enhance",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-left-sidebar-enhance",
+      "addedAt": 1696147911000
+    },
+    {
+      "title": "Old date format",
+      "description": "Replace and redirect to enable the use of legacy date formats.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-legacy-date-format",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-legacy-date-format",
+      "addedAt": 1692447938000
+    },
+    {
+      "title": "Flexible date format",
+      "description": "Localize date format. Or switch to style of the selected format.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-flex-date-format",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-legacy-date-format copy",
+      "addedAt": 1692759682886
+    },
+    {
+      "title": "Multiple Files into Assets",
+      "description": "Save multiple files into assets and embed or link the content.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-multiple-assets",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-multiple-assets",
+      "addedAt": 1687855542548
+    },
+    {
+      "title": "Noisy",
+      "description": "Enhance your LogSeq experience with sounds",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-noisy",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-noisy",
+      "addedAt": 1694767706000
+    },
+    {
       "title": "OmniFocus Plugin",
       "description": "A plugin for sending tasks to OmniFocus",
       "author": "zhengyu-yang",
@@ -1847,6 +2704,16 @@
       "addedAt": 1683299732000
     },
     {
+      "title": "logseq-openproject",
+      "description": "Integration of OpenProject Tasks into Logseq",
+      "author": "mkluge",
+      "repo": "mkluge/logseq-openproject",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-openproject",
+      "addedAt": 1692816643000
+    },
+    {
       "title": "logseq-plugin-page-export",
       "description": "a plugin that makes use of html2canvas to export current page in logseq",
       "author": "William Huang",
@@ -1859,7 +2726,7 @@
     },
     {
       "title": "Panel Coloring",
-      "description": "Color blocks that contain some tags. Emphasize blocks like panels.",
+      "description": "Accentuate specified pages or tagged blocks by coloring.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-panel-coloring",
       "icon": "./icon.svg",
@@ -1869,6 +2736,19 @@
       "effect": true,
       "id": "logseq-plugin-panel-coloring",
       "addedAt": 1670330949000
+    },
+    {
+      "title": "Preview Image",
+      "description": "Displays images on each page in a small size and displays a preview when hover over it.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-preview-image",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-preview-image",
+      "addedAt": 1699768689000
     },
     {
       "title": "Logseq Query Chart",
@@ -1891,6 +2771,19 @@
       "addedAt": 1651513878000
     },
     {
+      "title": "Quickly PARA Method",
+      "description": "Provides quick menu for The PARA method.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-quickly-para-method",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-quickly-para-method",
+      "addedAt": 1686321578000
+    },
+    {
       "title": "Rakuten-books",
       "description": "Utilize Rakuten books API to import book data. (The site from Japan)",
       "author": "YU000jp",
@@ -1904,8 +2797,111 @@
       "addedAt": 1679827016000
     },
     {
-      "title": "SomeMenuExtender",
-      "description": "Adds new functions to context menus and others, allowing for more efficient and convenient operations.",
+      "title": "Reference guide",
+      "description": "Show size of referenced block next to every reference.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-reference-guide",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-reference-guide",
+      "addedAt": 1696841449000
+    },
+    {
+      "title": "Logseq Refile",
+      "description": "LogSeq plugin to refile items in your graph.",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-refile",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "id": "logseq-plugin-refile",
+      "addedAt": 1685515840000
+    },
+    {
+      "title": "Run JS",
+      "description": "Run arbitrary javascript and show output on a page",
+      "author": "meain",
+      "repo": "meain/logseq-plugin-runjs",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/meain"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-runjs",
+      "addedAt": 1697259873000
+    },
+    {
+      "title": "Short Namespaces",
+      "description": "Abbreviated representation for namespaces (hierarchy)",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-short-namespaces",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-short-namespaces",
+      "addedAt": 1686319366000
+    },
+    {
+      "title": "Show page date",
+      "description": "Display creation and modification dates on pages.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-show-page-date",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-show-page-date",
+      "addedAt": 1699184741000
+    },
+    {
+      "title": "Show weekday and week-number",
+      "description": "Show weekday and week number beside journal titles. etc.. mini-calendar for daily page.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-show-weekday-and-week-number",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-show-weekday-and-week-number",
+      "addedAt": 1685024271000
+    },
+    {
+      "title": "Side Block",
+      "description": "Place child blocks next to the parent block.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-side-block",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-side-block",
+      "addedAt": 1697177962000
+    },
+    {
+      "title": "Single Journal",
+      "description": "Displays today's diary instead of journals.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-single-journal",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-single-journal",
+      "addedAt": 1704241523000
+    },
+    {
+      "title": "Innovation Lab",
+      "description": "This plugin provides several features that are currently in the development stage.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-some-menu-extender",
       "icon": "./icon.svg",
@@ -1918,7 +2914,7 @@
     },
     {
       "title": "Sticky Popup",
-      "description": "Showing selected text in a movable popup and positioning a block calendar.",
+      "description": "Plugin for showing selected text in a movable pop-up and positioning calendar.",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-sticky-popup",
       "icon": "./icon.svg",
@@ -1940,6 +2936,64 @@
       "addedAt": 1666302710000
     },
     {
+      "title": "Template Block from Toolbar",
+      "description": "Make Logseq templates easier to use.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-template-block-from-toolbar",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-template-block-from-toolbar",
+      "addedAt": 1722037148000
+    },
+    {
+      "title": "Logseq TickTick Sync",
+      "description": "A non-intrusive TickTick synchronization plugin for Logseq",
+      "author": "life is strange (https://github.com/luckykellan)",
+      "repo": "luckykellan/logseq-plugin-ticktick",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": true,
+      "id": "logseq-plugin-ticktick",
+      "addedAt": 1712711293000
+    },
+    {
+      "title": "Toolbar Enhance",
+      "description": "Add function buttons to the toolbar (Favorite, Delete and more)",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-toolbar-enhance",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-toolbar-enhance",
+      "addedAt": 1722724968000
+    },
+    {
+      "title": "2 hop link",
+      "description": "Displays collections of links at bottom of a page content.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-two-hop-link",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-two-hop-link",
+      "addedAt": 1695463504000
+    },
+    {
+      "title": "Generate Vocabulary Card",
+      "description": "A logseq plugin for creating vocabulary card",
+      "author": "Richard Hao",
+      "repo": "0xRichardH/logseq-plugin-vocabulary-card",
+      "id": "logseq-plugin-vocabulary-card",
+      "addedAt": 1704303824000
+    },
+    {
       "title": "Weather",
       "description": "Query https://openweathermap.org API for weather data and write it to your logseq graph",
       "author": "axelav",
@@ -1950,8 +3004,8 @@
       "addedAt": 1672006539000
     },
     {
-      "title": "Weekdays and Holidays (Templates)",
-      "description": "Plugin for switching journal templates for weekdays and weekends, public holidays.",
+      "title": "More journal templates",
+      "description": "Journal Templates for each day of the week",
       "author": "YU000jp",
       "repo": "YU000jp/logseq-plugin-weekdays-and-weekends",
       "icon": "./icon.svg",
@@ -2014,6 +3068,38 @@
       "effect": true,
       "id": "logseq-powertags-plugin",
       "addedAt": 1671120490000
+    },
+    {
+      "title": "logseq-pretty-html-export",
+      "description": "Export Logseq page to pretty HTML file.",
+      "author": "hisaknown",
+      "repo": "hisaknown/logseq-pretty-html-export",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-pretty-html-export",
+      "addedAt": 1719409803000
+    },
+    {
+      "title": "Logseq preview footnote",
+      "description": "Float preview logseq footnote",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-preview-footnote",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-preview-footnote",
+      "addedAt": 1697973672000
+    },
+    {
+      "title": "logseq-privacy-mode",
+      "description": "Hide or encrypt all children of blocks with user-defined tags.",
+      "author": "duydl",
+      "repo": "duydl/logseq-privacy-mode",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/duydole00"
+      ],
+      "id": "logseq-privacy-mode",
+      "addedAt": 1696924122000
     },
     {
       "title": "logseq-property-visualizer",
@@ -2196,14 +3282,65 @@
       "addedAt": 1678868692000
     },
     {
+      "title": "Regex Linker",
+      "description": "Automatic text replacement via regex while typing",
+      "author": "AskMeAgain",
+      "repo": "AskMeAgain/logseq-regex-linker",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-regex-linker",
+      "addedAt": 1709462142000
+    },
+    {
       "title": "Reminder",
       "description": "System notification for Scheduled and Deadline.",
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-reminder",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-reminder",
       "addedAt": 1667830179000
+    },
+    {
+      "title": "Remove empty blocks",
+      "description": "Added remove empty blocks context menus",
+      "author": "Cologler",
+      "repo": "Cologler/logseq-remove-empty-blocks-typescript",
+      "id": "logseq-remove-empty-blocks",
+      "addedAt": 1690280458000
+    },
+    {
+      "title": "logseq-renamedates-plugin",
+      "name": "logseq-renamedates-plugin",
+      "description": "Rename pages and block references across the graph when the preferred date format is changed.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-renamedates-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-renamedates-plugin",
+      "addedAt": 1721441481000
+    },
+    {
+      "title": "Rosé Pine Theme",
+      "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+      "author": "Evangeline Barruel",
+      "repo": "ebarruel/logseq-rose-pine-theme",
+      "icon": "./icon.png",
+      "theme": true,
+      "id": "logseq-rose-pine-theme",
+      "addedAt": 1711680528000
+    },
+    {
+      "title": "RSS Reader",
+      "description": "Read and import RSS content into Logseq.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-rss-reader",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-rss-reader",
+      "addedAt": 1690054534000
     },
     {
       "title": "Logseq RTL Mode",
@@ -2219,6 +3356,17 @@
       "addedAt": 1647434298000
     },
     {
+      "title": "Save Scrollbar Position",
+      "description": "A simple logseq extension that saves the position of the scrollbar on each page",
+      "author": "studyduck",
+      "repo": "studyduck/logseq-save-scrollbar-position",
+      "icon": "icon.svg",
+      "effect": true,
+      "theme": false,
+      "id": "logseq-save-scrollbar-position",
+      "addedAt": 1688112435000
+    },
+    {
       "title": "Logseq Schrodinger",
       "description": "An awesome Logseq plugin to export to Hugo static sites and jumpstart your digital garden 🌱!",
       "author": "Aryan Sawhney & Alex Qwxlea",
@@ -2230,6 +3378,16 @@
       "effect": true,
       "id": "logseq-schrodinger",
       "addedAt": 1650123325000
+    },
+    {
+      "title": "Scroll past bottom",
+      "description": "Allows you to scroll past the bottom of a page",
+      "repo": "RubenSmn/logseq-scroll-past-bottom",
+      "author": "RubenSmn",
+      "icon": "icon.png",
+      "effect": false,
+      "id": "logseq-scroll-past-bottom",
+      "addedAt": 1699130503000
     },
     {
       "title": "logseq-searchable",
@@ -2252,6 +3410,27 @@
       "theme": true,
       "id": "logseq-sepia-theme",
       "addedAt": 1637059777000
+    },
+    {
+      "title": "Block Shallow Copy",
+      "description": "The Block Shallow Copy plugin empowers users with a seamless copying block's children experience.",
+      "author": "Mateusz Myalski",
+      "repo": "MateuszMyalski/logseq-plugin-shallow-copy",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-shallow-copy",
+      "addedAt": 1700828837000
+    },
+    {
+      "title": "Show GitHub Star",
+      "description": "A simple logseq plugin that will display the star number for GitHub repo links",
+      "author": "studyduck",
+      "repo": "studyduck/logseq-show-github-star",
+      "icon": "icon.svg",
+      "effect": true,
+      "theme": false,
+      "id": "logseq-show-github-star",
+      "addedAt": 1692439110000
     },
     {
       "title": "Sidebar Preset",
@@ -2279,6 +3458,28 @@
       "addedAt": 1658043625000
     },
     {
+      "title": "Slavsko Theme",
+      "description": "Minimal light Logseq theme with bold typography and cyrillic font support.",
+      "author": "Stan Voo",
+      "repo": "stan-voo/logseq-slavsko-theme",
+      "icon": "./icon.png",
+      "theme": true,
+      "id": "logseq-slavsko-theme",
+      "addedAt": 1700266427000
+    },
+    {
+      "title": "Logseq Slide Reveal",
+      "description": "A better slide solution for Logseq",
+      "repo": "vipzhicheng/logseq-plugin-slide-reveal",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-slide-reveal",
+      "addedAt": 1712735771000
+    },
+    {
       "title": "logseq-sliders-plugin",
       "name": "logseq-sliders-plugin",
       "description": "Simple plugin to insert a slider into your notes to use as a visualisation tool!",
@@ -2295,6 +3496,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-smart-typing",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-smart-typing",
       "addedAt": 1671195380000
@@ -2317,9 +3521,20 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-smartsearch",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-smartsearch",
       "addedAt": 1668169207000
+    },
+    {
+      "title": "Sort blocks",
+      "description": "Added sort blocks context menus",
+      "author": "Cologler",
+      "repo": "Cologler/logseq-sort-blocks-typescript",
+      "id": "logseq-sort-blocks",
+      "addedAt": 1690280443000
     },
     {
       "title": "Split block",
@@ -2372,6 +3587,16 @@
       "addedAt": 1662932430000
     },
     {
+      "title": "Summarize",
+      "description": "A Logseq plugin to optimize your time with concise summaries of web pages and YouTube videos",
+      "author": "avelino",
+      "repo": "avelino/logseq-summarize",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-summarize",
+      "addedAt": 1704851674000
+    },
+    {
       "title": "Logseq Summarizer",
       "name": "Logseq Summarizer",
       "description": "A utility to summarize long text into its key points.",
@@ -2393,6 +3618,19 @@
       "icon": "./icon.svg",
       "id": "logseq-swapblocks-plugin",
       "addedAt": 1642056804000
+    },
+    {
+      "title": "Tabbed Sidebar",
+      "description": "Alternative sidebar that's organized in tabs.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-tabbed-sidebar",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-tabbed-sidebar",
+      "addedAt": 1687656553000
     },
     {
       "title": "Tabler picker",
@@ -2447,6 +3685,28 @@
       "addedAt": 1674141254000
     },
     {
+      "title": "Task Done Time Mini",
+      "description": "A logseq plugin to add task done time information silently.",
+      "author": "mlhiter",
+      "repo": "mlhiter/logseq-task-done-time-mini",
+      "icon": "./icon.png",
+      "id": "logseq-task-done-time-mini",
+      "addedAt": 1722535956000
+    },
+    {
+      "title": "Favorite Tree",
+      "description": "A hierarchical favorites in the left sidebar.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-favorite-tree",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-task-favorite-tree",
+      "addedAt": 1692414252000
+    },
+    {
       "title": "Task management shortcuts",
       "description": "Add shortcuts for Logseq task management.",
       "author": "vipzhicheng",
@@ -2459,6 +3719,41 @@
       "addedAt": 1642406539000
     },
     {
+      "title": "Task Reminder",
+      "description": "A pomodoro timer for your tasks.",
+      "author": "sethyuan",
+      "repo": "sethyuan/logseq-plugin-task-reminder",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
+      "effect": true,
+      "id": "logseq-task-reminder",
+      "addedAt": 1678604497000
+    },
+    {
+      "title": "Tenset Security",
+      "description": "Beautiful theme made for smart contract auditors",
+      "author": "Tenset",
+      "repo": "tenset-security/logseq-tenset-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-tenset-theme",
+      "addedAt": 1691066740000
+    },
+    {
+      "title": "Logseq Terminal",
+      "description": "A terminal simulator for Logseq",
+      "repo": "vipzhicheng/logseq-plugin-terminal",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "id": "logseq-terminal",
+      "addedAt": 1718025165000
+    },
+    {
       "title": "Textbook theme",
       "description": "Textbook theme for Logseq",
       "author": "joeykhuang",
@@ -2467,6 +3762,20 @@
       "theme": true,
       "id": "logseq-textbook-theme",
       "addedAt": 1640884297000
+    },
+    {
+      "title": "Classic dark theme pack",
+      "description": "This pack includes new color variations based on Logseq's original dark theme.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-theme-classic-dark-theme-pack",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "theme": true,
+      "id": "logseq-theme-classic-dark-theme-pack",
+      "addedAt": 1690463571000
     },
     {
       "title": "Things Theme",
@@ -2503,6 +3812,28 @@
       "addedAt": 1651081732000
     },
     {
+      "title": "Time Recorder",
+      "description": "A simple time recorder (punch clock) plugin for Logseq.",
+      "repo": "5hir0kur0/logseq-time-recorder",
+      "author": "5hir0kur0",
+      "icon": "icon.png",
+      "id": "logseq-time-recorder",
+      "addedAt": 1703553764000
+    },
+    {
+      "title": "Logseq Title Bar",
+      "description": "Show graph title and some quick actions in the title bar",
+      "repo": "vipzhicheng/logseq-plugin-title-bar",
+      "author": "vipzhicheng",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/vipzhicheng"
+      ],
+      "effect": true,
+      "id": "logseq-title-bar",
+      "addedAt": 1705921715000
+    },
+    {
       "title": "logseq to flomo",
       "description": "Send logseq to flomo",
       "repo": "prnake/logseq-to-flomo",
@@ -2516,9 +3847,10 @@
       "title": "logseq-toc-plugin",
       "name": "logseq-toc-plugin",
       "description": "Interactive (style-able), real-time rendering of Table of Contents.",
-      "author": "hkgnp",
-      "repo": "hkgnp/logseq-toc-plugin",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-toc-plugin",
       "icon": "./icon.svg",
+      "effect": "true",
       "id": "logseq-toc-plugin",
       "addedAt": 1639677393000
     },
@@ -2528,9 +3860,21 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-tocgen",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-tocgen",
       "addedAt": 1640087962000
+    },
+    {
+      "title": "logseq-todayevents-plugin",
+      "description": "Import today's events from a .ics file and insert it into your graph based on your template.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-todayevents-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-todayevents-plugin",
+      "addedAt": 1721441481000
     },
     {
       "title": "TODO Exploder",
@@ -2620,6 +3964,29 @@
       "addedAt": 1643178114000
     },
     {
+      "title": "Typewriter Mode",
+      "description": "Logseq Typewriter Mode Plugin.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-typewriter-mode",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-typewriter-mode",
+      "addedAt": 1688324848000
+    },
+    {
+      "title": "Typewriter Plugin",
+      "description": "A simple typewriter plugin for Logseq.",
+      "repo": "dinushkaherath/logseq-typewriter-plugin",
+      "author": "Glorious Inheritor",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/glorious.inheritor"
+      ],
+      "id": "logseq-typewriter-plugin",
+      "addedAt": 1694032117000
+    },
+    {
       "title": "Readwise plugin (unofficial)",
       "description": "Unofficial Readwise plugin to pull in all your highlights from Readwise and track new ones!",
       "author": "hkgnp",
@@ -2649,11 +4016,21 @@
       "addedAt": 1667578023000
     },
     {
+      "title": "URL Title Tagger",
+      "description": "Add title to URL in markdown automatically",
+      "author": "imjn",
+      "repo": "imjn/logseq-url-title-tagger",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-url-title-tagger",
+      "addedAt": 1709063288000
+    },
+    {
       "title": "url to markdown",
       "description": "A Plugin that help you to Convert URL to Markdown links when you paste a url in logseq.",
       "author": "superman66",
       "repo": "superman66/logseq-plugin-url-md",
-      "icon": "icon.png",
+      "icon": "icon.jpeg",
       "id": "logseq-urls-md",
       "addedAt": 1656785146000
     },
@@ -2666,6 +4043,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "effect": true,
       "id": "logseq-vim-editor",
       "addedAt": 1646707953000
     },
@@ -2724,8 +4102,21 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-weread-sync",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "id": "logseq-weread-sync",
       "addedAt": 1676902374000
+    },
+    {
+      "title": "Whisper Subtitles for Videos",
+      "description": "Generate subtitles with timestamp for videos using local Whisper",
+      "author": "usoon",
+      "repo": "usoonees/logseq-plugin-whisper-subtitles",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-whisper-subtitles",
+      "addedAt": 1697224114000
     },
     {
       "title": "Wide Eyed",
@@ -2742,7 +4133,7 @@
       "description": "Search Wikipedia and add the content as a block or a page",
       "author": "enchantmenttable",
       "repo": "enchantmenttable/logseq-wiki-search",
-      "icon": "icon.png",
+      "icon": "logo.png",
       "id": "logseq-wiki-search",
       "addedAt": 1665774988000
     },
@@ -2792,6 +4183,9 @@
       "author": "sethyuan",
       "repo": "sethyuan/logseq-plugin-wrap",
       "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/sethyuan"
+      ],
       "effect": true,
       "id": "logseq-wrap",
       "addedAt": 1643100515000
@@ -2830,6 +4224,49 @@
       "addedAt": 1677980704000
     },
     {
+      "title": "Missing Commands & Views",
+      "description": "Sort blocks, TAB-trigger on search, split by sentences, parse text structure, blocks navigation, etc.",
+      "author": "stdword",
+      "repo": "stdword/logseq13-missing-commands",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/stdword"
+      ],
+      "effect": true,
+      "id": "logseq13-missing-commands",
+      "addedAt": 1703118709000
+    },
+    {
+      "title": "Shorten My Links",
+      "description": "Shorts redundant hierarchical references to reduce visual efforts 👁️",
+      "author": "stdword",
+      "repo": "stdword/logseq13-shorten-my-links",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/stdword"
+      ],
+      "effect": true,
+      "id": "logseq13-shorten-my-links",
+      "addedAt": 1696718330000
+    },
+    {
+      "title": "Block Spacer",
+      "description": "A plugin for Logseq to keep first child block empty",
+      "author": "gfgafn",
+      "repo": "gfgafn/logseq_block_spacer",
+      "id": "logseq_block_spacer",
+      "addedAt": 1691997220000
+    },
+    {
+      "title": "Logsync",
+      "description": "Sync data from various sources into Logseq",
+      "author": "clstb",
+      "repo": "clstb/logsync",
+      "effect": true,
+      "id": "logsync",
+      "addedAt": 1702831753000
+    },
+    {
       "title": "LogTools - productivity pack",
       "description": "Kanban-Column view, Image Gallery, Priority Matrix, Pro-Cons, Borders, numlists",
       "author": "cannibalOx",
@@ -2852,6 +4289,27 @@
       "addedAt": 1656151446000
     },
     {
+      "title": "Nord theme",
+      "description": "An arctic, north-bluish color palette 🧊",
+      "author": "Bad3r",
+      "repo": "Bad3r/Logseq-Nord-Theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "nord-theme",
+      "addedAt": 1684603895000
+    },
+    {
+      "title": "ollama-logseq",
+      "description": "Logseq plugin to integrate with ollama",
+      "author": "Omar Magdy",
+      "repo": "omagdy7/ollama-logseq",
+      "icon": "./logo.png",
+      "theme": false,
+      "effect": true,
+      "id": "ollama-logseq",
+      "addedAt": 1699224300000
+    },
+    {
       "title": "SamePage",
       "description": "Official LogSeq client into the intra tool-for-thought protocol.",
       "author": "SamePage",
@@ -2861,6 +4319,15 @@
       "effect": true,
       "id": "samepage",
       "addedAt": 1668554654000
+    },
+    {
+      "title": "Slipbox",
+      "description": "Write notes on mobile, save them to Logseq later. Requires Tailscale.",
+      "author": "phildenhoff",
+      "repo": "phildenhoff/logseq-slipbox",
+      "icon": "./slipbox.png",
+      "id": "slipbox",
+      "addedAt": 1702757863000
     },
     {
       "title": "Template Gallery",
@@ -2874,6 +4341,19 @@
       ],
       "id": "template-gallery",
       "addedAt": 1675523235000
+    },
+    {
+      "title": "timeflow plugin",
+      "description": "A simple timeflow plugin for Logseq. Add timestamps, which can be toggled on or off at any time.",
+      "author": "yourmoonlight",
+      "repo": "yourmoonlight/timeflow_for_logseq",
+      "icon": "./logo.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/realMrD"
+      ],
+      "id": "timeflow_for_logseq",
+      "addedAt": 1694854430000
     },
     {
       "title": "Tufte Theme",

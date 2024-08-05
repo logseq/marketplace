@@ -1,0 +1,8 @@
+{
+  "title": "Regex Linker",
+  "description": "Automatic text replacement via regex while typing",
+  "author": "AskMeAgain",
+  "repo": "AskMeAgain/logseq-regex-linker",
+  "icon": "./icon.svg",
+  "effect": true
+}

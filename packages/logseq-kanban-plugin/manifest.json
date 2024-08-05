@@ -1,8 +1,9 @@
 {
   "title": "logseq-kanban-plugin",
   "name": "logseq-kanban-plugin",
-  "description": "Simple plugin to help visualise data on a Kanban Board!",
+  "description": "Visualise data on a Kanban Board, including drag and drop to update blocks.",
   "author": "hkgnp",
   "repo": "hkgnp/logseq-kanban-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "effect": true
 }
