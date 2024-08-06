@@ -1,5 +1,5 @@
 {
-  "datetime": 1722842665968,
+  "datetime": 1722905847748,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -1774,6 +1774,16 @@
       "addedAt": 1669184210000
     },
     {
+      "title": "Logseq Magic ToDo",
+      "description": "Logseq Magic ToDo is a plugin specifically designed for Logseq, utilizing AI technology to automatically break down complex tasks into smaller, more manageable ones.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-magic-todo",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-magic-todo",
+      "addedAt": 1722879930000
+    },
+    {
       "title": "Markmap",
       "description": "Mind map support based on markmap library.",
       "author": "vipzhicheng",
@@ -1891,10 +1901,11 @@
     {
       "title": "logseq-mermaid-plugin",
       "name": "logseq-mermaid-plugin",
-      "description": "This simple plugin allows you to quickly insert mermaid diagrams in your notes.",
-      "author": "hkgnp",
-      "repo": "hkgnp/logseq-mermaid-plugin",
+      "description": "Create mermaid diagrams in image format on-the-fly.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-mermaid-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-mermaid-plugin",
       "addedAt": 1644721606000
     },
