@@ -1,0 +1,8 @@
+{
+    "title": "logseq-translate-plugin",
+    "description": "Select text to translate and search selected text to Google trsnalte ",
+    "author": "zhihau",
+    "repo": "zhihau/logseq-translate-plugin",
+    "icon": "./icon.png",
+    "effect": true
+  }
