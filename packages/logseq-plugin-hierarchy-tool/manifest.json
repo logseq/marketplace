@@ -1,0 +1,9 @@
+{
+  "title": "Hierarchy Tool (TOC)",
+  "description": "A table of contents facility optimised for displaying or splitting comprehensive pages where hierarchies or headers are used!",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-hierarchy-tool",
+  "icon": "./icon.svg",
+  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
+  "effect": true
+}
