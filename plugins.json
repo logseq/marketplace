@@ -1,5 +1,5 @@
 {
-  "datetime": 1722905847748,
+  "datetime": 1723388761689,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2599,6 +2599,19 @@
       ],
       "id": "logseq-plugin-heading-level-shortcuts",
       "addedAt": 1639976862000
+    },
+    {
+      "title": "Hierarchy Tool (TOC)",
+      "description": "A table of contents facility optimised for displaying or splitting comprehensive pages where hierarchies or headers are used!",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-hierarchy-tool",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-hierarchy-tool",
+      "addedAt": 1723381136000
     },
     {
       "title": "Highlights Extractor",
