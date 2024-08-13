@@ -1,5 +1,5 @@
 {
-  "datetime": 1723388761689,
+  "datetime": 1723508439503,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3788,6 +3788,16 @@
       "addedAt": 1640884297000
     },
     {
+      "title": "That Year Today",
+      "description": "Open the journals from today in previous years in the sidebar.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-that-year-today",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-that-year-today",
+      "addedAt": 1723478208000
+    },
+    {
       "title": "Classic dark theme pack",
       "description": "This pack includes new color variations based on Logseq's original dark theme.",
       "author": "YU000jp",
@@ -4233,6 +4243,17 @@
       "effect": true,
       "id": "logseq-wucai-official-plugin",
       "addedAt": 1683625582000
+    },
+    {
+      "title": "logseq-zoterolocal-plugin",
+      "name": "logseq-zoterolocal-plugin",
+      "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-zoterolocal-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-zoterolocal-plugin",
+      "addedAt": 1723222792000
     },
     {
       "title": "Full House Templates",
