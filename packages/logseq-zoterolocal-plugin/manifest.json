@@ -1,0 +1,9 @@
+{
+  "title": "logseq-zoterolocal-plugin",
+  "name": "logseq-zoterolocal-plugin",
+  "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-zoterolocal-plugin",
+  "icon": "./icon.svg",
+  "effect": true
+}
