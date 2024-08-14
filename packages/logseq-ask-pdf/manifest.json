@@ -6,5 +6,5 @@
     "icon": "icon.png",
     "theme": false,
     "sponsors": [],
-    "effect": false
+    "effect": true
   }
