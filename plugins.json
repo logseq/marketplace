@@ -1,5 +1,5 @@
 {
-  "datetime": 1723508439503,
+  "datetime": 1723598018425,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -186,7 +186,7 @@
       "icon": "icon.png",
       "theme": false,
       "sponsors": [],
-      "effect": false,
+      "effect": true,
       "id": "logseq-ask-pdf",
       "addedAt": 1722831980000
     },
