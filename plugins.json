@@ -1,5 +1,5 @@
 {
-  "datetime": 1723598018425,
+  "datetime": 1723771666205,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -4093,6 +4093,16 @@
       "effect": true,
       "id": "logseq-vim-shortcuts",
       "addedAt": 1640577548000
+    },
+    {
+      "title": "WakaTime",
+      "description": "A plugin for tracking writing time in Logseq, based on the WakaTime API.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-wakatime",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-wakatime",
+      "addedAt": 1723733462000
     },
     {
       "title": "Web Parser",
