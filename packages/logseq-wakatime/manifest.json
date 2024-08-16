@@ -1,0 +1,8 @@
+{
+  "title": "WakaTime",
+  "description": "A plugin for tracking writing time in Logseq, based on the WakaTime API.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-wakatime",
+  "icon": "./logo.svg",
+  "effect": true
+}
