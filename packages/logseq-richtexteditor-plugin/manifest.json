@@ -1,0 +1,9 @@
+{
+  "title": "logseq-richtexteditor-plugin",
+  "name": "logseq-richtexteditor-plugin",
+  "description": "Inserts a rich text editor into your graph for easier editing. Supports printing too.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-richtexteditor-plugin",
+  "icon": "./icon.svg",
+  "effect": true
+}
