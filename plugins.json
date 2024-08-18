@@ -1,5 +1,5 @@
 {
-  "datetime": 1723771666205,
+  "datetime": 1723965339320,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -3347,6 +3347,17 @@
       "addedAt": 1721441481000
     },
     {
+      "title": "logseq-richtexteditor-plugin",
+      "name": "logseq-richtexteditor-plugin",
+      "description": "Inserts a rich text editor into your graph for easier editing. Supports printing too.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-richtexteditor-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-richtexteditor-plugin",
+      "addedAt": 1723890827000
+    },
+    {
       "title": "Rosé Pine Theme",
       "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
       "author": "Evangeline Barruel",
@@ -4261,7 +4272,6 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-zoterolocal-plugin",
       "icon": "./icon.svg",
-      "effect": true,
       "id": "logseq-zoterolocal-plugin",
       "addedAt": 1723222792000
     },
