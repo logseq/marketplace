@@ -1,5 +1,5 @@
 {
-  "datetime": 1723965339320,
+  "datetime": 1724130365109,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2359,6 +2359,18 @@
       "icon": "icon.png",
       "id": "logseq-plugin-areas",
       "addedAt": 1664104209000
+    },
+    {
+      "title": "AssistSeq - AI Assistant",
+      "description": "An elegant LogSeq AI Assistant Plugin.",
+      "author": "galihlprakoso",
+      "repo": "galihlprakoso/logseq-plugin-assistseq-ai-assistant",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/ghackdev"
+      ],
+      "id": "logseq-plugin-assistseq-ai-assistant",
+      "addedAt": 1724124596000
     },
     {
       "title": "logseq-plugin-audiobookshelf-import",

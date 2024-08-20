@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "title": "AssistSeq - AI Assistant",
+    "description": "An elegant LogSeq AI Assistant Plugin.",
+    "author": "galihlprakoso",
+    "repo": "galihlprakoso/logseq-plugin-assistseq-ai-assistant",
+    "icon": "icon.png",
+    "sponsors": [
+      "https://www.buymeacoffee.com/ghackdev"
+    ],
+    "id": "logseq-plugin-assistseq-ai-assistant",
+    "addedAt": 1724124596000
+  }
+]
