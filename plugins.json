@@ -1,5 +1,5 @@
 {
-  "datetime": 1724130365109,
+  "datetime": 1724291440487,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -4284,6 +4284,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-zoterolocal-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-zoterolocal-plugin",
       "addedAt": 1723222792000
     },
