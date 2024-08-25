@@ -1,5 +1,5 @@
 {
-  "datetime": 1724464438779,
+  "datetime": 1724598698095,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2185,6 +2185,17 @@
       "effect": true,
       "id": "logseq-page-tags-and-hierarchy",
       "addedAt": 1665379765000
+    },
+    {
+      "title": "logseq-pandoc-plugin",
+      "name": "logseq-pandoc-plugin",
+      "description": "Easily convert blocks to docx, pptx, html using Pandoc",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-pandoc-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-pandoc-plugin",
+      "addedAt": 1724502937000
     },
     {
       "title": "Logseq Pangu",
