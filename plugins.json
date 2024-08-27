@@ -1,5 +1,5 @@
 {
-  "datetime": 1724598698095,
+  "datetime": 1724731656530,
   "packages": [
     {
       "title": "Cobra Kai Fira Theme",
@@ -2173,6 +2173,16 @@
       "addedAt": 1653773658000
     },
     {
+      "title": "Page Breadcrumb",
+      "description": "This plugin can convert block elements in the page into breadcrumb navigation, making it easy for users to quickly locate specific blocks in the page.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-page-breadcrumb",
+      "icon": "./logo.svg",
+      "effect": true,
+      "id": "logseq-page-breadcrumb",
+      "addedAt": 1724677517000
+    },
+    {
       "title": "Page-tags and Hierarchy (Page UI)",
       "description": "Split page title hierarchy as links / Page view UI for page-tags and hierarchy",
       "author": "YU000jp",
@@ -3213,7 +3223,7 @@
       "description": "Support more dates like the in-build 'Tomorrow' command such as 'Last Wednesday' and 'Next Friday'.",
       "author": "Hannes Kuchelmeister",
       "repo": "13hannes11/logseq-quick-date",
-      "icon": "icon.png",
+      "icon": "logo.jpg",
       "id": "logseq-quick-date",
       "addedAt": 1724360098000
     },
