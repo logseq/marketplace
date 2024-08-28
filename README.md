@@ -55,3 +55,8 @@ LSP_MK_TOKEN=YOUR_TOKEN ./build.mjs --stat
 Ensure only `stats.json` file is updated.
 If `errors.json` is changed,
 rerun the steps to ensure no plugin is missed.
+
+## How to report an unavailable or malicious plugin
+If a plugin is unavailable or you think it contains malicious code, please email [support@logseq.com](mailto:support@logseq.com). Mention the name of the plugin and the URL of its GitHub repository.
+
+The Logseq team usually responds within a business day.
