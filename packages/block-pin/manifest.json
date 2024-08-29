@@ -1,7 +1,8 @@
 {
-    "title": "Block pin",
-    "description": "Add \"Paste as pin\" shortcut for pdf and editor blocks.",
-    "author": "Joodo <wyattliang@gmail.com>",
-    "repo": "joodo/logseq-plugin-pin",
-    "icon": "icon.png"
+  "title": "Block pin",
+  "description": "Add \"Paste as pin\" shortcut for pdf and editor blocks.",
+  "author": "Joodo <wyattliang@gmail.com>",
+  "repo": "joodo/logseq-plugin-pin",
+  "icon": "icon.png",
+  "effect": true
 }

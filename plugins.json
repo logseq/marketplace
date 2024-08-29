@@ -1,6 +1,16 @@
 {
-  "datetime": 1724731656530,
+  "datetime": 1724895378314,
   "packages": [
+    {
+      "title": "Block pin",
+      "description": "Add \"Paste as pin\" shortcut for pdf and editor blocks.",
+      "author": "Joodo <wyattliang@gmail.com>",
+      "repo": "joodo/logseq-plugin-pin",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "block-pin",
+      "addedAt": 1724776882000
+    },
     {
       "title": "Cobra Kai Fira Theme",
       "description": "If Cobra Kai had a Logseq theme this would be it! (Made for fans of dark-mode).",
