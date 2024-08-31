@@ -1,0 +1,9 @@
+{
+  "title": "logseq-filterpage-plugin",
+  "name": "logseq-filterpage-plugin",
+  "description": "Quickly filter the current page based on tags that you want to include or exclude.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-filterpage-plugin",
+  "icon": "./icon.svg",
+  "effect": true
+}
