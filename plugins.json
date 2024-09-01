@@ -1,5 +1,5 @@
 {
-  "datetime": 1724895378314,
+  "datetime": 1725184749815,
   "packages": [
     {
       "title": "Block pin",
@@ -127,6 +127,16 @@
       "effect": true,
       "id": "logseq-ai-auto-tags",
       "addedAt": 1698845571000
+    },
+    {
+      "title": "AI Query generator",
+      "name": "logseq-plugin-ai-query",
+      "description": "Logseq plugin to generate advanced queries by typing in natural language",
+      "author": "Daniel Zholkovsky",
+      "repo": "dailydaniel/logseq-plugin-ai-query",
+      "icon": "./logo.png",
+      "id": "logseq-ai-query-generator",
+      "addedAt": 1725020784000
     },
     {
       "title": "All Day Theme",
