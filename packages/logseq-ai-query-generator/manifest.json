@@ -1,0 +1,8 @@
+{
+  "title": "AI Query generator",
+  "name": "logseq-plugin-ai-query",
+  "description": "Logseq plugin to generate advanced queries by typing in natural language",
+  "author": "Daniel Zholkovsky",
+  "repo": "dailydaniel/logseq-plugin-ai-query",
+  "icon": "./logo.png"
+}
