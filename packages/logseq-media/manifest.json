@@ -2,9 +2,9 @@
   "title": "Metadata",
   "description": "Inster Metadata of Movie and Book" ,
   "author": "CorrectRoadH",
-  "repo":"CorrectRoadH/logseq-matedata",
+  "repo":"CorrectRoadH/logseq-metadata",
   "sponsors": [
     "https://github.com/sponsors/CorrectRoadH"
   ],
-  "icon": "logo.svg"
+  "icon": "logo.png"
 }
