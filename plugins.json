@@ -1,5 +1,5 @@
 {
-  "datetime": 1725184749815,
+  "datetime": 1725509518236,
   "packages": [
     {
       "title": "Block pin",
@@ -1123,6 +1123,17 @@
       "addedAt": 1650425765000
     },
     {
+      "title": "logseq-filterpage-plugin",
+      "name": "logseq-filterpage-plugin",
+      "description": "Quickly filter the current page based on tags that you want to include or exclude.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-filterpage-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-filterpage-plugin",
+      "addedAt": 1725090030000
+    },
+    {
       "title": "Logseq Find and Replace Plugin",
       "description": "Find and Replace across your entire database",
       "author": "Aryan Sawhney",
@@ -1865,6 +1876,18 @@
       "effect": true,
       "id": "logseq-matter",
       "addedAt": 1666991542000
+    },
+    {
+      "title": "Metadata",
+      "description": "Insert Metadata of Movie and Book",
+      "author": "CorrectRoadH",
+      "repo": "CorrectRoadH/logseq-metadata",
+      "sponsors": [
+        "https://github.com/sponsors/CorrectRoadH"
+      ],
+      "icon": "logo.png",
+      "id": "logseq-media",
+      "addedAt": 1724988391000
     },
     {
       "title": "media controls",
