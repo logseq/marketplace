@@ -1,5 +1,5 @@
 {
-  "datetime": 1725509518236,
+  "datetime": 1725886674591,
   "packages": [
     {
       "title": "Block pin",
@@ -1504,6 +1504,16 @@
       "effect": true,
       "id": "logseq-insert-movie-properties",
       "addedAt": 1688050906000
+    },
+    {
+      "title": "Integrate Any API",
+      "description": "Call APIs with Block Content and Insert Responses.",
+      "author": "Fahd Hussein",
+      "repo": "eefahd/logseq-integrate-any-api",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-integrate-any-api",
+      "addedAt": 1725792904000
     },
     {
       "title": "Logseq Interstitial Journal",
