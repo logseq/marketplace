@@ -1,5 +1,5 @@
 {
-  "datetime": 1725886674591,
+  "datetime": 1726806976403,
   "packages": [
     {
       "title": "Block pin",
@@ -1121,6 +1121,16 @@
       "effect": true,
       "id": "logseq-file-manager",
       "addedAt": 1650425765000
+    },
+    {
+      "title": "logseq-files-manager",
+      "description": "本插件专为提高您管理日常文档和附件的效率而设计,帮助您轻松处理和组织与Logseq相关的文件。",
+      "repo": "duiliuliu/logseq-plugin-files-manager",
+      "author": "duiliuliu",
+      "icon": "folders.png",
+      "effect": true,
+      "id": "logseq-files-manager",
+      "addedAt": 1726739188000
     },
     {
       "title": "logseq-filterpage-plugin",
