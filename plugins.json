@@ -1,5 +1,5 @@
 {
-  "datetime": 1726806976403,
+  "datetime": 1726983064651,
   "packages": [
     {
       "title": "Block pin",
@@ -1805,6 +1805,16 @@
       "theme": true,
       "id": "logseq-luma",
       "addedAt": 1658972312000
+    },
+    {
+      "title": "Lumalee",
+      "description": "Minimal light theme with accent color support, based on gavinmn's Luma theme",
+      "author": "kay-ki",
+      "repo": "kay-ki/Lumalee-Logseq-Theme",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-lumalee",
+      "addedAt": 1726924840000
     },
     {
       "title": "Copy from macOS Books without citation",
