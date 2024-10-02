@@ -1,0 +1,8 @@
+{
+  "title": "OddBox - Gruvbox Theme for LogSeq",
+  "description": "A theme for LogSeq based on the popular Gruvbox color theme.",
+  "author": "Kai Klostermann",
+  "repo": "OddDev/oddbox",
+  "icon": "icon.png",
+  "theme": true
+}
