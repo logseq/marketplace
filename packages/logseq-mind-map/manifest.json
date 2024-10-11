@@ -1,0 +1,9 @@
+{
+  "title": "Logseq Mind Map",
+  "description": "A mind map plugin for Logseq. Support plugin mode and Web mode, Web mode address: https://logseq-mind-map.vercel.app/",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-mind-map",
+  "icon": "./logo.png",
+  "sponsors": ["https://buymeacoffee.com/baiyp"],
+  "effect": true
+}
