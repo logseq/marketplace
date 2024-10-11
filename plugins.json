@@ -1,5 +1,5 @@
 {
-  "datetime": 1726983064651,
+  "datetime": 1728617865582,
   "packages": [
     {
       "title": "Block pin",
@@ -50,6 +50,16 @@
       "icon": "icon.png",
       "id": "flomo_memos_sync",
       "addedAt": 1652944875000
+    },
+    {
+      "title": "OddBox - Gruvbox Theme for LogSeq",
+      "description": "A theme for LogSeq based on the popular Gruvbox color theme.",
+      "author": "Kai Klostermann",
+      "repo": "OddDev/oddbox",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "gruvbox-theme",
+      "addedAt": 1727897099000
     },
     {
       "title": "Harmony Theme",
