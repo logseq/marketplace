@@ -1,5 +1,5 @@
 {
-  "datetime": 1728617865582,
+  "datetime": 1728870795281,
   "packages": [
     {
       "title": "Block pin",
@@ -2024,6 +2024,19 @@
       "icon": "icon.png",
       "id": "logseq-milestone",
       "addedAt": 1642408210000
+    },
+    {
+      "title": "Logseq Mind Map",
+      "description": "A mind map plugin for Logseq. Support plugin mode and Web mode, Web mode address: https://logseq-mind-map.vercel.app/",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-mind-map",
+      "icon": "./logo.png",
+      "sponsors": [
+        "https://buymeacoffee.com/baiyp"
+      ],
+      "effect": true,
+      "id": "logseq-mind-map",
+      "addedAt": 1728662827000
     },
     {
       "title": "Mocha Theme",
