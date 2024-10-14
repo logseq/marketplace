@@ -1,5 +1,5 @@
 {
-  "datetime": 1728870795281,
+  "datetime": 1728873777406,
   "packages": [
     {
       "title": "Block pin",
@@ -2024,6 +2024,15 @@
       "icon": "icon.png",
       "id": "logseq-milestone",
       "addedAt": 1642408210000
+    },
+    {
+      "title": "Milestones-pro",
+      "description": "Show milestone in calendar",
+      "author": "duiliuliu",
+      "repo": "duiliuliu/logseq-plugin-milestone-1",
+      "icon": "icon.png",
+      "id": "logseq-milestones-pro",
+      "addedAt": 1728657465000
     },
     {
       "title": "Logseq Mind Map",
