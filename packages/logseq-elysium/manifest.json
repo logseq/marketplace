@@ -1,0 +1,8 @@
+{
+  "title": "Elysium",
+  "description": "A sleek dark theme for both desktop and mobile.",
+  "author": "PixelTux",
+  "repo": "elysium-tms/logseq-elysium",
+  "icon": "icon.svg",
+  "theme": true
+}
