@@ -1,5 +1,5 @@
 {
-  "datetime": 1728873777406,
+  "datetime": 1729474708267,
   "packages": [
     {
       "title": "Block pin",
@@ -1024,6 +1024,16 @@
       "theme": true,
       "id": "logseq-eink-theme",
       "addedAt": 1632400068000
+    },
+    {
+      "title": "Elysium",
+      "description": "A sleek dark theme for both desktop and mobile.",
+      "author": "PixelTux",
+      "repo": "elysium-tms/logseq-elysium",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-elysium",
+      "addedAt": 1729433506000
     },
     {
       "title": "Emoji picker",
