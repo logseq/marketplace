@@ -1,5 +1,5 @@
 {
-  "datetime": 1729474708267,
+  "datetime": 1729906915310,
   "packages": [
     {
       "title": "Block pin",
@@ -2502,8 +2502,8 @@
     {
       "title": "logseq-plugin-audiobookshelf-import",
       "description": "Import Audiobookshelf items into Logseq.",
-      "author": "Demistify",
-      "repo": "etopeter/logseq-plugin-audiobookshelf-import",
+      "author": "Gandalf-the-Blue & Demistify",
+      "repo": "Gandalf-the-Blue/logseq-plugin-audiobookshelf-import",
       "icon": "icon.png",
       "effect": true,
       "id": "logseq-plugin-audiobookshelf-import",
