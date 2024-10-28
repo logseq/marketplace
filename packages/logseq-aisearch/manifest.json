@@ -1,0 +1,11 @@
+{
+  "title": "AI Search",
+  "description": "Perform a global search within the logseq document and output relevant content.",
+  "author": "Chii_Magnus",
+  "repo": "chiimagnus/logseq-AIsearch",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
+  ]
+}
+
