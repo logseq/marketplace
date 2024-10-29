@@ -1,8 +1,0 @@
-{
-  "title": "Rename Page Shortcut",
-  "description": "Registers a shortcut in Logseq to rename the current page." ,
-  "author": "Fabian Stanke",
-  "repo":"fmos/logseq-rename-page-shortcut",
-  "icon": "icon.png",
-  "theme": false
-}
