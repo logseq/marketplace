@@ -1,5 +1,5 @@
 {
-  "datetime": 1730082174995,
+  "datetime": 1730340419302,
   "packages": [
     {
       "title": "Block pin",
@@ -3495,6 +3495,17 @@
       "repo": "Cologler/logseq-remove-empty-blocks-typescript",
       "id": "logseq-remove-empty-blocks",
       "addedAt": 1690280458000
+    },
+    {
+      "title": "Rename Page Shortcut",
+      "description": "Registers a shortcut in Logseq to rename the current page.",
+      "author": "Fabian Stanke",
+      "repo": "fmos/logseq-rename-page-shortcut",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": true,
+      "id": "logseq-rename-page-shortcut",
+      "addedAt": 1730212142000
     },
     {
       "title": "logseq-renamedates-plugin",
