@@ -4,6 +4,7 @@
   "author": "Chii_Magnus",
   "repo": "chiimagnus/logseq-AIsearch",
   "icon": "icon.png",
+  "effect": true,
   "sponsors": [
     "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
   ]
