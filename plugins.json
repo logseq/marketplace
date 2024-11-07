@@ -1,5 +1,5 @@
 {
-  "datetime": 1730340419302,
+  "datetime": 1730980645553,
   "packages": [
     {
       "title": "Block pin",
@@ -154,6 +154,7 @@
       "author": "Chii_Magnus",
       "repo": "chiimagnus/logseq-AIsearch",
       "icon": "icon.png",
+      "effect": true,
       "sponsors": [
         "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
       ],
