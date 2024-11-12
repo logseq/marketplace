@@ -1,5 +1,5 @@
 {
-  "datetime": 1730980645553,
+  "datetime": 1731379027360,
   "packages": [
     {
       "title": "Block pin",
@@ -2833,6 +2833,19 @@
       "effect": true,
       "id": "logseq-plugin-legacy-date-format copy",
       "addedAt": 1692759682886
+    },
+    {
+      "title": "MMarked",
+      "description": "A Logseq plugin that renders Markdown blocks using the MMarked library, ideal for educational contexts that require advanced markdown capabilities.",
+      "author": "Charles Bao",
+      "icon": "./icon.png",
+      "repo": "mathedu4all/mmarked-logseq-extension",
+      "effect": true,
+      "sponsors": [
+        "https://www.mathcrowd.cn/crowd-funding/charging"
+      ],
+      "id": "logseq-plugin-mmarked",
+      "addedAt": 1731316306000
     },
     {
       "title": "Multiple Files into Assets",
