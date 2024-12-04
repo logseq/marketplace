@@ -1,5 +1,5 @@
 {
-  "datetime": 1731379027360,
+  "datetime": 1733270857969,
   "packages": [
     {
       "title": "Block pin",
@@ -30,6 +30,15 @@
       "theme": true,
       "id": "cobra-theme",
       "addedAt": 1634165328000
+    },
+    {
+      "title": "Cycle TODO state (Do What I Mean)",
+      "description": "Ctrl+Enter with repeating timestamp support, similar to org-mode",
+      "author": "Aleksei Gusev",
+      "repo": "hron/logseq-cycle-todo-dwim",
+      "icon": "icon.webp",
+      "id": "cycle-todo-dwim",
+      "addedAt": 1733232465000
     },
     {
       "title": "darwis-mathlive-plugin",
