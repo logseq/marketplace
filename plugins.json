@@ -2,16 +2,6 @@
   "datetime": 1731379027360,
   "packages": [
     {
-      "title": "logseq-trello-plugin",
-      "name": "logseq-trello-plugin",
-      "description": "Seamlessly integrate Trello with LogSeq for efficient task and note management",
-      "author": "jarodise",
-      "repo": "jarodise/logseq-trello-plugin",
-      "icon": "icon.png",
-      "effect": true,
-      "id": "logseq-trello-plugin"
-    },
-    {
       "title": "Block pin",
       "description": "Add \"Paste as pin\" shortcut for pdf and editor blocks.",
       "author": "Joodo <wyattliang@gmail.com>",
@@ -165,6 +155,9 @@
       "repo": "chiimagnus/logseq-AIsearch",
       "icon": "icon.png",
       "effect": true,
+      "sponsors": [
+        "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
+      ],
       "id": "logseq-aisearch",
       "addedAt": 1729681060000
     },
@@ -186,7 +179,7 @@
       "icon": "./icon.png",
       "effect": true,
       "sponsors": [
-        "https://www.buymeacoffee.com/debanjandhar12",
+        "https://github.com/sponsors/debanjandhar12",
         "https://www.buymeacoffee.com/debanjandhar12"
       ],
       "id": "logseq-anki-sync",
@@ -1930,7 +1923,7 @@
     },
     {
       "title": "Matter",
-      "description": "Official Matter plugin for LogSeq",
+      "description": "Official Matter plugin for Logseq",
       "author": "Matter",
       "repo": "getmatterapp/logseq-matter",
       "icon": "logo.svg",
@@ -2259,7 +2252,7 @@
       "addedAt": 1651170839000
     },
     {
-      "title": "logseq-opml-drummer",
+      "title": "logseq opml drummer",
       "description": "blog straight from logseq with Drummer and OPML",
       "author": "phonetonote",
       "repo": "phonetonote/tft-interop",
@@ -3420,7 +3413,7 @@
       "description": "A series of random, small, simple utilities that enhances the Logseq experience.",
       "author": "hkgnp",
       "repo": "hkgnp/logseq-randomutils-plugin",
-      "icon": "./icon.png",
+      "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-randomutils-plugin",
       "addedAt": 1676894072000
@@ -4634,4 +4627,3 @@
     }
   ]
 }
-```
