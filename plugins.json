@@ -1,5 +1,5 @@
 {
-  "datetime": 1733270857969,
+  "datetime": 1733289205130,
   "packages": [
     {
       "title": "Block pin",
@@ -4177,6 +4177,16 @@
       "icon": "./icon.svg",
       "id": "logseq-trackhabits2-plugin",
       "addedAt": 1641544884000
+    },
+    {
+      "title": "logseq-trello-plugin",
+      "name": "logseq-trello-plugin",
+      "description": "Seamlessly integrate Trello with LogSeq for efficient task and note management",
+      "author": "jarodise",
+      "repo": "jarodise/logseq-trello-plugin",
+      "icon": "icon.png",
+      "id": "logseq-trello-plugin",
+      "addedAt": 1733289205125
     },
     {
       "title": "Twitter Extractor",
