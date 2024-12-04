@@ -1,0 +1,7 @@
+{
+  "title": "Cycle TODO state (Do What I Mean)",
+  "description": "Ctrl+Enter with repeating timestamp support, similar to org-mode",
+  "author": "Aleksei Gusev",
+  "repo": "hron/logseq-cycle-todo-dwim",
+  "icon": "icon.webp"
+}
