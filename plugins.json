@@ -1,5 +1,5 @@
 {
-  "datetime": 1733289205130,
+  "datetime": 1733815953219,
   "packages": [
     {
       "title": "Block pin",
@@ -741,6 +741,18 @@
       ],
       "id": "logseq-comment-block",
       "addedAt": 1638514760000
+    },
+    {
+      "title": "Logseq Copilot",
+      "description": "A Logseq plugin that integrates with OpenAI-compatible LLMs.",
+      "author": "jarodise",
+      "repo": "jarodise/logseq-copilot",
+      "icon": "icon.svg",
+      "theme": false,
+      "sponsors": [],
+      "effect": false,
+      "id": "logseq-copilot",
+      "addedAt": 1733618346000
     },
     {
       "title": "Copy Code",
