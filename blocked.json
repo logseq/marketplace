@@ -1,7 +1,7 @@
 {
-  "unavailable_temporarily": [
-    {
-      "author": "YU000jp"
-    }
+  "unavailable_temporarily": [],
+  "unavailable_repos": [
+    "sethyuan/*",
+    "!sethyuan/logseq-long-form"
   ]
 }

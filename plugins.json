@@ -1,5 +1,5 @@
 {
-  "datetime": 1733885955643,
+  "datetime": 1733918270128,
   "packages": [
     {
       "title": "Block pin",
@@ -195,19 +195,6 @@
       "addedAt": 1639308679000
     },
     {
-      "title": "Another Embed",
-      "description": "This plugin provides 2 extra ways to embed blocks/pages.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-another-embed",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-another-embed",
-      "addedAt": 1659419493000
-    },
-    {
       "title": "Arc Theme",
       "description": " A Logseq theme based on Arc by The Browser Company",
       "author": "@andyburris",
@@ -371,19 +358,6 @@
       "effect": true,
       "id": "logseq-banners-plugin",
       "addedAt": 1656355151000
-    },
-    {
-      "title": "Batch Ops",
-      "description": "Perform queries on the current graph and batch process on the results.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-batch-op",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-batch-op",
-      "addedAt": 1656070651000
     },
     {
       "title": "Bear Cub Theme for Logseq",
@@ -605,19 +579,6 @@
       "theme": true,
       "id": "logseq-catppuccin",
       "addedAt": 1675028902000
-    },
-    {
-      "title": "Char Spacing",
-      "description": "Add space between Chinese and ASCII characters to make document look nicer.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-charspacing",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-charspacing",
-      "addedAt": 1639475288000
     },
     {
       "title": "logseq-chartrender-plugin",
@@ -878,19 +839,6 @@
       "addedAt": 1644179668000
     },
     {
-      "title": "Days",
-      "description": "Generate a calendar with all days related to a topic highlighted. A topic is either a page or a block.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-days",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-days",
-      "addedAt": 1667209371000
-    },
-    {
       "title": "Logseq Deadline Countdown",
       "description": "Counts how many days left until the deadline.",
       "author": "xxchan",
@@ -973,19 +921,6 @@
       "addedAt": 1686398234000
     },
     {
-      "title": "Doc View Exporter",
-      "description": "Show page in a more document like look and provide quick exporting.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-doc",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-doc",
-      "addedAt": 1640320979000
-    },
-    {
       "title": "DONE time",
       "description": "Adds a timestamp property to a task when it's marked as DONE",
       "author": "Menno Finlay-Smits",
@@ -1013,19 +948,6 @@
       "effect": true,
       "id": "logseq-drawio-plugin",
       "addedAt": 1684684094000
-    },
-    {
-      "title": "Draw It",
-      "description": "Simple Stable Diffusion WebUI frontend for Logseq.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-drawit",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-drawit",
-      "addedAt": 1684718655000
     },
     {
       "title": "Logseq-ECharts",
@@ -1470,19 +1392,6 @@
       "addedAt": 1686319584000
     },
     {
-      "title": "Hierarchy Jump",
-      "description": "Identifies the current page's hierarchy and offer a quicker navigation.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-hierarchy-jump",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-hierarchy-jump",
-      "addedAt": 1693205337000
-    },
-    {
       "title": "Hypothesis",
       "description": "Sync hypothes.is annotations to Logseq.",
       "author": "c6p",
@@ -1643,19 +1552,6 @@
       "addedAt": 1704247563000
     },
     {
-      "title": "Kanban Board",
-      "description": "Draggable, editable Kanban view.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-kanban-board",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-kanban-board",
-      "addedAt": 1678604497000
-    },
-    {
       "title": "logseq-kanban-plugin",
       "name": "logseq-kanban-plugin",
       "description": "Visualise data on a Kanban Board, including drag and drop to update blocks.",
@@ -1747,19 +1643,6 @@
       "addedAt": 1667148632000
     },
     {
-      "title": "File Linker",
-      "description": "Dynamically replaces a link's path. It allows you to store big files (like video) outside of Logseq.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-linker",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-linker",
-      "addedAt": 1698375232000
-    },
-    {
       "title": "Logseq Live Math",
       "description": "Type LaTeX in live mode!",
       "author": "Allan Chain",
@@ -1838,19 +1721,6 @@
       "addedAt": 1678604497000
     },
     {
-      "title": "Luckysheet",
-      "description": "Embed Luckysheet (spreadsheet) into Logseq.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-luckysheet",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-luckysheet",
-      "addedAt": 1647055256000
-    },
-    {
       "title": "Luma",
       "description": "A minimal and detail oriented light and dark theme for Logseq",
       "author": "@gavmn",
@@ -1920,19 +1790,6 @@
       "addedAt": 1665429877000
     },
     {
-      "title": "Math Editor",
-      "description": "Easier editing of math formulas.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-math-editor",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-math-editor",
-      "addedAt": 1678604497000
-    },
-    {
       "title": "Matrix AMOLED (OLED) Theme",
       "description": "Pure black background, really good theme for OLED monitors",
       "author": "KonTy",
@@ -1973,19 +1830,6 @@
       "effect": true,
       "id": "logseq-media-controls",
       "addedAt": 1650667009000
-    },
-    {
-      "title": "Media Timestamp",
-      "description": "This plugin can generate timestamps for video, audio and Bilibili video, it takes you to the corresponding video/audio position when clicked.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-media-ts",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-media-ts",
-      "addedAt": 1646211056000
     },
     {
       "title": "Memos Sync",
@@ -2192,18 +2036,6 @@
       "effect": true,
       "id": "logseq-ocr",
       "addedAt": 1682873297000
-    },
-    {
-      "title": "Ordered Lists",
-      "description": "Ordered lists, flat or nested, multiple formats ordered lists.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-ol",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "id": "logseq-ol",
-      "addedAt": 1646704964000
     },
     {
       "title": "Omnivore",
@@ -3511,19 +3343,6 @@
       "addedAt": 1709462142000
     },
     {
-      "title": "Reminder",
-      "description": "System notification for Scheduled and Deadline.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-reminder",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-reminder",
-      "addedAt": 1667830179000
-    },
-    {
       "title": "Remove empty blocks",
       "description": "Added remove empty blocks context menus",
       "author": "Cologler",
@@ -3732,19 +3551,6 @@
       "addedAt": 1646970193000
     },
     {
-      "title": "Smart Typing",
-      "description": "Enrich the editing experience in Logseq, automatically match all kinds of parentheses, quotation marks and mathematical equations. Support for matching Chinese punctuation marks.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-smart-typing",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-smart-typing",
-      "addedAt": 1671195380000
-    },
-    {
       "title": "logseq-smartblocks",
       "description": "A port of the roam SmartBlocks extension with a dash of Notion",
       "author": "Aryan Sawhney",
@@ -3755,19 +3561,6 @@
       ],
       "id": "logseq-smartblocks",
       "addedAt": 1643142588000
-    },
-    {
-      "title": "Smart Search",
-      "description": "Triggers an input that helps you search various types of data.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-smartsearch",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-smartsearch",
-      "addedAt": 1668169207000
     },
     {
       "title": "Sort blocks",
@@ -3861,19 +3654,6 @@
       "addedAt": 1642056804000
     },
     {
-      "title": "Tabbed Sidebar",
-      "description": "Alternative sidebar that's organized in tabs.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-tabbed-sidebar",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-tabbed-sidebar",
-      "addedAt": 1687656553000
-    },
-    {
       "title": "Tabler picker",
       "description": "Tabler icon picker plugin for Logseq",
       "author": "yoyurec",
@@ -3935,19 +3715,6 @@
       "addedAt": 1722535956000
     },
     {
-      "title": "Favorite Tree",
-      "description": "A hierarchical favorites in the left sidebar.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-favorite-tree",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-task-favorite-tree",
-      "addedAt": 1692414252000
-    },
-    {
       "title": "Task management shortcuts",
       "description": "Add shortcuts for Logseq task management.",
       "author": "vipzhicheng",
@@ -3958,19 +3725,6 @@
       ],
       "id": "logseq-task-management-shortcuts",
       "addedAt": 1642406539000
-    },
-    {
-      "title": "Task Reminder",
-      "description": "A pomodoro timer for your tasks.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-task-reminder",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-task-reminder",
-      "addedAt": 1678604497000
     },
     {
       "title": "Tenset Security",
@@ -4104,19 +3858,6 @@
       "effect": "true",
       "id": "logseq-toc-plugin",
       "addedAt": 1639677393000
-    },
-    {
-      "title": "TOC Generator",
-      "description": "Generate a TOC of any page anywhere to quickly access the page's content.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-tocgen",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-tocgen",
-      "addedAt": 1640087962000
     },
     {
       "title": "logseq-todayevents-plugin",
@@ -4368,18 +4109,6 @@
       "addedAt": 1674288955000
     },
     {
-      "title": "WeRead Sync",
-      "description": "Sync WeRead with your Logseq.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-weread-sync",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "id": "logseq-weread-sync",
-      "addedAt": 1676902374000
-    },
-    {
       "title": "Whisper Subtitles for Videos",
       "description": "Generate subtitles with timestamp for videos using local Whisper",
       "author": "usoon",
@@ -4447,19 +4176,6 @@
       "effect": true,
       "id": "logseq-wpm-counter",
       "addedAt": 1682745687000
-    },
-    {
-      "title": "Text Wrapper",
-      "description": "Create your own wrappings with optional key bindings for selected text, a set of useful defaults is also provided.",
-      "author": "sethyuan",
-      "repo": "sethyuan/logseq-plugin-wrap",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/sethyuan"
-      ],
-      "effect": true,
-      "id": "logseq-wrap",
-      "addedAt": 1643100515000
     },
     {
       "title": "logseq-writegood-plugin",

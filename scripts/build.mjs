@@ -6,6 +6,7 @@ import HttpsProxyAgent from 'https-proxy-agent'
 import cp from 'child_process'
 import dayjs from 'dayjs'
 import dayjsRelativeTime from 'dayjs/plugin/relativeTime.js'
+import blockedConfig from '../blocked.json' assert { type: 'json' }
 
 dayjs.extend(dayjsRelativeTime)
 
@@ -74,6 +75,30 @@ function getRepoBaseInfo (repo) {
   const url = GITHUB_ENDPOINT + path.join('repos', repo)
   console.log('Info Repo:', url)
   return httpGet(url)
+}
+
+function validateRepoBlocked (repo) {
+  if (!repo || !blockedConfig ||
+    !blockedConfig.unavailable_repos ||
+    blockedConfig.unavailable_repos.length === 0
+  ) return
+
+  const unavailableRepos = blockedConfig.unavailable_repos
+
+  if (unavailableRepos.includes(repo)) {
+    return true
+  }
+
+  // check exclusive
+  if (unavailableRepos.includes(`!${repo}`)) {
+    return false
+  }
+
+  const repoOwner = repo.split('/')[0]
+
+  if (unavailableRepos.includes(`${repoOwner}/*`)) {
+    return true
+  }
 }
 
 async function cli (action, ...rest) {
@@ -270,6 +295,12 @@ async function cli (action, ...rest) {
           if (st.isDirectory() && fs.existsSync(mfp)) {
             const mf = JSON.parse(fs.readFileSync(mfp).toString())
             mf.id = it.toLowerCase()
+
+            if (validateRepoBlocked(mf.repo) === true) {
+              console.log('🚫 Blocked Repo:', mf.repo)
+              return acc
+            }
+
             mf.addedAt = oldPkgs[mf.id]?.addedAt
             if (!mf.addedAt) {
               mf.addedAt = dateAdded(mfp)
