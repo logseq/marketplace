@@ -1,0 +1,7 @@
+{
+  "title": "Embed Vega-Lite",
+  "description": "Embed Vega-Lite graphics to Logseq notes",
+  "author": "oshikiri",
+  "repo": "oshikiri/logseq-plugin-embed-vegalite",
+  "icon": "logo.png"
+}
