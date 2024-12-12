@@ -1,5 +1,5 @@
 {
-  "datetime": 1733918270128,
+  "datetime": 1733980309062,
   "packages": [
     {
       "title": "Block pin",
@@ -2529,6 +2529,15 @@
       "effect": true,
       "id": "logseq-plugin-discogs",
       "addedAt": 1669236504000
+    },
+    {
+      "title": "Embed Vega-Lite",
+      "description": "Embed Vega-Lite graphics to Logseq notes",
+      "author": "oshikiri",
+      "repo": "oshikiri/logseq-plugin-embed-vegalite",
+      "icon": "logo.png",
+      "id": "logseq-plugin-embed-vegalite",
+      "addedAt": 1733928117000
     },
     {
       "title": "Extra editing commands",
