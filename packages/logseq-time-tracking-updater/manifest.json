@@ -1,0 +1,7 @@
+{
+  "title": "Time Tracking Updater",
+  "description": "Provides the ability to update the time tracking data created by LogSeq.",
+  "repo": "kmlprtsng/logseq-time-tracking-updater",
+  "author": "kmlprtsng",
+  "icon": "icon.png"
+}
