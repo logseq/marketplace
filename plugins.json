@@ -1,5 +1,5 @@
 {
-  "datetime": 1733980309062,
+  "datetime": 1734322601877,
   "packages": [
     {
       "title": "Block pin",
@@ -3833,6 +3833,16 @@
       "icon": "icon.png",
       "id": "logseq-time-recorder",
       "addedAt": 1703553764000
+    },
+    {
+      "title": "Time Tracking Updater",
+      "description": "Provides the ability to update the time tracking data created by LogSeq.",
+      "repo": "kmlprtsng/logseq-time-tracking-updater",
+      "author": "kmlprtsng",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-time-tracking-updater",
+      "addedAt": 1734279872000
     },
     {
       "title": "Logseq Title Bar",
