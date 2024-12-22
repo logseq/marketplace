@@ -1,0 +1,11 @@
+{
+  "title": "Multi Random Note",
+  "description": "Lists randomly selected pages or assets",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-multi-random-note",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}
