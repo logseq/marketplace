@@ -1,5 +1,5 @@
 {
-  "datetime": 1734322601877,
+  "datetime": 1734869241460,
   "packages": [
     {
       "title": "Block pin",
@@ -2708,6 +2708,19 @@
       ],
       "id": "logseq-plugin-mmarked",
       "addedAt": 1731316306000
+    },
+    {
+      "title": "Multi Random Note",
+      "description": "Lists randomly selected pages or assets",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-multi-random-note",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-multi-random-note",
+      "addedAt": 1734862506000
     },
     {
       "title": "Multiple Files into Assets",
