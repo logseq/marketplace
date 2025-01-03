@@ -1,0 +1,7 @@
+{
+  "title": "Wallabag",
+  "description": "Import Wallabag annotations and articles into Logseq.",
+  "author": "Daniel Hnyk",
+  "repo": "hnykda/logseq-wallabag",
+  "icon": "icon.png"
+}
