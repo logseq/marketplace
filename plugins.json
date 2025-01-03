@@ -1,5 +1,5 @@
 {
-  "datetime": 1734869241460,
+  "datetime": 1735876429782,
   "packages": [
     {
       "title": "Block pin",
@@ -2531,6 +2531,19 @@
       "addedAt": 1669236504000
     },
     {
+      "title": "Draft Notes",
+      "description": "This plugin is designed to batch process draft pages using embeds.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-draft-notes",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-draft-notes",
+      "addedAt": 1735740506000
+    },
+    {
       "title": "Embed Vega-Lite",
       "description": "Embed Vega-Lite graphics to Logseq notes",
       "author": "oshikiri",
@@ -2695,6 +2708,19 @@
       "effect": true,
       "id": "logseq-plugin-legacy-date-format copy",
       "addedAt": 1692759682886
+    },
+    {
+      "title": "Logging Search",
+      "description": "This plugin displays search results using query or page embedding.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-logging-search",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-logging-search",
+      "addedAt": 1735740506000
     },
     {
       "title": "MMarked",
