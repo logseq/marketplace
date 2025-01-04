@@ -1,5 +1,5 @@
 {
-  "datetime": 1735876429782,
+  "datetime": 1735973404393,
   "packages": [
     {
       "title": "Block pin",
@@ -4116,6 +4116,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "web": true,
       "effect": true,
       "id": "logseq-vim-shortcuts",
       "addedAt": 1640577548000

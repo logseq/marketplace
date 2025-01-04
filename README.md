@@ -28,6 +28,7 @@ Ensure that your plugin has a `publish.yml` file, so when you create a release f
     - `icon`- [optional] A logo for better recognition. default: `""`
     - `theme`- [optional] A theme plugin? default: `false`
     - `sponsors` - [optional] Sponsor external links. default: `[]`
+    - `web` - [optional] Whether the web browser platform is supported. default: `false`
     - `effect` - [optional] Whether the sandbox is running under the same origin with host. default: `false`
       > ⚠️ `effect`? - it's not recommended to turn on this option if you don't 
       need a specific feature (_the current built-in plugin API does not satisfy_), 
