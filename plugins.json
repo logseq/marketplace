@@ -1,5 +1,5 @@
 {
-  "datetime": 1735973404393,
+  "datetime": 1736137376939,
   "packages": [
     {
       "title": "Block pin",
@@ -4130,6 +4130,15 @@
       "effect": true,
       "id": "logseq-wakatime",
       "addedAt": 1723733462000
+    },
+    {
+      "title": "Wallabag",
+      "description": "Import Wallabag annotations and articles into Logseq.",
+      "author": "Daniel Hnyk",
+      "repo": "hnykda/logseq-wallabag",
+      "icon": "icon.png",
+      "id": "logseq-wallabag",
+      "addedAt": 1735901204000
     },
     {
       "title": "Web Parser",
