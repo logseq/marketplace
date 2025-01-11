@@ -1,5 +1,5 @@
 {
-  "datetime": 1736137376939,
+  "datetime": 1736573748442,
   "packages": [
     {
       "title": "Block pin",
@@ -267,6 +267,15 @@
       "effect": true,
       "id": "logseq-audio-memo",
       "addedAt": 1687202635000
+    },
+    {
+      "title": "AutoClass",
+      "description": "Automatically add the class property",
+      "author": "JWangL5",
+      "repo": "JWangL5/logseq-autoclass-plugin",
+      "icon": "./logo.png",
+      "id": "logseq-autoclass-plugin",
+      "addedAt": 1736404324000
     },
     {
       "title": "Automatic Linker",
