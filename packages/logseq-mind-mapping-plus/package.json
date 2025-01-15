@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a logseq plugin based on logseq-mind-mapping,not only for page map mapping diagram,but also update blocks from mind nodes after edited.)",
   "main": "index.html",
-  "author": "@zhuxiaoling",
+  "author": "@ZhuXiaolingPig",
   "icon": "./icon.png",
   "license": "MIT",
   "logseq": {

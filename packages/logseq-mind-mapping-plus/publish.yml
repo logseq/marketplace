@@ -1,0 +1,10 @@
+# publish.yml
+zip:
+  - file: "icon.png"       # 列出要包含在zip文件中的文件或目录
+  - file: "index.html"
+  - file: "index.js"
+  - file: "package.json"
+  - file: "styles.css"
+  - file: "assets/"
+  - file: "README.md"
+output: "logseq-mind-mapping-plus.zip"  # 输出的zip文件名
