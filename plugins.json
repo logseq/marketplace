@@ -1,5 +1,5 @@
 {
-  "datetime": 1736573748442,
+  "datetime": 1737085416549,
   "packages": [
     {
       "title": "Block pin",
@@ -2498,6 +2498,15 @@
       "effect": true,
       "id": "logseq-plugin-confirmation-hyperlink",
       "addedAt": 1686405260000
+    },
+    {
+      "title": "Logseq Copilot",
+      "description": "Talk to AI about your Logseq notes.",
+      "author": "Abhin Chhabra",
+      "repo": "chhabrakadabra/logseq-plugin-copilot",
+      "icon": "./icon.svg",
+      "id": "logseq-plugin-copilot",
+      "addedAt": 1736549197000
     },
     {
       "title": "Copy Page Properties",
