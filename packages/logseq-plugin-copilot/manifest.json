@@ -1,0 +1,7 @@
+{
+    "title": "Logseq Copilot",
+    "description": "Talk to AI about your Logseq notes.",
+    "author": "Abhin Chhabra",
+    "repo": "chhabrakadabra/logseq-plugin-copilot",
+    "icon": "./icon.svg"
+}
