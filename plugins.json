@@ -1,5 +1,5 @@
 {
-  "datetime": 1737261314576,
+  "datetime": 1737517932349,
   "packages": [
     {
       "title": "Block pin",
@@ -1958,6 +1958,15 @@
       "addedAt": 1728662827000
     },
     {
+      "title": "logseq-mind-mapping-plus",
+      "description": "base on logseq-mind-mapping,enabling bidirectional data synchronization between the mind map and the logseq page.",
+      "author": "ZhuXiaolingPig <serena2000@qq.com>",
+      "repo": "ZhuXiaolingPig/logseq-mind-mapping-plus",
+      "icon": "icon.png",
+      "id": "logseq-mind-mapping-plus",
+      "addedAt": 1737080412000
+    },
+    {
       "title": "Mocha Theme",
       "description": "Mocha theme features a light and dark mode with pronounced main content section",
       "author": "blueteafrog",
@@ -2513,7 +2522,7 @@
       "addedAt": 1686405260000
     },
     {
-      "title": "Logseq Copilot",
+      "title": "Copilot",
       "description": "Talk to AI about your Logseq notes.",
       "author": "Abhin Chhabra",
       "repo": "chhabrakadabra/logseq-plugin-copilot",
