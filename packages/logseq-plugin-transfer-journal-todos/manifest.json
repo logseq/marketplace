@@ -3,6 +3,5 @@
   "description": "Transfer open TODOs from last day into today, probably apply todays Template",
   "author": "Rene (absorb-it)",
   "repo": "absorb-it/logseq-plugin-transfer-journal-todos",
-  "icon": "./icon.png",
-  "effect": true
+  "icon": "./icon.png"
 }
