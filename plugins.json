@@ -1,5 +1,5 @@
 {
-  "datetime": 1737517932349,
+  "datetime": 1738039461102,
   "packages": [
     {
       "title": "Block pin",
@@ -1504,7 +1504,7 @@
     {
       "title": "Logseq Interstitial Journal",
       "description": "Interstitial Journaling plugin: create time stamps, add (random) notes and notes to self to your journal",
-      "repo": "QWxleA/logseq-interstitial-heading-plugin",
+      "repo": "Mikilio/logseq-interstitial-heading-plugin",
       "author": "Alex Qwxlea",
       "icon": "icon.png",
       "id": "logseq-interstitial",
@@ -3101,6 +3101,15 @@
       "effect": true,
       "id": "logseq-plugin-toolbar-enhance",
       "addedAt": 1722724968000
+    },
+    {
+      "title": "Transfer undone TODOs",
+      "description": "Transfer open TODOs from last day into today, probably apply todays Template",
+      "author": "Rene (absorb-it)",
+      "repo": "absorb-it/logseq-plugin-transfer-journal-todos",
+      "icon": "./icon.png",
+      "id": "logseq-plugin-transfer-journal-todos",
+      "addedAt": 1737657214000
     },
     {
       "title": "2 hop link",
