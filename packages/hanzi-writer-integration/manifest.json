@@ -1,13 +1,9 @@
 {
-    "title": "Hanzi Writer Integration",
-    "description": "Integration of HanZi Writer to practice Chinese characters writing in Logseq",
-    "author": "pb-pub",
-    "repo": "pb-pub/hanzi-writer-integration",
-    "logseq": {
-        "id": "logseq-plugin-hanzi-writer",
-        "icon": "logo.gif"
-    },
-    "effect": false,
-    "theme": false,
-    "version": "0.0.1"
+  "title": "Hanzi Writer Integration",
+  "description": "Integration of HanZi Writer to practice Chinese characters writing in Logseq",
+  "author": "pb-pub",
+  "repo": "pb-pub/hanzi-writer-integration",
+  "icon": "./logo.gif",
+  "effect": true,
+  "theme": false
 }

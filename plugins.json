@@ -1,5 +1,5 @@
 {
-  "datetime": 1738039461102,
+  "datetime": 1738645329258,
   "packages": [
     {
       "title": "Block pin",
@@ -69,6 +69,17 @@
       "theme": true,
       "id": "gruvbox-theme",
       "addedAt": 1727897099000
+    },
+    {
+      "title": "Hanzi Writer Integration",
+      "description": "Integration of HanZi Writer to practice Chinese characters writing in Logseq",
+      "author": "pb-pub",
+      "repo": "pb-pub/hanzi-writer-integration",
+      "icon": "./logo.gif",
+      "effect": true,
+      "theme": false,
+      "id": "hanzi-writer-integration",
+      "addedAt": 1738352462000
     },
     {
       "title": "Harmony Theme",
