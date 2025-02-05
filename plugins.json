@@ -1,5 +1,5 @@
 {
-  "datetime": 1738645329258,
+  "datetime": 1738731337294,
   "packages": [
     {
       "title": "Block pin",
@@ -709,6 +709,18 @@
       "repo": "PerfectPan/logseq-plugin-code-formatter",
       "id": "logseq-code-formatter",
       "addedAt": 1668355462000
+    },
+    {
+      "title": "Color Markup",
+      "description": "Add more colors to your highlights and text.",
+      "author": "clemtibs",
+      "repo": "clemtibs/logseq-color-markup",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/clemtibs"
+      ],
+      "id": "logseq-color-markup",
+      "addedAt": 1738638359000
     },
     {
       "title": "Column-Layout (Journals UI)",
