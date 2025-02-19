@@ -1,5 +1,5 @@
 {
-  "datetime": 1738731337294,
+  "datetime": 1739940609187,
   "packages": [
     {
       "title": "Block pin",
@@ -1688,6 +1688,15 @@
       "addedAt": 1667148632000
     },
     {
+      "title": "Logseq Linkwarden",
+      "description": "Import links from your Linkwarden collection into Logseq as PDF. Keep track of your reading status and annotate important information.",
+      "author": "Layxe",
+      "repo": "Layxe/Logseq-Linkwarden",
+      "icon": "./icon.svg",
+      "id": "logseq-linkwarden",
+      "addedAt": 1739817780000
+    },
+    {
       "title": "Logseq Live Math",
       "description": "Type LaTeX in live mode!",
       "author": "Allan Chain",
@@ -2095,7 +2104,7 @@
       "title": "On This Day",
       "description": "Review previous journals on this day.",
       "author": "imrickysu",
-      "repo": "imrickysu/logseq-pqlugin-on-this-day",
+      "repo": "imrickysu/logseq-plugin-on-this-day",
       "icon": "icon.png",
       "id": "logseq-on-this-day",
       "addedAt": 1674833788000
