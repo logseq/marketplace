@@ -1,0 +1,12 @@
+{
+  "title": "File Path to Embed Converter",
+  "description": "Convert file path to embed code",
+  "author": "Chii_Magnus",
+  "repo": "chiimagnus/File-Path-to-Embed-Converter",
+  "icon": "icon.svg",
+  "effect": false,
+  "sponsors": [
+    "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
+  ]
+}
+
