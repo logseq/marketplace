@@ -1,0 +1,7 @@
+{
+  "title": "Logseq Linkwarden",
+  "description": "Import links from your Linkwarden collection into Logseq as PDF. Keep track of your reading status and annotate important information.",
+  "author": "Layxe",
+  "repo": "Layxe/Logseq-Linkwarden",
+  "icon": "./icon.svg"
+}
