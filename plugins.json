@@ -1,12 +1,12 @@
 {
-  "datetime": 1739959737497,
+  "datetime": 1740109313810,
   "packages": [
     {
       "title": "File Path to Embed Converter",
       "description": "Convert file path to embed code",
       "author": "Chii_Magnus",
       "repo": "chiimagnus/File-Path-to-Embed-Converter",
-      "icon": "icon.svg",
+      "icon": "logo.svg",
       "effect": false,
       "sponsors": [
         "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
