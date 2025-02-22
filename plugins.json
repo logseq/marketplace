@@ -1,19 +1,6 @@
 {
-  "datetime": 1740109313810,
+  "datetime": 1740190822792,
   "packages": [
-    {
-      "title": "File Path to Embed Converter",
-      "description": "Convert file path to embed code",
-      "author": "Chii_Magnus",
-      "repo": "chiimagnus/File-Path-to-Embed-Converter",
-      "icon": "logo.svg",
-      "effect": false,
-      "sponsors": [
-        "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
-      ],
-      "id": "filepathtoembedconverter",
-      "addedAt": 1739955274000
-    },
     {
       "title": "Block pin",
       "description": "Add \"Paste as pin\" shortcut for pdf and editor blocks.",
@@ -1146,6 +1133,19 @@
       "effect": true,
       "id": "logseq-file-manager",
       "addedAt": 1650425765000
+    },
+    {
+      "title": "File Path to Embed Converter",
+      "description": "Convert file path to embed code",
+      "author": "Chii_Magnus",
+      "repo": "chiimagnus/File-Path-to-Embed-Converter",
+      "icon": "logo.svg",
+      "effect": false,
+      "sponsors": [
+        "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
+      ],
+      "id": "logseq-filepath-to-embed-converter",
+      "addedAt": 1740190822692
     },
     {
       "title": "logseq-files-manager",
