@@ -1,5 +1,5 @@
 {
-  "datetime": 1739940609187,
+  "datetime": 1740190822792,
   "packages": [
     {
       "title": "Block pin",
@@ -173,7 +173,7 @@
       "description": "Perform a global search within the logseq document and output relevant content.",
       "author": "Chii_Magnus",
       "repo": "chiimagnus/logseq-AIsearch",
-      "icon": "icon.png",
+      "icon": "icon.svg",
       "effect": true,
       "sponsors": [
         "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
@@ -1133,6 +1133,19 @@
       "effect": true,
       "id": "logseq-file-manager",
       "addedAt": 1650425765000
+    },
+    {
+      "title": "File Path to Embed Converter",
+      "description": "Convert file path to embed code",
+      "author": "Chii_Magnus",
+      "repo": "chiimagnus/File-Path-to-Embed-Converter",
+      "icon": "logo.svg",
+      "effect": false,
+      "sponsors": [
+        "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
+      ],
+      "id": "logseq-filepath-to-embed-converter",
+      "addedAt": 1740190822692
     },
     {
       "title": "logseq-files-manager",
