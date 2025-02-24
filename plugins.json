@@ -1,5 +1,5 @@
 {
-  "datetime": 1740190822792,
+  "datetime": 1740364308404,
   "packages": [
     {
       "title": "Block pin",
@@ -299,6 +299,17 @@
       ],
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
+    },
+    {
+      "title": "Automatic Linker International",
+      "description": "Automatically create links while typing with support for multiple languages",
+      "author": "the-homeless-god",
+      "repo": "the-homeless-god/logseq-automatic-linker-international",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [],
+      "id": "logseq-automatic-linker-international",
+      "addedAt": 1740364308348
     },
     {
       "title": "Awesome Content",
@@ -1139,8 +1150,8 @@
       "description": "Convert file path to embed code",
       "author": "Chii_Magnus",
       "repo": "chiimagnus/File-Path-to-Embed-Converter",
-      "icon": "logo.svg",
-      "effect": false,
+      "icon": "icon.svg",
+      "effect": true,
       "sponsors": [
         "https://github.com/chiimagnus/logseq-AIsearch/blob/master/public/buymeacoffee.jpg"
       ],
