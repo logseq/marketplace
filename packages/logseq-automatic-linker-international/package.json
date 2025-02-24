@@ -1,0 +1,18 @@
+{
+  "name": "logseq-automatic-linker-international",
+  "author": "the-homeless-god",
+  "description": "A plugin to automatically create links while typing with support for multiple languages (Russian, Chinese, Japanese, Korean, German)",
+  "repository": "https://github.com/the-homeless-god/logseq-automatic-linker-international",
+  "logo": "icon.png",
+  "title": "Automatic Linker International",
+  "effect": true,
+  "sponsors": [],
+  "triggers": [
+    "on-input"
+  ],
+  "themes": [],
+  "id": "logseq-automatic-linker-international",
+  "version": "1.0.0",
+  "iconfont": "",
+  "icon": "./icon.png"
+} 
