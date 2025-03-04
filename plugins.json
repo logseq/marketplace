@@ -1,5 +1,5 @@
 {
-  "datetime": 1740366091804,
+  "datetime": 1741070115845,
   "packages": [
     {
       "title": "Block pin",
@@ -2031,6 +2031,16 @@
       "theme": true,
       "id": "logseq-mocha-theme",
       "addedAt": 1641074271000
+    },
+    {
+      "title": "Logseq Mochi Sync",
+      "description": "Sync Logseq flash cards to Mochi.",
+      "author": "Benjamin Weinstein-Raun",
+      "repo": "benwr/logseq-mochi-sync",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-mochi-sync",
+      "addedAt": 1741037879000
     },
     {
       "title": "Monokai for Logseq",
