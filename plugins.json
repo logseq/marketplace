@@ -1,5 +1,5 @@
 {
-  "datetime": 1741070115845,
+  "datetime": 1741572142583,
   "packages": [
     {
       "title": "Block pin",
@@ -299,17 +299,6 @@
       ],
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
-    },
-    {
-      "title": "Automatic Linker International",
-      "description": "Automatically create links while typing with support for multiple languages",
-      "author": "the-homeless-god",
-      "repo": "the-homeless-god/logseq-automatic-linker-international",
-      "icon": "./icon.png",
-      "effect": true,
-      "sponsors": [],
-      "id": "logseq-automatic-linker-international",
-      "addedAt": 1740364308348
     },
     {
       "title": "Awesome Content",
@@ -1354,6 +1343,17 @@
       ],
       "id": "logseq-go-home-now",
       "addedAt": 1654748834000
+    },
+    {
+      "title": "Go to Bottom",
+      "description": "A logseq extension to go to the bottom of the page",
+      "author": "hlc1209",
+      "repo": "hlc1209/logseq-go-to-bottom",
+      "icon": "icon.svg",
+      "effect": true,
+      "theme": false,
+      "id": "logseq-go-to-bottom",
+      "addedAt": 1741252864000
     },
     {
       "title": "Google Fonts",
