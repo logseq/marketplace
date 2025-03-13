@@ -1,0 +1,7 @@
+{
+  "title": "Update Property Mini",
+  "description": "A logseq plugin to create 'updatedAt' property of page automatically.",
+  "author": "mlhiter",
+  "repo": "mlhiter/logseq-update-property-mini",
+  "icon": "./icon.png"
+}
