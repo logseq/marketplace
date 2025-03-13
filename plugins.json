@@ -1,5 +1,5 @@
 {
-  "datetime": 1741572142583,
+  "datetime": 1741844743199,
   "packages": [
     {
       "title": "Block pin",
@@ -4170,6 +4170,15 @@
       "icon": "icon.png",
       "id": "logseq-unsplash",
       "addedAt": 1636481769000
+    },
+    {
+      "title": "Update Property Mini",
+      "description": "A logseq plugin to create 'updatedAt' property of page automatically.",
+      "author": "mlhiter",
+      "repo": "mlhiter/logseq-update-property-mini",
+      "icon": "./icon.png",
+      "id": "logseq-update-property-mini",
+      "addedAt": 1741840425000
     },
     {
       "title": "URL+",
