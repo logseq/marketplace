@@ -1,5 +1,5 @@
 {
-  "datetime": 1741844743199,
+  "datetime": 1742274866754,
   "packages": [
     {
       "title": "Block pin",
@@ -1537,6 +1537,16 @@
       "effect": true,
       "id": "logseq-insert-movie-properties",
       "addedAt": 1688050906000
+    },
+    {
+      "title": "Insert Random Pages as backlinks",
+      "description": "Insert random pages to current block.",
+      "author": "Wonyoung Jang",
+      "repo": "wonyoung-jang/logseq-insert-random-pages",
+      "icon": "icon.svg",
+      "sponsors": [],
+      "id": "logseq-insert-random-pages",
+      "addedAt": 1742248313000
     },
     {
       "title": "Integrate Any API",
