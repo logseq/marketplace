@@ -3,5 +3,6 @@
   "description": "Bookmark start and stop times in audio files",
   "author": "Nick Knight",
   "repo": "tinpotnick/logseq-audiosnippet-plugin",
-  "icon": "./icon_1024x1024.png"
+  "icon": "./icon_1024x1024.png",
+  "sponsors": ["https://buymeacoffee.com/tinpotnick"]
 }
