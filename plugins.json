@@ -1,5 +1,5 @@
 {
-  "datetime": 1742610079701,
+  "datetime": 1742715002321,
   "packages": [
     {
       "title": "Block pin",
@@ -3233,6 +3233,17 @@
       "effect": true,
       "id": "logseq-plugin-weekdays-and-weekends",
       "addedAt": 1682978544000
+    },
+    {
+      "title": "Logseq PolyRhythmic",
+      "description": "Hugo-PolyRhythmic and Material Design theme for Logseq.",
+      "author": "Wonyoung Jang",
+      "repo": "wonyoung-jang/logseq-PolyRhythmic",
+      "icon": "polyrhythmic.svg",
+      "theme": true,
+      "sponsors": [],
+      "id": "logseq-polyrhythmic",
+      "addedAt": 1742587274000
     },
     {
       "title": "logseq-pomodoro-technique",
