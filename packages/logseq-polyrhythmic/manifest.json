@@ -1,0 +1,9 @@
+{
+    "title": "Logseq PolyRhythmic",
+    "description": "Hugo-PolyRhythmic and Material Design theme for Logseq.",
+    "author": "Wonyoung Jang",
+    "repo":"wonyoung-jang/logseq-PolyRhythmic",
+    "icon": "polyrhythmic.svg",
+    "theme": true,
+    "sponsors": []
+  }
