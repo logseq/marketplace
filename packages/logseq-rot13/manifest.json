@@ -3,7 +3,7 @@
   "description": "Adds a slash command (/ROT13) that rotates every alphabetic character in blocks on a page by 13 places.
 Doing it again returns the original text." ,
   "author": "David Moss",
-  "repo":"admoss0/logseq",
+  "repo":"admoss0/ROT13",
   "icon": "./icon.png",
   "effect": false,
   "sponsors": []
