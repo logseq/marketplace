@@ -1,0 +1,14 @@
+{
+  "name": "rot13",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "David Moss",
+  "repository": "https://github.com/admoss0/logseq/tree/main/ROT13",
+  "description": "/ROT13 Performs a classic ROT13 on evey block on a page. Do it again to reveal the original text",
+  "logseq": {
+    "id": "DavidMoss_ROT13"
+  },
+  "dependencies": {
+    "@logseq/libs": "^0.2.1"
+  }
+}
