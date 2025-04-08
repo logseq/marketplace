@@ -1,5 +1,5 @@
 {
-  "title": "Logseq Export Query",
+  "title": "Logseq Query Exporter",
   "description": "A Logseq plugin for running queries and exporting the results to markdown " ,
   "author": "benrhughes",
   "repo":"benrhughes/logseq-query-export",
