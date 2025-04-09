@@ -1,0 +1,8 @@
+{
+  "title": "Export Block",
+  "description": "Export Logseq blocks to different markdown formats (Slack, WhatsApp, Google Docs and Rich Text)",
+  "author": "avelino",
+  "repo":"avelino/logseq-export-block",
+  "icon": "icon.png",
+  "effect": true
+}
