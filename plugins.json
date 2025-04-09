@@ -1,5 +1,5 @@
 {
-  "datetime": 1742715002321,
+  "datetime": 1744178722294,
   "packages": [
     {
       "title": "Block pin",
@@ -3370,6 +3370,16 @@
       "icon": "icon.png",
       "id": "logseq-query-builder-plugin",
       "addedAt": 1630664401000
+    },
+    {
+      "title": "Logseq Query Exporter",
+      "description": "A Logseq plugin for running queries and exporting the results to markdown ",
+      "author": "benrhughes",
+      "repo": "benrhughes/logseq-query-export",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-query-export",
+      "addedAt": 1744092990000
     },
     {
       "title": "Quick Add",
