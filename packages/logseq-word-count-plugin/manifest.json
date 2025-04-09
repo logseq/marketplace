@@ -1,0 +1,10 @@
+{
+  "title": "Word Count",
+  "description": "A simple plugin to count words (Chinese & English) on the current Logseq page.",
+  "author": "msjsc001",
+  "repo": "msjsc001/logseq-word-count-plugin",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": false, 
+  "effect": false
+}
