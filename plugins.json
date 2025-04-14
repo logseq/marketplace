@@ -1,5 +1,5 @@
 {
-  "datetime": 1744178722294,
+  "datetime": 1744593634077,
   "packages": [
     {
       "title": "Block pin",
@@ -749,6 +749,16 @@
       "addedAt": 1638514760000
     },
     {
+      "title": "Logseq Composer",
+      "description": "Connect your notes to any LLM using RAG & LiteLLM. Supports any model (OpenAI, Claude, DeepSeek, etc.)",
+      "author": "Martin Minarik",
+      "repo": "martindev9999/logseq-composer",
+      "icon": "logo.png",
+      "effect": true,
+      "id": "logseq-composer",
+      "addedAt": 1744406282000
+    },
+    {
       "title": "Logseq Copilot",
       "description": "A Logseq plugin that integrates with OpenAI-compatible LLMs.",
       "author": "jarodise",
@@ -1078,6 +1088,16 @@
       "effect": true,
       "id": "logseq-excalidraw",
       "addedAt": 1682508566000
+    },
+    {
+      "title": "Export Block",
+      "description": "Export Logseq blocks to different markdown formats (Slack, WhatsApp, Google Docs and Rich Text)",
+      "author": "avelino",
+      "repo": "avelino/logseq-export-block",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-export-block",
+      "addedAt": 1743215082000
     },
     {
       "title": "Extensions plus",
