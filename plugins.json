@@ -1,5 +1,5 @@
 {
-  "datetime": 1744593634077,
+  "datetime": 1745465142741,
   "packages": [
     {
       "title": "Block pin",
@@ -287,6 +287,16 @@
       "icon": "./logo.png",
       "id": "logseq-autoclass-plugin",
       "addedAt": 1736404324000
+    },
+    {
+      "title": "Auto-link Auto-tag",
+      "description": "A Logseq plugin to auto-link pages and auto-tag blocks",
+      "author": "braladin",
+      "repo": "braladin/logseq-autolink-autotag",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-autolink-autotag",
+      "addedAt": 1745080690000
     },
     {
       "title": "Automatic Linker",

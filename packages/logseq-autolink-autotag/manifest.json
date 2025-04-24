@@ -3,5 +3,6 @@
   "description": "A Logseq plugin to auto-link pages and auto-tag blocks",
   "author": "braladin",
   "repo": "braladin/logseq-autolink-autotag",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "effect": true
 }
