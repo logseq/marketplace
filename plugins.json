@@ -1,5 +1,5 @@
 {
-  "datetime": 1745465142741,
+  "datetime": 1746069930961,
   "packages": [
     {
       "title": "Block pin",
@@ -1757,6 +1757,7 @@
       "author": "Layxe",
       "repo": "Layxe/Logseq-Linkwarden",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-linkwarden",
       "addedAt": 1739817780000
     },
