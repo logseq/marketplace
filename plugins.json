@@ -1,5 +1,5 @@
 {
-  "datetime": 1746069930961,
+  "datetime": 1746261537197,
   "packages": [
     {
       "title": "Block pin",
@@ -4327,6 +4327,18 @@
       "icon": "logo.png",
       "id": "logseq-wiki-search",
       "addedAt": 1665774988000
+    },
+    {
+      "title": "Word Count",
+      "description": "A minimalist page word count plugin for Logseq, which includes complete development files for learning plugin development.",
+      "author": "msjsc001",
+      "repo": "msjsc001/logseq-word-count-plugin",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "id": "logseq-word-count-plugin",
+      "addedAt": 1743497053000
     },
     {
       "title": "logseq-wordcount-plugin",
