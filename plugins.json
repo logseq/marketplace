@@ -2558,20 +2558,6 @@
       "addedAt": 1695474214000
     },
     {
-      "title": "booklog-jp",
-      "description": "Create a booklist by import from https://booklog.jp/",
-      "author": "YU000jp",
-      "repo": "YU000jp/logseq-plugin-booklog-jp-import",
-      "icon": "./icon.svg",
-      "repository": "https://github.com/YU000jp/logseq-plugin-booklog-jp-import",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yu000japan"
-      ],
-      "effect": true,
-      "id": "logseq-plugin-booklog-jp-import",
-      "addedAt": 1669444021000
-    },
-    {
       "title": "Bullet Point Custom Icon",
       "description": "Apply custom icons for bullet points with specific tags.",
       "author": "YU000jp",
