@@ -1,8 +1,8 @@
 {
-    "title": "Harper-ls Plugin",
-    "description": "Add Harper-ls grammar checking to Logseq!",
-    "author": "Joshua Hagofsky",
-    "repo": "theoreticallyjosh/logseq-plugin-harper",
-    "icon": "./icon.png",
-    "effect": false
+  "title": "Harper-ls Plugin",
+  "description": "Add Harper-ls grammar checking to Logseq!",
+  "author": "Joshua Hagofsky",
+  "repo": "theoreticallyjosh/logseq-plugin-harper",
+  "icon": "./icon.png",
+  "effect": true
 }
