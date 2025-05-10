@@ -1,5 +1,5 @@
 {
-  "datetime": 1746590383983,
+  "datetime": 1746858351586,
   "packages": [
     {
       "title": "Block pin",
@@ -1338,6 +1338,17 @@
       "effect": true,
       "id": "logseq-github-plugin",
       "addedAt": 1648401220000
+    },
+    {
+      "title": "Logseq Github Plugin",
+      "description": "A utility to import and keep track of github issues",
+      "author": "happylolonly",
+      "repo": "happylolonly/logseq-github-plugin",
+      "icon": "./icon.png",
+      "sponsors": [],
+      "effect": true,
+      "id": "logseq-github-plugin-2",
+      "addedAt": 1746853043000
     },
     {
       "title": "GitHub theme",
