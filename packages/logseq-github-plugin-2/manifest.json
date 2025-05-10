@@ -1,0 +1,9 @@
+{
+  "title": "Logseq Github Plugin",
+  "description": "A utility to import and keep track of github issues",
+  "author": "https://github.com/happylolonly",
+  "repo": "https://github.com/happylolonly/logseq-github-plugin",
+  "icon": "./icon.png",
+  "sponsors": [],
+  "effect": true
+}
