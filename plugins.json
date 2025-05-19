@@ -1,5 +1,5 @@
 {
-  "datetime": 1746858351586,
+  "datetime": 1747617920255,
   "packages": [
     {
       "title": "Block pin",
@@ -1862,7 +1862,7 @@
     },
     {
       "title": "Lumalee",
-      "description": "Minimal light theme with accent color support, based on gavinmn's Luma theme",
+      "description": "Minimal clean theme with accent color support, based on gavinmn's Luma theme",
       "author": "kay-ki",
       "repo": "kay-ki/Lumalee-Logseq-Theme",
       "icon": "icon.png",
@@ -4017,6 +4017,16 @@
       "effect": true,
       "id": "logseq-time-tracking-updater",
       "addedAt": 1734279872000
+    },
+    {
+      "title": "Timestamp Converter",
+      "description": "Convert unix timestamps to human readable format.",
+      "author": "uddhavdave",
+      "repo": "uddhavdave/logseq-timestamp-converter",
+      "icon": "logo.png",
+      "sponsors": [],
+      "id": "logseq-timestamp-converter",
+      "addedAt": 1747580522000
     },
     {
       "title": "Logseq Title Bar",
