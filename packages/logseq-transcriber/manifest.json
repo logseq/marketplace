@@ -1,0 +1,10 @@
+{
+  "title": "Audio Transcriber",
+  "description": "Transcribe audio files directly within Logseq using the Deepgram API.",
+  "author": "Marijn Bent",
+  "repo":"marijnbent/logseq-transcriber",
+  "icon": "icon.png",
+  "sponsors": [
+    "https://www.buymeacoffee.com/marijnbent"
+  ]
+}
