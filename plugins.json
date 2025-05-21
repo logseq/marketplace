@@ -1,5 +1,5 @@
 {
-  "datetime": 1747617920255,
+  "datetime": 1747796970427,
   "packages": [
     {
       "title": "Block pin",
@@ -3827,6 +3827,16 @@
       "addedAt": 1654351788000
     },
     {
+      "title": "Super Sync",
+      "description": "Automatic backup and sync for your Logseq graph to S3 and other cloud storage.",
+      "author": "ie9.org",
+      "repo": "top/logseq-super-sync",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-super-sync",
+      "addedAt": 1747532835000
+    },
+    {
       "title": "logseq-swapblocks-plugin",
       "name": "logseq-swapblocks-plugin",
       "description": "Simple plugin to swap a reference block with its original block and preserve it's other references.",
@@ -4133,6 +4143,19 @@
       "icon": "./icon.svg",
       "id": "logseq-trackhabits2-plugin",
       "addedAt": 1641544884000
+    },
+    {
+      "title": "Audio Transcriber",
+      "description": "Transcribe audio files directly within Logseq using the Deepgram API.",
+      "author": "Marijn Bent",
+      "repo": "marijnbent/logseq-transcriber",
+      "icon": "icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/marijnbent"
+      ],
+      "id": "logseq-transcriber",
+      "addedAt": 1747743011000
     },
     {
       "title": "logseq-trello-plugin",

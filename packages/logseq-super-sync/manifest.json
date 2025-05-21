@@ -4,5 +4,5 @@
   "author": "ie9.org",
   "repo": "top/logseq-super-sync",
   "icon": "icon.png",
-  "id": "logseq-super-sync"
+  "effect": true
 }
