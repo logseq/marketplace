@@ -1,0 +1,9 @@
+{
+  "title": "Synapse for AI",
+  "description": "AI-powered knowledge assistant that creates a bidirectional interface between your knowledge graph and AI models like Claude, OpenAI, and Grok.",
+  "author": "Grant Ryan",
+  "repo": "gtrgit/Synapse4ai",
+  "icon": "./SynapseLogo.png", 
+  "id": "synapse-ai",
+  "version": "0.1.0"
+}
