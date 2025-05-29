@@ -1,0 +1,7 @@
+{
+  "title": "DeepSeek Tagger",
+  "description": "Suggest tags for current bloc or page using DeepSeek API.",
+  "author": "Pascal-Louis DARMON",
+  "repo":"sched75/logseq-deepseek-tagger-plugin",
+  "icon": "./icon.svg"
+}
