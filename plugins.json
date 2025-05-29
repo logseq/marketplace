@@ -1,5 +1,5 @@
 {
-  "datetime": 1747796970427,
+  "datetime": 1748490593958,
   "packages": [
     {
       "title": "Block pin",
@@ -1209,6 +1209,16 @@
       ],
       "id": "logseq-find-and-replace",
       "addedAt": 1647794777000
+    },
+    {
+      "title": "Flexoki theme",
+      "description": "Flexoki, an inky color scheme for Logseq. Based on stephango.com/flexoki",
+      "author": "Avelino",
+      "repo": "avelino/flexoki-logseq",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-flexoki-theme",
+      "addedAt": 1748425241000
     },
     {
       "title": "flomo sync",
@@ -3129,6 +3139,19 @@
       "theme": false,
       "id": "logseq-plugin-task-check-date",
       "addedAt": 1666302710000
+    },
+    {
+      "title": "Task Suggest",
+      "description": "To quickly create tasks by reusing previously written text",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-task-suggest",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "id": "logseq-plugin-task-suggest",
+      "addedAt": 1748167363000
     },
     {
       "title": "Template Block from Toolbar",
