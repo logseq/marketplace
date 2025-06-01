@@ -1,0 +1,8 @@
+{
+  "title": "Azure OpenAI",
+  "description": "A plugin for Azure OpenAI AI assisted note taking in Logseq. Uses Azure OpenAI's GPT-4.1 model by default.",
+  "author": "Peter C",
+  "repo": "https://github.com/haha1903/logseq-plugin-azure-openai",
+  "icon": "./icon.png",
+  "effect": false
+} 
