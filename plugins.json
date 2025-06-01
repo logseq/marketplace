@@ -1,5 +1,5 @@
 {
-  "datetime": 1748490593958,
+  "datetime": 1748772397716,
   "packages": [
     {
       "title": "Block pin",
@@ -2546,6 +2546,16 @@
       "effect": true,
       "id": "logseq-plugin-automatic-url-title",
       "addedAt": 1657445237000
+    },
+    {
+      "title": "Azure OpenAI",
+      "description": "A plugin for Azure OpenAI AI assisted note taking in Logseq. Uses Azure OpenAI's GPT-4.1 model by default.",
+      "author": "Peter C",
+      "repo": "haha1903/logseq-plugin-azure-openai",
+      "icon": "./icon.png",
+      "effect": false,
+      "id": "logseq-plugin-azure-openai",
+      "addedAt": 1748531403000
     },
     {
       "title": "Better Tasks",
