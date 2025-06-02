@@ -30,6 +30,7 @@ Ensure that your plugin has a `publish.yml` file, so when you create a release f
     - `sponsors` - [optional] Sponsor external links. default: `[]`
     - `web` - [optional] Whether the web browser platform is supported. default: `false`
     - `effect` - [optional] Whether the sandbox is running under the same origin with host. default: `false`
+    - `unsupportedGraphType` - [optional] Flag to indicate that which graph type does not to be supported. value: `file` | `db`
       > ⚠️ `effect`? - it's not recommended to turn on this option if you don't 
       need a specific feature (_the current built-in plugin API does not satisfy_), 
       which may affect the stability of the program. If it does need to be turned on, 
