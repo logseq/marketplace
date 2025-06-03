@@ -1,0 +1,11 @@
+{
+  "title": "Theorem Formatter",
+  "description": "Format theorem blocks with customizable styling and bilingual support (English/Chinese) for multiple theorem environments",
+  "author": "vanabel",
+  "repo": "vanabel/logseq-theorem-formatter",
+  "icon": "",
+  "theme": false,
+  "sponsors": [],
+  "web": false,
+  "effect": false
+} 
