@@ -1,0 +1,8 @@
+{
+  "title": "logseq-block-extractor",
+  "description": " Filter the reference block for a specific page in Logseq and download it as a markdown file.",
+  "author": "Inchan Song",
+  "repo": "inchanS/logseq-block-extractor",
+  "icon": "icon.png",
+  "effect": false
+}
