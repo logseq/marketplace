@@ -4,5 +4,5 @@
   "author": "Inchan Song",
   "repo": "inchanS/logseq-block-extractor",
   "icon": "icon.png",
-  "effect": false
+  "effect": true
 }

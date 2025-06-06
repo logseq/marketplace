@@ -1,5 +1,5 @@
 {
-  "datetime": 1748772397716,
+  "datetime": 1749188783070,
   "packages": [
     {
       "title": "Block pin",
@@ -460,6 +460,16 @@
       "effect": true,
       "id": "logseq-block-calendar",
       "addedAt": 1657782839000
+    },
+    {
+      "title": "logseq-block-extractor",
+      "description": " Filter the reference block for a specific page in Logseq and download it as a markdown file.",
+      "author": "Inchan Song",
+      "repo": "inchanS/logseq-block-extractor",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-block-extractor",
+      "addedAt": 1749134828000
     },
     {
       "title": "Block to page",
