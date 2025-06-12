@@ -1,5 +1,5 @@
 {
-  "datetime": 1749188783070,
+  "datetime": 1749717231258,
   "packages": [
     {
       "title": "Block pin",
@@ -4017,6 +4017,18 @@
       "theme": true,
       "id": "logseq-theme-classic-dark-theme-pack",
       "addedAt": 1690463571000
+    },
+    {
+      "title": "Theorem Formatter",
+      "description": "Format theorem blocks with customizable styling and bilingual support (English/Chinese) for multiple theorem environments",
+      "author": "vanabel",
+      "repo": "vanabel/logseq-theorem-formatter",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "id": "logseq-theorem-formatter",
+      "addedAt": 1748925262000
     },
     {
       "title": "Things Theme",
