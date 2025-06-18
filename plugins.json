@@ -1,5 +1,5 @@
 {
-  "datetime": 1749717231258,
+  "datetime": 1750217789046,
   "packages": [
     {
       "title": "Block pin",
@@ -1477,6 +1477,15 @@
       "repo": "c6p/logseq-habit-tracker",
       "id": "logseq-habit-tracker",
       "addedAt": 1631638933000
+    },
+    {
+      "title": "Habitica Tasks",
+      "description": "A plugin that integrates Logseq tasks with Habitica",
+      "author": "caffbit",
+      "repo": "caffbit/logseq-plugin-habitica",
+      "icon": "./logo.svg",
+      "id": "logseq-habitica-tasks",
+      "addedAt": 1750162713000
     },
     {
       "title": "HamsterBase official Plugin",
