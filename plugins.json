@@ -1,5 +1,5 @@
 {
-  "datetime": 1750217789046,
+  "datetime": 1750297267969,
   "packages": [
     {
       "title": "Block pin",
@@ -1483,7 +1483,7 @@
       "description": "A plugin that integrates Logseq tasks with Habitica",
       "author": "caffbit",
       "repo": "caffbit/logseq-plugin-habitica",
-      "icon": "./logo.svg",
+      "icon": "./icon.svg",
       "id": "logseq-habitica-tasks",
       "addedAt": 1750162713000
     },
