@@ -3,5 +3,5 @@
   "description": "A plugin that integrates Logseq tasks with Habitica",
   "author": "caffbit",
   "repo": "caffbit/logseq-plugin-habitica",
-  "icon": "./logo.svg"
+  "icon": "./icon.svg"
 }
