@@ -1,5 +1,5 @@
 {
-  "datetime": 1750297267969,
+  "datetime": 1750829706654,
   "packages": [
     {
       "title": "Block pin",
@@ -30,6 +30,15 @@
       "theme": true,
       "id": "cobra-theme",
       "addedAt": 1634165328000
+    },
+    {
+      "title": "Cubox 2 Logseq",
+      "description": "Cubox (Read it later) <-> Logseq integration.",
+      "author": "lsy",
+      "repo": "stillfox-lee/cubox-2-logseq",
+      "icon": "logo.svg",
+      "id": "cubox-2-logseq",
+      "addedAt": 1750729506000
     },
     {
       "title": "Cycle TODO state (Do What I Mean)",
