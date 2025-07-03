@@ -5,5 +5,5 @@
   "author": "Qijun",
   "repo": "bencode/logseq-runit-plugin",
   "icon": "./icon.svg",
-  "effect": true
+  "effect": false
 }

@@ -1,5 +1,5 @@
 {
-  "datetime": 1750829706654,
+  "datetime": 1751527726354,
   "packages": [
     {
       "title": "Block pin",
@@ -3658,6 +3658,17 @@
       ],
       "id": "logseq-rtl-mode-plugin",
       "addedAt": 1647434298000
+    },
+    {
+      "title": "logseq-runit-plugin",
+      "name": "logseq-runit-plugin",
+      "description": "Run code snippets directly in your notes with support for JavaScript, Python, Scheme, and Clojure. Features interactive output, console capture, and dynamic imports.",
+      "author": "Qijun",
+      "repo": "bencode/logseq-runit-plugin",
+      "icon": "./icon.svg",
+      "effect": false,
+      "id": "logseq-runit-plugin",
+      "addedAt": 1751520341000
     },
     {
       "title": "Save Scrollbar Position",
