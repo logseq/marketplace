@@ -1,0 +1,9 @@
+{
+  "title": "logseq-runit-plugin",
+  "name": "logseq-runit-plugin",
+  "description": "Run code snippets directly in your notes with support for JavaScript, Python, Scheme, and Clojure. Features interactive output, console capture, and dynamic imports.",
+  "author": "Qijun",
+  "repo": "bencode/logseq-runit-plugin",
+  "icon": "./icon.svg",
+  "effect": true
+}
