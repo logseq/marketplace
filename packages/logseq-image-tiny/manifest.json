@@ -1,0 +1,9 @@
+{
+  "title": "Image Auto Tiny",
+  "description": "粘贴图片到笔记时，自动转换为 WebP/AVIF 格式。A plugin that automatically converts images to webp/avi format to reduce image storage volume.",
+  "author": "0604hx/集成显卡",
+  "repo": "0604hx/logseq-plugin-image-tiny",
+  "icon": "./icon.png",
+  "effect": true
+}
+  
