@@ -1,5 +1,5 @@
 {
-  "datetime": 1751527726354,
+  "datetime": 1751876430787,
   "packages": [
     {
       "title": "Block pin",
@@ -1567,6 +1567,16 @@
       "effect": true,
       "id": "logseq-image-editor",
       "addedAt": 1690996140000
+    },
+    {
+      "title": "Image Auto Tiny",
+      "description": "粘贴图片到笔记时，自动转换为 WebP/AVIF 格式。A plugin that automatically converts images to webp/avi format to reduce image storage volume.",
+      "author": "0604hx/集成显卡",
+      "repo": "0604hx/logseq-plugin-image-tiny",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-image-tiny",
+      "addedAt": 1751821996000
     },
     {
       "title": "Image Uploader",
