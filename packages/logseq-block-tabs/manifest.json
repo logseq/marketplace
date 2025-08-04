@@ -1,0 +1,7 @@
+{
+  "title": "Block Tabs",
+  "description": "A logseq plugin to render a tabs in block, Sub-block as tab container.",
+  "author": "jay.chinee@outlook.com",
+  "repo": "jaychinee/logseq-block-tabs",
+  "icon": "./icon.png"
+}
