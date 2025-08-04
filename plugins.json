@@ -1,5 +1,5 @@
 {
-  "datetime": 1751876430787,
+  "datetime": 1754290961106,
   "packages": [
     {
       "title": "Block pin",
@@ -479,6 +479,16 @@
       "effect": true,
       "id": "logseq-block-extractor",
       "addedAt": 1749134828000
+    },
+    {
+      "title": "Block Tabs",
+      "description": "A logseq plugin to render a tabs in block, Sub-block as tab container.",
+      "author": "jay.chinee@outlook.com",
+      "repo": "jaychinee/logseq-block-tabs",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-block-tabs",
+      "addedAt": 1754122199000
     },
     {
       "title": "Block to page",
