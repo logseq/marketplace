@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Logseq link-to-markdown plugin icon">
+	<!-- Rounded dark background -->
+	<rect x="8" y="8" width="496" height="496" rx="84" ry="84" fill="#2f3437" />
+	<!-- Document icon -->
+	<g transform="translate(120,120)" stroke="#ffffff" stroke-width="16" stroke-linejoin="round" fill="none">
+		<rect x="0" y="-50" width="310" height="345" rx="6" ry="6" />
+		<path d="M48 16 L244 16" stroke="#ffffff" stroke-width="8" stroke-linecap="round" />
+		<path d="M48 86 200 86" stroke="#ffffff" stroke-width="8" stroke-linecap="round" />
+		<path d="M48 126 L180 126" stroke="#ffffff" stroke-width="8" stroke-linecap="round" />
+	</g>
+	<!-- Chain links -->
+	<g fill="none" stroke="#85c8c8" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" transform="translate(110 220) rotate(-45 70 190)">
+		<!-- Right link -->
+		<g>
+			<rect x="220" y="180" width="200" height="90" rx="45" ry="45" />
+		</g>
+		<g>
+			<!-- Left link -->
+			<rect x="70" y="180" width="200" height="90" rx="45" ry="45" />
+			<!-- Left link mask -->
+			<path d="M 235 293 A 68 68 0 0 0 293 225" stroke="#2f3437" stroke-width="10" fill="none" />
+			<path d="M 225 247 A 22 22 0 0 0 247 225" stroke="#2f3437" stroke-width="10" fill="none" />
+			<line x1="225" y1="247" x2="170" y2="247" stroke="#2f3437" stroke-width="10" />
+		</g>
+		<g>
+			<!-- Right link mask -->
+			<path d="M 255 157 A 68 68 0 0 0 197 225" stroke="#2f3437" stroke-width="10" fill="none" />
+			<path d="M 265 203 A 22 22 0 0 0 243 225" stroke="#2f3437" stroke-width="10" fill="none" />
+			<line x1="265" y1="203" x2="320" y2="203" stroke="#2f3437" stroke-width="10" />
+		</g>
+	</g>
+	<!-- 8 branch star -->
+	<g fill="none" stroke="#ffb300" stroke-width="36" stroke-linecap="round" transform="translate(-100 -100)">
+		<!-- Vertical up -->
+		<line x1="256" y1="146" x2="256" y2="366" />
+		<!-- Horizontal right -->
+		<line x1="146" y1="256" x2="366" y2="256" />
+		<!-- Diagonal up-right -->
+		<line x1="177.3" y1="177.3" x2="334.7" y2="334.7" />
+		<!-- Diagonal down-right -->
+		<line x1="177.3" y1="334.7" x2="334.7" y2="177.3" />
+	</g>
+</svg>
