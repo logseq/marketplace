@@ -1,0 +1,8 @@
+{
+  "title": "Exec Command",
+  "description": "Clicking in Logseq can trigger a specified command-line script.",
+  "author": "kiven",
+  "repo":"kiven0/logseq-exec-commond",
+  "icon": "icon.png",
+  "effect": true
+}
