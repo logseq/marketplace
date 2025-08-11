@@ -1,5 +1,5 @@
 {
-  "datetime": 1754290961106,
+  "datetime": 1754919850851,
   "packages": [
     {
       "title": "Block pin",
@@ -4365,6 +4365,17 @@
       "effect": true,
       "id": "logseq-url-title-tagger",
       "addedAt": 1709063288000
+    },
+    {
+      "id": "logseq-url-to-markdown",
+      "name": "URL to Markdown",
+      "repo": "rudifa/url-to-markdown",
+      "main": "index.html",
+      "description": "A Logseq plugin that automatically converts URLs to markdown with titles and favicons",
+      "author": "rudifa",
+      "version": "0.9.7",
+      "icon": "favicon.svg",
+      "addedAt": 1754839488000
     },
     {
       "title": "url to markdown",
