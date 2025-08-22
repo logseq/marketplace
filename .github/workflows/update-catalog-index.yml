@@ -1,0 +1,42 @@
+name: Update Catalog
+on:
+  push:
+    branches:
+      - "**" # Run on any branch, including master and feature branches
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Exit if commit is from GitHub Actions bot
+        run: |
+          echo "Actor: ${{ github.actor }}"
+          if [ "${{ github.actor }}" = "github-actions[bot]" ]; then
+            echo "Commit was made by the bot, stopping workflow."
+            exit 0
+          fi
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+        working-directory: catalog
+      - run: node scripts/update-catalog-index.js
+        working-directory: catalog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Ensure docs folder exists and move index.html
+        run: |
+          mkdir -p docs
+          cp catalog/generated/index.html docs/
+      - name: Update README with correct GitHub Pages owner
+        run: |
+          OWNER=${GITHUB_REPOSITORY_OWNER}
+          # Replace only the owner part in the URL
+          sed -i -E "s|(https://)[^./]+(\.github\.io/marketplace/docs/index.html)|\1$OWNER\2|g" README.md
+      - run: git add README.md docs/index.html catalog/generated/plugins-data.json catalog/generated/index.html
+      - run: git config user.name "GitHub Actions"
+      - run: git config user.email "actions@github.com"
+      - run: git commit -m "Update README, catalog docs/index.html and generated files" || echo "No changes"
+      - run: git push
