@@ -2,6 +2,7 @@
   "name": "logseq-marketplace-catalog",
   "version": "1.0.0",
   "author": "rudifa",
+  "email": "rudi.farkas@gmail.com",
   "type": "module",
   "scripts": {
     "build": "scripts/update-catalog-index.js",
