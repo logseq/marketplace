@@ -1,0 +1,19 @@
+{
+  "name": "logseq-marketplace-catalog",
+  "version": "1.0.0",
+  "author": "rudifa",
+  "email": "rudi.farkas@gmail.com",
+  "type": "module",
+  "scripts": {
+    "build": "scripts/update-catalog-index.js",
+    "build:min": "scripts/update-catalog-index.js --max 36",
+    "dev": "scripts/update-catalog-index.js --max 24",
+    "fetch": "scripts/fetch-plugins-data.js",
+    "fetch:min": "scripts/fetch-plugins-data.js --max 12",
+    "html": "scripts/generate-plugins-table-html.js",
+    "show": "open generated/index.html"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
