@@ -4,7 +4,7 @@ A packages manager for Logseq marketplace plugins.
 
 ## Marketplace Catalog
 
-View the **live catalog** of Logseq marketplace plugins [here](https://rudifa.github.io/marketplace/docs/index.html).
+View the **live catalog** of Logseq marketplace plugins [here](https://logseq.github.io/marketplace/docs/index.html).
 
 ## How to write a plugin for Logseq?
 
