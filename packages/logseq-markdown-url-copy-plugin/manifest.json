@@ -1,0 +1,11 @@
+{
+  "title": "Logseq Markdown URL Copy Plugin",
+  "description": "Copy the Logseq page URL as a Markdown link." ,
+  "author": "Hidekazu Kubota",
+  "repo":"sosuisen/logseq-markdown-url-copy-plugin",
+  "icon": "./icon.png",
+  "effect": false,
+  "sponsors": [
+    "https://www.buymeacoffee.com/hidekaz"
+  ]
+}
