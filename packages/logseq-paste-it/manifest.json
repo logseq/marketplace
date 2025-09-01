@@ -3,5 +3,6 @@
   "description": "Formatted paste with cleansing options",
   "author": "peppydays",
   "repo": "peppydays/logseq-paste-it",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "effect": true
 }

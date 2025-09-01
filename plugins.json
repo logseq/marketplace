@@ -1,5 +1,5 @@
 {
-  "datetime": 1754919850851,
+  "datetime": 1756718374590,
   "packages": [
     {
       "title": "Block pin",
@@ -1969,6 +1969,19 @@
       "addedAt": 1634897315000
     },
     {
+      "title": "Logseq Markdown URL Copy Plugin",
+      "description": "Copy the Logseq page URL as a Markdown link.",
+      "author": "Hidekazu Kubota",
+      "repo": "sosuisen/logseq-markdown-url-copy-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://www.buymeacoffee.com/hidekaz"
+      ],
+      "id": "logseq-markdown-url-copy-plugin",
+      "addedAt": 1756544563000
+    },
+    {
       "title": "Marks (pointers to pages)",
       "description": "Manage marks (pointers) to track references to pages, from the page you want to be marked (pointed to)",
       "author": "Dieterbe",
@@ -2418,6 +2431,16 @@
       "icon": "./icon.svg",
       "id": "logseq-parsecsv-plugin",
       "addedAt": 1646395235000
+    },
+    {
+      "title": "Paste It",
+      "description": "Formatted paste with cleansing options",
+      "author": "peppydays",
+      "repo": "peppydays/logseq-paste-it",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-paste-it",
+      "addedAt": 1756611869000
     },
     {
       "title": "Paste More",
