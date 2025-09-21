@@ -1,0 +1,10 @@
+{
+  "title": "Logseq Priority Sorter",
+  "description": "Assign A/B/C priorities to blocks and sort them accordingly",
+  "author": "Koshiro K (@koshirok096)",
+  "repo": "koshirok096/logseq-priority-sorter-plugin",
+  "icon": "icon.png",
+  "theme": false,
+  "web": false,
+  "effect": false
+}
