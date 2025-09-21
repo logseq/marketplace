@@ -1,5 +1,5 @@
 {
-  "datetime": 1757771188273,
+  "datetime": 1758430492014,
   "packages": [
     {
       "title": "Block pin",
@@ -3010,6 +3010,19 @@
       "effect": true,
       "id": "logseq-plugin-multiple-assets",
       "addedAt": 1687855542548
+    },
+    {
+      "title": "New Tags",
+      "description": "Tags pane with search, drag-sort, expand/collapse, dark mode.",
+      "author": "jlhulclq",
+      "repo": "jlhulclq/logseq-plugin-new-tags",
+      "icon": "logo.svg",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "id": "logseq-plugin-new-tags",
+      "addedAt": 1757872044000
     },
     {
       "title": "Noisy",
