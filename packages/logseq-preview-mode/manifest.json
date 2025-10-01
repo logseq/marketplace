@@ -2,7 +2,7 @@
   "title": "Preview Mode Toggle",
   "description": "Toggle preview mode for blocks and pages in Logseq, allowing distraction-free reading experience",
   "author": "zippermonkey",
-  "repo": "zippermonkey/logseq-plugin",
+  "repo": "zippermonkey/logseq-preview-mode",
   "icon": "./icon.png",
   "theme": false,
   "sponsors": [],
