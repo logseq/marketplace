@@ -1,5 +1,5 @@
 {
-  "datetime": 1758430492014,
+  "datetime": 1759472291907,
   "packages": [
     {
       "title": "Block pin",
@@ -4257,6 +4257,16 @@
       ],
       "id": "logseq-todo-plugin",
       "addedAt": 1650957186000
+    },
+    {
+      "title": "Todoist Backup",
+      "description": "Logseq plugin that keeps a read-only backup of all Todoist tasks inside a dedicated page of your graph",
+      "author": "avelino",
+      "repo": "avelino/logseq-todoist-backup",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-todoist-backup",
+      "addedAt": 1759398382000
     },
     {
       "title": "logseq-todoist-plugin",
