@@ -4,5 +4,15 @@
   },
   "dependencies": {
     "dayjs": "^1.11.1"
-  }
+     },
+     {
+       "id": "logseq-plugin-mind-pilot",
+       "title": "Mind Pilot - AI智能助手",
+       "description": "支持最新 Gemini 2.5 Flash/Pro 和 OpenAI GPT-4.1/GPT-4o 模型的智能 AI 助手。提供上下文感知对话、文档智能分析、自动笔记整理等功能。",
+       "author": "flysky1288",
+       "repo": "flysky1288/logseq-plugin-mind-pilot",
+       "icon": "./icon.png",
+       "effect": true,
+       "theme": false
+     }
 }
