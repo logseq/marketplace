@@ -1,5 +1,5 @@
 {
-  "datetime": 1759472291907,
+  "datetime": 1759803114978,
   "packages": [
     {
       "title": "Block pin",
@@ -3422,6 +3422,19 @@
       "effect": true,
       "id": "logseq-preview-footnote",
       "addedAt": 1697973672000
+    },
+    {
+      "title": "Preview Mode Toggle",
+      "description": "Toggle preview mode for blocks and pages in Logseq, allowing distraction-free reading experience",
+      "author": "zippermonkey",
+      "repo": "zippermonkey/logseq-preview-mode",
+      "icon": "./icon.png",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": true,
+      "id": "logseq-preview-mode",
+      "addedAt": 1759286714000
     },
     {
       "title": "logseq-privacy-mode",
