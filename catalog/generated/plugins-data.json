@@ -3458,7 +3458,7 @@
     "repo": "CorrectRoadH/logseq-metadata",
     "repoUrl": "https://github.com/CorrectRoadH/logseq-metadata",
     "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-media/logo.png",
-    "readmeUrl": "https://raw.githubusercontent.com/CorrectRoadH/logseq-metadata/master/readme.md",
+    "readmeUrl": "https://raw.githubusercontent.com/CorrectRoadH/logseq-metadata/master/README.md",
     "created_at": "2024-08-30T03:26:31Z",
     "last_updated": "2024-09-05T04:12:32Z",
     "error": "",
@@ -5641,6 +5641,23 @@
     "defaultBranch": "main",
     "theme": "",
     "effect": "Yes",
+    "sponsors": ""
+  },
+  {
+    "name": "logseq-preview-mode",
+    "id": "",
+    "description": "Toggle preview mode for blocks and pages in Logseq, allowing distraction-free reading experience",
+    "author": "zippermonkey",
+    "repo": "zippermonkey/logseq-preview-mode",
+    "repoUrl": "https://github.com/zippermonkey/logseq-preview-mode",
+    "iconUrl": null,
+    "readmeUrl": "https://raw.githubusercontent.com/zippermonkey/logseq-preview-mode/release/README.md",
+    "created_at": "2025-10-01T02:45:14Z",
+    "last_updated": "2025-10-01T02:48:38Z",
+    "error": "Missing icon URL",
+    "defaultBranch": "release",
+    "theme": "",
+    "effect": "",
     "sponsors": ""
   },
   {
