@@ -1,0 +1,7 @@
+{
+  "title": "Git with Sync",
+  "description": "Easy git integration for Logseq with automatic sync, commit shortcuts, and status indicators. Keep your notes synchronized with remote repositories.",
+  "author": "gabrielgad",
+  "repo": "gabrielgad/logseq-plugin-git",
+  "icon": "logo.png"
+}
