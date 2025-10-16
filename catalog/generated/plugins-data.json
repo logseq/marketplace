@@ -2941,6 +2941,23 @@
     "sponsors": ""
   },
   {
+    "name": "logseq-kindle-highlights",
+    "id": "",
+    "description": "A Logseq plugin for importing notes and highlights from a Kindle device's clippings.txt file.",
+    "author": "benrhughes",
+    "repo": "benrhughes/logseq-plugin-kindle-highlights",
+    "repoUrl": "https://github.com/benrhughes/logseq-plugin-kindle-highlights",
+    "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-kindle-highlights/icon.svg",
+    "readmeUrl": "https://raw.githubusercontent.com/benrhughes/logseq-plugin-kindle-highlights/main/readme.md",
+    "created_at": "2025-10-15T09:28:37Z",
+    "last_updated": "2025-10-15T09:29:27Z",
+    "error": "",
+    "defaultBranch": "main",
+    "theme": "",
+    "effect": "",
+    "sponsors": ""
+  },
+  {
     "name": "logseq-kindle-import",
     "id": "",
     "description": "Import Highlights from kindle exported Highlights file.",
