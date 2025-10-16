@@ -1,5 +1,5 @@
 {
-  "datetime": 1759803114978,
+  "datetime": 1760600734029,
   "packages": [
     {
       "title": "Block pin",
@@ -1751,6 +1751,16 @@
       "icon": "./icon.png",
       "id": "logseq-keywordfrequency-plugin",
       "addedAt": 1641389611000
+    },
+    {
+      "title": "Kindle Highlights",
+      "description": "A Logseq plugin for importing notes and highlights from a Kindle device's clippings.txt file.",
+      "author": "benrhughes",
+      "repo": "benrhughes/logseq-plugin-kindle-highlights",
+      "icon": "icon.svg",
+      "theme": false,
+      "id": "logseq-kindle-highlights",
+      "addedAt": 1760520517000
     },
     {
       "title": "Kindle Highlights Import",
