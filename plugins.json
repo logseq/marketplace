@@ -1,5 +1,5 @@
 {
-  "datetime": 1760600734029,
+  "datetime": 1761262248107,
   "packages": [
     {
       "title": "Block pin",
@@ -4814,6 +4814,16 @@
       "icon": "icon.png",
       "id": "unfinished-business",
       "addedAt": 1649196269000
+    },
+    {
+      "title": "xypora print",
+      "description": "a print-friendly, academic, paper-like theme for logseq, inspired by typora.",
+      "author": "xyvir",
+      "repo": "xyvir/xypora-print",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "xypora-print-theme",
+      "addedat": 1760749797000
     }
   ]
 }
