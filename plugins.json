@@ -1,5 +1,5 @@
 {
-  "datetime": 1761262248107,
+  "datetime": 1761456501193,
   "packages": [
     {
       "title": "Block pin",
@@ -4641,6 +4641,19 @@
       "addedAt": 1683625582000
     },
     {
+      "title": "Wypst math typesetting",
+      "description": "Typst math typesetting for Logseq.",
+      "author": "luh-05",
+      "repo": "luh-05/logseq-wypst",
+      "sponsors": [
+        "https://0xpapercut.github.io/funding"
+      ],
+      "web": false,
+      "effect": true,
+      "id": "logseq-wypst",
+      "addedAt": 1761315580000
+    },
+    {
       "title": "logseq-zoterolocal-plugin",
       "name": "logseq-zoterolocal-plugin",
       "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
@@ -4816,14 +4829,14 @@
       "addedAt": 1649196269000
     },
     {
-      "title": "xypora print",
-      "description": "a print-friendly, academic, paper-like theme for logseq, inspired by typora.",
-      "author": "xyvir",
-      "repo": "xyvir/xypora-print",
+      "title": "Xypora Print",
+      "description": "A print-friendly, academic, paper-like theme for Logseq, inspired by Typora.",
+      "author": "Xyvir",
+      "repo": "Xyvir/Xypora-Print",
       "icon": "icon.png",
       "theme": true,
       "id": "xypora-print-theme",
-      "addedat": 1760749797000
+      "addedAt": 1760749797000
     }
   ]
 }
