@@ -7752,6 +7752,23 @@
     "sponsors": ""
   },
   {
+    "name": "logseq-wypst",
+    "id": "",
+    "description": "Typst math typesetting for Logseq.",
+    "author": "luh-05",
+    "repo": "luh-05/logseq-wypst",
+    "repoUrl": "https://github.com/luh-05/logseq-wypst",
+    "iconUrl": null,
+    "readmeUrl": "https://raw.githubusercontent.com/luh-05/logseq-wypst/master/README.md",
+    "created_at": "2025-10-24T14:19:40Z",
+    "last_updated": "2025-10-26T05:27:22Z",
+    "error": "Missing icon name, Missing icon URL",
+    "defaultBranch": "master",
+    "theme": "",
+    "effect": "Yes",
+    "sponsors": "https://0xpapercut.github.io/funding"
+  },
+  {
     "name": "logseq-zoterolocal-plugin",
     "id": "",
     "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
