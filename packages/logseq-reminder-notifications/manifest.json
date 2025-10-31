@@ -1,0 +1,11 @@
+{
+  "title": "Reminder Notifications",
+  "description": "Desktop and in-app notifications for scheduled blocks in Logseq. Never miss your scheduled tasks and reminders again!",
+  "author": "Joemnewton",
+  "repo": "Joemnewton/logseq-reminder-notifications",
+  "icon": "./icon.svg",
+  "theme": false,
+  "effect": false,
+  "web": false,
+  "sponsors": []
+}
