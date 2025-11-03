@@ -4811,6 +4811,23 @@
     "sponsors": "https://www.buymeacoffee.com/yu000japan"
   },
   {
+    "name": "logseq-plugin-gpt-openai-standard",
+    "id": "",
+    "description": "A plugin for AI-assisted note taking in Logseq using OpenAI's API. Supports all OpenAI API standard generation models including GPT-3.5, GPT-4, and other compatible models.",
+    "author": "EFate",
+    "repo": "EFate/logseq-plugin-gpt-openai-standard",
+    "repoUrl": "https://github.com/EFate/logseq-plugin-gpt-openai-standard",
+    "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-plugin-gpt-openai-standard/./icon.png",
+    "readmeUrl": "https://raw.githubusercontent.com/EFate/logseq-plugin-gpt-openai-standard/main/README.md",
+    "created_at": "2025-10-31T09:36:06Z",
+    "last_updated": "2025-10-31T09:36:06Z",
+    "error": "",
+    "defaultBranch": "main",
+    "theme": "",
+    "effect": "Yes",
+    "sponsors": ""
+  },
+  {
     "name": "logseq-plugin-gpt3-openai",
     "id": "",
     "description": "AI assisted notetaking plugin with OpenAI GPT-3 API to summarize and generate text.",
