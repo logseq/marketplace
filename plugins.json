@@ -1,5 +1,5 @@
 {
-  "datetime": 1762152314130,
+  "datetime": 1762233284675,
   "packages": [
     {
       "title": "Block pin",
@@ -2856,7 +2856,7 @@
       "addedAt": 1717328355000
     },
     {
-      "title": "GPT OpenAI API Standard",
+      "title": "GPT",
       "description": "A plugin for AI-assisted note taking in Logseq using OpenAI's API. Supports all OpenAI API standard generation models including GPT-3.5, GPT-4, and other compatible models.",
       "author": "EFate",
       "repo": "EFate/logseq-plugin-gpt-openai-standard",
