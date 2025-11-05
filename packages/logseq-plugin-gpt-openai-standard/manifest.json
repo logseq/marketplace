@@ -1,5 +1,5 @@
 {
-  "title": "GPT",
+  "title": "logseq-gpt",
   "description": "A plugin for AI-assisted note taking in Logseq using OpenAI's API. Supports all OpenAI API standard generation models including GPT-3.5, GPT-4, and other compatible models.",
   "author": "EFate",
   "repo": "EFate/logseq-plugin-gpt-openai-standard",
