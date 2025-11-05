@@ -1,5 +1,5 @@
 {
-  "datetime": 1762233284675,
+  "datetime": 1762333764063,
   "packages": [
     {
       "title": "Block pin",
@@ -2337,6 +2337,16 @@
       "addedAt": 1651538289000
     },
     {
+      "title": "Orphan Cleaner",
+      "description": "Automatically remove orphaned pages from Logseq with a keyboard shortcut and toolbar button",
+      "author": "geirsagberg",
+      "repo": "geirsagberg/logseq-plugin-orphan-cleaner",
+      "icon": "./icon.png",
+      "theme": false,
+      "id": "logseq-orphan-cleaner",
+      "addedAt": 1762277561000
+    },
+    {
       "title": "logseq-osmmaps-plugin",
       "name": "logseq-osmmaps-plugin",
       "description": "This plugin lets you create a map and plot a marker on a specific spot.",
@@ -2856,7 +2866,7 @@
       "addedAt": 1717328355000
     },
     {
-      "title": "GPT",
+      "title": "logseq-gpt",
       "description": "A plugin for AI-assisted note taking in Logseq using OpenAI's API. Supports all OpenAI API standard generation models including GPT-3.5, GPT-4, and other compatible models.",
       "author": "EFate",
       "repo": "EFate/logseq-plugin-gpt-openai-standard",
