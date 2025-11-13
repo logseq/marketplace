@@ -1,5 +1,5 @@
 {
-  "datetime": 1762333764063,
+  "datetime": 1763028368529,
   "packages": [
     {
       "title": "Block pin",
@@ -4212,6 +4212,15 @@
       "effect": true,
       "id": "logseq-time-tracking-updater",
       "addedAt": 1734279872000
+    },
+    {
+      "title": "TimePicker",
+      "description": "A simple time picker plugin for LogSeq that allows you to quickly insert time values into your blocks. Features dropdown selects for hour and minute in 24-hour format, with keyboard shortcuts and theme support.",
+      "author": "sitex",
+      "repo": "sitex/TimePicker",
+      "icon": "./icon.png",
+      "id": "logseq-timepicker",
+      "addedAt": 1763025788000
     },
     {
       "title": "Timestamp Converter",
