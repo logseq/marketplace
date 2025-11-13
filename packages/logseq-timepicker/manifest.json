@@ -1,0 +1,9 @@
+{
+    "title": "TimePicker",
+    "description": "A simple time picker plugin for LogSeq that allows you to quickly insert time values into 
+  your blocks. Features dropdown selects for hour and minute in 24-hour format, with keyboard shortcuts and theme
+   support.",
+    "author": "sitex",
+    "repo": "sitex/TimePicker",
+    "icon": "./icon.png"
+  }
