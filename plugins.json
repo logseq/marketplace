@@ -1,5 +1,5 @@
 {
-  "datetime": 1763028368529,
+  "datetime": 1763378061316,
   "packages": [
     {
       "title": "Block pin",
@@ -1548,6 +1548,16 @@
       ],
       "id": "logseq-hide-everything-plugin",
       "addedAt": 1686319584000
+    },
+    {
+      "title": "logseq-hitokoto-yiyan",
+      "description": "Randomly display a sentence at the top of logseq.",
+      "author": "ZYJ-3721",
+      "repo": "ZYJ-3721/logseq-hitokoto-yiyan",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-hitokoto-yiyan",
+      "addedAt": 1763307189000
     },
     {
       "title": "Hypothesis",
