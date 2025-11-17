@@ -2593,11 +2593,11 @@
     "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-hitokoto-yiyan/./icon.png",
     "readmeUrl": "https://raw.githubusercontent.com/ZYJ-3721/logseq-hitokoto-yiyan/main/README.md",
     "created_at": "2025-11-16T15:33:09Z",
-    "last_updated": "2025-11-16T15:33:09Z",
+    "last_updated": "2025-11-17T11:14:57Z",
     "error": "",
     "defaultBranch": "main",
     "theme": "",
-    "effect": "",
+    "effect": "Yes",
     "sponsors": ""
   },
   {
