@@ -1,5 +1,5 @@
 {
-  "datetime": 1763378061316,
+  "datetime": 1763986177205,
   "packages": [
     {
       "title": "Block pin",
@@ -2453,6 +2453,16 @@
       ],
       "id": "logseq-paper-theme",
       "addedAt": 1635018588000
+    },
+    {
+      "title": "Parent Breadcrumb",
+      "description": "Easy access breadcrumb added to hierarchical pages linking to their parent",
+      "author": "robbiep",
+      "repo": "robbiep/logseq-parent-breadcrumb",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-parent-breadcrumb",
+      "addedAt": 1763670833000
     },
     {
       "title": "logseq-parsecsv-plugin",
