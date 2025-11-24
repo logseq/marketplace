@@ -4182,6 +4182,23 @@
     "sponsors": "https://www.buymeacoffee.com/wirtzdan"
   },
   {
+    "name": "logseq-parent-breadcrumb",
+    "id": "",
+    "description": "Easy access breadcrumb added to hierarchical pages linking to their parent",
+    "author": "robbiep",
+    "repo": "https://github.com/robbiep/logseq-parent-breadcrumb",
+    "repoUrl": "",
+    "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-parent-breadcrumb/icon.png",
+    "readmeUrl": "",
+    "created_at": "2025-11-20T20:33:53Z",
+    "last_updated": "2025-11-21T09:37:43Z",
+    "error": "Missing repo URL",
+    "defaultBranch": "",
+    "theme": "",
+    "effect": "",
+    "sponsors": ""
+  },
+  {
     "name": "logseq-parsecsv-plugin",
     "id": "",
     "description": "Easily upload a CSV file and convert it into a table in Logseq!",
