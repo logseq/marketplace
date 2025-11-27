@@ -6222,6 +6222,23 @@
     "sponsors": ""
   },
   {
+    "name": "logseq-rss-list",
+    "id": "",
+    "description": "A modern Logseq plugin to fetch and display RSS feed entries as linked lists.",
+    "author": "drohhyn",
+    "repo": "drohhyn/logseq-rss-list",
+    "repoUrl": "https://github.com/drohhyn/logseq-rss-list",
+    "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-rss-list/logseq-rss-list.svg",
+    "readmeUrl": "https://raw.githubusercontent.com/drohhyn/logseq-rss-list/main/README.md",
+    "created_at": "2025-11-26T17:33:35Z",
+    "last_updated": "2025-11-26T17:33:35Z",
+    "error": "",
+    "defaultBranch": "main",
+    "theme": "",
+    "effect": "",
+    "sponsors": ""
+  },
+  {
     "name": "logseq-rss-reader",
     "id": "",
     "description": "Read and import RSS content into Logseq.",
