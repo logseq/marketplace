@@ -1,5 +1,5 @@
 {
-  "datetime": 1763986177205,
+  "datetime": 1764208502445,
   "packages": [
     {
       "title": "Block pin",
@@ -3756,6 +3756,16 @@
       "theme": true,
       "id": "logseq-rose-pine-theme",
       "addedAt": 1711680528000
+    },
+    {
+      "title": "logseq-rss-list",
+      "description": "A modern Logseq plugin to fetch and display RSS feed entries as linked lists.",
+      "author": "drohhyn",
+      "repo": "drohhyn/logseq-rss-list",
+      "icon": "logseq-rss-list.svg",
+      "effect": true,
+      "id": "logseq-rss-list",
+      "addedAt": 1764178415000
     },
     {
       "title": "RSS Reader",
