@@ -2,6 +2,6 @@
   "title": "DeepL Translator",
   "description": "Translate block text using DeepL API. Supports 30+ languages with automatic source language detection.",
   "author": "Nillorian",
-  "repo": "Nillorian/logseq-deepl-translate",
+  "repo": "Nillorian/logseq-plugin-deepl-translate",
   "icon": "logo.png"
 }
