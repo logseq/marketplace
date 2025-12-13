@@ -1,0 +1,7 @@
+{
+  "title": "Syncthing Conflicts Helper",
+  "description": "A Logseq plugin to help resolving Syncthing conflicts.",
+  "author": "Rémi Aubel",
+  "repo":"raubel/logseq-syncthing-conflicts-helper",
+  "icon": "icon.png"
+}
