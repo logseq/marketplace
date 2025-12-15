@@ -1,0 +1,8 @@
+{
+  "title": "Checklist Progress Indicator",
+  "description": "Automatically adds progress indicators to checklist blocks, showing completion status like (2/5) based on child checkbox items",
+  "author": "P. Kerim Friedman",
+  "repo": "kerim/logseq-checklist",
+  "icon": "icon.png",
+  "unsupportedGraphType": "file"
+}
