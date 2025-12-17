@@ -1,5 +1,5 @@
 {
-  "datetime": 1764208502445,
+  "datetime": 1765948765501,
   "packages": [
     {
       "title": "Block pin",
@@ -674,6 +674,16 @@
       ],
       "id": "logseq-chatgpt-plugin",
       "addedAt": 1679558997000
+    },
+    {
+      "title": "Checklist Progress Indicator",
+      "description": "Automatically adds progress indicators to checklist blocks, showing completion status like (2/5) based on child checkbox items",
+      "author": "P. Kerim Friedman",
+      "repo": "kerim/logseq-checklist",
+      "icon": "icon.png",
+      "unsupportedGraphType": "file",
+      "id": "logseq-checklist",
+      "addedAt": 1765800511000
     },
     {
       "title": "Logseq Chess",
@@ -4048,6 +4058,15 @@
       "icon": "./icon.svg",
       "id": "logseq-swapblocks-plugin",
       "addedAt": 1642056804000
+    },
+    {
+      "title": "Syncthing Conflicts Helper",
+      "description": "A Logseq plugin to help resolving Syncthing conflicts.",
+      "author": "Rémi Aubel",
+      "repo": "raubel/logseq-syncthing-conflicts-helper",
+      "icon": "icon.png",
+      "id": "logseq-syncthing-conflicts-helper",
+      "addedAt": 1765631826000
     },
     {
       "title": "Tabler picker",
