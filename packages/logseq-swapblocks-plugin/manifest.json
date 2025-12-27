@@ -2,7 +2,7 @@
   "title": "logseq-swapblocks-plugin",
   "name": "logseq-swapblocks-plugin",
   "description": "Simple plugin to swap a reference block with its original block and preserve it's other references.",
-  "author": "hkgnp",
-  "repo": "hkgnp/logseq-swapblocks-plugin",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-swapblocks-plugin",
   "icon": "./icon.svg"
 }
