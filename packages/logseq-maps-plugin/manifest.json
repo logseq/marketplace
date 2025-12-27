@@ -1,9 +1,9 @@
 {
-  "title": "logseq-osmmaps-plugin",
-  "name": "logseq-osmmaps-plugin",
+  "title": "logseq-maps-plugin",
+  "name": "logseq-maps-plugin",
   "description": "This plugin lets you create a map and plot a marker on a specific spot.",
   "author": "benjypng",
-  "repo": "benjypng/logseq-osmmaps-plugin",
+  "repo": "benjypng/logseq-maps-plugin",
   "icon": "./icon.svg",
   "effect": true
 }
