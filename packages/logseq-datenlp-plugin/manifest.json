@@ -5,5 +5,5 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-datenlp-plugin",
   "icon": "./icon.svg",
-  "effect": true
+  "effect": false
 }
