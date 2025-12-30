@@ -2193,6 +2193,23 @@
     "sponsors": ""
   },
   {
+    "name": "logseq-freehand-plugin",
+    "id": "",
+    "description": "Embed simple, hand-drawn sketches and diagrams directly into your Logseq notes.",
+    "author": "benjypng",
+    "repo": "benjypng/logseq-freehand-plugin",
+    "repoUrl": "https://github.com/benjypng/logseq-freehand-plugin",
+    "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-freehand-plugin/./icon.svg",
+    "readmeUrl": "https://raw.githubusercontent.com/benjypng/logseq-freehand-plugin/main/README.md",
+    "created_at": "2025-12-30T05:45:41Z",
+    "last_updated": "2025-12-30T05:45:41Z",
+    "error": "",
+    "defaultBranch": "main",
+    "theme": "",
+    "effect": "Yes",
+    "sponsors": ""
+  },
+  {
     "name": "logseq-furigana",
     "id": "",
     "description": "A plugin for furigana (ruby characters) support in logseq",
