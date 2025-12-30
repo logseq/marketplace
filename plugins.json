@@ -1,5 +1,5 @@
 {
-  "datetime": 1766825708840,
+  "datetime": 1767073970141,
   "packages": [
     {
       "title": "Block pin",
@@ -925,7 +925,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-datenlp-plugin",
       "icon": "./icon.svg",
-      "effect": true,
+      "effect": false,
       "id": "logseq-datenlp-plugin",
       "addedAt": 1642436252000
     },
@@ -1308,6 +1308,17 @@
       "effect": true,
       "id": "logseq-formula-ocr-plugin",
       "addedAt": 1700261427000
+    },
+    {
+      "title": "logseq-freehand-plugin",
+      "name": "logseq-freehand-plugin",
+      "description": "Embed simple, hand-drawn sketches and diagrams directly into your Logseq notes.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-freehand-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-freehand-plugin",
+      "addedAt": 1767073541000
     },
     {
       "title": "Logseq Furigana",
