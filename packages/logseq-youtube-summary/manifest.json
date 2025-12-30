@@ -1,0 +1,12 @@
+{
+  "title": "YouTube Summary",
+  "description": "AI-powered YouTube video summaries for Logseq. Supports OpenAI & Anthropic with multilingual interface (EN/ES). Extract transcripts and generate structured summaries with main topics, key points, and conclusions.",
+  "author": "Rodrigo Contreras",
+  "repo": "rcontrerasv/logseq-youtube-summary",
+  "icon": "./icon.png",
+  "theme": false,
+  "effect": false,
+  "sponsors": [
+    "https://ko-fi.com/rodandresv"
+  ]
+}
