@@ -1,0 +1,9 @@
+{
+  "title": "logseq-freehand-plugin",
+  "name": "logseq-freehand-plugin",
+  "description": "Embed simple, hand-drawn sketches and diagrams directly into your Logseq notes.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-freehand-plugin",
+  "icon": "./icon.svg",
+  "effect": true
+}
