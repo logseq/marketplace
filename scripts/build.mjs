@@ -6,7 +6,7 @@ import HttpsProxyAgent from 'https-proxy-agent'
 import cp from 'child_process'
 import dayjs from 'dayjs'
 import dayjsRelativeTime from 'dayjs/plugin/relativeTime.js'
-import blockedConfig from '../blocked.json' assert { type: 'json' }
+import blockedConfig from '../blocked.json' with { type: 'json' }
 
 dayjs.extend(dayjsRelativeTime)
 
@@ -234,7 +234,6 @@ async function cli (action, ...rest) {
 
     case '--added': {
       const input = rest[0]
-      const shouldWrite = rest[1] === 'write'
       let dayOffsetOrDate = Number(input)
       let date
 
