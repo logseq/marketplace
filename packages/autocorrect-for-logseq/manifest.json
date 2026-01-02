@@ -1,0 +1,10 @@
+{
+  "title": "Autocorrect for Logseq",
+  "description": "Fast, conservative autocorrect while typing in Logseq (UK English).",
+  "author": "jonclemo",
+  "repo": "jonclemo/autocorrect-for-logseq",
+  "icon": "icon_autocorrect_logseq.png",
+  "theme": false,
+  "web": false,
+  "effect": false
+}
