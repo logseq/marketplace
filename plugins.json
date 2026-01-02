@@ -1,5 +1,5 @@
 {
-  "datetime": 1767253711267,
+  "datetime": 1767345440264,
   "packages": [
     {
       "title": "Block pin",
@@ -655,10 +655,11 @@
     {
       "title": "logseq-chartrender-plugin",
       "name": "logseq-chartrender-plugin",
-      "description": "Create pie, line, bar and area charts using block data. Allows changing of chart type and colours on the fly!",
+      "description": "Easily create pie, line and bar charts using data from your graph.",
       "author": "benjypng",
       "repo": "benjypng/logseq-chartrender-plugin",
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-chartrender-plugin",
       "addedAt": 1640968345000
     },
@@ -2807,6 +2808,15 @@
       "repo": "ehudhala/logseq-plugin-daily-todo",
       "id": "logseq-plugin-daily-todo",
       "addedAt": 1669805457000
+    },
+    {
+      "title": "DeepL Translator",
+      "description": "Translate block text using DeepL API. Supports 30+ languages with automatic source language detection.",
+      "author": "Nillorian",
+      "repo": "Nillorian/logseq-plugin-deepl-translate",
+      "icon": "logo.png",
+      "id": "logseq-plugin-deepl-translate",
+      "addedAt": 1765397186000
     },
     {
       "title": "Default Page Template / Footprint",
