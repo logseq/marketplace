@@ -4743,6 +4743,23 @@
     "sponsors": ""
   },
   {
+    "name": "logseq-plugin-deepl-translate",
+    "id": "",
+    "description": "Translate block text using DeepL API. Supports 30+ languages with automatic source language detection.",
+    "author": "Nillorian",
+    "repo": "Nillorian/logseq-plugin-deepl-translate",
+    "repoUrl": "https://github.com/Nillorian/logseq-plugin-deepl-translate",
+    "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-plugin-deepl-translate/logo.png",
+    "readmeUrl": "https://raw.githubusercontent.com/Nillorian/logseq-plugin-deepl-translate/main/README.md",
+    "created_at": "2025-12-10T20:17:45Z",
+    "last_updated": "2025-12-10T20:17:45Z",
+    "error": "",
+    "defaultBranch": "main",
+    "theme": "",
+    "effect": "",
+    "sponsors": ""
+  },
+  {
     "name": "logseq-plugin-default-template",
     "id": "",
     "description": "Automatically apply a page template / Property the date and time the page was last opened",
