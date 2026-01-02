@@ -1090,18 +1090,18 @@
   {
     "name": "logseq-chartrender-plugin",
     "id": "",
-    "description": "Create pie, line, bar and area charts using block data. Allows changing of chart type and colours on the fly!",
+    "description": "Easily create pie, line and bar charts using data from your graph.",
     "author": "benjypng",
     "repo": "benjypng/logseq-chartrender-plugin",
     "repoUrl": "https://github.com/benjypng/logseq-chartrender-plugin",
     "iconUrl": "https://raw.githubusercontent.com/logseq/marketplace/master/packages/logseq-chartrender-plugin/./icon.svg",
     "readmeUrl": "https://raw.githubusercontent.com/benjypng/logseq-chartrender-plugin/main/README.md",
     "created_at": "2021-12-31T16:32:25Z",
-    "last_updated": "2025-12-27T04:08:58Z",
+    "last_updated": "2026-01-02T07:21:16Z",
     "error": "",
     "defaultBranch": "main",
     "theme": "",
-    "effect": "",
+    "effect": "Yes",
     "sponsors": ""
   },
   {
