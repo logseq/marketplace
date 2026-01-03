@@ -1,0 +1,8 @@
+{
+  "title": "logseq-bettersearch-plugin",
+  "name": "logseq-bettersearch-plugin",
+  "description": "A powerful, sidecar-style fuzzy search and replace utility for Logseq.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-bettersearch-plugin",
+  "icon": "./icon.svg"
+}
