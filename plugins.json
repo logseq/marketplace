@@ -1,5 +1,5 @@
 {
-  "datetime": 1767345440264,
+  "datetime": 1767504536044,
   "packages": [
     {
       "title": "Block pin",
@@ -433,6 +433,16 @@
       ],
       "id": "logseq-better-workflow",
       "addedAt": 1737112776000
+    },
+    {
+      "title": "logseq-bettersearch-plugin",
+      "name": "logseq-bettersearch-plugin",
+      "description": "A powerful, sidecar-style fuzzy search and replace utility for Logseq.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-bettersearch-plugin",
+      "icon": "./icon.svg",
+      "id": "logseq-bettersearch-plugin",
+      "addedAt": 1767461338000
     },
     {
       "title": "Logseq Bidi",
