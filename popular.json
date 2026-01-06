@@ -18,7 +18,7 @@
       "addedAt": 1630930098000,
       "kind": "downloads",
       "downloads": 161961,
-      "dbSupported": true
+      "supportsDB": true
     },
     {
       "id": "logseq-bullet-threading",
@@ -42,7 +42,7 @@
       "addedAt": 1631020312000,
       "kind": "downloads",
       "downloads": 144195,
-      "dbSupported": true
+      "supportsDB": true
     },
     {
       "id": "logseq-todo-plugin",
@@ -54,7 +54,7 @@
       "addedAt": 1650957186000,
       "kind": "downloads",
       "downloads": 120868,
-      "dbSupported": false
+      "supportsDB": false
     },
     {
       "id": "logseq-mark-map",
@@ -66,7 +66,7 @@
       "addedAt": 1630664401000,
       "kind": "downloads",
       "downloads": 86461,
-      "dbSupported": true
+      "supportsDB": true
     },
     {
       "id": "logseq-tags",
@@ -78,7 +78,7 @@
       "addedAt": 1641129133000,
       "kind": "downloads",
       "downloads": 78127,
-      "dbSupported": true
+      "supportsDB": true
     },
     {
       "id": "logseq-markdown-table",
@@ -89,7 +89,8 @@
       "icon": "icon.png",
       "addedAt": 1634897315000,
       "kind": "downloads",
-      "downloads": 72702
+      "downloads": 72702,
+      "supportsDB": false
     },
     {
       "id": "logseq-plugin-gpt3-openai",
