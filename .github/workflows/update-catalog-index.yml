@@ -1,8 +1,5 @@
 name: Update Catalog
 on:
-  push:
-    branches:
-      - "**" # Run on any branch, including master and feature branches
   workflow_dispatch:
 
 jobs:
