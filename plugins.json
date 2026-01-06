@@ -1,5 +1,5 @@
 {
-  "datetime": 1767678611358,
+  "datetime": 1767709428485,
   "packages": [
     {
       "title": "Block pin",
@@ -570,6 +570,7 @@
       "description": "Add bullet threading to your active blocks in Logseq.",
       "author": "pengx17",
       "icon": "./logo.png",
+      "supportsDB": true,
       "repo": "pengx17/logseq-plugin-bullet-threading",
       "id": "logseq-bullet-threading",
       "addedAt": 1640832284000
@@ -668,6 +669,7 @@
       "description": "Easily create pie, line and bar charts using data from your graph.",
       "author": "benjypng",
       "repo": "benjypng/logseq-chartrender-plugin",
+      "supportsDB": true,
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-chartrender-plugin",
@@ -1187,6 +1189,7 @@
       "repo": "xyhp915/logseq-fenced-code-plus",
       "author": "xyhp915",
       "icon": "icon.png",
+      "supportsDB": true,
       "effect": true,
       "sponsors": [
         "https://opencollective.com/logseq"
@@ -1758,6 +1761,7 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
+      "supportsDB": true,
       "sponsors": [
         "https://opencollective.com/logseq"
       ],
@@ -4128,6 +4132,7 @@
       "author": "pengx17",
       "repo": "pengx17/logseq-plugin-tabs",
       "icon": "./icon.png",
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-tabs",
       "addedAt": 1631020312000
@@ -4405,6 +4410,7 @@
       "description": "Sync, send and receive tasks to/from Todoist.",
       "author": "benjypng",
       "repo": "benjypng/logseq-todoist-plugin",
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-todoist-plugin",
       "addedAt": 1635672218000
@@ -4782,6 +4788,7 @@
       "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
       "author": "benjypng",
       "repo": "benjypng/logseq-zoterolocal-plugin",
+      "supportsDB": true,
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-zoterolocal-plugin",

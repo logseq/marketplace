@@ -3,5 +3,6 @@
   "description": "Add bullet threading to your active blocks in Logseq.",
   "author": "pengx17",
   "icon": "./logo.png",
+  "supportsDB": true,
   "repo": "pengx17/logseq-plugin-bullet-threading"
 }
