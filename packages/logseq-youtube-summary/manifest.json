@@ -5,7 +5,7 @@
   "repo": "rcontrerasv/logseq-youtube-summary",
   "icon": "./icon.png",
   "theme": false,
-  "effect": false,
+  "effect": true,
   "sponsors": [
     "https://ko-fi.com/rodandresv"
   ]

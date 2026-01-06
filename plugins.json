@@ -1,5 +1,5 @@
 {
-  "datetime": 1767504536044,
+  "datetime": 1767678611358,
   "packages": [
     {
       "title": "Block pin",
@@ -692,7 +692,7 @@
       "author": "P. Kerim Friedman",
       "repo": "kerim/logseq-checklist",
       "icon": "icon.png",
-      "unsupportedGraphType": "file",
+      "supportsDBOnly": true,
       "id": "logseq-checklist",
       "addedAt": 1765800511000
     },
@@ -4769,7 +4769,7 @@
       "repo": "rcontrerasv/logseq-youtube-summary",
       "icon": "./icon.png",
       "theme": false,
-      "effect": false,
+      "effect": true,
       "sponsors": [
         "https://ko-fi.com/rodandresv"
       ],

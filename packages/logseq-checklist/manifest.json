@@ -4,5 +4,5 @@
   "author": "P. Kerim Friedman",
   "repo": "kerim/logseq-checklist",
   "icon": "icon.png",
-  "unsupportedGraphType": "file"
+  "supportsDBOnly": true
 }
