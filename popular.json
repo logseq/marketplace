@@ -30,7 +30,7 @@
       "addedAt": 1640832284000,
       "kind": "downloads",
       "downloads": 153558,
-      "dbSupported": true
+      "supportsDB": true
     },
     {
       "id": "logseq-tabs",
