@@ -329,6 +329,7 @@ function renderTableHeaderRow() {
       <tr>
         <th>Icon</th>
         <th>Name</th>
+        <th width="200">Supports DB?</th>
         <th>Description</th>
         <th>Author</th>
         <th>Repo</th>
@@ -375,6 +376,7 @@ function renderPluginRow(plugin) {
     <tr>
       <td>${iconCell}</td>
       <td>${plugin.name || ""}</td>
+      <td>${typeof plugin.supportsDB === 'boolean'? (plugin.supportsDB ? "✅ YES" : "❌ NO") : '❓ Unknown' }</td>
       <td>${descCell}</td>
       <td>${plugin.author || ""}</td>
       <td>${repoCell}</td>
