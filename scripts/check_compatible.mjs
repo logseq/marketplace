@@ -192,6 +192,14 @@ function parseArgs (argv) {
       i += 1
     } else if (a === '--help' || a === '-h') {
       args.help = true
+    } else if (a.startsWith('--A:')) {
+      // ignore analyzer args
+      const match = a.match(/^--A:([^=]+)(=*(.*))$/)
+      if (match) {
+        const action = match[1]
+        const value = match[3]
+        args.invokeAnalyzer = { action, value }
+      }
     }
   }
 
@@ -253,7 +261,8 @@ export async function downloadReposFromPopularJson ({
     const pluginDir = path.join(reposDir, pluginId)
     if (pathExists(pluginDir) && fs.statSync(pluginDir).isDirectory()) {
       console.log(
-        `Skip (already extracted): ${pluginId} -> ${path.relative(getRepoRoot(),
+        `Skip (already extracted): ${pluginId} -> ${path.relative(
+          getRepoRoot(),
           pluginDir)}`)
       results.push({
         id: pluginId,
@@ -297,7 +306,8 @@ export async function downloadReposFromPopularJson ({
       zipPath = masterZip
       branch = 'master'
     } else {
-      console.log(`Downloading ${parsed.owner}/${parsed.name} (id=${pluginId})`)
+      console.log(
+        `Downloading ${parsed.owner}/${parsed.name} (id=${pluginId})`)
       const downloaded = await downloadRepoZip({
         owner: parsed.owner,
         name: parsed.name,
@@ -307,7 +317,8 @@ export async function downloadReposFromPopularJson ({
       branch = downloaded.branch
       const stat = fs.statSync(zipPath)
       console.log(
-        `Saved ${stat.size} bytes -> ${path.relative(getRepoRoot(), zipPath)}`)
+        `Saved ${stat.size} bytes -> ${path.relative(getRepoRoot(),
+          zipPath)}`)
     }
 
     // Extract
@@ -335,6 +346,43 @@ export async function downloadReposFromPopularJson ({
   return results
 }
 
+async function updatePackagesManifest (popularJsonData) {
+  // Placeholder for potential future functionality
+  const root = getRepoRoot()
+  const packagesRoot = path.join(root, 'packages')
+
+  for (const item of popularJsonData.merged) {
+    if (!item.hasOwnProperty('supportsDB')) {
+      // console.log('Skip item: no supportsDB field #', item.id)
+      continue
+    }
+
+    const packageDir = path.join(packagesRoot, item.id)
+    if (!pathExists(packageDir) ||
+      !fs.statSync(packageDir).isDirectory()) {
+      console.log(`Skip non-existing package dir: ${item.id}`)
+      continue
+    }
+
+    const manifestPath = path.join(packageDir, 'manifest.json')
+    if (!pathExists(manifestPath)) {
+      console.log(`Skip missing manifest: ${item.id}`)
+      continue
+    }
+
+    const manifest = readJson(manifestPath)
+
+    manifest.supportsDB = Boolean(item.supportsDB)
+
+    // write back updated manifest
+    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8')
+
+    // Here we would update the manifest as needed.
+    console.log(
+      `Settle manifest for plugin id=${manifest.id}, effect=${manifest.effect}, supportsDB=${manifest.supportsDB}`)
+  }
+}
+
 async function main () {
   const opts = parseArgs(process.argv)
   if (opts.help) {
@@ -348,13 +396,35 @@ async function main () {
   const reposDir = opts.outDir ? path.resolve(opts.outDir) : path.join(root,
     'scripts/.repos')
 
-  const results = await downloadReposFromPopularJson({
-    popularJsonPath,
-    reposDir,
-    limit: opts.limit,
-  })
+  if (opts.invokeAnalyzer) {
+    const cmds = {
+      'update-packages-manifest': async () => {
+        await updatePackagesManifest(
+          readJson(popularJsonPath),
+        )
+      },
+      'download-repos': async () => {
+        const results = await downloadReposFromPopularJson({
+          popularJsonPath,
+          reposDir,
+          limit: opts.limit,
+        })
 
-  console.log(`Done. Handled ${results.length} item(s).`)
+        console.log(`Done. Handled ${results.length} item(s).`)
+      },
+    }
+
+    // Invoke analyzer action instead
+    const { action, value } = opts.invokeAnalyzer
+
+    if (Object.prototype.hasOwnProperty.call(cmds, action)) {
+      console.log(`Invoking analyzer action: ${action} ${value || ''}`)
+      await cmds[action](value)
+    } else {
+      throw new Error(`Unknown analyzer action: ${action}`)
+    }
+
+  }
 }
 
 // Run as CLI if invoked directly
