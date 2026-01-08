@@ -20,6 +20,10 @@ const DATA_FILE = 'plugins-data.json'
 // Local packages directory - relative to the script location
 const LOCAL_PACKAGES_DIR = path.resolve(__dirname, '../../packages')
 
+// GitHub token for authenticated requests (increases rate limit from 60/hour to 5000/hour)
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || ''
+
+
 /**
  * Parse command line arguments for verbose flag, max, and help
  */
@@ -36,6 +40,98 @@ const maxIdx = args.indexOf('--max')
 if (maxIdx !== -1 && args.length > maxIdx + 1) {
   const val = parseInt(args[maxIdx + 1], 10)
   if (!isNaN(val) && val > 0) maxItems = val
+}
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
+
+/**
+ * Get GitHub API headers with authentication if token is available
+ * @returns {Object} Headers object for fetch requests
+ */
+function getGitHubHeaders() {
+  const headers = {
+    'Accept': 'application/vnd.github.v3+json',
+    'User-Agent': 'Logseq-Marketplace-Catalog'
+  }
+  if (GITHUB_TOKEN) {
+    headers['Authorization'] = `token ${GITHUB_TOKEN}`
+  }
+  return headers
+}
+
+/**
+ * Check GitHub API rate limit status
+ * @param {boolean} verbose - Enable verbose logging
+ * @returns {Promise<{remaining: number, limit: number, reset: number}>}
+ */
+async function checkRateLimit(verbose = false) {
+  try {
+    const response = await fetch('https://api.github.com/rate_limit', {
+      headers: getGitHubHeaders()
+    })
+    if (response.ok) {
+      const data = await response.json()
+      const core = data.resources.core
+      if (verbose) {
+        console.log(`\nGitHub API Rate Limit: ${core.remaining}/${core.limit} remaining`)
+        if (core.remaining < 100) {
+          const resetDate = new Date(core.reset * 1000)
+          console.log(`Warning: Low rate limit! Resets at ${resetDate.toLocaleString()}`)
+        }
+      }
+      return core
+    }
+  } catch (error) {
+    if (verbose) console.log('Failed to check rate limit:', error.message)
+  }
+  return { remaining: 0, limit: 60, reset: Date.now() / 1000 + 3600 }
+}
+
+/**
+ * Fetch with retry and exponential backoff for rate limiting
+ * @param {string} url - URL to fetch
+ * @param {Object} options - Fetch options
+ * @param {number} maxRetries - Maximum number of retries
+ * @param {boolean} verbose - Enable verbose logging
+ * @returns {Promise<Response>}
+ */
+async function fetchWithRetry(url, options = {}, maxRetries = 3, verbose = false) {
+  for (let i = 0; i < maxRetries; i++) {
+    try {
+      const response = await fetch(url, options)
+
+      // Check rate limit from response headers
+      const remaining = response.headers.get('X-RateLimit-Remaining')
+      const limit = response.headers.get('X-RateLimit-Limit')
+
+      if (remaining && parseInt(remaining) < 10) {
+        console.log(`\n⚠️  Warning: Only ${remaining}/${limit} GitHub API requests remaining!`)
+      }
+
+      if (response.status === 403 && response.headers.get('X-RateLimit-Remaining') === '0') {
+        const resetTime = parseInt(response.headers.get('X-RateLimit-Reset') || '0') * 1000
+        const waitTime = Math.max(resetTime - Date.now(), 0)
+        console.log(`\n❌ Rate limit exceeded. Reset at ${new Date(resetTime).toLocaleString()}`)
+        console.log(`   Waiting ${Math.ceil(waitTime / 1000 / 60)} minutes...`)
+        await delay(waitTime + 1000) // Wait until reset + 1 second
+        continue
+      }
+
+      if (response.status === 429) {
+        const retryAfter = parseInt(response.headers.get('Retry-After') || '60') * 1000
+        console.log(`\n⏳ Rate limited (429). Waiting ${retryAfter / 1000} seconds...`)
+        await delay(retryAfter)
+        continue
+      }
+
+      return response
+    } catch (error) {
+      if (i === maxRetries - 1) throw error
+      const waitTime = Math.pow(2, i) * 1000 // Exponential backoff
+      if (verbose) console.log(`Retry ${i + 1}/${maxRetries} after ${waitTime}ms`)
+      await delay(waitTime)
+    }
+  }
+  throw new Error(`Failed after ${maxRetries} retries`)
 }
 
 /**
@@ -58,6 +154,17 @@ if (
  */
 async function main ({ verbose = false, maxItems } = {}) {
   try {
+    // Check if GitHub token is available
+    if (GITHUB_TOKEN) {
+      console.log('✓ GitHub token found - using authenticated requests (5000 req/hour)')
+    } else {
+      console.log('⚠️  No GitHub token found - using unauthenticated requests (60 req/hour)')
+      console.log('   Set GITHUB_TOKEN or GH_TOKEN environment variable to increase limit')
+    }
+
+    // Check current rate limit status
+    await checkRateLimit(verbose)
+
     // Fetch package list from GitHub logseq marketplace repo
     const packages = await fetchPackageList(verbose)
 
@@ -191,8 +298,15 @@ async function worker (packages, maxItems, verbose, processFunction) {
     }
   }
 
-  const CONCURRENCY = 10
+  // Reduce concurrency to avoid rate limiting
+  const CONCURRENCY = GITHUB_TOKEN ? 5 : 2 // Lower concurrency for unauthenticated requests
   await Promise.all(Array(CONCURRENCY).fill().map(processPackages))
+
+  // Check final rate limit status
+  if (verbose) {
+    console.log('\n')
+    await checkRateLimit(verbose)
+  }
 
   return { results, errorOccurred }
 }
@@ -266,7 +380,6 @@ async function retrievePackageData (pkg, verbose = false) {
 
   let errors = []
 
-
   const /** @type {Manifest|null} */ manifest = await fetchManifest(pkg.name,
     verbose)
   if (!manifest) {
@@ -281,20 +394,25 @@ async function retrievePackageData (pkg, verbose = false) {
 
     // Build repo URL directly from manifest.repo
     if (manifest.repo) {
+      packageData.id = pkg.name
       packageData.repoUrl = `https://github.com/${manifest.repo}`
       packageData.defaultBranch = 'main' // Default to 'main', could also try 'master'
       packageData.readmeUrl = `https://github.com/${manifest.repo}#readme`
 
       // Build icon URL from GitHub repo
       if (manifest.icon) {
-        packageData.iconUrl = `https://raw.githubusercontent.com/${manifest.repo}/${packageData.defaultBranch}/${manifest.icon}`
+        packageData.iconUrl = `https://raw.githubusercontent.com/logseq/marketplace/master/packages/${pkg.name}/${manifest.icon?.replace(
+          '[\.\/]', '')}`
       }
 
-      // Fetch commit dates from GitHub API
-      const commits = await fetchCommitDates(manifest.repo, verbose)
-      if (commits) {
-        packageData.created_at = commits.created_at
-        packageData.last_updated = commits.last_updated
+      // Fetch release dates from GitHub API (falls back to repo dates if no releases)
+      const dates = await fetchCommitDates(manifest.repo, verbose)
+      if (verbose) console.log(`==> dates for ${pkg.name}`, dates)
+      await delay(100) // Small delay to avoid hitting rate limits
+
+      if (dates) {
+        packageData.created_at = dates.created_at
+        packageData.last_updated = dates.last_updated
       }
     } else {
       errors.push('Missing repo URL')
@@ -381,97 +499,61 @@ async function getValidIconUrl (packageName, iconName) {
   return null
 }
 
-/**
- * Fetch commit dates (created_at and last_updated) from GitHub API for a repository.
- * @param {string} repo - The GitHub repository identifier (e.g., "owner/repo").
- * @param {boolean} verbose - Enable verbose logging.
- * @returns {Promise<{created_at: string, last_updated: string}|null>} Commit dates or null if failed.
- */
-async function fetchCommitDates(repo, verbose = false) {
+async function fetchCommitDates (repo, verbose = false) {
   try {
-    // Fetch commits from GitHub API (latest commits first)
-    const response = await fetch(`https://api.github.com/repos/${repo}/commits?per_page=1`, {
-      headers: {
-        'Accept': 'application/vnd.github.v3+json',
-        'User-Agent': 'Logseq-Marketplace-Catalog'
-      }
-    })
+    // First try to fetch releases (much faster)
+    const releasesResponse = await fetchWithRetry(
+      `https://api.github.com/repos/${repo}/releases?per_page=100`,
+      { headers: getGitHubHeaders() },
+      3,
+      verbose
+    )
 
-    if (!response.ok) {
-      if (verbose) console.log(`Failed to fetch commits for ${repo}: ${response.status}`)
+    if (releasesResponse.ok) {
+      const releases = await releasesResponse.json()
+      if (releases && releases.length > 0) {
+        // Get the latest release (first in the list)
+        const latestRelease = releases[0]
+        const last_updated = latestRelease.published_at ||
+          latestRelease.created_at
+
+        // Get the oldest release (last in the list)
+        const oldestRelease = releases[releases.length - 1]
+        const created_at = oldestRelease.published_at ||
+          oldestRelease.created_at
+
+        if (verbose) console.log(
+          `Fetched release dates for ${repo}: created=${created_at}, updated=${last_updated}`)
+        return { created_at, last_updated }
+      }
+    }
+
+    if (verbose) console.log(
+      `No releases found for ${repo}, falling back to repository info`)
+
+    // If no releases, fall back to repository created_at and updated_at
+    const repoResponse = await fetchWithRetry(
+      `https://api.github.com/repos/${repo}`,
+      { headers: getGitHubHeaders() },
+      3,
+      verbose
+    )
+
+    if (!repoResponse.ok) {
+      if (verbose) console.log(
+        `Failed to fetch repo info for ${repo}: ${repoResponse.status}`)
       return null
     }
 
-    const commits = await response.json()
-    if (!commits || commits.length === 0) {
-      if (verbose) console.log(`No commits found for ${repo}`)
-      return null
-    }
+    const repoInfo = await repoResponse.json()
+    const created_at = repoInfo.created_at
+    const last_updated = repoInfo.updated_at || repoInfo.pushed_at
 
-    const lastCommit = commits[0]
-    const last_updated = lastCommit.commit.committer.date
-
-    // Fetch the first commit (oldest) by fetching all commits and getting the last page
-    // For efficiency, we can use the GitHub API to get commit count and fetch last page
-    const firstCommitResponse = await fetch(`https://api.github.com/repos/${repo}/commits?per_page=1&sha=HEAD`, {
-      headers: {
-        'Accept': 'application/vnd.github.v3+json',
-        'User-Agent': 'Logseq-Marketplace-Catalog'
-      }
-    })
-
-    if (!firstCommitResponse.ok) {
-      if (verbose) console.log(`Failed to fetch first commit for ${repo}: ${firstCommitResponse.status}`)
-      // Use last_updated as created_at as fallback
-      return { created_at: last_updated, last_updated }
-    }
-
-    // Get the Link header to find the last page
-    const linkHeader = firstCommitResponse.headers.get('Link')
-    let created_at = last_updated // Default to last_updated
-
-    if (linkHeader) {
-      // Parse the Link header to get the last page URL
-      const lastPageMatch = linkHeader.match(/<([^>]+)>;\s*rel="last"/)
-      if (lastPageMatch) {
-        const lastPageUrl = lastPageMatch[1]
-        const lastPageResponse = await fetch(lastPageUrl, {
-          headers: {
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'Logseq-Marketplace-Catalog'
-          }
-        })
-
-        if (lastPageResponse.ok) {
-          const lastPageCommits = await lastPageResponse.json()
-          if (lastPageCommits && lastPageCommits.length > 0) {
-            const firstCommit = lastPageCommits[lastPageCommits.length - 1]
-            created_at = firstCommit.commit.committer.date
-          }
-        }
-      }
-    } else {
-      // If no Link header, there's only one page, so the last commit in the list is the first commit
-      const allCommitsResponse = await fetch(`https://api.github.com/repos/${repo}/commits?per_page=100`, {
-        headers: {
-          'Accept': 'application/vnd.github.v3+json',
-          'User-Agent': 'Logseq-Marketplace-Catalog'
-        }
-      })
-
-      if (allCommitsResponse.ok) {
-        const allCommits = await allCommitsResponse.json()
-        if (allCommits && allCommits.length > 0) {
-          const firstCommit = allCommits[allCommits.length - 1]
-          created_at = firstCommit.commit.committer.date
-        }
-      }
-    }
-
-    if (verbose) console.log(`Fetched commit dates for ${repo}: created=${created_at}, updated=${last_updated}`)
+    if (verbose) console.log(
+      `Fetched repo dates for ${repo}: created=${created_at}, updated=${last_updated}`)
     return { created_at, last_updated }
   } catch (error) {
-    if (verbose) console.log(`Error fetching commit dates for ${repo}:`, error.message)
+    if (verbose) console.log(`Error fetching dates for ${repo}:`, error.message)
     return null
   }
 }
