@@ -268,7 +268,8 @@
       "icon": "./icon.png",
       "addedAt": 1639308679000,
       "kind": "downloads",
-      "downloads": 29363
+      "downloads": 29363,
+      "supportsDB": true
     },
     {
       "id": "logseq-git",
@@ -279,7 +280,8 @@
       "icon": "icon.png",
       "addedAt": 1651710549000,
       "kind": "downloads",
-      "downloads": 28314
+      "downloads": 28314,
+      "supportsDB": false
     },
     {
       "id": "logseq-banners-plugin",
@@ -290,7 +292,8 @@
       "icon": "./logo.png",
       "addedAt": 1656355151000,
       "kind": "downloads",
-      "downloads": 24063
+      "downloads": 24063,
+      "supportsDB": false
     },
     {
       "id": "logseq-move-block",
@@ -301,7 +304,8 @@
       "icon": "./icon.png",
       "addedAt": 1649388185000,
       "kind": "downloads",
-      "downloads": 23903
+      "downloads": 23903,
+      "supportsDB": false
     },
     {
       "id": "logseq-calendars-plugin",
@@ -312,7 +316,8 @@
       "icon": "./icon.png",
       "addedAt": 1643369830000,
       "kind": "downloads",
-      "downloads": 23632
+      "downloads": 23632,
+      "supportsDB": false
     },
     {
       "id": "logseq-readwise-official-plugin",
@@ -323,7 +328,8 @@
       "icon": "icon.svg",
       "addedAt": 1656970886000,
       "kind": "downloads",
-      "downloads": 19349
+      "downloads": 19349,
+      "supportsDB": false
     },
     {
       "id": "logseq-emoji-picker-fork",
@@ -334,7 +340,8 @@
       "icon": "./logo.png",
       "addedAt": 1657039359000,
       "kind": "downloads",
-      "downloads": 19101
+      "downloads": 19101,
+      "supportsDB": true
     },
     {
       "id": "logseq-block-calendar",
@@ -345,7 +352,8 @@
       "icon": "icon.png",
       "addedAt": 1657782839000,
       "kind": "downloads",
-      "downloads": 18841
+      "downloads": 18841,
+      "supportsDB": false
     },
     {
       "id": "logseq-random-note",
@@ -356,7 +364,8 @@
       "icon": "icon.png",
       "addedAt": 1631757107000,
       "kind": "downloads",
-      "downloads": 18733
+      "downloads": 18733,
+      "supportsDB": false
     },
     {
       "id": "logseq-wordcount-plugin",
@@ -367,7 +376,8 @@
       "icon": "./icon.png",
       "addedAt": 1637780918000,
       "kind": "downloads",
-      "downloads": 18275
+      "downloads": 18275,
+      "supportsDB": true
     },
     {
       "id": "logseq-focus-mode",
@@ -378,7 +388,8 @@
       "icon": "icon.png",
       "addedAt": 1637215252000,
       "kind": "downloads",
-      "downloads": 18249
+      "downloads": 18249,
+      "supportsDB": false
     },
     {
       "id": "logseq-copy-code-plugin",
@@ -389,7 +400,8 @@
       "icon": "icon.png",
       "addedAt": 1652029079000,
       "kind": "downloads",
-      "downloads": 17513
+      "downloads": 17513,
+      "supportsDB": true
     },
     {
       "id": "logseq-helium-plugin",
@@ -400,7 +412,8 @@
       "icon": "icon.png",
       "addedAt": 1650781091000,
       "kind": "downloads",
-      "downloads": 15992
+      "downloads": 15992,
+      "supportsDB": false
     },
     {
       "id": "logseq-diagrams-as-code",
