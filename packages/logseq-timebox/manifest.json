@@ -1,0 +1,8 @@
+{
+    "title": "Logseq Timebox Calendar",
+    "description": "A calendar sidebar plugin for Logseq that lets you visualize and manage your scheduled tasks in a timebox-style calendar view.",
+    "author": "yusuf",
+    "repo": "yusuf8834/logseq-timebox",
+    "icon": "./list-details.png",
+    "supportsDB": false
+}
