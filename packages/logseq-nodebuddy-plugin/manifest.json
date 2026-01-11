@@ -1,0 +1,9 @@
+{
+  "title": "logseq-nodebuddy-plugin",
+  "name": "logseq-nodebuddy-plugin",
+  "description": "Your AI NodeBuddy, right inside your graph. Supports cloud and local models.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-nodebuddy-plugin",
+  "icon": "./icon.svg",
+  "supportsDbOnly": true
+}
