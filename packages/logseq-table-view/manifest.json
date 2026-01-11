@@ -1,0 +1,9 @@
+{
+  "id": "logseq-table-view",
+  "author": "zhaobenx",
+  "title": "Logseq Table View",
+  "description": "Logseq插件，用于以表格形式查看和编辑页面属性| Logseq plugin, used to view and edit page properties in a table form",
+  "repo": "zhaobenx/logseq-table-view",
+  "icon": "icon.svg",
+  "sponsors": []
+}
