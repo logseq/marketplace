@@ -1,5 +1,5 @@
 {
-  "datetime": 1767678611358,
+  "datetime": 1768198864636,
   "packages": [
     {
       "title": "Block pin",
@@ -2295,6 +2295,17 @@
       "addedAt": 1650551080000
     },
     {
+      "title": "logseq-nodebuddy-plugin",
+      "name": "logseq-nodebuddy-plugin",
+      "description": "Your AI NodeBuddy, right inside your graph. Supports cloud and local models.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-nodebuddy-plugin",
+      "icon": "./icon.svg",
+      "supportsDbOnly": true,
+      "id": "logseq-nodebuddy-plugin",
+      "addedAt": 1768016038000
+    },
+    {
       "title": "Nostr sync",
       "description": "Allows you to send Direct Messages to a specific Nostr public key and download them to your journal based on the creation date.",
       "author": "KoalaSat",
@@ -2821,10 +2832,11 @@
     },
     {
       "title": "DeepL Translator",
-      "description": "Translate block text using DeepL API. Supports 30+ languages with automatic source language detection.",
+      "description": "Translate block text using DeepL API.",
       "author": "Nillorian",
       "repo": "Nillorian/logseq-plugin-deepl-translate",
       "icon": "logo.png",
+      "effect": true,
       "id": "logseq-plugin-deepl-translate",
       "addedAt": 1765397186000
     },
@@ -4764,7 +4776,7 @@
     },
     {
       "title": "YouTube Summary",
-      "description": "AI-powered YouTube video summaries for Logseq. Supports OpenAI & Anthropic with multilingual interface (EN/ES). Extract transcripts and generate structured summaries with main topics, key points, and conclusions.",
+      "description": "AI-powered YouTube video summaries for Logseq. Supports 7 providers: OpenAI, Anthropic, DeepSeek, Gemini, Grok, Qwen & Moonshot. Multilingual interface (EN/ES). Extract transcripts and generate structured summaries.",
       "author": "Rodrigo Contreras",
       "repo": "rcontrerasv/logseq-youtube-summary",
       "icon": "./icon.png",
