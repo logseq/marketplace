@@ -1,5 +1,5 @@
 {
-  "datetime": 1767709428485,
+  "datetime": 1768198864636,
   "packages": [
     {
       "title": "Block pin",
@@ -570,7 +570,6 @@
       "description": "Add bullet threading to your active blocks in Logseq.",
       "author": "pengx17",
       "icon": "./logo.png",
-      "supportsDB": true,
       "repo": "pengx17/logseq-plugin-bullet-threading",
       "id": "logseq-bullet-threading",
       "addedAt": 1640832284000
@@ -669,7 +668,6 @@
       "description": "Easily create pie, line and bar charts using data from your graph.",
       "author": "benjypng",
       "repo": "benjypng/logseq-chartrender-plugin",
-      "supportsDB": true,
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-chartrender-plugin",
@@ -1189,7 +1187,6 @@
       "repo": "xyhp915/logseq-fenced-code-plus",
       "author": "xyhp915",
       "icon": "icon.png",
-      "supportsDB": true,
       "effect": true,
       "sponsors": [
         "https://opencollective.com/logseq"
@@ -1761,7 +1758,6 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
-      "supportsDB": true,
       "sponsors": [
         "https://opencollective.com/logseq"
       ],
@@ -2299,6 +2295,17 @@
       "addedAt": 1650551080000
     },
     {
+      "title": "logseq-nodebuddy-plugin",
+      "name": "logseq-nodebuddy-plugin",
+      "description": "Your AI NodeBuddy, right inside your graph. Supports cloud and local models.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-nodebuddy-plugin",
+      "icon": "./icon.svg",
+      "supportsDbOnly": true,
+      "id": "logseq-nodebuddy-plugin",
+      "addedAt": 1768016038000
+    },
+    {
       "title": "Nostr sync",
       "description": "Allows you to send Direct Messages to a specific Nostr public key and download them to your journal based on the creation date.",
       "author": "KoalaSat",
@@ -2825,10 +2832,11 @@
     },
     {
       "title": "DeepL Translator",
-      "description": "Translate block text using DeepL API. Supports 30+ languages with automatic source language detection.",
+      "description": "Translate block text using DeepL API.",
       "author": "Nillorian",
       "repo": "Nillorian/logseq-plugin-deepl-translate",
       "icon": "logo.png",
+      "effect": true,
       "id": "logseq-plugin-deepl-translate",
       "addedAt": 1765397186000
     },
@@ -4132,7 +4140,6 @@
       "author": "pengx17",
       "repo": "pengx17/logseq-plugin-tabs",
       "icon": "./icon.png",
-      "supportsDB": true,
       "effect": true,
       "id": "logseq-tabs",
       "addedAt": 1631020312000
@@ -4410,7 +4417,6 @@
       "description": "Sync, send and receive tasks to/from Todoist.",
       "author": "benjypng",
       "repo": "benjypng/logseq-todoist-plugin",
-      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-todoist-plugin",
       "addedAt": 1635672218000
@@ -4770,7 +4776,7 @@
     },
     {
       "title": "YouTube Summary",
-      "description": "AI-powered YouTube video summaries for Logseq. Supports OpenAI & Anthropic with multilingual interface (EN/ES). Extract transcripts and generate structured summaries with main topics, key points, and conclusions.",
+      "description": "AI-powered YouTube video summaries for Logseq. Supports 7 providers: OpenAI, Anthropic, DeepSeek, Gemini, Grok, Qwen & Moonshot. Multilingual interface (EN/ES). Extract transcripts and generate structured summaries.",
       "author": "Rodrigo Contreras",
       "repo": "rcontrerasv/logseq-youtube-summary",
       "icon": "./icon.png",
@@ -4788,7 +4794,6 @@
       "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
       "author": "benjypng",
       "repo": "benjypng/logseq-zoterolocal-plugin",
-      "supportsDB": true,
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-zoterolocal-plugin",
