@@ -1,8 +1,9 @@
 {
   "title": "Heatmap",
-  "description": "Activity heatmap based on how many journal blocks created that day" ,
+  "description": "Activity heatmap based on how many journal blocks created that day",
   "author": "pengx17",
-  "repo":"pengx17/logseq-plugin-heatmap",
+  "repo": "pengx17/logseq-plugin-heatmap",
   "icon": "./icon.png",
-  "effect": true
+  "effect": true,
+  "supportsDB": false
 }

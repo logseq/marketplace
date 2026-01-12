@@ -269,52 +269,53 @@ function renderDataTable(pluginsData) {
      */
 
     function initDataTableWithToggle() {
-        let showMore = false;  // initial state
-        let table;             // declare table variable
+        let showMore = false  // initial state
+        let table             // declare table variable
 
-        table = $("#plugin-table").DataTable({
+        // Use the table API for toggleColumns
+        function toggleColumns() {
+            table.column(9).visible(showMore);
+            table.column(10).visible(showMore);
+            table.column(11).visible(showMore);
+            table.column(12).visible(showMore);
+        }
+
+        table = $('#plugin-table').DataTable({
             order: [],
             paging: true,
             autoWidth: true,
-            scrollY: "70vh",
+            scrollY: '70vh',
             scrollX: true,
             scrollCollapse: true,
             scroller: true,
             info: false,
             initComplete: function () {
-                const $table = this.api(); // jQuery DataTable API
-                $("#plugin-table").css("opacity", "1").addClass("ready");
+                const $table = this.api() // jQuery DataTable API
+                $('#plugin-table').css('opacity', '1').addClass('ready')
 
-                const $btn = $('<button type="button" id="toggle-columns" style="margin-left:10px;">more</button>');
-                $(".dataTables_filter").append($btn);
+                const $btn = $('<button type="button" id="toggle-columns" style="margin-left:10px;">more</button>')
+                $('.dataTables_filter').append($btn)
 
-                $btn.on("click", function () {
-                    showMore = !showMore;
-                    toggleColumns();
-                    $(this).text(showMore ? "less" : "more");
-                });
+                $btn.on('click', function () {
+                    showMore = !showMore
+                    toggleColumns()
+                    $(this).text(showMore ? 'less' : 'more')
+                })
 
-                // Use the table API for toggleColumns
-                function toggleColumns() {
-                    $table.column(8).visible(showMore); // Branch
-                    $table.column(9).visible(showMore); // Theme
-                    $table.column(10).visible(showMore); // Effect
-                    $table.column(11).visible(showMore); // Sponsors
-                }
 
                 // Initial column visibility **after draw**
-                $table.on("draw", function () {
-                    toggleColumns();
-                });
-                $table.draw();
-            }
-        });
+                $table.on('draw', function () {
+                  setTimeout(toggleColumns)
+                })
+                $table.draw()
+            },
+        })
 
         // Initial column visibility
-        toggleColumns();
+        toggleColumns()
     }
 
-    initDataTableWithToggle();
+    initDataTableWithToggle()
 
     </script>
   `;
@@ -329,6 +330,7 @@ function renderTableHeaderRow() {
       <tr>
         <th>Icon</th>
         <th>Name</th>
+        <th width="200">Supports DB?</th>
         <th>Description</th>
         <th>Author</th>
         <th>Repo</th>
@@ -375,6 +377,7 @@ function renderPluginRow(plugin) {
     <tr>
       <td>${iconCell}</td>
       <td>${plugin.name || ""}</td>
+      <td>${typeof plugin.supportsDB === 'boolean'? (plugin.supportsDB ? "✅ YES" : "❌ NO") : '❓ Unknown' }</td>
       <td>${descCell}</td>
       <td>${plugin.author || ""}</td>
       <td>${repoCell}</td>
@@ -607,6 +610,7 @@ function showReadmeModal(readmeUrl) {
       modalBody.innerHTML = "<p>Error loading README.md</p>";
     });
 }
+
 /**
  * Close the README modal.
  */

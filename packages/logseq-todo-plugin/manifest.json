@@ -7,5 +7,6 @@
   "effect": true,
   "sponsors": [
     "https://www.buymeacoffee.com/yuexunjiang"
-  ]
+  ],
+  "supportsDB": false
 }

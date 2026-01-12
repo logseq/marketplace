@@ -30,7 +30,7 @@
       "addedAt": 1640832284000,
       "kind": "downloads",
       "downloads": 153558,
-      "dbSupported": true
+      "supportsDB": true
     },
     {
       "id": "logseq-tabs",
@@ -101,7 +101,8 @@
       "icon": "./icon.png",
       "addedAt": 1654399953000,
       "kind": "downloads",
-      "downloads": 65093
+      "downloads": 65093,
+      "supportsDB": true
     },
     {
       "id": "logseq-pdf-export-plugin",
@@ -112,7 +113,8 @@
       "icon": "./logo.png",
       "addedAt": 1648012252000,
       "kind": "downloads",
-      "downloads": 65040
+      "downloads": 65040,
+      "supportsDB": true
     },
     {
       "id": "logseq-heatmap",
@@ -123,7 +125,8 @@
       "icon": "./icon.png",
       "addedAt": 1631021796000,
       "kind": "downloads",
-      "downloads": 59010
+      "downloads": 59010,
+      "supportsDB": false
     },
     {
       "id": "logseq-agenda",
@@ -134,7 +137,8 @@
       "icon": "icon.png",
       "addedAt": 1646486302000,
       "kind": "downloads",
-      "downloads": 50066
+      "downloads": 50066,
+      "supportsDB": false
     },
     {
       "id": "logseq-link-preview",
@@ -144,7 +148,8 @@
       "author": "pengx17",
       "addedAt": 1631021584000,
       "kind": "downloads",
-      "downloads": 42208
+      "downloads": 42208,
+      "supportsDB": true
     },
     {
       "id": "logseq-block-to-page",
@@ -155,7 +160,8 @@
       "icon": "icon.png",
       "addedAt": 1632930559000,
       "kind": "downloads",
-      "downloads": 41212
+      "downloads": 41212,
+      "supportsDB": false
     },
     {
       "id": "logseq-kanban-plugin",
@@ -166,7 +172,8 @@
       "icon": "./icon.svg",
       "addedAt": 1639157968000,
       "kind": "downloads",
-      "downloads": 39149
+      "downloads": 39149,
+      "supportsDB": true
     },
     {
       "id": "logseq-awesome-ui",
@@ -177,7 +184,8 @@
       "icon": "icon.png",
       "addedAt": 1664472306000,
       "kind": "downloads",
-      "downloads": 38215
+      "downloads": 38215,
+      "supportsDB": false
     },
     {
       "id": "logseq-todo-master",
@@ -188,7 +196,8 @@
       "icon": "./logo.png",
       "addedAt": 1631021584000,
       "kind": "downloads",
-      "downloads": 37807
+      "downloads": 37807,
+      "supportsDB": false
     },
     {
       "id": "logseq-vim-shortcuts",
@@ -199,7 +208,8 @@
       "icon": "icon.png",
       "addedAt": 1640577548000,
       "kind": "downloads",
-      "downloads": 32952
+      "downloads": 32952,
+      "supportsDB": true
     },
     {
       "id": "logseq-awesome-styler",
@@ -210,7 +220,8 @@
       "icon": "icon.png",
       "addedAt": 1664733642000,
       "kind": "downloads",
-      "downloads": 31422
+      "downloads": 31422,
+      "supportsDB": true
     },
     {
       "id": "logseq-automatic-linker",
@@ -221,7 +232,8 @@
       "icon": "./logo.png",
       "addedAt": 1651697819000,
       "kind": "downloads",
-      "downloads": 31337
+      "downloads": 31337,
+      "supportsDB": false
     },
     {
       "id": "logseq-graph-analysis",
@@ -232,7 +244,8 @@
       "icon": "icon.png",
       "addedAt": 1656323540000,
       "kind": "downloads",
-      "downloads": 29786
+      "downloads": 29786,
+      "supportsDB": false
     },
     {
       "id": "logseq-awesome-links",
@@ -243,7 +256,8 @@
       "icon": "icon.png",
       "addedAt": 1663885581000,
       "kind": "downloads",
-      "downloads": 29735
+      "downloads": 29735,
+      "supportsDB": true
     },
     {
       "id": "logseq-anki-sync",
@@ -254,7 +268,8 @@
       "icon": "./icon.png",
       "addedAt": 1639308679000,
       "kind": "downloads",
-      "downloads": 29363
+      "downloads": 29363,
+      "supportsDB": true
     },
     {
       "id": "logseq-git",
@@ -265,7 +280,8 @@
       "icon": "icon.png",
       "addedAt": 1651710549000,
       "kind": "downloads",
-      "downloads": 28314
+      "downloads": 28314,
+      "supportsDB": false
     },
     {
       "id": "logseq-banners-plugin",
@@ -276,7 +292,8 @@
       "icon": "./logo.png",
       "addedAt": 1656355151000,
       "kind": "downloads",
-      "downloads": 24063
+      "downloads": 24063,
+      "supportsDB": false
     },
     {
       "id": "logseq-move-block",
@@ -287,7 +304,8 @@
       "icon": "./icon.png",
       "addedAt": 1649388185000,
       "kind": "downloads",
-      "downloads": 23903
+      "downloads": 23903,
+      "supportsDB": false
     },
     {
       "id": "logseq-calendars-plugin",
@@ -298,7 +316,8 @@
       "icon": "./icon.png",
       "addedAt": 1643369830000,
       "kind": "downloads",
-      "downloads": 23632
+      "downloads": 23632,
+      "supportsDB": false
     },
     {
       "id": "logseq-readwise-official-plugin",
@@ -309,7 +328,8 @@
       "icon": "icon.svg",
       "addedAt": 1656970886000,
       "kind": "downloads",
-      "downloads": 19349
+      "downloads": 19349,
+      "supportsDB": false
     },
     {
       "id": "logseq-emoji-picker-fork",
@@ -320,7 +340,8 @@
       "icon": "./logo.png",
       "addedAt": 1657039359000,
       "kind": "downloads",
-      "downloads": 19101
+      "downloads": 19101,
+      "supportsDB": true
     },
     {
       "id": "logseq-block-calendar",
@@ -331,7 +352,8 @@
       "icon": "icon.png",
       "addedAt": 1657782839000,
       "kind": "downloads",
-      "downloads": 18841
+      "downloads": 18841,
+      "supportsDB": false
     },
     {
       "id": "logseq-random-note",
@@ -342,7 +364,8 @@
       "icon": "icon.png",
       "addedAt": 1631757107000,
       "kind": "downloads",
-      "downloads": 18733
+      "downloads": 18733,
+      "supportsDB": false
     },
     {
       "id": "logseq-wordcount-plugin",
@@ -353,7 +376,8 @@
       "icon": "./icon.png",
       "addedAt": 1637780918000,
       "kind": "downloads",
-      "downloads": 18275
+      "downloads": 18275,
+      "supportsDB": true
     },
     {
       "id": "logseq-focus-mode",
@@ -364,7 +388,8 @@
       "icon": "icon.png",
       "addedAt": 1637215252000,
       "kind": "downloads",
-      "downloads": 18249
+      "downloads": 18249,
+      "supportsDB": false
     },
     {
       "id": "logseq-copy-code-plugin",
@@ -375,7 +400,8 @@
       "icon": "icon.png",
       "addedAt": 1652029079000,
       "kind": "downloads",
-      "downloads": 17513
+      "downloads": 17513,
+      "supportsDB": true
     },
     {
       "id": "logseq-helium-plugin",
@@ -386,7 +412,8 @@
       "icon": "icon.png",
       "addedAt": 1650781091000,
       "kind": "downloads",
-      "downloads": 15992
+      "downloads": 15992,
+      "supportsDB": false
     },
     {
       "id": "logseq-diagrams-as-code",

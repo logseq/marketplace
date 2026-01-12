@@ -3,5 +3,6 @@
   "description": "Sync, send and receive tasks to/from Todoist.",
   "author": "benjypng",
   "repo": "benjypng/logseq-todoist-plugin",
+  "supportsDB": true,
   "icon": "./icon.svg"
 }

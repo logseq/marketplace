@@ -1,5 +1,5 @@
 {
-  "datetime": 1768198864636,
+  "datetime": 1768207899142,
   "packages": [
     {
       "title": "Block pin",
@@ -146,6 +146,7 @@
       "repo": "haydenull/logseq-plugin-agenda",
       "icon": "icon.png",
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-agenda",
       "addedAt": 1646486302000
     },
@@ -211,6 +212,7 @@
         "https://github.com/sponsors/debanjandhar12",
         "https://www.buymeacoffee.com/debanjandhar12"
       ],
+      "supportsDB": true,
       "id": "logseq-anki-sync",
       "addedAt": 1639308679000
     },
@@ -316,6 +318,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
+      "supportsDB": false,
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
     },
@@ -342,6 +345,7 @@
         "https://www.buymeacoffee.com/yoyurec"
       ],
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-awesome-links",
       "addedAt": 1663885581000
     },
@@ -368,6 +372,7 @@
         "https://www.buymeacoffee.com/yoyurec"
       ],
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-awesome-styler",
       "addedAt": 1664733642000
     },
@@ -381,6 +386,7 @@
         "https://www.buymeacoffee.com/yoyurec"
       ],
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-awesome-ui",
       "addedAt": 1664472306000
     },
@@ -395,6 +401,7 @@
         "https://www.buymeacoffee.com/yoyurec"
       ],
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-banners-plugin",
       "addedAt": 1656355151000
     },
@@ -477,6 +484,7 @@
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-block-calendar",
       "addedAt": 1657782839000
     },
@@ -506,6 +514,7 @@
       "author": "hyrijk",
       "icon": "icon.png",
       "repo": "hyrijk/logseq-plugin-block-to-page",
+      "supportsDB": false,
       "id": "logseq-block-to-page",
       "addedAt": 1632930559000
     },
@@ -570,6 +579,7 @@
       "description": "Add bullet threading to your active blocks in Logseq.",
       "author": "pengx17",
       "icon": "./logo.png",
+      "supportsDB": true,
       "repo": "pengx17/logseq-plugin-bullet-threading",
       "id": "logseq-bullet-threading",
       "addedAt": 1640832284000
@@ -584,6 +594,7 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-calendars-plugin",
       "addedAt": 1643369830000
     },
@@ -668,6 +679,7 @@
       "description": "Easily create pie, line and bar charts using data from your graph.",
       "author": "benjypng",
       "repo": "benjypng/logseq-chartrender-plugin",
+      "supportsDB": true,
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-chartrender-plugin",
@@ -837,6 +849,7 @@
       "author": "vyleung",
       "icon": "icon.png",
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-copy-code-plugin",
       "addedAt": 1652029079000
     },
@@ -1112,6 +1125,7 @@
       "author": "walsvid",
       "repo": "walsvid/logseq-emoji-picker-fork",
       "icon": "./logo.png",
+      "supportsDB": true,
       "id": "logseq-emoji-picker-fork",
       "addedAt": 1657039359000
     },
@@ -1187,6 +1201,7 @@
       "repo": "xyhp915/logseq-fenced-code-plus",
       "author": "xyhp915",
       "icon": "icon.png",
+      "supportsDB": true,
       "effect": true,
       "sponsors": [
         "https://opencollective.com/logseq"
@@ -1299,6 +1314,7 @@
       "repo": "sethfair/logseq-focus-mode",
       "icon": "icon.png",
       "theme": false,
+      "supportsDB": false,
       "id": "logseq-focus-mode",
       "addedAt": 1637215252000
     },
@@ -1384,6 +1400,7 @@
       "repo": "haydenull/logseq-plugin-git",
       "icon": "icon.png",
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-git",
       "addedAt": 1651710549000
     },
@@ -1508,6 +1525,7 @@
         "https://ko-fi.com/trashhalo"
       ],
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-graph-analysis",
       "addedAt": 1656323540000
     },
@@ -1555,6 +1573,7 @@
       "repo": "pengx17/logseq-plugin-heatmap",
       "icon": "./icon.png",
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-heatmap",
       "addedAt": 1631021796000
     },
@@ -1565,6 +1584,7 @@
       "author": "vyleung",
       "icon": "icon.png",
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-helium-plugin",
       "addedAt": 1650781091000
     },
@@ -1758,6 +1778,7 @@
       "repo": "xyhp915/logseq-journals-calendar",
       "author": "xyhp915",
       "icon": "icon.png",
+      "supportsDB": true,
       "sponsors": [
         "https://opencollective.com/logseq"
       ],
@@ -1781,6 +1802,7 @@
       "repo": "benjypng/logseq-kanban-plugin",
       "icon": "./icon.svg",
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-kanban-plugin",
       "addedAt": 1639157968000
     },
@@ -1851,6 +1873,7 @@
       "author": "pengx17",
       "repo": "pengx17/logseq-plugin-link-preview",
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-link-preview",
       "addedAt": 1631021584000
     },
@@ -2021,6 +2044,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "supportsDB": true,
       "id": "logseq-mark-map",
       "addedAt": 1630664401000
     },
@@ -2030,6 +2054,7 @@
       "author": "haydenull",
       "repo": "haydenull/logseq-plugin-markdown-table",
       "icon": "icon.png",
+      "supportsDB": false,
       "id": "logseq-markdown-table",
       "addedAt": 1634897315000
     },
@@ -2250,6 +2275,7 @@
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-move-block",
       "addedAt": 1649388185000
     },
@@ -2547,6 +2573,7 @@
         "https://www.buymeacoffee.com/sawhney17"
       ],
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-pdf-export-plugin",
       "addedAt": 1648012252000
     },
@@ -2955,6 +2982,7 @@
       "repo": "briansunter/logseq-plugin-gpt3-openai",
       "icon": "./icon.png",
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-plugin-gpt3-openai",
       "addedAt": 1654399953000
     },
@@ -3675,6 +3703,7 @@
       "author": "tankcool",
       "repo": "tankcool/logseq-random-note",
       "icon": "icon.png",
+      "supportsDB": false,
       "id": "logseq-random-note",
       "addedAt": 1631757107000
     },
@@ -3696,6 +3725,7 @@
       "repo": "readwiseio/logseq-readwise-official-plugin",
       "icon": "icon.svg",
       "effect": true,
+      "supportsDB": false,
       "id": "logseq-readwise-official-plugin",
       "addedAt": 1656970886000
     },
@@ -4140,6 +4170,7 @@
       "author": "pengx17",
       "repo": "pengx17/logseq-plugin-tabs",
       "icon": "./icon.png",
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-tabs",
       "addedAt": 1631020312000
@@ -4150,6 +4181,7 @@
       "author": "Gidong Kwon",
       "repo": "gidongkwon/logseq-plugin-tags",
       "icon": "./tags-plugin-icon.png",
+      "supportsDB": true,
       "id": "logseq-tags",
       "addedAt": 1641129133000
     },
@@ -4386,6 +4418,7 @@
       "author": "pengx17",
       "icon": "./logo.png",
       "repo": "pengx17/logseq-plugin-todo-master",
+      "supportsDB": false,
       "id": "logseq-todo-master",
       "addedAt": 1631021584000
     },
@@ -4399,6 +4432,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/yuexunjiang"
       ],
+      "supportsDB": false,
       "id": "logseq-todo-plugin",
       "addedAt": 1650957186000
     },
@@ -4417,6 +4451,7 @@
       "description": "Sync, send and receive tasks to/from Todoist.",
       "author": "benjypng",
       "repo": "benjypng/logseq-todoist-plugin",
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-todoist-plugin",
       "addedAt": 1635672218000
@@ -4602,6 +4637,7 @@
       ],
       "web": true,
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-vim-shortcuts",
       "addedAt": 1640577548000
     },
@@ -4708,6 +4744,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-wordcount-plugin",
       "icon": "./icon.png",
+      "supportsDB": true,
       "id": "logseq-wordcount-plugin",
       "addedAt": 1637780918000
     },
@@ -4794,6 +4831,7 @@
       "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
       "author": "benjypng",
       "repo": "benjypng/logseq-zoterolocal-plugin",
+      "supportsDB": true,
       "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-zoterolocal-plugin",
