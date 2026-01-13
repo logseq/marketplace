@@ -1,5 +1,5 @@
 {
-  "datetime": 1768207899142,
+  "datetime": 1768288633254,
   "packages": [
     {
       "title": "Block pin",
@@ -1000,6 +1000,7 @@
       "author": "npgrosser",
       "repo": "npgrosser/logseq-diagrams-as-code",
       "icon": "icon.png",
+      "supportsDB": true,
       "id": "logseq-diagrams-as-code",
       "addedAt": 1645403023000
     },
@@ -1544,6 +1545,7 @@
       "description": "Track habits on daily journal pages.",
       "author": "c6p",
       "repo": "c6p/logseq-habit-tracker",
+      "supportsDB": false,
       "id": "logseq-habit-tracker",
       "addedAt": 1631638933000
     },
@@ -2560,6 +2562,7 @@
       "repo": "usoonees/logseq-plugin-paste-more",
       "icon": "./icon.png",
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-paste-more",
       "addedAt": 1651943131000
     },
@@ -3005,6 +3008,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
+      "supportsDB": true,
       "id": "logseq-plugin-heading-level-shortcuts",
       "addedAt": 1639976862000
     },
@@ -3499,6 +3503,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
+      "supportsDB": true,
       "id": "logseq-pomodoro-timer",
       "addedAt": 1648457268000
     },
@@ -4028,6 +4033,7 @@
       "sponsors": [
         "https://www.buymeacoffee.com/sawhney17"
       ],
+      "supportsDB": false,
       "id": "logseq-smartblocks",
       "addedAt": 1643142588000
     },
@@ -4387,6 +4393,7 @@
       "repo": "benjypng/logseq-toc-plugin",
       "icon": "./icon.svg",
       "effect": "true",
+      "supportsDB": false,
       "id": "logseq-toc-plugin",
       "addedAt": 1639677393000
     },
@@ -4903,6 +4910,7 @@
       "sponsors": [
         "https://ko-fi.com/cannibaloxxx"
       ],
+      "supportsDB": false,
       "id": "logtools",
       "addedAt": 1647486409000
     },
