@@ -1,5 +1,5 @@
 {
-  "datetime": 1768288633254,
+  "datetime": 1768289145901,
   "packages": [
     {
       "title": "Block pin",
@@ -4146,6 +4146,18 @@
       "icon": "icon.png",
       "id": "logseq-syncthing-conflicts-helper",
       "addedAt": 1765631826000
+    },
+    {
+      "id": "logseq-table-view",
+      "author": "zhaobenx",
+      "title": "Logseq Table View",
+      "description": "Logseq插件，用于以表格形式查看和编辑页面属性| Logseq plugin, used to view and edit page properties in a table form",
+      "repo": "zhaobenx/logseq-table-view",
+      "icon": "icon.svg",
+      "sponsors": [],
+      "supportsDB": false,
+      "effect": true,
+      "addedAt": 1768143094000
     },
     {
       "title": "Tabler picker",
