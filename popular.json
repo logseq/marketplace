@@ -424,7 +424,8 @@
       "icon": "icon.png",
       "addedAt": 1645403023000,
       "kind": "downloads",
-      "downloads": 14601
+      "downloads": 14601,
+      "supportsDB": true
     },
     {
       "id": "logseq-smartblocks",
@@ -435,7 +436,8 @@
       "icon": "./logo.png",
       "addedAt": 1643142588000,
       "kind": "downloads",
-      "downloads": 14261
+      "downloads": 14261,
+      "supportsDB": false
     },
     {
       "id": "logseq-toc-plugin",
@@ -446,7 +448,8 @@
       "icon": "./icon.svg",
       "addedAt": 1639677393000,
       "kind": "downloads",
-      "downloads": 13032
+      "downloads": 13032,
+      "supportsDB": false
     },
     {
       "id": "logtools",
@@ -457,7 +460,8 @@
       "icon": "icon.png",
       "addedAt": 1647486409000,
       "kind": "downloads",
-      "downloads": 12601
+      "downloads": 12601,
+      "supportsDB": false
     },
     {
       "id": "logseq-habit-tracker",
@@ -467,7 +471,8 @@
       "author": "c6p",
       "addedAt": 1631638933000,
       "kind": "downloads",
-      "downloads": 12148
+      "downloads": 12148,
+      "supportsDB": false
     },
     {
       "id": "logseq-plugin-heading-level-shortcuts",
@@ -478,7 +483,8 @@
       "icon": "icon.png",
       "addedAt": 1639976862000,
       "kind": "downloads",
-      "downloads": 11840
+      "downloads": 11840,
+      "supportsDB": true
     },
     {
       "id": "logseq-paste-more",
@@ -489,7 +495,8 @@
       "icon": "./icon.png",
       "addedAt": 1651943131000,
       "kind": "downloads",
-      "downloads": 11748
+      "downloads": 11748,
+      "supportsDB": true
     },
     {
       "id": "logseq-pomodoro-timer",
@@ -500,7 +507,8 @@
       "icon": "./icon.png",
       "addedAt": 1648457268000,
       "kind": "downloads",
-      "downloads": 11671
+      "downloads": 11671,
+      "supportsDB": true
     },
     {
       "id": "logseq-awesome-content",
