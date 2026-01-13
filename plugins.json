@@ -1,5 +1,5 @@
 {
-  "datetime": 1768289145901,
+  "datetime": 1768313884791,
   "packages": [
     {
       "title": "Block pin",
@@ -3834,6 +3834,17 @@
       "effect": true,
       "id": "logseq-richtexteditor-plugin",
       "addedAt": 1723890827000
+    },
+    {
+      "title": "Rip Bullet Points",
+      "description": "Convert Logseq pages to clean markdown by removing bullet points",
+      "author": "Dariusz Parys",
+      "repo": "dariuszparys/logseq-rip-bullet-points",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-rip-bullet-points",
+      "addedAt": 1768290518000
     },
     {
       "title": "Rosé Pine Theme",
