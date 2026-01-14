@@ -4,6 +4,9 @@
   "author": "vipzhicheng",
   "repo": "vipzhicheng/logseq-plugin-move-block",
   "icon": "./icon.png",
-  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
-  "effect": true
+  "sponsors": [
+    "https://www.buymeacoffee.com/vipzhicheng"
+  ],
+  "effect": true,
+  "supportsDB": false
 }

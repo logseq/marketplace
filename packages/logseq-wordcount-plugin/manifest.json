@@ -4,5 +4,6 @@
   "description": "Simple word counter that calculates the number of words across all nested blocks!",
   "author": "benjypng",
   "repo": "benjypng/logseq-wordcount-plugin",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "supportsDB": true
 }

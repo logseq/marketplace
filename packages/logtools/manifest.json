@@ -5,5 +5,8 @@
   "repo": "cannibalox/logtools",
   "icon": "icon.png",
   "theme": false,
-  "sponsors": ["https://ko-fi.com/cannibaloxxx"]
+  "sponsors": [
+    "https://ko-fi.com/cannibaloxxx"
+  ],
+  "supportsDB": false
 }

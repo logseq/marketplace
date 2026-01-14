@@ -1,0 +1,9 @@
+{
+  "title": "Rip Bullet Points",
+  "description": "Convert Logseq pages to clean markdown by removing bullet points",
+  "author": "Dariusz Parys",
+  "repo": "dariuszparys/logseq-rip-bullet-points",
+  "icon": "./icon.svg",
+  "effect": true,
+  "supportsDB": true
+}

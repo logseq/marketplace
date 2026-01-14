@@ -8,5 +8,6 @@
     "https://www.buymeacoffee.com/vipzhicheng"
   ],
   "web": true,
-  "effect": true
+  "effect": true,
+  "supportsDB": true
 }

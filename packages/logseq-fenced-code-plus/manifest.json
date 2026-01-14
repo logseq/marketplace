@@ -4,6 +4,7 @@
   "repo": "xyhp915/logseq-fenced-code-plus",
   "author": "xyhp915",
   "icon": "icon.png",
+  "supportsDB": true,
   "effect": true,
   "sponsors": [
     "https://opencollective.com/logseq"
