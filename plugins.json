@@ -1,5 +1,5 @@
 {
-  "datetime": 1768313884791,
+  "datetime": 1768399043771,
   "packages": [
     {
       "title": "Block pin",
@@ -4365,6 +4365,16 @@
       "effect": true,
       "id": "logseq-time-tracking-updater",
       "addedAt": 1734279872000
+    },
+    {
+      "title": "Logseq Timebox Calendar",
+      "description": "A calendar sidebar plugin for Logseq that lets you visualize and manage your scheduled tasks in a timebox-style calendar view.",
+      "author": "yusuf",
+      "repo": "yusuf8834/logseq-timebox",
+      "icon": "./list-details.png",
+      "supportsDB": false,
+      "id": "logseq-timebox",
+      "addedAt": 1767928505000
     },
     {
       "title": "TimePicker",
