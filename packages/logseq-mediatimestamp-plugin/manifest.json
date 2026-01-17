@@ -1,0 +1,10 @@
+{
+	"title": "logseq-mediatimestamp-plugin",
+	"name": "logseq-mediatimestamp-plugin",
+	"description": "Inserts timestamps for locally uploaded videos.",
+	"author": "benjypng",
+	"repo": "benjypng/logseq-mediatimestamp-plugin",
+	"icon": "./icon.svg",
+	"effect": true,
+	"supportsDb": true
+}
