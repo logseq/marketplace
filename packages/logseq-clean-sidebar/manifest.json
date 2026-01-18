@@ -1,0 +1,12 @@
+  {
+    "id": "logseq-clean-sidebar",
+    "name": "Clean Sidebar",
+    "author": "uxdreaming",
+    "version": "0.1.0",
+    "description": "Clean up Logseq sidebar by hiding unused elements, sorting favorites, and filtering recents",
+    "repository": "https://github.com/uxdreaming/LogSeq-Clean-Sidebar",
+    "icon": "./icon.svg",
+    "theme": false,
+    "main": "dist/index.js",
+    "effect": true
+  }
