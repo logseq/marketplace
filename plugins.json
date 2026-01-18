@@ -1,5 +1,5 @@
 {
-  "datetime": 1768399043771,
+  "datetime": 1768708911840,
   "packages": [
     {
       "title": "Block pin",
@@ -2123,6 +2123,18 @@
       "effect": true,
       "id": "logseq-media-controls",
       "addedAt": 1650667009000
+    },
+    {
+      "title": "logseq-mediatimestamp-plugin",
+      "name": "logseq-mediatimestamp-plugin",
+      "description": "Inserts timestamps for locally uploaded videos.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-mediatimestamp-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDb": true,
+      "id": "logseq-mediatimestamp-plugin",
+      "addedAt": 1768623551000
     },
     {
       "title": "Memos Sync",
