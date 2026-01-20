@@ -5,6 +5,7 @@
   "repo": "zhaochunqi/logseq-livephotos-plugin",
   "icon": "./logo.svg",
   "effect": true,
-  "sponsors": []
+  "sponsors": [],
+  "supportsDB": false
 }
 

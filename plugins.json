@@ -1,5 +1,5 @@
 {
-  "datetime": 1768708911840,
+  "datetime": 1768905032760,
   "packages": [
     {
       "title": "Block pin",
@@ -1918,6 +1918,18 @@
       "effect": true,
       "id": "logseq-live-math",
       "addedAt": 1692713055000
+    },
+    {
+      "title": "Live Photos Plugin",
+      "description": "Add live photos support to Logseq with enhanced media handling and interactive features.",
+      "author": "zhaochunqi",
+      "repo": "zhaochunqi/logseq-livephotos-plugin",
+      "icon": "./logo.svg",
+      "effect": true,
+      "sponsors": [],
+      "supportsDB": false,
+      "id": "logseq-livephotos-plugin",
+      "addedAt": 1768838499000
     },
     {
       "title": "Local Telegram Bot",
