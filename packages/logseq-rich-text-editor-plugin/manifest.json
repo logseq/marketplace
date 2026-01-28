@@ -1,0 +1,10 @@
+{
+  "title": "RichTextEditor",
+  "description": "A rich text editor.",
+  "author": "jarray & deepseek",
+  "repo": "jarraytan/logseq-rich-text-editor-plugin",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": true,
+  "supportsDB": false
+}
