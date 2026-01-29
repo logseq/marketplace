@@ -1,5 +1,5 @@
 {
-  "datetime": 1768905032760,
+  "datetime": 1769680037787,
   "packages": [
     {
       "title": "Block pin",
@@ -3597,6 +3597,19 @@
       "addedAt": 1759286714000
     },
     {
+      "title": "Logseq Priority Sorter",
+      "description": "Assign A/B/C priorities to blocks and sort them accordingly",
+      "author": "Koshiro K (@koshirok096)",
+      "repo": "koshirok096/logseq-priority-sorter-plugin",
+      "icon": "icon.png",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "id": "logseq-priority-sorter-plugin",
+      "addedAt": 1753947897000
+    },
+    {
       "title": "logseq-privacy-mode",
       "description": "Hide or encrypt all children of blocks with user-defined tags.",
       "author": "duydl",
@@ -3847,6 +3860,18 @@
       "icon": "./icon.svg",
       "id": "logseq-renamedates-plugin",
       "addedAt": 1721441481000
+    },
+    {
+      "title": "RichTextEditor",
+      "description": "A rich text editor.",
+      "author": "jarray & deepseek",
+      "repo": "jarraytan/logseq-rich-text-editor-plugin",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": true,
+      "supportsDB": false,
+      "id": "logseq-rich-text-editor-plugin",
+      "addedAt": 1769590910000
     },
     {
       "title": "logseq-richtexteditor-plugin",
