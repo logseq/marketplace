@@ -1,5 +1,5 @@
 {
-  "datetime": 1769680037787,
+  "datetime": 1769843659422,
   "packages": [
     {
       "title": "Block pin",
@@ -1163,6 +1163,19 @@
       "effect": true,
       "id": "logseq-excalidraw",
       "addedAt": 1682508566000
+    },
+    {
+      "title": "Logseq Excalidraw DB",
+      "description": "Premium, Apple-style Excalidraw integration with DB storage and Chinese font support.",
+      "author": "Eason",
+      "repo": "GeoffBao/logseq-excalidraw-db",
+      "icon": "logo.png",
+      "theme": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-excalidraw-db",
+      "addedAt": 1769620739000
     },
     {
       "title": "Export Block",
@@ -2961,6 +2974,20 @@
       "addedAt": 1688009639000
     },
     {
+      "title": "Flexible date format",
+      "description": "Localize date format. Or switch to style of the selected format.",
+      "author": "YU000jp",
+      "repo": "YU000jp/logseq-plugin-flex-date-format",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://www.buymeacoffee.com/yu000japan"
+      ],
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-plugin-flex-date-format",
+      "addedAt": 1692748519000
+    },
+    {
       "title": "Logseq Misskey Plugin",
       "description": "LogseqからMisskeyにノートを投稿したりLogseqにMisskeyのノートを埋め込めるようになります",
       "author": "minimarimo3",
@@ -3104,19 +3131,6 @@
       "effect": true,
       "id": "logseq-plugin-legacy-date-format",
       "addedAt": 1692447938000
-    },
-    {
-      "title": "Flexible date format",
-      "description": "Localize date format. Or switch to style of the selected format.",
-      "author": "YU000jp",
-      "repo": "YU000jp/logseq-plugin-flex-date-format",
-      "icon": "./icon.png",
-      "sponsors": [
-        "https://www.buymeacoffee.com/yu000japan"
-      ],
-      "effect": true,
-      "id": "logseq-plugin-legacy-date-format copy",
-      "addedAt": 1692759682886
     },
     {
       "title": "Logging Search",
