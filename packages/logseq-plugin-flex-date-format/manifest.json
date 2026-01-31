@@ -4,6 +4,9 @@
   "author": "YU000jp",
   "repo": "YU000jp/logseq-plugin-flex-date-format",
   "icon": "./icon.png",
-  "sponsors": ["https://www.buymeacoffee.com/yu000japan"],
-  "effect": true
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true,
+  "supportsDB": true
 }
