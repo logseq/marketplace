@@ -1,11 +1,11 @@
 {
-    "title": "Logseq Excalidraw DB",
-    "description": "Premium, Apple-style Excalidraw integration with DB storage and Chinese font support.",
-    "author": "Eason",
-    "repo": "GeoffBao/logseq-excalidraw-db",
-    "icon": "logo.png",
-    "theme": false,
-    "effect": false,
-    "supportsDB": true,
-    "supportsDBOnly": true
+  "title": "Logseq Excalidraw DB",
+  "description": "Premium, Apple-style Excalidraw integration with DB storage and Chinese font support.",
+  "author": "Eason",
+  "repo": "GeoffBao/logseq-excalidraw-db",
+  "icon": "logo.png",
+  "theme": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
 }
