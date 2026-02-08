@@ -2,7 +2,9 @@
   "title": "Todoist Backup",
   "description": "Logseq plugin that keeps a read-only backup of all Todoist tasks inside a dedicated page of your graph",
   "author": "avelino",
-  "repo":"avelino/logseq-todoist-backup",
+  "repo": "avelino/logseq-todoist-backup",
   "icon": "icon.png",
+  "supportsDb": true,
+  "supportsDbOnly": true,
   "effect": true
 }

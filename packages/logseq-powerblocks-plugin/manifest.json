@@ -4,5 +4,6 @@
   "description": "Create regular or button templates by simply tagging a block, and use them together to create powerful templates.",
   "author": "benjypng",
   "repo": "benjypng/logseq-powerblocks-plugin",
+  "supportsDb": true,
   "icon": "./icon.svg"
 }

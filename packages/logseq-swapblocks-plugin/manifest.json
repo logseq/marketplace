@@ -4,5 +4,6 @@
   "description": "Simple plugin to swap a reference block with its original block and preserve it's other references.",
   "author": "benjypng",
   "repo": "benjypng/logseq-swapblocks-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "supportsDb": true
 }

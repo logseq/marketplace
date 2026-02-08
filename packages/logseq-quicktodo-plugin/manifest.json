@@ -3,5 +3,6 @@
   "description": "This simple plugin helps you to insert a TODO item on your today's journal page, without navigating to it.",
   "author": "benjypng",
   "repo": "benjypng/logseq-quicktodo-plugin",
+  "supportsDb": true,
   "icon": "./icon.svg"
 }

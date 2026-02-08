@@ -4,5 +4,6 @@
   "description": "A progressive summarisation plugin that emulates the workflow found in Tiago Forte's Building a Second Brain",
   "author": "benjypng",
   "repo": "benjypng/logseq-psummarise-plugin",
+  "supportsDb": true,
   "icon": "./icon.svg"
 }

@@ -6,5 +6,7 @@
   "repo": "benjypng/logseq-zoterolocal-plugin",
   "supportsDB": true,
   "icon": "./icon.svg",
-  "effect": true
+  "effect": true,
+  "supportsDb": true,
+  "supportsDbOnly": true
 }

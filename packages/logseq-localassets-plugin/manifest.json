@@ -5,5 +5,6 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-localassets-plugin",
   "icon": "./icon.svg",
+  "supportsDb": true,
   "effect": true
 }

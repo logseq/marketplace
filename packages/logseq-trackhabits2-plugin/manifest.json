@@ -4,5 +4,6 @@
   "description": "Easily track your habits by just tagging your TODO list with #habit-tracker !",
   "author": "benjypng",
   "repo": "benjypng/logseq-trackhabits2-plugin",
+  "supportsDb": true,
   "icon": "./icon.svg"
 }
