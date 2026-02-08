@@ -3,7 +3,7 @@
   "description": "Renders [base]^^(annotation) ruby/furigana markup inline, following the Markdown Ruby proposal.",
   "author": "Baksi Li <myself@baksili.codes>",
   "repo": "baksili/logseq-furigana-ruby",
-  "icon": "icon.svg",
+  "icon": "icon.png",
   "theme": false,
   "effect": false
 }
