@@ -4,5 +4,7 @@
   "description": "Simple plugin to help merge pages.",
   "author": "benjypng",
   "repo": "benjypng/logseq-mergepages-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "supportsDb": true,
+  "supportsDbOnly": true
 }

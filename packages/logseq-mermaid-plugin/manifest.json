@@ -5,5 +5,7 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-mermaid-plugin",
   "icon": "./icon.svg",
-  "effect": true
+  "effect": true,
+  "supportsDb": true,
+  "supportsDbOnly": true
 }

@@ -4,5 +4,6 @@
   "description": "This plugin offers a calendar from within Logseq that captures your blocks with event parameters in a calendar view.",
   "author": "benjypng",
   "repo": "benjypng/logseq-calview-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "supportsDb": true
 }

@@ -4,5 +4,7 @@
   "description": "A powerful, sidecar-style fuzzy search and replace utility for Logseq.",
   "author": "benjypng",
   "repo": "benjypng/logseq-bettersearch-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "supportsDb": true,
+  "supportsDbOnly": true
 }

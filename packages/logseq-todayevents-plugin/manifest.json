@@ -1,7 +1,8 @@
 {
-	"title": "logseq-todayevents-plugin",
-	"description": "Import today's events from a .ics file and insert it into your graph based on your template.",
-	"author": "benjypng",
-	"repo": "benjypng/logseq-todayevents-plugin",
-	"icon": "./icon.svg"
+  "title": "logseq-todayevents-plugin",
+  "description": "Import today's events from a .ics file and insert it into your graph based on your template.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-todayevents-plugin",
+  "icon": "./icon.svg",
+  "supportsDb": true
 }

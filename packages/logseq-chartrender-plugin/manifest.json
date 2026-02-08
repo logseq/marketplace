@@ -4,7 +4,8 @@
   "description": "Easily create pie, line and bar charts using data from your graph.",
   "author": "benjypng",
   "repo": "benjypng/logseq-chartrender-plugin",
-  "supportsDB": true,
   "icon": "./icon.svg",
+  "supportsDb": true,
+  "supportsDbOnly": true,
   "effect": true
 }

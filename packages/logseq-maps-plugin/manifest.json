@@ -5,5 +5,7 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-maps-plugin",
   "icon": "./icon.svg",
+  "supportsDb": true,
+  "supportsDbOnly": true,
   "effect": true
 }

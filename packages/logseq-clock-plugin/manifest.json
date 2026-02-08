@@ -4,5 +4,6 @@
   "description": "This simple plugin puts in a clock in your toolbar. Offers the option to show seconds or in 12/24 hour formats.",
   "author": "benjypng",
   "repo": "benjypng/logseq-clock-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "supportsDb": true
 }

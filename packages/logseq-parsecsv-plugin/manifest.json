@@ -4,5 +4,6 @@
   "description": "Easily upload a CSV file and convert it into a table in Logseq!",
   "author": "benjypng",
   "repo": "benjypng/logseq-parsecsv-plugin",
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "supportsDb": true
 }

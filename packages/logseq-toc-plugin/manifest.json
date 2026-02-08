@@ -6,5 +6,7 @@
   "repo": "benjypng/logseq-toc-plugin",
   "icon": "./icon.svg",
   "effect": "true",
-  "supportsDB": false
+  "supportsDb": true,
+  "supportsDbOnly": true
 }
+
