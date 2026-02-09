@@ -4,6 +4,9 @@
   "author": "dmeents",
   "repo": "dmeents/pretty-logseq",
   "icon": "pretty-logseq-logo.png",
+  "sponsors": [
+    "https://www.patreon.com/cw/DavidMeents"
+  ],
   "theme": false,
   "effect": false,
   "supportsDB": true
