@@ -1,0 +1,13 @@
+{
+  "title": "Pretty Logseq",
+  "description": "Enhance your graph with beautiful popovers, refined typography, styled properties, streamlined sidebar, and polished tables — all theme-aware and configurable.",
+  "author": "dmeents",
+  "repo": "dmeents/pretty-logseq",
+  "icon": "pretty-logseq-logo.png",
+  "sponsors": [
+    "https://www.patreon.com/cw/DavidMeents"
+  ],
+  "theme": false,
+  "effect": false,
+  "supportsDB": true
+}
