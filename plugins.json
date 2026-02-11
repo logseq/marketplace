@@ -1,5 +1,5 @@
 {
-  "datetime": 1770530014238,
+  "datetime": 1770788357958,
   "packages": [
     {
       "title": "Block pin",
@@ -1384,6 +1384,17 @@
       "effect": true,
       "id": "logseq-furigana",
       "addedAt": 1682760159000
+    },
+    {
+      "title": "Furigana Ruby (^^ Syntax)",
+      "description": "Renders [base]^^(annotation) ruby/furigana markup inline, following the Markdown Ruby proposal.",
+      "author": "Baksi Li <myself@baksili.codes>",
+      "repo": "baksili/logseq-furigana-ruby",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": true,
+      "id": "logseq-furigana-ruby",
+      "addedAt": 1770393524000
     },
     {
       "title": "Logseq Gallery",
@@ -5091,6 +5102,21 @@
       "effect": true,
       "id": "ollama-logseq",
       "addedAt": 1699224300000
+    },
+    {
+      "title": "Pretty Logseq",
+      "description": "Enhance your graph with beautiful popovers, refined typography, styled properties, streamlined sidebar, and polished tables — all theme-aware and configurable.",
+      "author": "dmeents",
+      "repo": "dmeents/pretty-logseq",
+      "icon": "pretty-logseq-logo.png",
+      "sponsors": [
+        "https://www.patreon.com/cw/DavidMeents"
+      ],
+      "theme": false,
+      "effect": false,
+      "supportsDB": true,
+      "id": "pretty-logseq",
+      "addedAt": 1770591989000
     },
     {
       "title": "SamePage",

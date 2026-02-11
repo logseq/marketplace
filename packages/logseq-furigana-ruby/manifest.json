@@ -5,5 +5,5 @@
   "repo": "baksili/logseq-furigana-ruby",
   "icon": "icon.png",
   "theme": false,
-  "effect": false
+  "effect": true
 }
