@@ -1,0 +1,80 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="256" height="256" rx="48" fill="#051419"/>
+
+  <!-- Glow effects -->
+  <defs>
+    <filter id="glow-mint" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-violet" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="mint-gradient" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#00FFC2" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00FFC2" stop-opacity="0.6"/>
+    </radialGradient>
+    <radialGradient id="violet-gradient" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#9D65FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#9D65FF" stop-opacity="0.6"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Main design: Abstract bioluminescent jellyfish/flower fusion -->
+
+  <!-- Central glow orb -->
+  <circle cx="128" cy="110" r="28" fill="url(#mint-gradient)" filter="url(#glow-mint)" opacity="0.8"/>
+
+  <!-- Organic tendrils/petals emanating from center -->
+
+  <!-- Tendril 1 - Top left -->
+  <path d="M 128 110 Q 90 70, 70 50" stroke="#00FFC2" stroke-width="4" fill="none" stroke-linecap="round" filter="url(#glow-mint)" opacity="0.9"/>
+  <circle cx="70" cy="50" r="6" fill="#00FFC2" filter="url(#glow-mint)"/>
+
+  <!-- Tendril 2 - Top right -->
+  <path d="M 128 110 Q 166 70, 186 50" stroke="#9D65FF" stroke-width="4" fill="none" stroke-linecap="round" filter="url(#glow-violet)" opacity="0.9"/>
+  <circle cx="186" cy="50" r="6" fill="#9D65FF" filter="url(#glow-violet)"/>
+
+  <!-- Tendril 3 - Left -->
+  <path d="M 128 110 Q 80 110, 50 105" stroke="#00FFC2" stroke-width="3.5" fill="none" stroke-linecap="round" filter="url(#glow-mint)" opacity="0.85"/>
+  <circle cx="50" cy="105" r="5" fill="#00FFC2" filter="url(#glow-mint)"/>
+
+  <!-- Tendril 4 - Right -->
+  <path d="M 128 110 Q 176 110, 206 105" stroke="#9D65FF" stroke-width="3.5" fill="none" stroke-linecap="round" filter="url(#glow-violet)" opacity="0.85"/>
+  <circle cx="206" cy="105" r="5" fill="#9D65FF" filter="url(#glow-violet)"/>
+
+  <!-- Tendril 5 - Bottom left long -->
+  <path d="M 128 110 Q 100 150, 85 190 Q 80 210, 75 225" stroke="#9D65FF" stroke-width="5" fill="none" stroke-linecap="round" filter="url(#glow-violet)" opacity="0.9"/>
+  <circle cx="75" cy="225" r="7" fill="#9D65FF" filter="url(#glow-violet)"/>
+
+  <!-- Tendril 6 - Bottom center -->
+  <path d="M 128 110 Q 128 160, 128 200" stroke="#00FFC2" stroke-width="5" fill="none" stroke-linecap="round" filter="url(#glow-mint)" opacity="0.95"/>
+  <circle cx="128" cy="200" r="8" fill="#00FFC2" filter="url(#glow-mint)"/>
+
+  <!-- Tendril 7 - Bottom right long -->
+  <path d="M 128 110 Q 156 150, 171 190 Q 176 210, 181 225" stroke="#00FFC2" stroke-width="5" fill="none" stroke-linecap="round" filter="url(#glow-mint)" opacity="0.9"/>
+  <circle cx="181" cy="225" r="7" fill="#00FFC2" filter="url(#glow-mint)"/>
+
+  <!-- Secondary smaller tendrils for organic feel -->
+  <path d="M 128 110 Q 110 135, 100 155" stroke="#9D65FF" stroke-width="2.5" fill="none" stroke-linecap="round" filter="url(#glow-violet)" opacity="0.7"/>
+  <circle cx="100" cy="155" r="4" fill="#9D65FF" filter="url(#glow-violet)" opacity="0.8"/>
+
+  <path d="M 128 110 Q 146 135, 156 155" stroke="#00FFC2" stroke-width="2.5" fill="none" stroke-linecap="round" filter="url(#glow-mint)" opacity="0.7"/>
+  <circle cx="156" cy="155" r="4" fill="#00FFC2" filter="url(#glow-mint)" opacity="0.8"/>
+
+  <!-- Small particle effects around the design -->
+  <circle cx="95" cy="90" r="2" fill="#00FFC2" opacity="0.6" filter="url(#glow-mint)"/>
+  <circle cx="161" cy="90" r="2" fill="#9D65FF" opacity="0.6" filter="url(#glow-violet)"/>
+  <circle cx="110" cy="180" r="2.5" fill="#9D65FF" opacity="0.5" filter="url(#glow-violet)"/>
+  <circle cx="146" cy="180" r="2.5" fill="#00FFC2" opacity="0.5" filter="url(#glow-mint)"/>
+  <circle cx="60" cy="130" r="1.5" fill="#9D65FF" opacity="0.4"/>
+  <circle cx="196" cy="130" r="1.5" fill="#00FFC2" opacity="0.4"/>
+</svg>
