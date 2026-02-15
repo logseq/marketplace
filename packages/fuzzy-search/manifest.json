@@ -1,0 +1,7 @@
+{
+  "title": "Fuzzy Search",
+  "description": "Fuzzy search for Logseq with typo tolerance and relevance ranking.",
+  "author": "Peter Denham",
+  "repo": "peterdenham/logseq-fuzzy-search",
+  "icon": "./icon.svg",
+}
