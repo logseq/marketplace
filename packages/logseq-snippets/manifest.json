@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Snippets",
+  "description": "A powerful text expansion plugin with dynamic variables, multi-line support, and smart features. Transform short triggers into longer text with {date}, {time}, {clipboard} variables, import/export, and customizable behavior.",
+  "author": "Martin Möller",
+  "repo": "martinmoeller/logseq-snippets",
+  "icon": "icon.svg",
+  "theme": false
+}
