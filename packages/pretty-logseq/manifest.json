@@ -8,6 +8,6 @@
     "https://www.patreon.com/cw/DavidMeents"
   ],
   "theme": false,
-  "effect": false,
+  "effect": true,
   "supportsDB": true
 }
