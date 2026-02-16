@@ -5,6 +5,6 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-powertags-plugin",
   "icon": "./icon.svg",
-  "supportsDb": false,
+  "supportsDB": false,
   "effect": true
 }

@@ -1,5 +1,5 @@
 {
-  "datetime": 1770788357958,
+  "datetime": 1771215129930,
   "packages": [
     {
       "title": "Block pin",
@@ -68,6 +68,17 @@
       "icon": "icon.png",
       "id": "flomo_memos_sync",
       "addedAt": 1652944875000
+    },
+    {
+      "title": "Fuzzy Search",
+      "description": "Fuzzy search for Logseq with typo tolerance and relevance ranking.",
+      "author": "Peter Denham",
+      "repo": "peterdenham/logseq-fuzzy-search",
+      "icon": "./icon.svg",
+      "effect": false,
+      "supportsDB": true,
+      "id": "fuzzy-search",
+      "addedAt": 1771126791000
     },
     {
       "title": "OddBox - Gruvbox Theme for LogSeq",
@@ -448,8 +459,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-bettersearch-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-bettersearch-plugin",
       "addedAt": 1767461338000
     },
@@ -633,7 +644,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-calview-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "id": "logseq-calview-plugin",
       "addedAt": 1645373555000
     },
@@ -683,8 +694,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-chartrender-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "effect": true,
       "id": "logseq-chartrender-plugin",
       "addedAt": 1640968345000
@@ -775,7 +786,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-clock-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "id": "logseq-clock-plugin",
       "addedAt": 1669778695000
     },
@@ -954,8 +965,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-datenlp-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "effect": false,
       "id": "logseq-datenlp-plugin",
       "addedAt": 1642436252000
@@ -1280,7 +1291,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-filterpage-plugin",
       "icon": "./icon.svg",
-      "supportsDb": false,
+      "supportsDB": false,
       "effect": true,
       "id": "logseq-filterpage-plugin",
       "addedAt": 1725090030000
@@ -1365,8 +1376,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-freehand-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "effect": true,
       "id": "logseq-freehand-plugin",
       "addedAt": 1767073541000
@@ -1848,7 +1859,7 @@
       "description": "Keeps track of your most used keywords, just for fun!",
       "author": "benjypng",
       "repo": "benjypng/logseq-keywordfrequency-plugin",
-      "supportsDb": true,
+      "supportsDB": true,
       "icon": "./icon.png",
       "id": "logseq-keywordfrequency-plugin",
       "addedAt": 1641389611000
@@ -1983,7 +1994,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-localassets-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-localassets-plugin",
       "addedAt": 1641044165000
@@ -2081,8 +2092,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-maps-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "effect": true,
       "id": "logseq-maps-plugin",
       "addedAt": 1642346622000
@@ -2182,8 +2193,8 @@
       "repo": "benjypng/logseq-mediatimestamp-plugin",
       "icon": "./icon.svg",
       "effect": true,
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-mediatimestamp-plugin",
       "addedAt": 1768623551000
     },
@@ -2213,8 +2224,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-mergepages-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-mergepages-plugin",
       "addedAt": 1639916353000
     },
@@ -2226,8 +2237,8 @@
       "repo": "benjypng/logseq-mermaid-plugin",
       "icon": "./icon.svg",
       "effect": true,
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-mermaid-plugin",
       "addedAt": 1644721606000
     },
@@ -2407,8 +2418,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-nodebuddy-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-nodebuddy-plugin",
       "addedAt": 1768016038000
     },
@@ -2568,7 +2579,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-pandoc-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-pandoc-plugin",
       "addedAt": 1724502937000
@@ -2622,7 +2633,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-parsecsv-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "id": "logseq-parsecsv-plugin",
       "addedAt": 1646395235000
     },
@@ -3606,7 +3617,7 @@
       "description": "Create regular or button templates by simply tagging a block, and use them together to create powerful templates.",
       "author": "benjypng",
       "repo": "benjypng/logseq-powerblocks-plugin",
-      "supportsDb": true,
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-powerblocks-plugin",
       "addedAt": 1676894072000
@@ -3618,7 +3629,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-powertags-plugin",
       "icon": "./icon.svg",
-      "supportsDb": false,
+      "supportsDB": false,
       "effect": true,
       "id": "logseq-powertags-plugin",
       "addedAt": 1671120490000
@@ -3699,7 +3710,7 @@
       "description": "A progressive summarisation plugin that emulates the workflow found in Tiago Forte's Building a Second Brain",
       "author": "benjypng",
       "repo": "benjypng/logseq-psummarise-plugin",
-      "supportsDb": true,
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-psummarise-plugin",
       "addedAt": 1649602740000
@@ -3766,7 +3777,7 @@
       "description": "This simple plugin helps you to insert a TODO item on your today's journal page, without navigating to it.",
       "author": "benjypng",
       "repo": "benjypng/logseq-quicktodo-plugin",
-      "supportsDb": true,
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-quicktodo-plugin",
       "addedAt": 1643357356000
@@ -3818,7 +3829,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-randomutils-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-randomutils-plugin",
       "addedAt": 1676894072000
@@ -3921,7 +3932,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-renamedates-plugin",
       "icon": "./icon.svg",
-      "supportsDb": false,
+      "supportsDB": false,
       "id": "logseq-renamedates-plugin",
       "addedAt": 1721441481000
     },
@@ -3944,7 +3955,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-richtexteditor-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-richtexteditor-plugin",
       "addedAt": 1723890827000
@@ -4145,7 +4156,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-sliders-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-sliders-plugin",
       "addedAt": 1646970193000
@@ -4261,7 +4272,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-swapblocks-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "id": "logseq-swapblocks-plugin",
       "addedAt": 1642056804000
     },
@@ -4305,7 +4316,7 @@
       "description": "Render tables with basic math functions using data from your blocks",
       "author": "benjypng",
       "repo": "benjypng/logseq-tablerender-plugin",
-      "supportsDb": true,
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-tablerender-plugin",
       "addedAt": 1640357390000
@@ -4543,8 +4554,8 @@
       "repo": "benjypng/logseq-toc-plugin",
       "icon": "./icon.svg",
       "effect": "true",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-toc-plugin",
       "addedAt": 1639677393000
     },
@@ -4554,7 +4565,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-todayevents-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "id": "logseq-todayevents-plugin",
       "addedAt": 1721441481000
     },
@@ -4601,8 +4612,8 @@
       "author": "avelino",
       "repo": "avelino/logseq-todoist-backup",
       "icon": "icon.png",
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "effect": true,
       "id": "logseq-todoist-backup",
       "addedAt": 1759398382000
@@ -4632,7 +4643,7 @@
       "description": "Easily track your habits by just tagging your TODO list with #habit-tracker !",
       "author": "benjypng",
       "repo": "benjypng/logseq-trackhabits2-plugin",
-      "supportsDb": true,
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-trackhabits2-plugin",
       "addedAt": 1641544884000
@@ -4680,7 +4691,7 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-tweet-plugin",
       "icon": "./icon.svg",
-      "supportsDb": true,
+      "supportsDB": true,
       "effect": true,
       "id": "logseq-tweet-plugin",
       "addedAt": 1643178114000
@@ -4947,7 +4958,7 @@
       "description": "This simple plugin leverages on btford's write-good plugin to offer English prose suggestions to your writing. All suggestions are provided locally and no data is sent to any external servers.",
       "author": "benjypng",
       "repo": "benjypng/logseq-writegood-plugin",
-      "supportsDb": true,
+      "supportsDB": true,
       "icon": "./icon.svg",
       "id": "logseq-writegood-plugin",
       "addedAt": 1650554953000
@@ -4998,8 +5009,7 @@
       "supportsDB": true,
       "icon": "./icon.svg",
       "effect": true,
-      "supportsDb": true,
-      "supportsDbOnly": true,
+      "supportsDBOnly": true,
       "id": "logseq-zoterolocal-plugin",
       "addedAt": 1723222792000
     },
@@ -5113,7 +5123,7 @@
         "https://www.patreon.com/cw/DavidMeents"
       ],
       "theme": false,
-      "effect": false,
+      "effect": true,
       "supportsDB": true,
       "id": "pretty-logseq",
       "addedAt": 1770591989000

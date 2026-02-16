@@ -4,5 +4,5 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-todayevents-plugin",
   "icon": "./icon.svg",
-  "supportsDb": true
+  "supportsDB": true
 }

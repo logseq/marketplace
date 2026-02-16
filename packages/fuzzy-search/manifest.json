@@ -4,4 +4,6 @@
   "author": "Peter Denham",
   "repo": "peterdenham/logseq-fuzzy-search",
   "icon": "./icon.svg",
+  "effect": false,
+  "supportsDB": true
 }

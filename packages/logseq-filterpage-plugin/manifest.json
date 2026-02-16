@@ -5,6 +5,6 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-filterpage-plugin",
   "icon": "./icon.svg",
-  "supportsDb": false,
+  "supportsDB": false,
   "effect": true
 }

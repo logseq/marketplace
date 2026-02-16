@@ -5,5 +5,5 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-renamedates-plugin",
   "icon": "./icon.svg",
-  "supportsDb": false
+  "supportsDB": false
 }
