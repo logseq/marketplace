@@ -1,5 +1,5 @@
 {
-  "datetime": 1771215129930,
+  "datetime": 1771294881025,
   "packages": [
     {
       "title": "Block pin",
@@ -4173,6 +4173,18 @@
       "supportsDB": false,
       "id": "logseq-smartblocks",
       "addedAt": 1643142588000
+    },
+    {
+      "title": "Logseq Snippets",
+      "description": "A powerful text expansion plugin with dynamic variables, multi-line support, and smart features. Transform short triggers into longer text with {date}, {time}, {clipboard} variables, import/export, and customizable behavior.",
+      "author": "Martin Möller",
+      "repo": "martinmoeller/logseq-snippets",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "supportsDB": false,
+      "id": "logseq-snippets",
+      "addedAt": 1771169581000
     },
     {
       "title": "Sort blocks",

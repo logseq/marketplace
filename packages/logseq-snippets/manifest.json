@@ -4,5 +4,7 @@
   "author": "Martin Möller",
   "repo": "martinmoeller/logseq-snippets",
   "icon": "icon.svg",
-  "theme": false
+  "theme": false,
+  "effect": true,
+  "supportsDB": false
 }
