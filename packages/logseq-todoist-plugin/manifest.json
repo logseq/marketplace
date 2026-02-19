@@ -4,5 +4,6 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-todoist-plugin",
   "supportsDB": true,
-  "icon": "./icon.svg"
+  "icon": "./icon.svg",
+  "effect": true
 }
