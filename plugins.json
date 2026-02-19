@@ -1,5 +1,5 @@
 {
-  "datetime": 1771294881025,
+  "datetime": 1771487704607,
   "packages": [
     {
       "title": "Block pin",
@@ -473,6 +473,16 @@
       "effect": true,
       "id": "logseq-bidi",
       "addedAt": 1692823029000
+    },
+    {
+      "title": "Biolume 26 Theme",
+      "description": "A futuristic organic theme blending Digital Flora with Electric Bioluminescence aesthetics. Features Neo-Mint and Electric Violet accents in dark mode, Deep Teal and Coral in light mode.",
+      "author": "Martin Möller",
+      "repo": "martinmoeller/logseq-biolume-26-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "id": "logseq-biolume-26-theme",
+      "addedAt": 1771090724000
     },
     {
       "title": "Bionic Speedreader",
@@ -4637,6 +4647,7 @@
       "repo": "benjypng/logseq-todoist-plugin",
       "supportsDB": true,
       "icon": "./icon.svg",
+      "effect": true,
       "id": "logseq-todoist-plugin",
       "addedAt": 1635672218000
     },
