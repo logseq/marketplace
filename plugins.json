@@ -1,5 +1,5 @@
 {
-  "datetime": 1771487704607,
+  "datetime": 1771794386653,
   "packages": [
     {
       "title": "Block pin",
@@ -332,6 +332,21 @@
       "supportsDB": false,
       "id": "logseq-automatic-linker",
       "addedAt": 1651697819000
+    },
+    {
+      "title": "Automatic Linker International",
+      "description": "A plugin to automatically create links.",
+      "author": "Marat Zimnurov",
+      "repo": "the-homeless-god/logseq-automatic-linker-international",
+      "icon": "",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-automatic-linker-international",
+      "addedAt": 1771794386631
     },
     {
       "title": "Awesome Content",
