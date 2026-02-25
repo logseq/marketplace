@@ -1,0 +1,13 @@
+{
+  "title": "Automatic Linker International",
+  "description": "A plugin to automatically create links.",
+  "author": "Marat Zimnurov",
+  "repo": "the-homeless-god/logseq-automatic-linker-international",
+  "icon": "",
+  "theme": false,
+  "sponsors": [],
+  "web": false,
+  "effect": false,
+  "supportsDB": false,
+  "supportsDBOnly": false
+}
