@@ -1,0 +1,7 @@
+{
+  "title": "Block to page next",
+  "description": "Turn block into page. (forked from hyrijk/logseq-plugin-block-to-page)",
+  "author": "b-yp",
+  "icon": "logo.svg",
+  "repo": "b-yp/logseq-plugin-block-to-page"
+}
