@@ -5240,6 +5240,13 @@
       "theme": true,
       "id": "xypora-print-theme",
       "addedAt": 1760749797000
+    },
+    {
+    "id": "logseq-phone-bridge",
+    "url": "https://github.com/shrimansoft/logseq-upload-image",
+    "description": "Transfer images from phone to Logseq locally via WebRTC/SSE (No Internet Required).",
+    "author": "shrimansoft"
     }
+    
   ]
 }
