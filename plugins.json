@@ -1,5 +1,5 @@
 {
-  "datetime": 1771999695954,
+  "datetime": 1772411920086,
   "packages": [
     {
       "title": "Block pin",
@@ -270,6 +270,17 @@
       "icon": "icon.png",
       "id": "logseq-assets-plus",
       "addedAt": 1697553832000
+    },
+    {
+      "title": "Async Task Timer",
+      "description": "Set countdown reminders on delegated/async tasks. Get notified when it's time to check back.",
+      "author": "hzphzp",
+      "repo": "hzphzp/logseq-async-task-timer",
+      "icon": "logo.svg",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-async-task-timer",
+      "addedAt": 1771923189000
     },
     {
       "title": "Atlas Theme",
