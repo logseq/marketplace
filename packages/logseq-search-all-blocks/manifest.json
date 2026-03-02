@@ -1,0 +1,7 @@
+{
+  "title": "Search ALL Blocks",
+  "description": "A Logseq plugin to search all documents with arbitrary characters",
+  "author": "RhettTien",
+  "repo": "RhettTien/logseq-search-all-blocks",
+  "icon": "icon.svg"
+}
