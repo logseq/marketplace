@@ -1,5 +1,5 @@
 {
-  "datetime": 1772411920086,
+  "datetime": 1772602612128,
   "packages": [
     {
       "title": "Block pin",
@@ -2745,6 +2745,17 @@
       "addedAt": 1651909596000
     },
     {
+      "title": "logseq-pdf-translator",
+      "description": "A PDF mouse hover translator.",
+      "author": "ZYJ-3721",
+      "repo": "ZYJ-3721/logseq-pdf-translator",
+      "icon": "./icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-pdf-translator",
+      "addedAt": 1772530699000
+    },
+    {
       "title": "Pen",
       "description": "Add a pen mode to Logseq",
       "author": "vipzhicheng",
@@ -4126,6 +4137,17 @@
       "effect": true,
       "id": "logseq-shallow-copy",
       "addedAt": 1700828837000
+    },
+    {
+      "title": "Logseq Shell",
+      "description": "Dockable terminal panel for Logseq (requires launching a local daemon service)",
+      "author": "Kun Ran",
+      "repo": "rankun203/logseq-shell",
+      "icon": "icon.svg",
+      "supportsDB": false,
+      "theme": false,
+      "id": "logseq-shell",
+      "addedAt": 1772537801000
     },
     {
       "title": "Show GitHub Star",
