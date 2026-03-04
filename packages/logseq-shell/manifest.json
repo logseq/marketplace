@@ -1,0 +1,9 @@
+{
+  "title": "Logseq Shell",
+  "description": "Dockable terminal panel for Logseq (requires launching a local daemon service)",
+  "author": "Kun Ran",
+  "repo": "rankun203/logseq-shell",
+  "icon": "icon.svg",
+  "supportsDB": false,
+  "theme": false
+}
