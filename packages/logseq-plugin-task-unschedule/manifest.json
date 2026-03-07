@@ -1,0 +1,8 @@
+{
+  "title": "Task Unschedule",
+  "description": "Automatically removes SCHEDULED property when to-do items are marked as complete",
+  "author": "Tim Waugh",
+  "repo": "twaugh/logseq-plugin-task-unschedule",
+  "icon": "icon.png",
+  "supportsDB": false
+}
