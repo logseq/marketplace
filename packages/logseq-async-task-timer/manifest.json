@@ -3,7 +3,7 @@
   "description": "Set countdown reminders on delegated/async tasks. Get notified when it's time to check back.",
   "author": "hzphzp",
   "repo": "hzphzp/logseq-async-task-timer",
-  "icon": "icon.png",
+  "icon": "logo.svg",
   "theme": false,
   "effect": false
 }
