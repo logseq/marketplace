@@ -1,5 +1,5 @@
 {
-  "datetime": 1772849854262,
+  "datetime": 1772957759915,
   "packages": [
     {
       "title": "Block pin",
@@ -1102,6 +1102,17 @@
       "effect": true,
       "id": "logseq-display-math",
       "addedAt": 1686398234000
+    },
+    {
+      "title": "Doc Agent",
+      "description": "An AI assistant for Logseq",
+      "author": "Stefan Kaufmann",
+      "repo": "secondbrain-tools/logseq-doc-agent",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": false,
+      "id": "logseq-doc-agent",
+      "addedAt": 1772916268000
     },
     {
       "title": "DONE time",
