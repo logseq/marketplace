@@ -1,5 +1,5 @@
 {
-  "datetime": 1772957759915,
+  "datetime": 1773029241388,
   "packages": [
     {
       "title": "Block pin",
@@ -3963,6 +3963,17 @@
       "effect": true,
       "id": "logseq-regex-linker",
       "addedAt": 1709462142000
+    },
+    {
+      "title": "Reminder Notifications (DB)",
+      "description": "Desktop + in-app reminders for scheduled blocks in Logseq Database (DB) graphs. Native OS notifications, multiple warning times, quiet hours, and all-day support.",
+      "author": "Joemnewton",
+      "repo": "Joemnewton/logseq-reminder-notifications-db",
+      "icon": "./icon.svg",
+      "effect": false,
+      "supportsDB": true,
+      "id": "logseq-reminder-notifications-db",
+      "addedAt": 1772831445000
     },
     {
       "title": "Remove empty blocks",
