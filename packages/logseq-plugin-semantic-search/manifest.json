@@ -4,5 +4,8 @@
   "author": "Tim Waugh",
   "repo": "twaugh/logseq-plugin-semantic-search",
   "icon": "icon.png",
+  "sponsors": [
+    "https://buymeacoffee.com/twaugh"
+  ],
   "supportsDB": false
 }
