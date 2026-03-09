@@ -4,5 +4,8 @@
   "author": "Tim Waugh",
   "repo": "twaugh/logseq-plugin-task-unschedule",
   "icon": "icon.png",
+  "sponsors": [
+    "https://buymeacoffee.com/twaugh"
+  ],
   "supportsDB": false
 }
