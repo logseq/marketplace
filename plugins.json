@@ -1,5 +1,5 @@
 {
-  "datetime": 1773029241388,
+  "datetime": 1773108989393,
   "packages": [
     {
       "title": "Block pin",
@@ -1901,6 +1901,17 @@
       "addedAt": 1639157968000
     },
     {
+      "title": "Karakeep Bookmarks Sync",
+      "description": "Sync bookmarks from Karakeep into Logseq DB with configurable bookmark tag and properties.",
+      "author": "gercollo",
+      "repo": "gercollo/karakeep-logseqdb",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-karakeep-plugin",
+      "addedAt": 1773067070000
+    },
+    {
       "title": "logseq-keywordfrequency-plugin",
       "name": "logseq-keywordfrequency-plugin",
       "description": "Keeps track of your most used keywords, just for fun!",
@@ -2405,6 +2416,19 @@
       "supportsDB": false,
       "id": "logseq-move-block",
       "addedAt": 1649388185000
+    },
+    {
+      "title": "Move Block",
+      "description": "Move blocks to any page or journal with slash commands, shortcuts, or context menu. For Logseq DB graphs.",
+      "author": "Joemnewton",
+      "repo": "Joemnewton/logseq-move-block-db",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": false,
+      "supportsDB": true,
+      "sponsors": [],
+      "id": "logseq-move-block-db",
+      "addedAt": 1773063265000
     },
     {
       "title": "Movies",
