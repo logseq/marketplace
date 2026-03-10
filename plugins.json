@@ -1,5 +1,5 @@
 {
-  "datetime": 1773108989393,
+  "datetime": 1773110503356,
   "packages": [
     {
       "title": "Block pin",
@@ -3472,6 +3472,19 @@
       "addedAt": 1697259873000
     },
     {
+      "title": "Semantic Search",
+      "description": "Search your Logseq notes by meaning, not just keywords",
+      "author": "Tim Waugh",
+      "repo": "twaugh/logseq-plugin-semantic-search",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://buymeacoffee.com/twaugh"
+      ],
+      "supportsDB": false,
+      "id": "logseq-plugin-semantic-search",
+      "addedAt": 1772818053000
+    },
+    {
       "title": "Short Namespaces",
       "description": "Abbreviated representation for namespaces (hierarchy)",
       "author": "YU000jp",
@@ -3558,6 +3571,19 @@
       "effect": true,
       "id": "logseq-plugin-task-suggest",
       "addedAt": 1748167363000
+    },
+    {
+      "title": "Task Unschedule",
+      "description": "Automatically removes SCHEDULED property when to-do items are marked as complete",
+      "author": "Tim Waugh",
+      "repo": "twaugh/logseq-plugin-task-unschedule",
+      "icon": "icon.png",
+      "sponsors": [
+        "https://buymeacoffee.com/twaugh"
+      ],
+      "supportsDB": false,
+      "id": "logseq-plugin-task-unschedule",
+      "addedAt": 1772791317000
     },
     {
       "title": "Template Block from Toolbar",
