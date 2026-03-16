@@ -1,5 +1,5 @@
 {
-  "datetime": 1773110503356,
+  "datetime": 1773629031105,
   "packages": [
     {
       "title": "Block pin",
@@ -5074,6 +5074,21 @@
       "effect": true,
       "id": "logseq-wordpress-export",
       "addedAt": 1667069699000
+    },
+    {
+      "title": "Worktime Table",
+      "description": "Enter worktime rows and create a Markdown table. Export as CSV.",
+      "author": "wiegi",
+      "repo": "wiegi/logseq-worktime-table",
+      "icon": "./icon.svg",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-worktime-table",
+      "addedAt": 1773565548000
     },
     {
       "title": "Woz theme",
