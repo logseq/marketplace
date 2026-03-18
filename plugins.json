@@ -1,5 +1,5 @@
 {
-  "datetime": 1773629031105,
+  "datetime": 1773818631736,
   "packages": [
     {
       "title": "Block pin",
@@ -881,6 +881,17 @@
       "effect": true,
       "id": "logseq-composer",
       "addedAt": 1744406282000
+    },
+    {
+      "title": "Con§tel",
+      "description": "Split view: interactive constellation graph alongside the native editor. Navigate your knowledge graph with search, property filters, and navigation history.",
+      "author": "hspencer",
+      "repo": "hspencer/logseq-constel",
+      "icon": "./icon.svg",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-constel",
+      "addedAt": 1773741046000
     },
     {
       "title": "Logseq Copilot",
@@ -4868,7 +4879,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-readwise-plugin",
       "icon": "./icon.png",
-      "effect": true,
+      "supportsDb": true,
+      "supportsDbOnly": true,
       "id": "logseq-unofficial-readwise-plugin",
       "addedAt": 1638939906000
     },
