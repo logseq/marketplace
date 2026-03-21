@@ -1,5 +1,5 @@
 {
-  "datetime": 1773818631736,
+  "datetime": 1774062034359,
   "packages": [
     {
       "title": "Block pin",
@@ -178,6 +178,16 @@
       "effect": true,
       "id": "logseq-ai-auto-tags",
       "addedAt": 1698845571000
+    },
+    {
+      "title": "AI Journal for Logseq",
+      "description": "Import AI-written daily journal markdown into Logseq journal pages with /journal.",
+      "author": "John Lin",
+      "repo": "John-Lin/logseq-journal-plugin",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-ai-journal",
+      "addedAt": 1773939989000
     },
     {
       "title": "AI Query generator",
@@ -5094,7 +5104,9 @@
       "repo": "wiegi/logseq-worktime-table",
       "icon": "./icon.svg",
       "theme": false,
-      "sponsors": [],
+      "sponsors": [
+        "https://www.buymeacoffee.com/wiegi"
+      ],
       "web": false,
       "effect": false,
       "supportsDB": false,

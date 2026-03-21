@@ -3,5 +3,6 @@
   "description": "Import AI-written daily journal markdown into Logseq journal pages with /journal.",
   "author": "John Lin",
   "repo": "John-Lin/logseq-journal-plugin",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "effect": true
 }
