@@ -1,5 +1,5 @@
 {
-  "datetime": 1774062034359,
+  "datetime": 1774171193313,
   "packages": [
     {
       "title": "Block pin",
@@ -2810,6 +2810,21 @@
       "supportsDB": true,
       "id": "logseq-pdf-translator",
       "addedAt": 1772530699000
+    },
+    {
+      "title": "PeaceMind Theme",
+      "description": "😌 A calming, minimalist Logseq theme with 7 peaceful color palettes.",
+      "author": "phenrique-coder",
+      "repo": "phenrique-coder/logseq-peacemind-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "sponsors": [
+        "https://buymeacoffee.com/phenrique.coder"
+      ],
+      "effect": true,
+      "web": true,
+      "id": "logseq-peacemind-theme",
+      "addedAt": 1774090691000
     },
     {
       "title": "Pen",
