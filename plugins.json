@@ -1,5 +1,5 @@
 {
-  "datetime": 1774171193313,
+  "datetime": 1774601665420,
   "packages": [
     {
       "title": "Block pin",
@@ -1308,6 +1308,16 @@
       ],
       "id": "logseq-fenced-code-plus",
       "addedAt": 1651558701000
+    },
+    {
+      "title": "Fetch TODOs",
+      "description": "Fetch TODO items from a referenced page and insert links to selected tasks.",
+      "author": "Akshat",
+      "repo": "ak127a/logseq-fetch-todos-plugin",
+      "icon": "logo.png",
+      "supportsDB": false,
+      "id": "logseq-fetch-todos-plugin",
+      "addedAt": 1774586926000
     },
     {
       "title": "Figma Integration",
