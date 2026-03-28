@@ -3,7 +3,7 @@
   "description": "Focused document-style writing mode for Logseq.",
   "author": "FelixHuoEZ with Codex",
   "repo": "FelixHuoEZ/logseq-prose-mode",
-  "icon": "icon.svg",
+  "icon": "icon.png",
   "theme": false,
   "web": false,
   "supportsDB": false
