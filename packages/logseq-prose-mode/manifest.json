@@ -5,6 +5,7 @@
   "repo": "FelixHuoEZ/logseq-prose-mode",
   "icon": "icon.png",
   "theme": false,
+  "effect": true,
   "web": false,
   "supportsDB": false
 }

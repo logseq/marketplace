@@ -1,5 +1,5 @@
 {
-  "datetime": 1774658010226,
+  "datetime": 1774681428505,
   "packages": [
     {
       "title": "Block pin",
@@ -3867,6 +3867,19 @@
       ],
       "id": "logseq-property-visualizer",
       "addedAt": 1643142701000
+    },
+    {
+      "title": "Prose Mode",
+      "description": "Focused document-style writing mode for Logseq.",
+      "author": "FelixHuoEZ with Codex",
+      "repo": "FelixHuoEZ/logseq-prose-mode",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "id": "logseq-prose-mode",
+      "addedAt": 1774671537000
     },
     {
       "title": "logseq-psummarise-plugin",
