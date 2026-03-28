@@ -1,5 +1,5 @@
 {
-  "datetime": 1774601665420,
+  "datetime": 1774658010226,
   "packages": [
     {
       "title": "Block pin",
@@ -801,6 +801,16 @@
       "theme": false,
       "id": "logseq-chinese-tools",
       "addedAt": 1659905299000
+    },
+    {
+      "title": "CipherBlock – OpenPGP Encryption",
+      "description": "OpenPGP-compatible encryption and decryption of block content with multi-recipient support, vault pages, and GnuPG compatibility",
+      "author": "indraginanjar",
+      "repo": "indraginanjar/cipherblock-logseq-openpgp-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-cipherblock",
+      "addedAt": 1774607489000
     },
     {
       "title": "Citation Manager",
