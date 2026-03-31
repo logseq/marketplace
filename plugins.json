@@ -1,5 +1,5 @@
 {
-  "datetime": 1774744117282,
+  "datetime": 1774930493279,
   "packages": [
     {
       "title": "Block pin",
@@ -5026,6 +5026,17 @@
       "supportsDb": true,
       "id": "logseq-vimeditor-plugin",
       "addedAt": 1774705846000
+    },
+    {
+      "title": "Virtual Directory Tree",
+      "description": "File-explorer-style tree view for namespaced pages with drag & drop, sorting, and context menu.",
+      "repo": "KazunagaIida/Logseq-Virtual-Directory-Tree-Plugin",
+      "author": "kiida",
+      "icon": "logo.svg",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-virtual-directory-tree",
+      "addedAt": 1774877833000
     },
     {
       "title": "WakaTime",
