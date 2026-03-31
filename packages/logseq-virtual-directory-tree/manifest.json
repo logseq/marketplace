@@ -1,0 +1,9 @@
+{
+  "title": "Virtual Directory Tree",
+  "description": "File-explorer-style tree view for namespaced pages with drag & drop, sorting, and context menu.",
+  "repo": "KazunagaIida/Logseq-Virtual-Directory-Tree-Plugin",
+  "author": "kiida",
+  "icon": "logo.svg",
+  "theme": false,
+  "effect": false
+}
