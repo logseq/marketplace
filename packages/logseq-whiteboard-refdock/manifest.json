@@ -1,7 +1,7 @@
 {
   "title": "Whiteboard RefDock",
   "description": "Review saved linked and unlinked reference snapshots in a dedicated dock while working on a Logseq whiteboard.",
-  "author": "Felix Huo",
+  "author": "FelixHuoEZ",
   "repo": "FelixHuoEZ/logseq-whiteboard-refdock",
   "icon": "icon.png",
   "effect": true,
