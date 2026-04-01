@@ -1,5 +1,5 @@
 {
-  "datetime": 1774930493279,
+  "datetime": 1775007469744,
   "packages": [
     {
       "title": "Block pin",
@@ -5102,6 +5102,19 @@
       "effect": true,
       "id": "logseq-whisper-subtitles",
       "addedAt": 1697224114000
+    },
+    {
+      "title": "Whiteboard RefDock",
+      "description": "Review saved linked and unlinked reference snapshots in a dedicated dock while working on a Logseq whiteboard.",
+      "author": "FelixHuoEZ",
+      "repo": "FelixHuoEZ/logseq-whiteboard-refdock",
+      "icon": "icon.png",
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-whiteboard-refdock",
+      "addedAt": 1774972255000
     },
     {
       "title": "Wide Eyed",
