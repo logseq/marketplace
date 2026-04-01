@@ -1,5 +1,5 @@
 {
-  "datetime": 1775007469744,
+  "datetime": 1775040855137,
   "packages": [
     {
       "title": "Block pin",
@@ -3976,6 +3976,17 @@
       "icon": "./raindrop.svg",
       "id": "logseq-raindrop",
       "addedAt": 1652431122000
+    },
+    {
+      "title": "Logseq-Raindrop",
+      "description": "integrate raindrop to logseq with tags",
+      "author": "Sterling",
+      "repo": "shangjihao/logseq-raindrop",
+      "icon": "./raindrop.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-raindrop-2",
+      "addedAt": 1775029025000
     },
     {
       "title": "Random Block",
