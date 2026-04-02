@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Local Custom Theme Loader icon">
+  <defs>
+    <linearGradient id="badge" x1="8" x2="56" y1="8" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="48" height="48" rx="14" fill="url(#badge)"/>
+  <path d="M23 22h18a3 3 0 0 1 3 3v8a3 3 0 0 1-.88 2.12L34 44a3 3 0 0 1-4.24 0l-9.12-8.88A3 3 0 0 1 20 33v-8a3 3 0 0 1 3-3Z" fill="#f8fafc" opacity="0.96"/>
+  <circle cx="38" cy="28" r="2.5" fill="#0f766e"/>
+</svg>

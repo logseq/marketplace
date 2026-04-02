@@ -1,0 +1,8 @@
+{
+    "title":  "Degrande Colors",
+    "description":  "Tag colors and live gradient controls for Logseq DB graphs.",
+    "author":  "mugpet",
+    "repo":  "mugpet/logseq-db-degrande-colors",
+    "icon":  "./icon.svg",
+    "supportsDBOnly":  true
+}
