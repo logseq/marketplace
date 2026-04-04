@@ -1,5 +1,5 @@
 {
-  "datetime": 1775040855137,
+  "datetime": 1775280433906,
   "packages": [
     {
       "title": "Block pin",
@@ -59,6 +59,17 @@
       "effect": true,
       "id": "darwis-mathlive-plugin",
       "addedAt": 1681456468000
+    },
+    {
+      "title": "Degrande Colors",
+      "description": "A styling panel for Logseq DB graphs with tag colors, live gradients, and quick visual controls.",
+      "author": "mugpet",
+      "repo": "mugpet/logseq-db-degrande-colors",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "degrande-colors",
+      "addedAt": 1775134940000
     },
     {
       "title": "flomo_memos_sync",
