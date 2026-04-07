@@ -5,5 +5,8 @@
   "author": "kiida",
   "icon": "logo.svg",
   "theme": false,
-  "effect": false
+  "effect": false,
+  "sponsors": [
+    "https://www.buymeacoffee.com/kiida"
+  ]
 }
