@@ -1,5 +1,5 @@
 {
-  "datetime": 1775280433906,
+  "datetime": 1775621862174,
   "packages": [
     {
       "title": "Block pin",
@@ -2708,6 +2708,17 @@
       "addedAt": 1724502937000
     },
     {
+      "title": "Logseq Panes Mode",
+      "description": "A tiling window manager for Logseq's right sidebar",
+      "author": "Satoriq",
+      "repo": "Satoriq/logseq-panes-mode",
+      "icon": "./logo.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-panes-mode",
+      "addedAt": 1775571088000
+    },
+    {
       "title": "Logseq Pangu",
       "description": "此插件会自动将 Logseq 中所有的中文字和半形的英文、数字、符号之间插入空白，汉学家称这个空白字元为「盘古之白」，因为它劈开了全形字和半形字之间的混沌。",
       "author": "b-yp",
@@ -5057,6 +5068,9 @@
       "icon": "logo.svg",
       "theme": false,
       "effect": false,
+      "sponsors": [
+        "https://www.buymeacoffee.com/kiida"
+      ],
       "id": "logseq-virtual-directory-tree",
       "addedAt": 1774877833000
     },

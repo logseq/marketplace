@@ -4,5 +4,6 @@
   "author": "Satoriq",
   "repo": "Satoriq/logseq-panes-mode",
   "icon": "./logo.svg",
-  "effect": true
+  "effect": true,
+  "supportsDB": true
 }
