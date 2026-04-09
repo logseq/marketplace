@@ -1,5 +1,5 @@
 {
-  "datetime": 1775718984937,
+  "datetime": 1775739916329,
   "packages": [
     {
       "title": "Block pin",
@@ -66,6 +66,7 @@
       "author": "mugpet",
       "repo": "mugpet/logseq-db-degrande-colors",
       "icon": "icon.svg",
+      "effect": true,
       "supportsDB": true,
       "supportsDBOnly": true,
       "id": "degrande-colors",
