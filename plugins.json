@@ -1,5 +1,5 @@
 {
-  "datetime": 1775621862174,
+  "datetime": 1775718984937,
   "packages": [
     {
       "title": "Block pin",
@@ -5401,6 +5401,15 @@
       "effect": true,
       "id": "ollama-logseq",
       "addedAt": 1699224300000
+    },
+    {
+      "title": "Plain Text Kanban",
+      "description": "Renders markdown lists as kanban boards with drag and drop, image support, checklist, archive functionality, labels and swimlanes.",
+      "author": "Marco Mandia",
+      "repo": "marcomandy/logseq-kanban-plugin",
+      "icon": "./icon.svg",
+      "id": "plain-text-kanban",
+      "addedAt": 1775641453000
     },
     {
       "title": "Pretty Logseq",
