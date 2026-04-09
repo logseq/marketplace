@@ -4,6 +4,7 @@
   "author": "mugpet",
   "repo": "mugpet/logseq-db-degrande-colors",
   "icon": "icon.svg",
+  "effect": true,
   "supportsDB": true,
   "supportsDBOnly": true
 }
