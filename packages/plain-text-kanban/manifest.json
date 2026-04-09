@@ -1,0 +1,6 @@
+{
+  "title": "Plain Text Kanban",
+  "description": "Renders markdown lists as kanban boards with drag and drop, image support, checklist, archive functionality, labels and swimlanes." ,
+  "author": "Marco Mandia",
+  "repo":"marcomandy/logseq-kanban-plugin"
+}
