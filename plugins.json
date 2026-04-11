@@ -1,5 +1,5 @@
 {
-  "datetime": 1775739916329,
+  "datetime": 1775897212790,
   "packages": [
     {
       "title": "Block pin",
@@ -2087,6 +2087,16 @@
       "supportsDB": false,
       "id": "logseq-livephotos-plugin",
       "addedAt": 1768838499000
+    },
+    {
+      "title": "Logseq LLM",
+      "description": "Plugin that connects LLM with OpenAI compatible API to Logseq",
+      "author": "Eugene Kamenev",
+      "repo": "eugene-kamenev/logseq-llm-plugin",
+      "icon": "icon.png",
+      "supportsDB": true,
+      "id": "logseq-llm",
+      "addedAt": 1775831513000
     },
     {
       "title": "Local Telegram Bot",
