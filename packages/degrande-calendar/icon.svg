@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Degrande Calendar icon">
+  <defs>
+    <linearGradient id="calendarShell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="calendarBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#dcfce7"/>
+    </linearGradient>
+  </defs>
+  <rect x="14" y="18" width="100" height="96" rx="24" fill="url(#calendarShell)"/>
+  <rect x="22" y="34" width="84" height="72" rx="18" fill="url(#calendarBody)"/>
+  <rect x="32" y="14" width="10" height="26" rx="5" fill="#d1fae5"/>
+  <rect x="86" y="14" width="10" height="26" rx="5" fill="#ffedd5"/>
+  <rect x="30" y="46" width="68" height="10" rx="5" fill="#0f766e" opacity="0.16"/>
+  <rect x="32" y="66" width="16" height="12" rx="6" fill="#0f766e"/>
+  <rect x="56" y="66" width="16" height="12" rx="6" fill="#14b8a6"/>
+  <rect x="80" y="66" width="16" height="12" rx="6" fill="#f97316"/>
+  <rect x="32" y="84" width="40" height="10" rx="5" fill="#0f766e" opacity="0.2"/>
+  <rect x="78" y="84" width="18" height="10" rx="5" fill="#f97316" opacity="0.36"/>
+</svg>
