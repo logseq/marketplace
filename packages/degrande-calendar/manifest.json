@@ -4,5 +4,6 @@
   "author": "mugpet",
   "repo": "mugpet/logseq-db-degrande-calendar",
   "icon": "icon.svg",
-  "effect": true
+  "effect": true,
+  "supportsDBOnly": true
 }
