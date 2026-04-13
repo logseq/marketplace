@@ -1,0 +1,9 @@
+{
+  "title": "Degrande Calendar",
+  "description": "Degrande Calendar adds a focused week bar to Logseq DB journals with fast day navigation and animated week browsing.",
+  "author": "mugpet",
+  "repo": "mugpet/logseq-db-degrande-calendar",
+  "icon": "icon.svg",
+  "effect": true,
+  "supportsDBOnly": true
+}
