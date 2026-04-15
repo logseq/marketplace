@@ -1,5 +1,5 @@
 {
-  "datetime": 1776216987072,
+  "datetime": 1776238946792,
   "packages": [
     {
       "title": "Block pin",
@@ -78,6 +78,7 @@
       "repo": "mugpet/logseq-db-degrande-calendar",
       "icon": "icon.svg",
       "effect": true,
+      "supportsDB": true,
       "supportsDBOnly": true,
       "id": "degrande-calendar",
       "addedAt": 1776032077000
