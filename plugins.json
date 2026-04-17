@@ -1,5 +1,5 @@
 {
-  "datetime": 1776238946792,
+  "datetime": 1776401106307,
   "packages": [
     {
       "title": "Block pin",
@@ -67,6 +67,7 @@
       "repo": "mugpet/logseq-db-degrande-bullet-threading",
       "icon": "icon.svg",
       "effect": true,
+      "supportsDB": true,
       "supportsDBOnly": true,
       "id": "degrande-bullet-threading",
       "addedAt": 1776179494000
@@ -114,6 +115,17 @@
       "supportsDB": true,
       "id": "fuzzy-search",
       "addedAt": 1771126791000
+    },
+    {
+      "title": "GitSeq",
+      "description": "Encrypted git sync for Logseq. One keystroke to commit & push.",
+      "author": "Maxim Khomiakov",
+      "repo": "pihalf/gitseq",
+      "icon": "logo.png",
+      "theme": false,
+      "effect": false,
+      "id": "gitseq",
+      "addedAt": 1776249481000
     },
     {
       "title": "OddBox - Gruvbox Theme for LogSeq",
@@ -3380,6 +3392,17 @@
       "effect": true,
       "id": "logseq-plugin-legacy-date-format",
       "addedAt": 1692447938000
+    },
+    {
+      "title": "LinSeq",
+      "description": "Linear integration for Logseq — link issues, post comments, track sprints from your journal.",
+      "author": "Maxim Khomiakov",
+      "repo": "pihalf/linseq",
+      "icon": "logo.png",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-plugin-linear",
+      "addedAt": 1776249481000
     },
     {
       "title": "Logging Search",
