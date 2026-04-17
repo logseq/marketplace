@@ -1,0 +1,8 @@
+{
+  "title": "File Explorer",
+  "description": "Obsidian-style file explorer for Logseq's left sidebar — Files & Pages views, right-click menu, drag-and-drop.",
+  "author": "kendreaditya",
+  "repo": "kendreaditya/logseq-file-explorer",
+  "icon": "icon.svg",
+  "theme": false
+}
