@@ -4,5 +4,6 @@
   "author": "kendreaditya",
   "repo": "kendreaditya/logseq-file-explorer",
   "icon": "icon.svg",
-  "theme": false
+  "theme": false,
+  "effect": true
 }
