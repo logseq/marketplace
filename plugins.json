@@ -1,5 +1,5 @@
 {
-  "datetime": 1776492979649,
+  "datetime": 1776664272632,
   "packages": [
     {
       "title": "Block pin",
@@ -5484,6 +5484,17 @@
       "supportsDB": true,
       "id": "pretty-logseq",
       "addedAt": 1770591989000
+    },
+    {
+      "title": "Resurface",
+      "description": "Passive re-exposure to your past. Injects a section above Linked References on every journal page showing one bullet block per rung of a time-decay ladder (1d, 3d, 1w, 2w, 1mo, 2mo, 6mo, 1y, 2y, 5y, 10y).",
+      "author": "kendreaditya",
+      "repo": "kendreaditya/resurface",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "id": "resurface",
+      "addedAt": 1776462394000
     },
     {
       "title": "SamePage",

@@ -4,5 +4,6 @@
   "author": "kendreaditya",
   "repo": "kendreaditya/resurface",
   "icon": "icon.svg",
-  "theme": false
+  "theme": false,
+  "effect": true
 }
