@@ -1,6 +1,17 @@
 {
-  "datetime": 1776664272632,
+  "datetime": 1776829647529,
   "packages": [
+    {
+      "title": "Archivist",
+      "description": "D&D 5e toolkit: parchment stat blocks, spells, magic items, inline dice tags, in-place editing, and full SRD compendium.",
+      "author": "Shinoobi",
+      "repo": "archivist-gg/archivist-logseq-plugin",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": true,
+      "id": "archivist-gg",
+      "addedAt": 1776766208000
+    },
     {
       "title": "Block pin",
       "description": "Add \"Paste as pin\" shortcut for pdf and editor blocks.",

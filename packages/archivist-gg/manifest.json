@@ -4,5 +4,6 @@
   "author": "Shinoobi",
   "repo": "archivist-gg/archivist-logseq-plugin",
   "icon": "icon.png",
-  "theme": false
+  "theme": false,
+  "effect": true
 }
