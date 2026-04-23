@@ -1,5 +1,5 @@
 {
-  "datetime": 1776829647529,
+  "datetime": 1776918283009,
   "packages": [
     {
       "title": "Archivist",
@@ -1823,6 +1823,17 @@
       "icon": "./icon.svg",
       "id": "logseq-hypothesis",
       "addedAt": 1631638933000
+    },
+    {
+      "title": "Logseq iCal Sync",
+      "description": "Import events from Google Calendar, iCloud, Outlook, and any iCal-compatible source into your daily notes. Community-maintained fork of the Calendar Plugin with fixes for recurring event timezones, deleted/declined event filtering, and rescheduled event handling.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/logseq-calendars-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "supportsDB": false,
+      "id": "logseq-ical-sync",
+      "addedAt": 1776854774000
     },
     {
       "title": "logseq-image-auto-resizer",
