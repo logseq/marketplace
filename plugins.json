@@ -1,5 +1,5 @@
 {
-  "datetime": 1776918283009,
+  "datetime": 1777022108668,
   "packages": [
     {
       "title": "Archivist",
@@ -5470,6 +5470,16 @@
       "repo": "Angboo/logwidgets",
       "id": "logwidgets",
       "addedAt": 1656151446000
+    },
+    {
+      "title": "Multi PDF Viewer",
+      "description": "View multiple PDFs side-by-side directly inside Logseq",
+      "author": "lenn07",
+      "repo": "lenn07/multi-pdf-viewer-logseq",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "multi-pdf-viewer",
+      "addedAt": 1777014826000
     },
     {
       "title": "Nord theme",

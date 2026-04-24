@@ -3,5 +3,6 @@
   "description": "View multiple PDFs side-by-side directly inside Logseq",
   "author": "lenn07",
   "repo": "lenn07/multi-pdf-viewer-logseq",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "effect": true
 }
