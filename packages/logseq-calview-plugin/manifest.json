@@ -5,5 +5,5 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-calview-plugin",
   "icon": "./icon.svg",
-  "supportsDb": true
+  "supportsDB": true
 }

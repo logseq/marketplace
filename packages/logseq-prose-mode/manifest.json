@@ -1,0 +1,11 @@
+{
+  "title": "Prose Mode",
+  "description": "Focused document-style writing mode for Logseq.",
+  "author": "FelixHuoEZ with Codex",
+  "repo": "FelixHuoEZ/logseq-prose-mode",
+  "icon": "icon.png",
+  "theme": false,
+  "effect": true,
+  "web": false,
+  "supportsDB": false
+}

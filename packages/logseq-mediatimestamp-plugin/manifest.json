@@ -6,6 +6,6 @@
   "repo": "benjypng/logseq-mediatimestamp-plugin",
   "icon": "./icon.svg",
   "effect": true,
-  "supportsDb": true,
-  "supportsDbOnly": true
+  "supportsDB": true,
+  "supportsDBOnly": true
 }

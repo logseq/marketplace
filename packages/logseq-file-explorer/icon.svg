@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2e3440"/>
+      <stop offset="1" stop-color="#1a1d24"/>
+    </linearGradient>
+    <linearGradient id="folder" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#88c0d0"/>
+      <stop offset="1" stop-color="#5e81ac"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#bg)"/>
+  <path d="M24 42 L24 98 Q24 104 30 104 L98 104 Q104 104 104 98 L104 52 Q104 46 98 46 L58 46 L50 38 L30 38 Q24 38 24 44 Z" fill="url(#folder)" opacity="0.95"/>
+  <rect x="34" y="58" width="44" height="3" rx="1.5" fill="#eceff4" opacity="0.85"/>
+  <rect x="34" y="70" width="60" height="3" rx="1.5" fill="#eceff4" opacity="0.65"/>
+  <rect x="34" y="82" width="36" height="3" rx="1.5" fill="#eceff4" opacity="0.45"/>
+  <circle cx="92" cy="60" r="2" fill="#a3be8c"/>
+  <circle cx="92" cy="72" r="2" fill="#ebcb8b"/>
+  <circle cx="92" cy="84" r="2" fill="#bf616a"/>
+</svg>

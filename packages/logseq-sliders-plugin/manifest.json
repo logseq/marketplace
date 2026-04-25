@@ -5,6 +5,6 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-sliders-plugin",
   "icon": "./icon.svg",
-  "supportsDb": true,
+  "supportsDB": true,
   "effect": true
 }

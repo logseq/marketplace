@@ -1,0 +1,9 @@
+{
+  "title": "LinSeq",
+  "description": "Linear integration for Logseq — link issues, post comments, track sprints from your journal.",
+  "author": "Maxim Khomiakov",
+  "repo": "pihalf/linseq",
+  "icon": "logo.png",
+  "theme": false,
+  "effect": false
+}

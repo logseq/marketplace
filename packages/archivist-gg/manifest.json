@@ -1,0 +1,9 @@
+{
+  "title": "Archivist",
+  "description": "D&D 5e toolkit: parchment stat blocks, spells, magic items, inline dice tags, in-place editing, and full SRD compendium.",
+  "author": "Shinoobi",
+  "repo": "archivist-gg/archivist-logseq-plugin",
+  "icon": "icon.png",
+  "theme": false,
+  "effect": true
+}

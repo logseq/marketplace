@@ -4,6 +4,6 @@
   "description": "Keeps track of your most used keywords, just for fun!",
   "author": "benjypng",
   "repo": "benjypng/logseq-keywordfrequency-plugin",
-  "supportsDb": true,
+  "supportsDB": true,
   "icon": "./icon.png"
 }

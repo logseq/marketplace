@@ -1,0 +1,9 @@
+{
+    "title": "Night Owl Theme",
+    "description": "Logseq theme inspired by Sarah Drasner's Night Owl theme for VS Code.",
+    "author": "Pavol Pidanič",
+    "repo": "PaulNoth/logseq-night-owl-theme",
+    "icon": "icon-night-owl.png",
+    "theme": true,
+    "supportsDB": false
+}

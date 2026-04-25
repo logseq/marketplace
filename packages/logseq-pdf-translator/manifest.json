@@ -1,0 +1,9 @@
+{
+  "title": "logseq-pdf-translator",
+  "description": "A PDF mouse hover translator.",
+  "author": "ZYJ-3721",
+  "repo": "ZYJ-3721/logseq-pdf-translator",
+  "icon": "./icon.png",
+  "effect": true,
+  "supportsDB": true
+}

@@ -1,0 +1,9 @@
+{
+  "title": "GitSeq",
+  "description": "Encrypted git sync for Logseq. One keystroke to commit & push.",
+  "author": "Maxim Khomiakov",
+  "repo": "pihalf/gitseq",
+  "icon": "logo.png",
+  "theme": false,
+  "effect": false
+}

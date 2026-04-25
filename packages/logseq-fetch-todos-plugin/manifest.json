@@ -1,0 +1,8 @@
+{
+  "title": "Fetch TODOs",
+  "description": "Fetch TODO items from a referenced page and insert links to selected tasks.",
+  "author": "Akshat",
+  "repo": "ak127a/logseq-fetch-todos-plugin",
+  "icon": "logo.png",
+  "supportsDB": false
+}

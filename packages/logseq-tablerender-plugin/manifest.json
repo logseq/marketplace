@@ -4,6 +4,6 @@
   "description": "Render tables with basic math functions using data from your blocks",
   "author": "benjypng",
   "repo": "benjypng/logseq-tablerender-plugin",
-  "supportsDb": true,
+  "supportsDB": true,
   "icon": "./icon.svg"
 }

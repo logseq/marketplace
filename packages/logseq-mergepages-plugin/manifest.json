@@ -5,6 +5,6 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-mergepages-plugin",
   "icon": "./icon.svg",
-  "supportsDb": true,
-  "supportsDbOnly": true
+  "supportsDB": true,
+  "supportsDBOnly": true
 }

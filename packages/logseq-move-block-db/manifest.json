@@ -1,0 +1,11 @@
+{
+  "title": "Move Block",
+  "description": "Move blocks to any page or journal with slash commands, shortcuts, or context menu. For Logseq DB graphs.",
+  "author": "Joemnewton",
+  "repo": "Joemnewton/logseq-move-block-db",
+  "icon": "icon.svg",
+  "theme": false,
+  "effect": false,
+  "supportsDB": true,
+  "sponsors": []
+}
