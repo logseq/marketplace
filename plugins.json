@@ -1,5 +1,5 @@
 {
-  "datetime": 1777022108668,
+  "datetime": 1777103565613,
   "packages": [
     {
       "title": "Archivist",
@@ -3083,6 +3083,19 @@
       "theme": false,
       "id": "logseq-plugin-better-tasks",
       "addedAt": 1688305677000
+    },
+    {
+      "title": "Logseq Plugin Bidi",
+      "description": "Bidirectional text and RTL block layout support for Logseq.",
+      "author": "yshalsager",
+      "repo": "yshalsager/logseq-plugin-bidi",
+      "icon": "./icon.png",
+      "theme": false,
+      "web": true,
+      "effect": false,
+      "supportsDB": true,
+      "id": "logseq-plugin-bidi",
+      "addedAt": 1777097236000
     },
     {
       "title": "New Line Shortcut",
