@@ -1,0 +1,9 @@
+{
+  "title": "Pomodoro Task Tracker",
+  "description": "A pomodoro timer and task tracker in one plugin.",
+  "author": "Satoriq",
+  "repo": "Satoriq/logseq-pomodoro-task-tracker",
+  "icon": "./icon.svg",
+  "effect": true,
+  "supportsDBOnly": true
+}
