@@ -1,5 +1,5 @@
 {
-  "datetime": 1777103565613,
+  "datetime": 1777194664209,
   "packages": [
     {
       "title": "Archivist",
@@ -5398,9 +5398,8 @@
       "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
       "author": "benjypng",
       "repo": "benjypng/logseq-zoterolocal-plugin",
-      "supportsDB": true,
       "icon": "./icon.svg",
-      "effect": true,
+      "supportsDB": true,
       "supportsDBOnly": true,
       "id": "logseq-zoterolocal-plugin",
       "addedAt": 1723222792000
