@@ -1,0 +1,13 @@
+{
+  "title": "DB Favorite Tree",
+  "description": "Render favorite pages as a property-driven tree for Logseq DB graph.",
+  "author": "yanhaizhe",
+  "repo": "yanhaizhe/logseq-db-favorite-tree",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true,
+  "version": "1.1.0"
+}
