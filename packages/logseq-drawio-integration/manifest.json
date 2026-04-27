@@ -1,0 +1,8 @@
+{
+  "title": "Drawio integration (DB)",
+  "description": "Allows you to see/edit/save .drawio files.",
+  "author": "Satoriq",
+  "repo": "Satoriq/logseq-drawio-integration",
+  "icon": "./icon.svg",
+  "supportsDBOnly": true
+}
