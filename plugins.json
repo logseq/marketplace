@@ -1,5 +1,5 @@
 {
-  "datetime": 1777194664209,
+  "datetime": 1777354718429,
   "packages": [
     {
       "title": "Archivist",
@@ -636,6 +636,21 @@
       "addedAt": 1632930559000
     },
     {
+      "title": "Block to Page DB",
+      "description": "Turn a block with children into a DB graph page.",
+      "author": "EINDEX",
+      "repo": "eindex/logseq-plugin-block-to-page-db",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://github.com/sponsors/EINDEX"
+      ],
+      "web": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-block-to-page-db",
+      "addedAt": 1777287083000
+    },
+    {
       "title": "Block Navigation",
       "description": "Block navigation shortcuts",
       "author": "KerfuffleV2",
@@ -913,6 +928,16 @@
       "addedAt": 1668355462000
     },
     {
+      "title": "Coding CLI Monitor",
+      "description": "Monitor wrapped coding CLI sessions and surface working or attention states in Logseq.",
+      "author": "Kristin Day",
+      "repo": "Day-in-the-Country-LLC/logseq-coding-cli-monitor",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-coding-cli-monitor",
+      "addedAt": 1777294086000
+    },
+    {
       "title": "Color Markup",
       "description": "Add more colors to your highlights and text.",
       "author": "clemtibs",
@@ -1110,6 +1135,21 @@
       "addedAt": 1644179668000
     },
     {
+      "title": "DB Favorite Tree",
+      "description": "Render favorite pages as a property-driven tree for Logseq DB graph.",
+      "author": "yanhaizhe",
+      "repo": "yanhaizhe/logseq-db-favorite-tree",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "version": "1.1.0",
+      "id": "logseq-db-favorite-tree ",
+      "addedAt": 1777354696686
+    },
+    {
       "title": "Logseq Deadline Countdown",
       "description": "Counts how many days left until the deadline.",
       "author": "xxchan",
@@ -1221,6 +1261,16 @@
       "theme": true,
       "id": "logseq-dracula-theme",
       "addedAt": 1632324168000
+    },
+    {
+      "title": "Drawio integration (DB)",
+      "description": "Allows you to see/edit/save .drawio files.",
+      "author": "Satoriq",
+      "repo": "Satoriq/logseq-drawio-integration",
+      "icon": "./icon.svg",
+      "supportsDBOnly": true,
+      "id": "logseq-drawio-integration",
+      "addedAt": 1777222042000
     },
     {
       "title": "Drawio Plugin",
@@ -3868,6 +3918,17 @@
       "addedAt": 1742587274000
     },
     {
+      "title": "Pomodoro Task Tracker",
+      "description": "A pomodoro timer and task tracker in one plugin.",
+      "author": "Satoriq",
+      "repo": "Satoriq/logseq-pomodoro-task-tracker",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDBOnly": true,
+      "id": "logseq-pomodoro-task-tracker",
+      "addedAt": 1777222485000
+    },
+    {
       "title": "logseq-pomodoro-technique",
       "description": "A joyful pomodoro timer for block task item 🍅, fork logseq-plugin-samples/logseq-pomodoro-timer",
       "author": "denvey",
@@ -4005,6 +4066,16 @@
       "supportsDB": false,
       "id": "logseq-prose-mode",
       "addedAt": 1774671537000
+    },
+    {
+      "title": "Prune to Page",
+      "description": "Move selected blocks from your journal to a page of your choice, leaving block refs behind so journal provenance is preserved.",
+      "author": "vincent",
+      "repo": "vincentiliano/logseq_prune_to_page",
+      "icon": "./icon.svg",
+      "theme": false,
+      "id": "logseq-prune-to-page",
+      "addedAt": 1777281442000
     },
     {
       "title": "logseq-psummarise-plugin",
@@ -4666,6 +4737,19 @@
       "effect": true,
       "id": "logseq-tabs",
       "addedAt": 1631020312000
+    },
+    {
+      "title": "logseq-tabsdb-plugin",
+      "name": "logseq-tabsdb-plugin",
+      "description": "Browser-style tabs for Logseq DB. Keep multiple pages and blocks open at once, switch between them instantly, and stop losing your place.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-tabsdb-plugin",
+      "icon": "./icon.svg",
+      "supportsDb": true,
+      "supportsDbOnly": true,
+      "effect": true,
+      "id": "logseq-tabsdb-plugin",
+      "addedAt": 1777212984000
     },
     {
       "title": "Tags",

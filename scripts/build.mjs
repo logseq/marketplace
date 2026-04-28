@@ -291,25 +291,29 @@ async function cli (action, ...rest) {
           let st = fs.statSync(path.join(pkgsRoot, it))
           let mfp = path.join(pkgsRoot, it, 'manifest.json')
 
-          if (st.isDirectory() && fs.existsSync(mfp)) {
-            const mf = JSON.parse(fs.readFileSync(mfp).toString())
-            mf.id = it.toLowerCase()
+          try {
+            if (st.isDirectory() && fs.existsSync(mfp)) {
+              const mf = JSON.parse(fs.readFileSync(mfp).toString())
+              mf.id = it.toLowerCase()
 
-            if (validateRepoBlocked(mf.repo) === true) {
-              console.log('🚫 Blocked Repo:', mf.repo)
-              return acc
+              if (validateRepoBlocked(mf.repo) === true) {
+                console.log('🚫 Blocked Repo:', mf.repo)
+                return acc
+              }
+
+              mf.addedAt = oldPkgs[mf.id]?.addedAt
+              if (!mf.addedAt) {
+                mf.addedAt = dateAdded(mfp)
+              }
+              acc.push(mf)
+            } else {
+              console.warn('Error package: ', mfp)
             }
 
-            mf.addedAt = oldPkgs[mf.id]?.addedAt
-            if (!mf.addedAt) {
-              mf.addedAt = dateAdded(mfp)
-            }
-            acc.push(mf)
-          } else {
-            console.warn('Error package: ', mfp)
+          } catch (e) {
+            console.warn('Error package: ', mfp, ' [Error] ', e)
           }
         }
-
         return acc
       }, [])
 
