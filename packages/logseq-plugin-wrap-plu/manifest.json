@@ -1,0 +1,9 @@
+{
+  "title": "Text Wrapper Plus",
+  "description": "Create custom text wrappings and replacements with optional key bindings. Actively maintained fork with enhanced defaults and Logseq DB graph support.",
+  "author": "Hugh-Afterlight",
+  "repo": "Hugh-Afterlight/logseq-plugin-wrap",
+  "icon": "icon.png",
+  "theme": false,
+  "effect": true
+}
