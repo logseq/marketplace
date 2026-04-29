@@ -3,5 +3,7 @@
   "description": "Insert standard GitHub-flavored Markdown (GFM) as Logseq blocks.",
   "author": "shpeng1996",
   "repo": "shpeng1996/logseq-md-convert",
-  "icon": "logo.svg"
+  "icon": "logo.svg",
+  "supportsDB": false,
+  "supportsDBOnly": false
 }
