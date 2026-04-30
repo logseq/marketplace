@@ -1,5 +1,5 @@
 {
-  "datetime": 1777354718429,
+  "datetime": 1777534301316,
   "packages": [
     {
       "title": "Archivist",
@@ -3907,6 +3907,16 @@
       "addedAt": 1682978544000
     },
     {
+      "title": "Text Wrapper Plus",
+      "description": "Wrap selected text with page refs, cloze, formatting, colored highlights, and colored text from a compact toolbar.",
+      "author": "Hugh-Afterlight",
+      "repo": "Hugh-Afterlight/logseq-plugin-wrap",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-wrap-plus",
+      "addedAt": 1777472406000
+    },
+    {
       "title": "Logseq PolyRhythmic",
       "description": "Hugo-PolyRhythmic and Material Design theme for Logseq.",
       "author": "Wonyoung Jang",
@@ -4520,6 +4530,16 @@
       ],
       "id": "logseq-simpread",
       "addedAt": 1658043625000
+    },
+    {
+      "title": "Slatewave",
+      "description": "A dark Slatewave theme for Logseq — slate foundation with a teal signature, sharing its palette with the Slatewave VSCode, Obsidian, and oh-my-posh themes.",
+      "author": "Kevin Langley Jr",
+      "repo": "kevinlangleyjr/logseq-slatewave",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-slatewave",
+      "addedAt": 1777167513000
     },
     {
       "title": "Slavsko Theme",
