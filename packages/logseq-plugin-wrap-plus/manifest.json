@@ -1,0 +1,8 @@
+{
+  "title": "Text Wrapper Plus",
+  "description": "Wrap selected text with page refs, cloze, formatting, colored highlights, and colored text from a compact toolbar.",
+  "author": "Hugh-Afterlight",
+  "repo": "Hugh-Afterlight/logseq-plugin-wrap",
+  "icon": "./icon.png",
+  "effect": true
+}
