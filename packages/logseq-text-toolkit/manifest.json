@@ -3,5 +3,6 @@
   "description": "A toolkit for text formatting and manipulation in Logseq",
   "author": "duiliuliu",
   "repo": "duiliuliu/logseq-text-toolkit",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "sponsors": ["https://duiliuliu.github.io/sponsor-page/"]
 }
