@@ -4,5 +4,7 @@
   "author": "duiliuliu",
   "repo": "duiliuliu/logseq-text-toolkit",
   "icon": "./icon.png",
-  "sponsors": ["https://duiliuliu.github.io/sponsor-page/", "https://www.paypal.me/duiliuliu"]
+  "sponsors": ["https://duiliuliu.github.io/sponsor-page/", "https://www.paypal.me/duiliuliu"],
+  "supportsDB": true,
+  "supportsDBOnly": true
 }
