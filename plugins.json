@@ -1,5 +1,5 @@
 {
-  "datetime": 1777534301316,
+  "datetime": 1777686363146,
   "packages": [
     {
       "title": "Archivist",
@@ -907,6 +907,16 @@
       "effect": true,
       "id": "logseq-classy",
       "addedAt": 1652358745000
+    },
+    {
+      "title": "Clean Empty Journals",
+      "description": "Removes empty journal pages from your Logseq graph with a single toolbar click.",
+      "author": "Rino",
+      "repo": "rinodrops/logseq-clean-journals",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-clean-journals",
+      "addedAt": 1777564000000
     },
     {
       "title": "logseq-clock-plugin",
@@ -4833,6 +4843,22 @@
       ],
       "id": "logseq-terminal",
       "addedAt": 1718025165000
+    },
+    {
+      "title": "Text Toolkit",
+      "description": "A toolkit for text formatting and manipulation in Logseq",
+      "author": "duiliuliu",
+      "repo": "duiliuliu/logseq-text-toolkit",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://duiliuliu.github.io/sponsor-page/",
+        "https://www.paypal.me/duiliuliu"
+      ],
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-text-toolkit",
+      "addedAt": 1777595164000
     },
     {
       "title": "Textbook theme",
