@@ -1,5 +1,5 @@
 {
-  "datetime": 1777686363146,
+  "datetime": 1777789222199,
   "packages": [
     {
       "title": "Archivist",
@@ -218,6 +218,18 @@
       "supportsDB": false,
       "id": "logseq-agenda",
       "addedAt": 1646486302000
+    },
+    {
+      "title": "AI Actions",
+      "description": "AI-driven actions on Logseq blocks (DB graphs only) — spellcheck, grammar, rewrite, summarize, vision actions via a local OpenAI-compatible endpoint (LM Studio / Ollama).",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-ai-actions",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-ai-actions",
+      "addedAt": 1777775922000
     },
     {
       "title": "AI Assistant",
@@ -532,6 +544,18 @@
       "theme": true,
       "id": "logseq-bear-theme",
       "addedAt": 1637514822000
+    },
+    {
+      "title": "Bermaid - Diagrams",
+      "description": "Beautiful mermaid diagram renderer for Logseq using beautiful-mermaid",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-bermaid",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": false,
+      "id": "logseq-bermaid",
+      "addedAt": 1777777542000
     },
     {
       "title": "BetterWorkflow",
@@ -1109,6 +1133,18 @@
       "theme": true,
       "id": "logseq-d42ker-theme",
       "addedAt": 1634056271000
+    },
+    {
+      "title": "Callout Manager",
+      "description": "Tag-driven callout styling for Logseq blocks — icons, labels, colored backgrounds with nested visual hierarchy. Four display modes (inline, container, icon, admonition), 28 predefined tags across 7 color groups, with optional cascade-to-children. DB graphs only.",
+      "author": "Danzu",
+      "repo": "hdansou/Logseq-callout",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-danzu-callout",
+      "addedAt": 1777694626000
     },
     {
       "title": "Date-Between",
@@ -4063,6 +4099,18 @@
       "addedAt": 1696924122000
     },
     {
+      "title": "Progress Bar",
+      "description": "Visualize task completion as segmented progress bars derived from configurable status properties on tagged blocks. Auto-detects query blocks (DSL or custom datascript), updates in real-time via DB.onChanged, and respects light/dark themes.",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-progressbar",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-progressbar",
+      "addedAt": 1777685571000
+    },
+    {
       "title": "logseq-property-visualizer",
       "description": "Visualizing trends in page properties, requires Chart Render and Table render plugin",
       "author": "Aryan Sawhney",
@@ -4438,6 +4486,18 @@
       "theme": false,
       "id": "logseq-save-scrollbar-position",
       "addedAt": 1688112435000
+    },
+    {
+      "title": "Scheduler",
+      "description": "Cron-based scheduler for creating tagged pages in Logseq DB graphs on a recurring basis",
+      "author": "Danzu",
+      "repo": "hdansou/Logseq-scheduler",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-scheduler",
+      "addedAt": 1777759382000
     },
     {
       "title": "Logseq Schrodinger",
@@ -5643,6 +5703,18 @@
       "effect": true,
       "id": "ollama-logseq",
       "addedAt": 1699224300000
+    },
+    {
+      "title": "OutlineCanvas",
+      "description": "Renders hierarchical block trees as 8 interactive Canvas2D diagrams: Tree Chart, Tree Table, Roadmap (alternating), Roadmap (linear), Mind Map, Right Tree, Fishbone, and Treemap.",
+      "author": "logseq-dev",
+      "repo": "hdansou/logseq-outline-canvas",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "outline-canvas",
+      "addedAt": 1777724664000
     },
     {
       "title": "Pretty Logseq",
