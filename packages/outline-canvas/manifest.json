@@ -1,7 +1,7 @@
 {
-  "title": "OutlineCanvas",
+  "title": "Outline Canvas",
   "description": "Renders hierarchical block trees as 8 interactive Canvas2D diagrams: Tree Chart, Tree Table, Roadmap (alternating), Roadmap (linear), Mind Map, Right Tree, Fishbone, and Treemap.",
-  "author": "logseq-dev",
+  "author": "Danzu",
   "repo": "hdansou/logseq-outline-canvas",
   "icon": "icon.png",
   "effect": true,
