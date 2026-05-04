@@ -1,5 +1,5 @@
 {
-  "datetime": 1777789222199,
+  "datetime": 1777855960084,
   "packages": [
     {
       "title": "Archivist",
@@ -781,6 +781,18 @@
       "addedAt": 1696159123000
     },
     {
+      "title": "Callout Manager",
+      "description": "Tag-driven callout styling for Logseq blocks — icons, labels, colored backgrounds with nested visual hierarchy. Four display modes (inline, container, icon, admonition), 28 predefined tags across 7 color groups, with optional cascade-to-children. DB graphs only.",
+      "author": "Danzu",
+      "repo": "hdansou/Logseq-callout",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-callout",
+      "addedAt": 1777694626000
+    },
+    {
       "title": "logseq-calview-plugin",
       "name": "logseq-calview-plugin",
       "description": "This plugin offers a calendar from within Logseq that captures your blocks with event parameters in a calendar view.",
@@ -1133,18 +1145,6 @@
       "theme": true,
       "id": "logseq-d42ker-theme",
       "addedAt": 1634056271000
-    },
-    {
-      "title": "Callout Manager",
-      "description": "Tag-driven callout styling for Logseq blocks — icons, labels, colored backgrounds with nested visual hierarchy. Four display modes (inline, container, icon, admonition), 28 predefined tags across 7 color groups, with optional cascade-to-children. DB graphs only.",
-      "author": "Danzu",
-      "repo": "hdansou/Logseq-callout",
-      "icon": "./icon.svg",
-      "theme": false,
-      "supportsDB": true,
-      "supportsDBOnly": true,
-      "id": "logseq-danzu-callout",
-      "addedAt": 1777694626000
     },
     {
       "title": "Date-Between",
@@ -2177,6 +2177,19 @@
       "theme": true,
       "id": "logseq-laurel-theme",
       "addedAt": 1632625009000
+    },
+    {
+      "title": "Logseq Library Display",
+      "description": "Display Logseq DB parent pages on page references.",
+      "author": "rien7",
+      "repo": "rien7/logseq-library-display",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-library-display",
+      "addedAt": 1777826532000
     },
     {
       "title": "Lilypond",
@@ -5705,9 +5718,9 @@
       "addedAt": 1699224300000
     },
     {
-      "title": "OutlineCanvas",
+      "title": "Outline Canvas",
       "description": "Renders hierarchical block trees as 8 interactive Canvas2D diagrams: Tree Chart, Tree Table, Roadmap (alternating), Roadmap (linear), Mind Map, Right Tree, Fishbone, and Treemap.",
-      "author": "logseq-dev",
+      "author": "Danzu",
       "repo": "hdansou/logseq-outline-canvas",
       "icon": "icon.png",
       "effect": true,
