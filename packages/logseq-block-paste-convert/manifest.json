@@ -1,0 +1,7 @@
+{
+  "title": "Logseq Block Paste Convert",
+  "description": "Automatically convert pasted block references into readable links",
+  "author": "stelvetica",
+  "repo": "stelvetica/logseq-block-paste-convert",
+  "icon": "icon.png"
+}
