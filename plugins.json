@@ -1,5 +1,5 @@
 {
-  "datetime": 1777855960084,
+  "datetime": 1778163030557,
   "packages": [
     {
       "title": "Archivist",
@@ -373,6 +373,22 @@
       "addedAt": 1635888951000
     },
     {
+      "title": "Atlassian Linker",
+      "description": "Rewrite Atlassian Cloud links in DB graphs to Jira and Confluence titles.",
+      "author": "EINDEX",
+      "repo": "EINDEX/logseq-atlassian-db-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/EINDEX"
+      ],
+      "web": true,
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-atlassian-linker",
+      "addedAt": 1778157157000
+    },
+    {
       "title": "Atmos theme",
       "description": "A theme inspired by One Dark Pro",
       "author": "Mat4m0",
@@ -638,6 +654,16 @@
       "effect": true,
       "id": "logseq-block-extractor",
       "addedAt": 1749134828000
+    },
+    {
+      "title": "Logseq Block Paste Convert",
+      "description": "Automatically convert pasted block references into readable links",
+      "author": "stelvetica",
+      "repo": "stelvetica/logseq-block-paste-convert",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-block-paste-convert",
+      "addedAt": 1778139445000
     },
     {
       "title": "Block Tabs",
