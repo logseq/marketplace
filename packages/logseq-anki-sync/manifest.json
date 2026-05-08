@@ -10,5 +10,6 @@
     "https://www.buymeacoffee.com/debanjandhar12"
   ],
   "web": true,
-  "supportsDB": true
+  "supportsDB": true,
+  "supportsDBOnly": false
 }
