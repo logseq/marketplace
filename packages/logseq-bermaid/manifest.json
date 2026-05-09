@@ -1,0 +1,10 @@
+{
+  "title": "Bermaid - Diagrams",
+  "description": "Beautiful mermaid diagram renderer for Logseq using beautiful-mermaid",
+  "author": "Danzu",
+  "repo": "hdansou/logseq-bermaid",
+  "icon": "./icon.svg",
+  "theme": false,
+  "supportsDB": true,
+  "supportsDBOnly": false
+}

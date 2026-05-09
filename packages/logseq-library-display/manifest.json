@@ -1,0 +1,11 @@
+{
+  "title": "Logseq Library Display",
+  "description": "Display Logseq DB parent pages on page references.",
+  "author": "rien7",
+  "repo": "rien7/logseq-library-display",
+  "icon": "icon.svg",
+  "theme": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

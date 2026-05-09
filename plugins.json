@@ -1,5 +1,5 @@
 {
-  "datetime": 1777354718429,
+  "datetime": 1778163030557,
   "packages": [
     {
       "title": "Archivist",
@@ -220,6 +220,18 @@
       "addedAt": 1646486302000
     },
     {
+      "title": "AI Actions",
+      "description": "AI-driven actions on Logseq blocks (DB graphs only) — spellcheck, grammar, rewrite, summarize, vision actions via a local OpenAI-compatible endpoint (LM Studio / Ollama).",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-ai-actions",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-ai-actions",
+      "addedAt": 1777775922000
+    },
+    {
       "title": "AI Assistant",
       "description": "A Logseq plugin empowered by AI for effortless note-taking.",
       "author": "unickcheng",
@@ -359,6 +371,22 @@
       "theme": true,
       "id": "logseq-atlas-theme",
       "addedAt": 1635888951000
+    },
+    {
+      "title": "Atlassian Linker",
+      "description": "Rewrite Atlassian Cloud links in DB graphs to Jira and Confluence titles.",
+      "author": "EINDEX",
+      "repo": "EINDEX/logseq-atlassian-db-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/EINDEX"
+      ],
+      "web": true,
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-atlassian-linker",
+      "addedAt": 1778157157000
     },
     {
       "title": "Atmos theme",
@@ -534,6 +562,18 @@
       "addedAt": 1637514822000
     },
     {
+      "title": "Bermaid - Diagrams",
+      "description": "Beautiful mermaid diagram renderer for Logseq using beautiful-mermaid",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-bermaid",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": false,
+      "id": "logseq-bermaid",
+      "addedAt": 1777777542000
+    },
+    {
       "title": "BetterWorkflow",
       "description": "Use a visual editor to create custom workflows and cycle though them with a simple click.",
       "author": "AlonX2",
@@ -614,6 +654,16 @@
       "effect": true,
       "id": "logseq-block-extractor",
       "addedAt": 1749134828000
+    },
+    {
+      "title": "Logseq Block Paste Convert",
+      "description": "Automatically convert pasted block references into readable links",
+      "author": "stelvetica",
+      "repo": "stelvetica/logseq-block-paste-convert",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-block-paste-convert",
+      "addedAt": 1778139445000
     },
     {
       "title": "Block Tabs",
@@ -755,6 +805,18 @@
       "effect": true,
       "id": "logseq-calibre-metadata",
       "addedAt": 1696159123000
+    },
+    {
+      "title": "Callout Manager",
+      "description": "Tag-driven callout styling for Logseq blocks — icons, labels, colored backgrounds with nested visual hierarchy. Four display modes (inline, container, icon, admonition), 28 predefined tags across 7 color groups, with optional cascade-to-children. DB graphs only.",
+      "author": "Danzu",
+      "repo": "hdansou/Logseq-callout",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-callout",
+      "addedAt": 1777694626000
     },
     {
       "title": "logseq-calview-plugin",
@@ -907,6 +969,16 @@
       "effect": true,
       "id": "logseq-classy",
       "addedAt": 1652358745000
+    },
+    {
+      "title": "Clean Empty Journals",
+      "description": "Removes empty journal pages from your Logseq graph with a single toolbar click.",
+      "author": "Rino",
+      "repo": "rinodrops/logseq-clean-journals",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-clean-journals",
+      "addedAt": 1777564000000
     },
     {
       "title": "logseq-clock-plugin",
@@ -2131,6 +2203,19 @@
       "theme": true,
       "id": "logseq-laurel-theme",
       "addedAt": 1632625009000
+    },
+    {
+      "title": "Logseq Library Display",
+      "description": "Display Logseq DB parent pages on page references.",
+      "author": "rien7",
+      "repo": "rien7/logseq-library-display",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-library-display",
+      "addedAt": 1777826532000
     },
     {
       "title": "Lilypond",
@@ -3907,6 +3992,16 @@
       "addedAt": 1682978544000
     },
     {
+      "title": "Text Wrapper Plus",
+      "description": "Wrap selected text with page refs, cloze, formatting, colored highlights, and colored text from a compact toolbar.",
+      "author": "Hugh-Afterlight",
+      "repo": "Hugh-Afterlight/logseq-plugin-wrap",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-wrap-plus",
+      "addedAt": 1777472406000
+    },
+    {
       "title": "Logseq PolyRhythmic",
       "description": "Hugo-PolyRhythmic and Material Design theme for Logseq.",
       "author": "Wonyoung Jang",
@@ -4041,6 +4136,18 @@
       ],
       "id": "logseq-privacy-mode",
       "addedAt": 1696924122000
+    },
+    {
+      "title": "Progress Bar",
+      "description": "Visualize task completion as segmented progress bars derived from configurable status properties on tagged blocks. Auto-detects query blocks (DSL or custom datascript), updates in real-time via DB.onChanged, and respects light/dark themes.",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-progressbar",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-progressbar",
+      "addedAt": 1777685571000
     },
     {
       "title": "logseq-property-visualizer",
@@ -4420,6 +4527,18 @@
       "addedAt": 1688112435000
     },
     {
+      "title": "Scheduler",
+      "description": "Cron-based scheduler for creating tagged pages in Logseq DB graphs on a recurring basis",
+      "author": "Danzu",
+      "repo": "hdansou/Logseq-scheduler",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-scheduler",
+      "addedAt": 1777759382000
+    },
+    {
       "title": "Logseq Schrodinger",
       "description": "An awesome Logseq plugin to export to Hugo static sites and jumpstart your digital garden 🌱!",
       "author": "Aryan Sawhney & Alex Qwxlea",
@@ -4520,6 +4639,16 @@
       ],
       "id": "logseq-simpread",
       "addedAt": 1658043625000
+    },
+    {
+      "title": "Slatewave",
+      "description": "A dark Slatewave theme for Logseq — slate foundation with a teal signature, sharing its palette with the Slatewave VSCode, Obsidian, and oh-my-posh themes.",
+      "author": "Kevin Langley Jr",
+      "repo": "kevinlangleyjr/logseq-slatewave",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-slatewave",
+      "addedAt": 1777167513000
     },
     {
       "title": "Slavsko Theme",
@@ -4813,6 +4942,22 @@
       ],
       "id": "logseq-terminal",
       "addedAt": 1718025165000
+    },
+    {
+      "title": "Text Toolkit",
+      "description": "A toolkit for text formatting and manipulation in Logseq",
+      "author": "duiliuliu",
+      "repo": "duiliuliu/logseq-text-toolkit",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://duiliuliu.github.io/sponsor-page/",
+        "https://www.paypal.me/duiliuliu"
+      ],
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-text-toolkit",
+      "addedAt": 1777595164000
     },
     {
       "title": "Textbook theme",
@@ -5597,6 +5742,18 @@
       "effect": true,
       "id": "ollama-logseq",
       "addedAt": 1699224300000
+    },
+    {
+      "title": "Outline Canvas",
+      "description": "Renders hierarchical block trees as 8 interactive Canvas2D diagrams: Tree Chart, Tree Table, Roadmap (alternating), Roadmap (linear), Mind Map, Right Tree, Fishbone, and Treemap.",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-outline-canvas",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "outline-canvas",
+      "addedAt": 1777724664000
     },
     {
       "title": "Pretty Logseq",
