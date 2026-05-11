@@ -2,6 +2,7 @@
   "title": "Long Form Plugin",
   "description": "A rebuilt long-form writing experience for Logseq with direct switching between outline, long form, and indented long form modes.",
   "author": "zzhixin",
-  "repo": "https://github.com/zzhixin/logseq-long-form-plugin",
-  "icon": "https://raw.githubusercontent.com/zzhixin/logseq-long-form-plugin/main/icon.svg"
+  "repo": "zzhixin/logseq-long-form-plugin",
+  "icon": "./icon.svg",
+  "effect": true
 }

@@ -1,5 +1,5 @@
 {
-  "datetime": 1778163030557,
+  "datetime": 1778463598516,
   "packages": [
     {
       "title": "Archivist",
@@ -303,9 +303,26 @@
         "https://github.com/sponsors/debanjandhar12",
         "https://www.buymeacoffee.com/debanjandhar12"
       ],
+      "web": true,
       "supportsDB": true,
+      "supportsDBOnly": false,
       "id": "logseq-anki-sync",
       "addedAt": 1639308679000
+    },
+    {
+      "title": "Logseq Anki Sync (Legacy)",
+      "description": "Legacy (older) version of logseq anki sync plugin.",
+      "author": "debanjandhar12",
+      "repo": "debanjandhar12/logseq-anki-sync-legacy",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://github.com/sponsors/debanjandhar12",
+        "https://www.buymeacoffee.com/debanjandhar12"
+      ],
+      "supportsDB": false,
+      "id": "logseq-anki-sync-legacy",
+      "addedAt": 1778265052000
     },
     {
       "title": "Arc Theme",
@@ -1173,6 +1190,23 @@
       "addedAt": 1634056271000
     },
     {
+      "title": "Daily Self Esteem",
+      "description": "Self-esteem journaling for Logseq with guided daily prompts, weekly reviews and monthly reflections.",
+      "author": "wiegi",
+      "repo": "wiegi/logseq-daily-self-esteem",
+      "icon": "./icon.svg",
+      "theme": false,
+      "sponsors": [
+        "https://www.buymeacoffee.com/wiegi"
+      ],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-daily-self-esteem",
+      "addedAt": 1778404060000
+    },
+    {
       "title": "Date-Between",
       "description": "Display date between today",
       "author": "Cologler",
@@ -1217,9 +1251,9 @@
       "effect": false,
       "supportsDB": true,
       "supportsDBOnly": true,
-      "version": "1.1.0",
-      "id": "logseq-db-favorite-tree ",
-      "addedAt": 1777354696686
+      "version": "1.1.1",
+      "id": "logseq-db-favorite-tree",
+      "addedAt": 1777199661000
     },
     {
       "title": "Logseq Deadline Countdown",
@@ -2369,6 +2403,16 @@
       "effect": true,
       "id": "logseq-long-form",
       "addedAt": 1678604497000
+    },
+    {
+      "title": "Long Form Plugin",
+      "description": "A rebuilt long-form writing experience for Logseq with direct switching between outline, long form, and indented long form modes.",
+      "author": "zzhixin",
+      "repo": "zzhixin/logseq-long-form-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-long-form-plugin",
+      "addedAt": 1778324977000
     },
     {
       "title": "Luma",
@@ -5845,6 +5889,19 @@
       "icon": "icon.png",
       "id": "unfinished-business",
       "addedAt": 1649196269000
+    },
+    {
+      "title": "Voicenotes Sync",
+      "description": "Sync Voicenotes into managed Logseq monthly pages with stable block IDs, subnotes, and guarded incremental sync.",
+      "author": "FelixHuoEZ",
+      "repo": "FelixHuoEZ/voicenotes-export",
+      "icon": "icon.png",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "id": "voicenotes-export",
+      "addedAt": 1778428860000
     },
     {
       "title": "Xypora Print",
