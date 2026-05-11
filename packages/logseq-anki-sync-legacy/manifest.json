@@ -1,0 +1,13 @@
+{
+  "title": "Logseq Anki Sync (Legacy)",
+  "description": "Legacy (older) version of logseq anki sync plugin.",
+  "author": "debanjandhar12",
+  "repo": "debanjandhar12/logseq-anki-sync-legacy",
+  "icon": "./icon.png",
+  "effect": true,
+  "sponsors": [
+    "https://github.com/sponsors/debanjandhar12",
+    "https://www.buymeacoffee.com/debanjandhar12"
+  ],
+  "supportsDB": false
+}
