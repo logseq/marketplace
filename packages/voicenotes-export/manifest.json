@@ -1,0 +1,11 @@
+{
+  "title": "Voicenotes Sync",
+  "description": "Sync Voicenotes into managed Logseq monthly pages with stable block IDs, subnotes, and guarded incremental sync.",
+  "author": "FelixHuoEZ",
+  "repo": "FelixHuoEZ/voicenotes-export",
+  "icon": "icon.png",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": false
+}
