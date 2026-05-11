@@ -1,0 +1,14 @@
+{
+  "title": "Daily Self Esteem",
+  "description": "Self-esteem journaling for Logseq with guided daily prompts, weekly reviews and monthly reflections.",
+  "author": "wiegi",
+  "repo": "wiegi/logseq-daily-self-esteem",
+  "icon": "./icon.svg",
+  "theme": false,
+  "sponsors": ["https://www.buymeacoffee.com/wiegi"],
+  "web": false,
+  "effect": false,
+  "supportsDB": false,
+  "supportsDBOnly": false,
+  "id": "logseq-daily"
+}
