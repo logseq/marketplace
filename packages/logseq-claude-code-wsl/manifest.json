@@ -1,0 +1,8 @@
+{
+  "title": "Claude Code (WSL)",
+  "description": "Open Claude Code on your Logseq graph directory in a new Windows Terminal via WSL. Adds a toolbar button, a command-palette entry and a slash command.",
+  "author": "teddyhoss",
+  "repo": "teddyhoss/logseq-claude-code-wsl",
+  "icon": "icon.svg",
+  "theme": false
+}
