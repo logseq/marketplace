@@ -4,7 +4,6 @@
   "author": "ThreeIce",
   "repo": "ThreeIce/logseq-typst-formula",
   "icon": "icon.svg",
-  "web": true,
   "effect": true,
   "supportsDB": true,
   "supportsDBOnly": true

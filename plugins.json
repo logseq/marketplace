@@ -1,5 +1,5 @@
 {
-  "datetime": 1778463598516,
+  "datetime": 1778842731364,
   "packages": [
     {
       "title": "Archivist",
@@ -5327,6 +5327,18 @@
       ],
       "id": "logseq-typewriter-plugin",
       "addedAt": 1694032117000
+    },
+    {
+      "title": "Typst Formula",
+      "description": "Render Logseq blocks tagged with #Typst as centered Typst math formulas.",
+      "author": "ThreeIce",
+      "repo": "ThreeIce/logseq-typst-formula",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-typst-formula",
+      "addedAt": 1778772384000
     },
     {
       "title": "Readwise plugin (unofficial)",
