@@ -1,0 +1,11 @@
+{
+  "title": "Typst Formula",
+  "description": "Render Logseq blocks tagged with #Typst as centered Typst math formulas.",
+  "author": "ThreeIce",
+  "repo": "ThreeIce/logseq-typst-formula",
+  "icon": "icon.svg",
+  "web": true,
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
