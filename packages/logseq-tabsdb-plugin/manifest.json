@@ -6,6 +6,6 @@
   "repo": "benjypng/logseq-tabsdb-plugin",
   "icon": "./icon.svg",
   "supportsDb": true,
-  "supportsDbOnly": true
-  "effect": true,
+  "supportsDbOnly": true,
+  "effect": true
 }
