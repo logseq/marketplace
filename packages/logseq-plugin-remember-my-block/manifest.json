@@ -1,0 +1,9 @@
+{
+    "title": "Remember My Block",
+    "description": "Plugin that remembers the block where you left off. When you reopen a page, it scrolls back to your last block — ready to edit or just to read. Supports edit and view modes.",
+    "author": "Pavol Pidanič",
+    "repo": "PaulNoth/logseq-remember-my-block",
+    "icon": "icon.svg",
+    "theme": false,
+    "supportsDB": true
+}
