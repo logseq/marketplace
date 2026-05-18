@@ -1,5 +1,5 @@
 {
-  "datetime": 1778842731364,
+  "datetime": 1779068775309,
   "packages": [
     {
       "title": "Archivist",
@@ -443,6 +443,18 @@
       "effect": true,
       "id": "logseq-autolink-autotag",
       "addedAt": 1745080690000
+    },
+    {
+      "title": "logseq-autolink-plugin",
+      "name": "logseq-autolink-plugin",
+      "description": "Automatically wrap mentions of existing pages in `[[...]]` as you write, so your graph stays connected without manual linking.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-autolink-plugin",
+      "icon": "./icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-autolink-plugin",
+      "addedAt": 1778996313000
     },
     {
       "title": "Automatic Linker",
@@ -986,6 +998,17 @@
       "effect": true,
       "id": "logseq-classy",
       "addedAt": 1652358745000
+    },
+    {
+      "title": "Claude Code (WSL)",
+      "description": "Open Claude Code on your Logseq graph directory in a new Windows Terminal via WSL. Adds a toolbar button, a command-palette entry and a slash command.",
+      "author": "teddyhoss",
+      "repo": "teddyhoss/claudecode_logseq_wsl",
+      "icon": "icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "id": "logseq-claude-code-wsl",
+      "addedAt": 1778779344000
     },
     {
       "title": "Clean Empty Journals",
@@ -3817,6 +3840,17 @@
       ],
       "id": "logseq-plugin-refile",
       "addedAt": 1685515840000
+    },
+    {
+      "title": "Remember My Block",
+      "description": "Plugin that remembers the block where you left off. When you reopen a page, it scrolls back to your last block — ready to edit or just to read. Supports edit and view modes.",
+      "author": "Pavol Pidanič",
+      "repo": "PaulNoth/logseq-remember-my-block",
+      "icon": "icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "id": "logseq-plugin-remember-my-block",
+      "addedAt": 1778939923000
     },
     {
       "title": "Run JS",
