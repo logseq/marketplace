@@ -1,0 +1,10 @@
+{
+  "title": "logseq-autolink-plugin",
+  "name": "logseq-autolink-plugin",
+  "description": "Automatically wrap mentions of existing pages in `[[...]]` as you write, so your graph stays connected without manual linking.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-autolink-plugin",
+  "icon": "./icon.svg",
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
