@@ -1,5 +1,5 @@
 {
-  "datetime": 1779068775309,
+  "datetime": 1779166667039,
   "packages": [
     {
       "title": "Archivist",
@@ -3848,6 +3848,7 @@
       "repo": "PaulNoth/logseq-remember-my-block",
       "icon": "icon.svg",
       "theme": false,
+      "effect": true,
       "supportsDB": true,
       "id": "logseq-plugin-remember-my-block",
       "addedAt": 1778939923000
