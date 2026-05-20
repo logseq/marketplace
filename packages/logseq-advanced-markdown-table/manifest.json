@@ -1,0 +1,7 @@
+{
+  "title": "Advanced Markdown Table Editor",
+  "description": "An advanced markdown table editor for Logseq. Blocks whose content is a markdown table render as a live, editable table with toolbar, context menu, drag-to-reorder, sort, and keyboard shortcuts. The block's raw markdown stays the source of truth.",
+  "author": "VictorVow",
+  "repo": "VictorVow/logseq-plugin-advanced-markdown-table",
+  "icon": "icon.png"
+}
