@@ -1,0 +1,7 @@
+{
+  "title": "Sync KOReader Highlights",
+  "description": "Sync KOReader sidecar highlights into Logseq, one page per book. Highlights link to the journal day they were made, so they appear in linked references automatically.",
+  "author": "CR0CKER",
+  "repo": "CR0CKER/sync-koreader-highlights",
+  "icon": "icon.png"
+}
