@@ -1,5 +1,5 @@
 {
-  "datetime": 1779166667039,
+  "datetime": 1779332245470,
   "packages": [
     {
       "title": "Archivist",
@@ -207,6 +207,18 @@
       "theme": false,
       "id": "logseq-add-para-properties",
       "addedAt": 1668437633000
+    },
+    {
+      "title": "Advanced Markdown Table Editor",
+      "description": "An advanced markdown table editor for Logseq. Blocks whose content is a markdown table render as a live, editable table with toolbar, context menu, drag-to-reorder, sort, and keyboard shortcuts. The block's raw markdown stays the source of truth.",
+      "author": "VictorVow",
+      "repo": "VictorVow/logseq-plugin-advanced-markdown-table",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-advanced-markdown-table",
+      "addedAt": 1779305274000
     },
     {
       "title": "Agenda",
@@ -5891,6 +5903,15 @@
       "icon": "./slipbox.png",
       "id": "slipbox",
       "addedAt": 1702757863000
+    },
+    {
+      "title": "Sync KOReader Highlights",
+      "description": "Sync KOReader sidecar highlights into Logseq, one page per book. Highlights link to the journal day they were made, so they appear in linked references automatically.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/sync-koreader-highlights",
+      "icon": "icon.png",
+      "id": "sync-koreader-highlights",
+      "addedAt": 1779312894000
     },
     {
       "title": "Template Gallery",
