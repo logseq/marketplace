@@ -1,5 +1,5 @@
 {
-  "datetime": 1779332245470,
+  "datetime": 1779431460236,
   "packages": [
     {
       "title": "Archivist",
@@ -5910,6 +5910,7 @@
       "author": "CR0CKER",
       "repo": "CR0CKER/sync-koreader-highlights",
       "icon": "icon.png",
+      "effect": true,
       "id": "sync-koreader-highlights",
       "addedAt": 1779312894000
     },
