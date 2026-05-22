@@ -1,5 +1,5 @@
 {
-  "datetime": 1779431460236,
+  "datetime": 1779493237377,
   "packages": [
     {
       "title": "Archivist",
@@ -5872,6 +5872,16 @@
       "supportsDB": true,
       "id": "pretty-logseq",
       "addedAt": 1770591989000
+    },
+    {
+      "title": "Reading List",
+      "description": "Add books to Logseq as fully-populated pages (cover, author, ISBN, summary, tags) via Open Library or Google Books — with an optional visual reading list.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/logseq-reading-list",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "reading-list",
+      "addedAt": 1779486456000
     },
     {
       "title": "Resurface",
