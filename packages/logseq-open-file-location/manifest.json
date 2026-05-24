@@ -1,0 +1,12 @@
+{
+  "title": "Open File Location",
+  "description": "Ctrl+Click a local asset link to reveal and select it in the system file explorer.",
+  "author": "albilu",
+  "repo": "albilu/logseq-open-file-location",
+  "icon": "",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": false,
+  "supportsDBOnly": false
+}
