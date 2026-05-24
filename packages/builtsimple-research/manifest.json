@@ -1,0 +1,8 @@
+{
+  "title": "Built Simple Research",
+  "description": "Search PubMed, ArXiv, and Wikipedia directly from Logseq.",
+  "author": "Built-Simple.ai <contact@built-simple.ai>",
+  "repo": "Built-Simple/logseq-builtsimple",
+  "icon": "icon.png",
+  "effect": false
+}
