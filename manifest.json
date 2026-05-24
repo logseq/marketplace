@@ -1,0 +1,10 @@
+{
+  "title": "logseq-rot13",
+  "description": "Adds the /ROT13 slash command to rotate all alphabetic characters in blocks on a page by 13 characters.
+Doing it again returns the original text. eg This is a test of ROT13  <--->  Guvf vf n grfg bs EBG13 ",
+  "author": "David Moss",
+  "repo":"admoss0/logseq",
+  "icon": "./icon.png",
+  "effect": false,
+  "sponsors": []
+}
