@@ -1,0 +1,14 @@
+<svg width="161.8" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rounded corners -->
+  <rect width="161.8" height="100" rx="6.18" fill="#FF0000"/>
+  
+  <!-- PDF text -->
+  <text x="25" y="55" font-family="monospace" font-size="16.18" fill="white">PDF</text>
+  
+  <!-- Dash and bracket -->
+  <text x="55" y="62" font-family="monospace" font-size="47.24" fill="white">-{</text>
+  
+  <!-- Lorem text (stacked, close together) -->
+  <text x="105" y="48" font-family="monospace" font-size="14.58" fill="white">lorem,</text>
+  <text x="105" y="60" font-family="monospace" font-size="14.58" fill="white">lorem</text>
+</svg>
