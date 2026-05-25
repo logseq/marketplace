@@ -1,5 +1,5 @@
 {
-  "datetime": 1779493237377,
+  "datetime": 1779702847546,
   "packages": [
     {
       "title": "Archivist",
@@ -2887,6 +2887,19 @@
       "addedAt": 1703001198000
     },
     {
+      "title": "Open File Location",
+      "description": "Ctrl+Click a local asset link to reveal and select it in the system file explorer.",
+      "author": "albilu",
+      "repo": "albilu/logseq-open-file-location",
+      "theme": false,
+      "web": false,
+      "effect": true,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-open-file-location",
+      "addedAt": 1779654164000
+    },
+    {
       "title": "Open Logseq Files in VS Code",
       "description": "Open and edit Logseq pages and config files in VS Code",
       "author": "rebornix",
@@ -4004,6 +4017,21 @@
       "effect": true,
       "id": "logseq-plugin-template-block-from-toolbar",
       "addedAt": 1722037148000
+    },
+    {
+      "title": "That Day inserter",
+      "description": "Add date labels to daily journal calendar blocks in Logseq.",
+      "author": "lingkuma",
+      "repo": "lingkuma/losgeq-plugin-thatday",
+      "icon": "icon.png",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-plugin-thatday",
+      "addedAt": 1779622027000
     },
     {
       "title": "Logseq TickTick Sync",
@@ -5981,6 +6009,16 @@
       "supportsDB": false,
       "id": "voicenotes-export",
       "addedAt": 1778428860000
+    },
+    {
+      "title": "XThread",
+      "description": "Write X/Twitter threads in Logseq — 1 block = 1 tweet, faithful X character counter, visual highlight of overflow past 280.",
+      "author": "lunaticoin",
+      "repo": "lunaticoin/xthread",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "xthread",
+      "addedAt": 1779694694000
     },
     {
       "title": "Xypora Print",
