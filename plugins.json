@@ -1,5 +1,5 @@
 {
-  "datetime": 1779702847546,
+  "datetime": 1779761343439,
   "packages": [
     {
       "title": "Archivist",
@@ -4987,6 +4987,17 @@
       "addedAt": 1631020312000
     },
     {
+      "title": "Tabs Scrollable",
+      "description": "Open pages or blocks in tabs like working in the browser, with wheel scrolling for overflowing tabs.",
+      "author": "albilu",
+      "repo": "albilu/logseq-plugin-tabs",
+      "icon": "./icon.png",
+      "supportsDB": true,
+      "effect": true,
+      "id": "logseq-tabs-scrollable",
+      "addedAt": 1779743616000
+    },
+    {
       "title": "logseq-tabsdb-plugin",
       "name": "logseq-tabsdb-plugin",
       "description": "Browser-style tabs for Logseq DB. Keep multiple pages and blocks open at once, switch between them instantly, and stop losing your place.",
@@ -5932,6 +5943,24 @@
       "effect": true,
       "id": "samepage",
       "addedAt": 1668554654000
+    },
+    {
+      "title": "Sequoia",
+      "description": "Black, elegant Sequoia theme family for Logseq (Moonlight, Monochrome, Retro).",
+      "author": "Micheal Andreuzza",
+      "repo": "Sequoia-Theme/logseq",
+      "theme": true,
+      "id": "sequoia",
+      "addedAt": 1779718097000
+    },
+    {
+      "title": "Serendipity",
+      "description": "Elegant, minimal Serendipity theme family for Logseq (Midnight, Morning, Sunset).",
+      "author": "Micheal Andreuzza",
+      "repo": "Serendipity-Theme/logseq",
+      "theme": true,
+      "id": "serendipity",
+      "addedAt": 1779718097000
     },
     {
       "title": "Slipbox",
