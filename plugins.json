@@ -1,5 +1,5 @@
 {
-  "datetime": 1779761343439,
+  "datetime": 1779850115985,
   "packages": [
     {
       "title": "Archivist",
@@ -1521,6 +1521,15 @@
       "supportsDBOnly": true,
       "id": "logseq-excalidraw-db",
       "addedAt": 1769620739000
+    },
+    {
+      "title": "Expand by Level",
+      "description": "Collapse or expand all blocks by nesting level with keyboard shortcuts (default: Alt+1-8).",
+      "author": "Guillaume Ponçon",
+      "repo": "darkone-linux/logseq-expand-by-level",
+      "icon": "./icon.png",
+      "id": "logseq-expand-by-level",
+      "addedAt": 1779846998000
     },
     {
       "title": "Export Block",
@@ -4486,6 +4495,17 @@
       "icon": "./icon.svg",
       "id": "logseq-recurrence-plugin",
       "addedAt": 1644510627000
+    },
+    {
+      "title": "Reference Manager",
+      "description": "Reference manager for importing from Zotero locally and from the Web clipper",
+      "author": "Rahul Somani",
+      "repo": "rsomani95/logseq-reference-manager",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-reference-manager",
+      "addedAt": 1779830748000
     },
     {
       "title": "Reference Styles",
