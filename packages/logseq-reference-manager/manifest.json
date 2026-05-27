@@ -1,0 +1,9 @@
+{
+  "title": "Reference Manager",
+  "description": "Reference manager for importing from Zotero locally and from the Web clipper",
+  "author": "Rahul Somani",
+  "repo": "rsomani95/logseq-reference-manager",
+  "icon": "icon.svg",
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
