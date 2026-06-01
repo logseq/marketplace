@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#6366f1" stroke="#4f46e5" stroke-width="2"/>
+  
+  <!-- Chat bubble -->
+  <path d="M 30 35 Q 30 28 37 28 L 63 28 Q 70 28 70 35 L 70 50 Q 70 57 63 57 L 45 57 L 35 65 L 35 57 Q 30 57 30 50 Z" 
+        fill="white" opacity="0.95"/>
+  
+  <!-- AI sparkle/star elements -->
+  <circle cx="42" cy="40" r="2.5" fill="#6366f1"/>
+  <circle cx="50" cy="40" r="2.5" fill="#6366f1"/>
+  <circle cx="58" cy="40" r="2.5" fill="#6366f1"/>
+  
+  <!-- Brain/AI symbol -->
+  <path d="M 40 48 Q 45 45 50 48 Q 55 45 60 48" 
+        stroke="#6366f1" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Accent sparkles around the bubble -->
+  <path d="M 25 25 L 27 27 M 27 25 L 25 27" stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <path d="M 73 25 L 75 27 M 75 25 L 73 27" stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <path d="M 75 60 L 77 62 M 77 60 L 75 62" stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+</svg>

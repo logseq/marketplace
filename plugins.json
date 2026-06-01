@@ -1,5 +1,5 @@
 {
-  "datetime": 1779850115985,
+  "datetime": 1780290347045,
   "packages": [
     {
       "title": "Archivist",
@@ -260,6 +260,20 @@
       "effect": true,
       "id": "logseq-ai-auto-tags",
       "addedAt": 1698845571000
+    },
+    {
+      "title": "AI Chat Assistant",
+      "description": "Powerful AI chat integration with multi-provider support (OpenAI, Ollama), streaming responses, and conversation history.",
+      "author": "albilu",
+      "repo": "albilu/logseq-ai-chat-assistant",
+      "icon": "./icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-ai-chat-assistant",
+      "addedAt": 1780226596000
     },
     {
       "title": "AI Journal for Logseq",
