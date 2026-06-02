@@ -1,5 +1,5 @@
 {
-  "datetime": 1780395432405,
+  "datetime": 1780406919390,
   "packages": [
     {
       "title": "Archivist",
@@ -4516,6 +4516,7 @@
       "author": "Rahul Somani",
       "repo": "rsomani95/logseq-reference-manager",
       "icon": "icon.svg",
+      "effect": true,
       "supportsDB": true,
       "supportsDBOnly": true,
       "id": "logseq-reference-manager",
