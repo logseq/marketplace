@@ -1,0 +1,7 @@
+{
+  "title": "Google Agenda",
+  "description": "Read-only Google Calendar and journal task month view for Logseq.",
+  "author": "albilu",
+  "repo": "albilu/logseq-google-agenda",
+  "icon": "icon.svg"
+}
