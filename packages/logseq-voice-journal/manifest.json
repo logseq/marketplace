@@ -3,7 +3,5 @@
   "description": "语音录入 + AI 润色的学习日记插件。录音 → 转写 → 润色 → 复核 → 写入 Journal → Git 推送。",
   "repo": "nb-diok-in-sky/logseq-voice-journal",
   "author": "nb-diok-in-sky",
-  "icon": "https://raw.githubusercontent.com/nb-diok-in-sky/logseq-voice-journal/main/logo.svg",
-  "stars": 0,
-  "readme": "https://raw.githubusercontent.com/nb-diok-in-sky/logseq-voice-journal/main/README.md"
+  "icon": "logo.svg"
 }

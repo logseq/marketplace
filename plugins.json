@@ -1,5 +1,5 @@
 {
-  "datetime": 1780406919390,
+  "datetime": 1780472567783,
   "packages": [
     {
       "title": "Archivist",
@@ -5597,6 +5597,15 @@
       ],
       "id": "logseq-virtual-directory-tree",
       "addedAt": 1774877833000
+    },
+    {
+      "title": "Voice Journal",
+      "description": "语音录入 + AI 润色的学习日记插件。录音 → 转写 → 润色 → 复核 → 写入 Journal → Git 推送。",
+      "repo": "nb-diok-in-sky/logseq-voice-journal",
+      "author": "nb-diok-in-sky",
+      "icon": "logo.svg",
+      "id": "logseq-voice-journal",
+      "addedAt": 1780472567772
     },
     {
       "title": "WakaTime",
