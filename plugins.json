@@ -1,5 +1,5 @@
 {
-  "datetime": 1780472567783,
+  "datetime": 1780533989213,
   "packages": [
     {
       "title": "Archivist",
@@ -1900,6 +1900,15 @@
       "theme": false,
       "id": "logseq-go-to-bottom",
       "addedAt": 1741252864000
+    },
+    {
+      "title": "Google Agenda",
+      "description": "Read-only Google Calendar and journal task month view for Logseq.",
+      "author": "albilu",
+      "repo": "albilu/logseq-google-agenda",
+      "icon": "icon.svg",
+      "id": "logseq-google-agenda",
+      "addedAt": 1780483361000
     },
     {
       "title": "Google Fonts",
