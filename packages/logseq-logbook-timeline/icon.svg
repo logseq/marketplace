@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Crown base (Burger King style) -->
+  <path d="M32 160 L32 80 L80 120 L128 40 L176 120 L224 80 L224 160 Z" fill="#FF9F1C"/>
+  <!-- Crown bottom bar -->
+  <rect x="24" y="160" width="208" height="24" rx="4" fill="#E85D04"/>
+  <!-- Timeline bars inside crown -->
+  <rect x="60" y="100" width="16" height="48" rx="4" fill="#FFFFFF" opacity="0.9"/>
+  <rect x="120" y="70" width="16" height="78" rx="4" fill="#FFFFFF" opacity="0.9"/>
+  <rect x="180" y="90" width="16" height="58" rx="4" fill="#FFFFFF" opacity="0.9"/>
+  <!-- Clock dots on top -->
+  <circle cx="68" cy="88" r="6" fill="#DC2F02"/>
+  <circle cx="128" cy="58" r="6" fill="#DC2F02"/>
+  <circle cx="188" cy="78" r="6" fill="#DC2F02"/>
+</svg>
