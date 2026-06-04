@@ -1,5 +1,5 @@
 {
-  "datetime": 1780533989213,
+  "datetime": 1780537148991,
   "packages": [
     {
       "title": "Archivist",
@@ -450,6 +450,19 @@
       "effect": true,
       "id": "logseq-audio-memo",
       "addedAt": 1687202635000
+    },
+    {
+      "title": "Auto List Continuation",
+      "description": "Automatically continues bullet (-, *, +), numbered (1.), and lettered (a.) lists when pressing Shift+Enter inside a single block node. Keeps cohesive lists in one block without node bloat.",
+      "author": "Xanaxus",
+      "repo": "Xanaxus/Logseq-Auto-List",
+      "icon": "./icon.png",
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-auto-list",
+      "addedAt": 1780485663000
     },
     {
       "title": "AutoClass",
