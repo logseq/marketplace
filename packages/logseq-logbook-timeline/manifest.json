@@ -9,5 +9,5 @@
   "web": false,
   "effect": false,
   "supportsDB": false,
-  "supportsDBOnly": false,
+  "supportsDBOnly": false
 }

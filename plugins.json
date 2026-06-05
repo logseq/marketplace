@@ -1,5 +1,5 @@
 {
-  "datetime": 1780537148991,
+  "datetime": 1780624898453,
   "packages": [
     {
       "title": "Archivist",
@@ -453,13 +453,13 @@
     },
     {
       "title": "Auto List Continuation",
-      "description": "Automatically continues bullet (-, *, +), numbered (1.), and lettered (a.) lists when pressing Shift+Enter inside a single block node. Keeps cohesive lists in one block without node bloat.",
+      "description": "Automatically continues bullet (-, *, +), numbered (1.), and lettered (a.) lists when pressing Shift+Enter inside a single block node. Keeps cohesive lists in one block without node bloat. Note: currently tested on the DB version only.",
       "author": "Xanaxus",
       "repo": "Xanaxus/Logseq-Auto-List",
       "icon": "./icon.png",
       "effect": true,
       "web": false,
-      "supportsDB": false,
+      "supportsDB": true,
       "supportsDBOnly": false,
       "id": "logseq-auto-list",
       "addedAt": 1780485663000
@@ -2470,6 +2470,21 @@
       "effect": true,
       "id": "logseq-logarxivmate-plugin",
       "addedAt": 1716844009000
+    },
+    {
+      "title": "Logbook Timeline",
+      "description": "Visualize the logbook of the current page in the sidebar.",
+      "author": "soler1212",
+      "repo": "devonthesofa/logseq-logbook-timeline",
+      "icon": "./icon.png",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-logbook-timeline",
+      "addedAt": 1780588816000
     },
     {
       "title": "Long Form",
