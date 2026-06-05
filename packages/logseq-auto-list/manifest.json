@@ -1,11 +1,11 @@
 {
   "title": "Auto List Continuation",
-  "description": "Automatically continues bullet (-, *, +), numbered (1.), and lettered (a.) lists when pressing Shift+Enter inside a single block node. Keeps cohesive lists in one block without node bloat.",
+  "description": "Automatically continues bullet (-, *, +), numbered (1.), and lettered (a.) lists when pressing Shift+Enter inside a single block node. Keeps cohesive lists in one block without node bloat. Note: currently tested on the DB version only.",
   "author": "Xanaxus",
   "repo": "Xanaxus/Logseq-Auto-List",
   "icon": "./icon.png",
   "effect": true,
   "web": false,
-  "supportsDB": false,
+  "supportsDB": true,
   "supportsDBOnly": false
 }
