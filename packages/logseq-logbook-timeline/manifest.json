@@ -1,0 +1,13 @@
+{
+  "title": "Logbook Timeline",
+  "description": "Visualize the logbook of the current page in the sidebar.",
+  "author": "soler1212",
+  "repo": "devonthesofa/logseq-logbook-timeline",
+  "icon": "./icon.png",
+  "theme": false,
+  "sponsors": [],
+  "web": false,
+  "effect": false,
+  "supportsDB": false,
+  "supportsDBOnly": false,
+}
