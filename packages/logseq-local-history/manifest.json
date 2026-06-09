@@ -1,0 +1,10 @@
+{
+    "title": "Local History",
+    "description": "Track page changes in Logseq with local version history, diff view, and revert",
+    "author": "albilu",
+    "repo": "albilu/logseq-local-history",
+    "icon": "./icon.png",
+    "theme": false,
+    "web": false,
+    "effect": false
+}
