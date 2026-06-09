@@ -1,5 +1,5 @@
 {
-  "datetime": 1780624898453,
+  "datetime": 1781004431875,
   "packages": [
     {
       "title": "Archivist",
@@ -2414,6 +2414,18 @@
       "supportsDB": true,
       "id": "logseq-llm",
       "addedAt": 1775831513000
+    },
+    {
+      "title": "Local History",
+      "description": "Track page changes in Logseq with local version history, diff view, and revert",
+      "author": "albilu",
+      "repo": "albilu/logseq-local-history",
+      "icon": "./icon.png",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "id": "logseq-local-history",
+      "addedAt": 1780999587000
     },
     {
       "title": "Local Telegram Bot",
