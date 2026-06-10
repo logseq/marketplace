@@ -1,5 +1,5 @@
 {
-  "datetime": 1781004528336,
+  "datetime": 1781099467055,
   "packages": [
     {
       "title": "Archivist",
@@ -1596,7 +1596,7 @@
       "repo": "xyhp915/logseq-fenced-code-plus",
       "author": "xyhp915",
       "icon": "icon.png",
-      "supportsDB": true,
+      "supportsDB": false,
       "effect": true,
       "sponsors": [
         "https://opencollective.com/logseq"
