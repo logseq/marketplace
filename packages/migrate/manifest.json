@@ -1,0 +1,7 @@
+{
+  "title": "Migrate",
+  "description": "Auto-migrate undone TODO/DOING/LATER/NOW blocks from past journals into today's journal on open. Settings to skip or only migrate hashtagged blocks.",
+  "author": "nnavnita",
+  "repo": "nnavnita/migrate",
+  "icon": "./icon.png"
+}
