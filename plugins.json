@@ -1,5 +1,5 @@
 {
-  "datetime": 1781099467055,
+  "datetime": 1781154004853,
   "packages": [
     {
       "title": "Archivist",
@@ -168,6 +168,17 @@
       "theme": true,
       "id": "harmony-theme",
       "addedAt": 1649430404000
+    },
+    {
+      "title": "iA Writer Theme",
+      "description": "An iA Writer-inspired theme for Logseq",
+      "author": "Rahul Somani",
+      "repo": "rsomani95/logseq-iawriter-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "supportsDB": true,
+      "id": "iawriter-theme",
+      "addedAt": 1781111382000
     },
     {
       "title": "Log-Stats",
