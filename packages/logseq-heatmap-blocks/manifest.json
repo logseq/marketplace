@@ -1,0 +1,9 @@
+{
+  "title": "Heatmap Blocks",
+  "description": "A customizable habit-tracking heatmap plugin that renders visual charts based on data queries",
+  "author": "yuanhan1890",
+  "repo": "yuanhan1890/logseq-plugin-heatmap-blocks",
+  "icon": "./icon.png",
+  "effect": true,
+  "supportsDB": false
+}
