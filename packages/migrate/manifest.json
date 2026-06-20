@@ -1,6 +1,6 @@
 {
   "title": "Migrate",
-  "description": "Auto-migrate undone TODO/DOING/LATER/NOW blocks from past journals into today's journal on open. Settings to skip or only migrate hashtagged blocks.",
+  "description": "Auto-migrate unfinished TODO/DOING/LATER/NOW blocks from past journals into today's journal. Copy-then-verify-then-delete (no cross-page moves). Tag-based filters. Console diagnostics.",
   "author": "nnavnita",
   "repo": "nnavnita/migrate",
   "icon": "./icon.png"
