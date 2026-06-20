@@ -1,6 +1,6 @@
 {
   "title": "Migrate",
-  "description": "Auto-migrate unfinished TODO/DOING/LATER/NOW blocks from past journals into today's journal. Copy-then-verify-then-delete (no cross-page moves). Tag-based filters. Console diagnostics.",
+  "description": "Auto-migrate unfinished TODO/DOING/LATER/NOW blocks from past journals into today's journal. Preserves hierarchy — parent context blocks (e.g. project headers) come along and shared ancestors are deduped. Copy-then-verify-then-delete (no cross-page moves). Tag-based filters. Console diagnostics.",
   "author": "nnavnita",
   "repo": "nnavnita/migrate",
   "icon": "./icon.png"
