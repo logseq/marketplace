@@ -1,0 +1,10 @@
+{
+  "title": "logseq-navigator-plugin",
+  "name": "logseq-navigator-plugin",
+  "description": "A three-pane note navigator that replaces the underused native left sidebar in Logseq DB graphs.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-navigator-plugin",
+  "icon": "./icon.svg",
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
