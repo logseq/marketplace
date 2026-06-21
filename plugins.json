@@ -1,5 +1,5 @@
 {
-  "datetime": 1781665472824,
+  "datetime": 1782011219184,
   "packages": [
     {
       "title": "Archivist",
@@ -2899,6 +2899,18 @@
       ],
       "id": "logseq-my-highlights",
       "addedAt": 1646146688000
+    },
+    {
+      "title": "logseq-navigator-plugin",
+      "name": "logseq-navigator-plugin",
+      "description": "A three-pane note navigator that replaces the underused native left sidebar in Logseq DB graphs.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-navigator-plugin",
+      "icon": "./icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-navigator-plugin",
+      "addedAt": 1781882348000
     },
     {
       "title": "NEON theme",
@@ -5983,6 +5995,15 @@
       "repo": "Angboo/logwidgets",
       "id": "logwidgets",
       "addedAt": 1656151446000
+    },
+    {
+      "title": "Migrate",
+      "description": "Auto-migrate unfinished TODO/DOING/LATER/NOW blocks from past journals into today's journal. Preserves hierarchy — parent context blocks (e.g. project headers) come along and shared ancestors are deduped. Copy-then-verify-then-delete (no cross-page moves). Tag-based filters. Console diagnostics.",
+      "author": "nnavnita",
+      "repo": "nnavnita/migrate",
+      "icon": "./icon.png",
+      "id": "migrate",
+      "addedAt": 1779323040000
     },
     {
       "title": "Multi PDF Viewer",
