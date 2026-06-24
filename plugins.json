@@ -1,5 +1,5 @@
 {
-  "datetime": 1782011219184,
+  "datetime": 1782280131607,
   "packages": [
     {
       "title": "Archivist",
@@ -59,6 +59,17 @@
       "icon": "icon.webp",
       "id": "cycle-todo-dwim",
       "addedAt": 1733232465000
+    },
+    {
+      "title": "D2 Diagrams (WASM)",
+      "description": "Render D2 diagrams in fenced code blocks. Client-side WASM, no server required.",
+      "author": "edjeffreys",
+      "repo": "edjeffreys/logseq-d2",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "d2-renderer",
+      "addedAt": 1782252959000
     },
     {
       "title": "darwis-mathlive-plugin",

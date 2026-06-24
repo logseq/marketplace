@@ -2,5 +2,8 @@
   "title": "D2 Diagrams (WASM)",
   "description": "Render D2 diagrams in fenced code blocks. Client-side WASM, no server required.",
   "author": "edjeffreys",
-  "repo": "edjeffreys/logseq-d2"
+  "repo": "edjeffreys/logseq-d2",
+  "icon": "./icon.svg",
+  "effect": true,
+  "supportsDB": true
 }
