@@ -1,0 +1,11 @@
+{
+    "title": "logseq-searx-plugin",
+    "description": "SearX/SearXNG meta search integration for LogSEQ",
+    "author": "Thorsten Zoerner",
+    "repo": "zoernert/logseq-searx",
+    "icon": "./icon.png",
+    "effect": true, 
+    "sponsors": [
+     "https://www.buymeacoffee.com/sawhney17"
+   ]
+  }
