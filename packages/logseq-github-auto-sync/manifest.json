@@ -1,0 +1,11 @@
+{
+  "title": "GitHub Auto Sync",
+  "description": "Encrypt and sync your Logseq graph to GitHub with automatic secret scanning. Tag files to encrypt them with age before push.",
+  "author": "Kada Liao",
+  "repo": "kadaliao/logseq-github-auto-sync",
+  "icon": "icon.svg",
+  "theme": false,
+  "effect": true,
+  "web": false,
+  "supportsDB": false
+}
