@@ -1,5 +1,5 @@
 {
-  "datetime": 1782280131607,
+  "datetime": 1782563791297,
   "packages": [
     {
       "title": "Archivist",
@@ -1865,6 +1865,19 @@
       "effect": true,
       "id": "logseq-git-diff-since",
       "addedAt": 1690007639000
+    },
+    {
+      "title": "GitHub Auto Sync",
+      "description": "Encrypt and sync your Logseq graph to GitHub with automatic secret scanning. Tag files to encrypt them with age before push.",
+      "author": "Kada Liao",
+      "repo": "kadaliao/logseq-github-auto-sync",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "id": "logseq-github-auto-sync",
+      "addedAt": 1782381614000
     },
     {
       "title": "logseq-github-plugin ",
