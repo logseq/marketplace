@@ -1,5 +1,5 @@
 {
-  "datetime": 1782563791297,
+  "datetime": 1782807224529,
   "packages": [
     {
       "title": "Archivist",
@@ -1323,6 +1323,15 @@
       ],
       "id": "logseq-datetag-plugin",
       "addedAt": 1644179668000
+    },
+    {
+      "title": "Days Matter",
+      "description": "Show birthday / anniversary / countdown reminders from page properties in your Logseq journal — Days Matter style.",
+      "author": "Zhizhen He",
+      "repo": "hezhizhen/logseq-days-matter",
+      "icon": "./icon.png",
+      "id": "logseq-days-matter",
+      "addedAt": 1782715066000
     },
     {
       "title": "DB Favorite Tree",
@@ -6155,6 +6164,17 @@
       "effect": true,
       "id": "sync-koreader-highlights",
       "addedAt": 1779312894000
+    },
+    {
+      "title": "Syncthing Monitor",
+      "description": "Monitor your Logseq graph for Syncthing sync conflicts and resolve them from a single report page with per-file git-style diffs. Detects *.sync-conflict-* files, shows what changed on each side, and lets you mark conflicts resolved with one click. Works on journal, namespaced, and plain pages.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/syncthing-monitor",
+      "icon": "./icon.png",
+      "effect": false,
+      "supportsDB": false,
+      "id": "syncthing-monitor",
+      "addedAt": 1782751733000
     },
     {
       "title": "Template Gallery",
