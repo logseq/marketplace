@@ -1,5 +1,5 @@
 {
-  "datetime": 1782807224529,
+  "datetime": 1782870417336,
   "packages": [
     {
       "title": "Archivist",
@@ -6037,6 +6037,16 @@
       "icon": "./icon.png",
       "id": "migrate",
       "addedAt": 1779323040000
+    },
+    {
+      "title": "Mixer",
+      "description": "A highly capable, RAG-powered AI assistant plugin for Logseq that understands the structure of your notes, retrieves the most relevant context, and can even edit your blocks directly from the chat",
+      "author": "indraginanjar",
+      "repo": "indraginanjar/logseq-mixer",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "mixer",
+      "addedAt": 1782217282000
     },
     {
       "title": "Multi PDF Viewer",
