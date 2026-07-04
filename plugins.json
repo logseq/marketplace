@@ -1,5 +1,5 @@
 {
-  "datetime": 1782870417336,
+  "datetime": 1783138148313,
   "packages": [
     {
       "title": "Archivist",
@@ -4884,6 +4884,16 @@
       "theme": false,
       "id": "logseq-show-github-star",
       "addedAt": 1692439110000
+    },
+    {
+      "title": "Sidebar Calendar",
+      "description": "Sidebar calendar plugin for logseq.",
+      "author": "kiwanoy",
+      "repo": "kiwanoy/logseq-sidebar-calendar-plugin",
+      "icon": "icon.png",
+      "supportsDB": true,
+      "id": "logseq-sidebar-calendar-plugin",
+      "addedAt": 1782993342000
     },
     {
       "title": "Sidebar Preset",
