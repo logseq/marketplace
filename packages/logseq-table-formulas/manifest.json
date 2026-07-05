@@ -1,0 +1,8 @@
+{
+  "title": "Table Formulas",
+  "description": "Excel-like formulas in markdown tables: type =SUM(A1:A3) in a cell and the result shows up next to it. ~400 Excel functions, source text is never modified.",
+  "author": "Aleksandr Dmitriuk",
+  "repo": "eqeka/logseq-table-formulas",
+  "icon": "icon.svg",
+  "effect": true
+}
