@@ -1,5 +1,5 @@
 {
-  "datetime": 1783138148313,
+  "datetime": 1783306679920,
   "packages": [
     {
       "title": "Archivist",
@@ -5099,6 +5099,16 @@
       "icon": "icon.png",
       "id": "logseq-syncthing-conflicts-helper",
       "addedAt": 1765631826000
+    },
+    {
+      "title": "Table Formulas",
+      "description": "Spreadsheet formulas in markdown tables: type =SUM(A1:A3) in a cell and the result shows up next to it. ~400 functions, source text is never modified.",
+      "author": "Aleksandr Dmitriuk",
+      "repo": "eqeka/logseq-table-formulas",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-table-formulas",
+      "addedAt": 1783279458000
     },
     {
       "id": "logseq-table-view",
