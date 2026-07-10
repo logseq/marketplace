@@ -1,12 +1,12 @@
 {
-  "datetime": 1783583406905,
+  "datetime": 1783655045105,
   "packages": [
     {
       "title": "Orbitals",
       "description": "Kanban, weekly planner with time box, Tana-style project tables, and calendar for your Logseq tasks — plus Gmail → task capture, Google Calendar overlay, and meeting prep.",
       "author": "yfhuang7",
       "repo": "yfhuang7/logseq-orbitals",
-      "icon": "icon.svg",
+      "icon": "icon.jpg",
       "sponsors": [
         "https://buymeacoffee.com/yufenasyourfriend"
       ],
