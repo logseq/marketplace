@@ -1,5 +1,5 @@
 {
-  "datetime": 1783655045105,
+  "datetime": 1783902759989,
   "packages": [
     {
       "title": "Orbitals",
@@ -191,6 +191,19 @@
       "theme": true,
       "id": "harmony-theme",
       "addedAt": 1649430404000
+    },
+    {
+      "title": "Highlight Colorizer",
+      "description": "Color highlighted text with readable directives and a floating palette while editing Logseq blocks.",
+      "author": "TKnifer",
+      "repo": "TKnifer/logseq-highlight-colorizer",
+      "effect": true,
+      "sponsors": [],
+      "web": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "highlight-colorizer",
+      "addedAt": 1783759020000
     },
     {
       "title": "iA Writer Theme",
