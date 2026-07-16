@@ -1,0 +1,10 @@
+{
+  "title": "db-block-extractor",
+  "description": "Extract the Linked References Contents of a Tag (or a Page) to an MD file." ,
+  "author": "inchanS",
+  "repo":"inchanS/logseq-block-extractor-db",
+  "icon": "icon.png",
+  "theme": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
