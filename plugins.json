@@ -1,5 +1,5 @@
 {
-  "datetime": 1783902759989,
+  "datetime": 1784170979136,
   "packages": [
     {
       "title": "Orbitals",
@@ -93,6 +93,18 @@
       "effect": true,
       "id": "darwis-mathlive-plugin",
       "addedAt": 1681456468000
+    },
+    {
+      "title": "db-block-extractor",
+      "description": "Extract the Linked References Contents of a Tag (or a Page) to an MD file.",
+      "author": "inchanS",
+      "repo": "inchanS/logseq-block-extractor-db",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "db-block-extractor",
+      "addedAt": 1784009888000
     },
     {
       "title": "Degrande Bullet Threading",
