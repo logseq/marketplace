@@ -1,0 +1,10 @@
+{
+  "title": "Logseq Transparent",
+  "description": "A calm, translucent glass theme designed for Logseq DB with coordinated light and dark variants.",
+  "author": "viva",
+  "repo": "vivanotica/logseq-transparent",
+  "icon": "icon.svg",
+  "theme": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
