@@ -1,5 +1,5 @@
 {
-  "datetime": 1784170979136,
+  "datetime": 1784595253566,
   "packages": [
     {
       "title": "Orbitals",
@@ -2493,7 +2493,8 @@
       "icon": "./logo.svg",
       "effect": true,
       "sponsors": [],
-      "supportsDB": false,
+      "supportsDB": true,
+      "supportsDBOnly": false,
       "id": "logseq-livephotos-plugin",
       "addedAt": 1768838499000
     },
@@ -5431,6 +5432,18 @@
       "addedAt": 1763025788000
     },
     {
+      "title": "Block Created Time",
+      "description": "Show compact creation timestamps beside blocks in Logseq DB graphs.",
+      "author": "Inchan Kang",
+      "repo": "vivanotica/logseq-timestamp",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-timestamp",
+      "addedAt": 1784474217000
+    },
+    {
       "title": "Timestamp Converter",
       "description": "Convert unix timestamps to human readable format.",
       "author": "uddhavdave",
@@ -5578,6 +5591,18 @@
       ],
       "id": "logseq-transcriber",
       "addedAt": 1747743011000
+    },
+    {
+      "title": "Logseq Transparent",
+      "description": "A calm, translucent glass theme designed for Logseq DB with coordinated light and dark variants.",
+      "author": "viva",
+      "repo": "vivanotica/logseq-transparent",
+      "icon": "icon.svg",
+      "theme": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-transparent",
+      "addedAt": 1784548931000
     },
     {
       "title": "logseq-trello-plugin",
@@ -5779,6 +5804,16 @@
       "icon": "logo.svg",
       "id": "logseq-voice-journal",
       "addedAt": 1780472567772
+    },
+    {
+      "title": "Voice Memo",
+      "description": "Record a voice memo from your microphone and inject it into Logseq as a playable MP3 or WAV asset.",
+      "author": "nnigmat",
+      "repo": "Nnigmat/logseq-plugin-voice-memo",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-voice-memo",
+      "addedAt": 1784322957000
     },
     {
       "title": "WakaTime",
