@@ -4,5 +4,6 @@
   "author": "MMMartt",
   "repo": "MMMartt/logseq-better-mermaid",
   "icon": "./icon.svg",
+  "effect": true,
   "supportsDB": false
 }
