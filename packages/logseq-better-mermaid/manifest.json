@@ -1,0 +1,8 @@
+{
+  "title": "Better Mermaid",
+  "description": "Interactive, offline Mermaid diagrams with pan, zoom, Monaco editing, and SVG/PNG export.",
+  "author": "MMMartt",
+  "repo": "MMMartt/logseq-better-mermaid",
+  "icon": "./icon.svg",
+  "supportsDB": false
+}
