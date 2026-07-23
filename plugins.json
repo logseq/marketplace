@@ -1,5 +1,5 @@
 {
-  "datetime": 1784595253566,
+  "datetime": 1784797545437,
   "packages": [
     {
       "title": "Orbitals",
@@ -699,6 +699,16 @@
       "supportsDBOnly": false,
       "id": "logseq-bermaid",
       "addedAt": 1777777542000
+    },
+    {
+      "title": "Better Mermaid",
+      "description": "Interactive, offline Mermaid diagrams with pan, zoom, Monaco editing, and SVG/PNG export.",
+      "author": "MMMartt",
+      "repo": "MMMartt/logseq-better-mermaid",
+      "icon": "./icon.svg",
+      "supportsDB": false,
+      "id": "logseq-better-mermaid",
+      "addedAt": 1784711554000
     },
     {
       "title": "BetterWorkflow",
