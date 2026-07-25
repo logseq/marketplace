@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Home OS</title>
+  <desc id="desc">The letter H constructed from four connected knowledge nodes</desc>
+  <rect width="128" height="128" rx="28" fill="#173f35"/>
+  <path d="M40 44v40M88 44v40M50 64h28" fill="none" stroke="#f4efe3" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="40" cy="34" r="10" fill="#d9895b"/>
+  <circle cx="40" cy="94" r="10" fill="#d9895b"/>
+  <circle cx="88" cy="34" r="10" fill="#d9895b"/>
+  <circle cx="88" cy="94" r="10" fill="#d9895b"/>
+</svg>

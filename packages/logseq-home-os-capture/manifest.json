@@ -1,0 +1,12 @@
+{
+  "title": "Home OS Capture",
+  "description": "Turn photo-first journal captures into a private, structured home manual with guided setup and local Codex processing.",
+  "author": "ZeroShot or Die",
+  "repo": "AlienOctopus/logseq-home-os",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
