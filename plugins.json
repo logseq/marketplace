@@ -1,5 +1,5 @@
 {
-  "datetime": 1784797595653,
+  "datetime": 1784945807914,
   "packages": [
     {
       "title": "Orbitals",
@@ -2061,6 +2061,18 @@
       "addedAt": 1656323540000
     },
     {
+      "title": "Gruvbox DB",
+      "description": "An opaque, adaptive Gruvbox light and dark theme for Logseq DB, with exact #Border block styling and a documented Tabs bridge.",
+      "author": "Shawn Salat",
+      "repo": "ThinkSalat/logseq-gruvbox-db",
+      "icon": "icon.svg",
+      "theme": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-gruvbox-db",
+      "addedAt": 1784846123000
+    },
+    {
       "title": "Gunmetal Theme",
       "description": "Gunmetal Theme was designed for long screen times and reading comfort. It features a dark theme and a light theme.",
       "author": "blueteafrog",
@@ -2153,6 +2165,20 @@
       "effect": true,
       "id": "logseq-hitokoto-yiyan",
       "addedAt": 1763307189000
+    },
+    {
+      "title": "Home OS Capture",
+      "description": "Turn photo-first journal captures into a private, structured home manual with guided setup and local Codex processing.",
+      "author": "ZeroShot or Die",
+      "repo": "AlienOctopus/logseq-home-os",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-home-os-capture",
+      "addedAt": 1784792717000
     },
     {
       "title": "Hypothesis",
