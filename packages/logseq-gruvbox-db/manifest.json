@@ -1,0 +1,10 @@
+{
+  "title": "Gruvbox DB",
+  "description": "An opaque, adaptive Gruvbox light and dark theme for Logseq DB, with exact #Border block styling and a documented Tabs bridge.",
+  "author": "Shawn Salat",
+  "repo": "ThinkSalat/logseq-gruvbox-db",
+  "icon": "icon.svg",
+  "theme": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
