@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title id="title">Plus Minus Next</title>
-  <rect width="64" height="64" rx="14" fill="#d1d5db"/>
-  <rect x="7" y="10" width="14" height="44" rx="5" fill="#6b7280"/>
-  <rect x="25" y="10" width="14" height="44" rx="5" fill="#6b7280"/>
-  <rect x="43" y="10" width="14" height="44" rx="5" fill="#6b7280"/>
-  <path d="M14 16v10M9 21h10" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/>
-  <path d="M29 21h6M47 21h7m-4-4 4 4-4 4" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
