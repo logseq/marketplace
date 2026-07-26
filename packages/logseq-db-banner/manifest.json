@@ -3,10 +3,10 @@
   "description": "Journal banner for Logseq DB graphs: a local wallpaper with a month calendar, day/week/year/life progress bars and a quote of the day.",
   "author": "Asaki14",
   "repo": "Asaki14/logseq-db-banner",
-  "icon": "icon.svg",
+  "icon": "icon.png",
   "theme": false,
   "web": false,
-  "effect": false,
+  "effect": true,
   "supportsDB": true,
   "supportsDBOnly": true
 }

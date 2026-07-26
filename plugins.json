@@ -1,5 +1,5 @@
 {
-  "datetime": 1784945807914,
+  "datetime": 1785036240982,
   "packages": [
     {
       "title": "Orbitals",
@@ -1382,6 +1382,20 @@
       "addedAt": 1782715066000
     },
     {
+      "title": "DB Banner",
+      "description": "Journal banner for Logseq DB graphs: a local wallpaper with a month calendar, day/week/year/life progress bars and a quote of the day.",
+      "author": "Asaki14",
+      "repo": "Asaki14/logseq-db-banner",
+      "icon": "icon.png",
+      "theme": false,
+      "web": false,
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-db-banner",
+      "addedAt": 1784970670000
+    },
+    {
       "title": "DB Favorite Tree",
       "description": "Render favorite pages as a property-driven tree for Logseq DB graph.",
       "author": "yanhaizhe",
@@ -2157,6 +2171,20 @@
       "addedAt": 1686319584000
     },
     {
+      "title": "History Timeline",
+      "description": "Turn #tl-tagged nodes into an interactive, zoomable historical timeline — eras, events and people, filterable by topic and type. DB graphs only.",
+      "author": "P. Kerim Friedman",
+      "repo": "kerim/logseq-history-timeline-plugin",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-history-timeline-plugin",
+      "addedAt": 1784963931000
+    },
+    {
       "title": "logseq-hitokoto-yiyan",
       "description": "Randomly display a sentence at the top of logseq.",
       "author": "ZYJ-3721",
@@ -2351,6 +2379,20 @@
       ],
       "id": "logseq-journal-auto-copier",
       "addedAt": 1670347484000
+    },
+    {
+      "title": "Journal Time Prefix",
+      "description": "Automatically add a local time prefix to top-level blocks in Logseq DB journals.",
+      "author": "Asaki14",
+      "repo": "Asaki14/logseq-journal-time-prefix",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-journal-time-prefix",
+      "addedAt": 1784970690000
     },
     {
       "title": "Journals calendar",
