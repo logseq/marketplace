@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <title>Remember My Block</title>
+  <!-- Background -->
+  <rect width="80" height="80" rx="18" fill="#1a1a2e"/>
+
+  <!-- Graph nodes (blue, hollow circles in triangle formation) -->
+  <circle cx="26" cy="26" r="7" fill="none" stroke="#6e8efb" stroke-width="3"/>
+  <circle cx="54" cy="26" r="7" fill="none" stroke="#6e8efb" stroke-width="3"/>
+  <circle cx="40" cy="52" r="7" fill="none" stroke="#6e8efb" stroke-width="3"/>
+
+  <!-- Connecting lines -->
+  <line x1="33" y1="26" x2="47" y2="26" stroke="#6e8efb" stroke-width="2"/>
+  <line x1="29.3" y1="32.2" x2="36.7" y2="45.8" stroke="#6e8efb" stroke-width="2"/>
+  <line x1="50.7" y1="32.2" x2="43.3" y2="45.8" stroke="#6e8efb" stroke-width="2"/>
+
+  <!-- Badge: dark separator ring (creates visual gap from base icon) -->
+  <circle cx="63" cy="63" r="13" fill="#1a1a2e"/>
+
+  <!-- Badge: amber fill -->
+  <circle cx="63" cy="63" r="11" fill="#d97706"/>
+
+  <!-- Badge: brain outline (two-hemisphere silhouette) -->
+  <path d="M57.5 63 Q57 58.5 60.5 58 Q61.5 55.5 63.5 56 Q65.5 55.5 66.5 58 Q70 58.5 69.5 63 Q70 66.5 66.5 67.5 Q64 69.5 63 67.5 Q59.5 69.5 57.5 66.5 Q56.5 65 57.5 63Z"
+        fill="none" stroke="white" stroke-width="1.6"/>
+
+  <!-- Badge: brain center divider -->
+  <line x1="63" y1="56" x2="63" y2="67.5" stroke="white" stroke-width="1.2" stroke-opacity="0.65"/>
+</svg>

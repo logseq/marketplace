@@ -1,0 +1,9 @@
+{
+  "title": "Logseq Panes Mode",
+  "description": "A tiling window manager for Logseq's right sidebar",
+  "author": "Satoriq",
+  "repo": "Satoriq/logseq-panes-mode",
+  "icon": "./logo.svg",
+  "effect": true,
+  "supportsDB": true
+}

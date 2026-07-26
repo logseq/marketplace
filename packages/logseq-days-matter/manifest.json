@@ -1,0 +1,7 @@
+{
+  "title": "Days Matter",
+  "description": "Show birthday / anniversary / countdown reminders from page properties in your Logseq journal — Days Matter style.",
+  "author": "Zhizhen He",
+  "repo": "hezhizhen/logseq-days-matter",
+  "icon": "./icon.png"
+}

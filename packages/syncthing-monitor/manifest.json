@@ -1,0 +1,9 @@
+{
+  "title": "Syncthing Monitor",
+  "description": "Monitor your Logseq graph for Syncthing sync conflicts and resolve them from a single report page with per-file git-style diffs. Detects *.sync-conflict-* files, shows what changed on each side, and lets you mark conflicts resolved with one click. Works on journal, namespaced, and plain pages.",
+  "author": "CR0CKER",
+  "repo": "CR0CKER/syncthing-monitor",
+  "icon": "./icon.png",
+  "effect": false,
+  "supportsDB": false
+}

@@ -1,0 +1,12 @@
+{
+    "title": "AI Chat Assistant",
+    "description": "Powerful AI chat integration with multi-provider support (OpenAI, Ollama), streaming responses, and conversation history.",
+    "author": "albilu",
+    "repo": "albilu/logseq-ai-chat-assistant",
+    "icon": "./icon.svg",
+    "theme": false,
+    "web": false,
+    "effect": false,
+    "supportsDB": false,
+    "supportsDBOnly": false
+}

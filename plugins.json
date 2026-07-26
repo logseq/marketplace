@@ -1,6 +1,29 @@
 {
-  "datetime": 1773110503356,
+  "datetime": 1785036240982,
   "packages": [
+    {
+      "title": "Orbitals",
+      "description": "Kanban, weekly planner with time box, Tana-style project tables, and calendar for your Logseq tasks — plus Gmail → task capture, Google Calendar overlay, and meeting prep.",
+      "author": "yfhuang7",
+      "repo": "yfhuang7/logseq-orbitals",
+      "icon": "icon.jpg",
+      "sponsors": [
+        "https://buymeacoffee.com/yufenasyourfriend"
+      ],
+      "id": "logseq-orbitals",
+      "addedAt": 1783555105000
+    },
+    {
+      "title": "Archivist",
+      "description": "D&D 5e toolkit: parchment stat blocks, spells, magic items, inline dice tags, in-place editing, and full SRD compendium.",
+      "author": "Shinoobi",
+      "repo": "archivist-gg/archivist-logseq-plugin",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": true,
+      "id": "archivist-gg",
+      "addedAt": 1776766208000
+    },
     {
       "title": "Block pin",
       "description": "Add \"Paste as pin\" shortcut for pdf and editor blocks.",
@@ -50,6 +73,17 @@
       "addedAt": 1733232465000
     },
     {
+      "title": "D2 Diagrams (WASM)",
+      "description": "Render D2 diagrams in fenced code blocks. Client-side WASM, no server required.",
+      "author": "edjeffreys",
+      "repo": "edjeffreys/logseq-d2",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "d2-renderer",
+      "addedAt": 1782252959000
+    },
+    {
       "title": "darwis-mathlive-plugin",
       "name": "darwis-mathlive-plugin",
       "description": "Use Mathlive to input mathematical expressions in Logseq.",
@@ -59,6 +93,54 @@
       "effect": true,
       "id": "darwis-mathlive-plugin",
       "addedAt": 1681456468000
+    },
+    {
+      "title": "db-block-extractor",
+      "description": "Extract the Linked References Contents of a Tag (or a Page) to an MD file.",
+      "author": "inchanS",
+      "repo": "inchanS/logseq-block-extractor-db",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "db-block-extractor",
+      "addedAt": 1784009888000
+    },
+    {
+      "title": "Degrande Bullet Threading",
+      "description": "Colorful active-path bullet threading for Logseq DB graphs with accent colors, rainbow mode, adjustable width, shape, and motion.",
+      "author": "mugpet",
+      "repo": "mugpet/logseq-db-degrande-bullet-threading",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "degrande-bullet-threading",
+      "addedAt": 1776179494000
+    },
+    {
+      "title": "Degrande Calendar",
+      "description": "Degrande Calendar adds a focused week bar to Logseq DB journals with fast day navigation and animated week browsing.",
+      "author": "mugpet",
+      "repo": "mugpet/logseq-db-degrande-calendar",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "degrande-calendar",
+      "addedAt": 1776032077000
+    },
+    {
+      "title": "Degrande Colors",
+      "description": "A styling panel for Logseq DB graphs with tag colors, live gradients, and quick visual controls.",
+      "author": "mugpet",
+      "repo": "mugpet/logseq-db-degrande-colors",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "degrande-colors",
+      "addedAt": 1775134940000
     },
     {
       "title": "flomo_memos_sync",
@@ -79,6 +161,17 @@
       "supportsDB": true,
       "id": "fuzzy-search",
       "addedAt": 1771126791000
+    },
+    {
+      "title": "GitSeq",
+      "description": "Encrypted git sync for Logseq. One keystroke to commit & push.",
+      "author": "Maxim Khomiakov",
+      "repo": "pihalf/gitseq",
+      "icon": "logo.png",
+      "theme": false,
+      "effect": false,
+      "id": "gitseq",
+      "addedAt": 1776249481000
     },
     {
       "title": "OddBox - Gruvbox Theme for LogSeq",
@@ -110,6 +203,30 @@
       "theme": true,
       "id": "harmony-theme",
       "addedAt": 1649430404000
+    },
+    {
+      "title": "Highlight Colorizer",
+      "description": "Color highlighted text with readable directives and a floating palette while editing Logseq blocks.",
+      "author": "TKnifer",
+      "repo": "TKnifer/logseq-highlight-colorizer",
+      "effect": true,
+      "sponsors": [],
+      "web": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "highlight-colorizer",
+      "addedAt": 1783759020000
+    },
+    {
+      "title": "iA Writer Theme",
+      "description": "An iA Writer-inspired theme for Logseq",
+      "author": "Rahul Somani",
+      "repo": "rsomani95/logseq-iawriter-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "supportsDB": true,
+      "id": "iawriter-theme",
+      "addedAt": 1781111382000
     },
     {
       "title": "Log-Stats",
@@ -151,6 +268,18 @@
       "addedAt": 1668437633000
     },
     {
+      "title": "Advanced Markdown Table Editor",
+      "description": "An advanced markdown table editor for Logseq. Blocks whose content is a markdown table render as a live, editable table with toolbar, context menu, drag-to-reorder, sort, and keyboard shortcuts. The block's raw markdown stays the source of truth.",
+      "author": "VictorVow",
+      "repo": "VictorVow/logseq-plugin-advanced-markdown-table",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-advanced-markdown-table",
+      "addedAt": 1779305274000
+    },
+    {
       "title": "Agenda",
       "description": "An agenda manager plugin for logseq",
       "author": "haydenull",
@@ -160,6 +289,18 @@
       "supportsDB": false,
       "id": "logseq-agenda",
       "addedAt": 1646486302000
+    },
+    {
+      "title": "AI Actions",
+      "description": "AI-driven actions on Logseq blocks (DB graphs only) — spellcheck, grammar, rewrite, summarize, vision actions via a local OpenAI-compatible endpoint (LM Studio / Ollama).",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-ai-actions",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-ai-actions",
+      "addedAt": 1777775922000
     },
     {
       "title": "AI Assistant",
@@ -178,6 +319,30 @@
       "effect": true,
       "id": "logseq-ai-auto-tags",
       "addedAt": 1698845571000
+    },
+    {
+      "title": "AI Chat Assistant",
+      "description": "Powerful AI chat integration with multi-provider support (OpenAI, Ollama), streaming responses, and conversation history.",
+      "author": "albilu",
+      "repo": "albilu/logseq-ai-chat-assistant",
+      "icon": "./icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-ai-chat-assistant",
+      "addedAt": 1780226596000
+    },
+    {
+      "title": "AI Journal for Logseq",
+      "description": "Import AI-written daily journal markdown into Logseq journal pages with /journal.",
+      "author": "John Lin",
+      "repo": "John-Lin/logseq-journal-plugin",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-ai-journal",
+      "addedAt": 1773939989000
     },
     {
       "title": "AI Query generator",
@@ -223,9 +388,26 @@
         "https://github.com/sponsors/debanjandhar12",
         "https://www.buymeacoffee.com/debanjandhar12"
       ],
+      "web": true,
       "supportsDB": true,
+      "supportsDBOnly": false,
       "id": "logseq-anki-sync",
       "addedAt": 1639308679000
+    },
+    {
+      "title": "Logseq Anki Sync (Legacy)",
+      "description": "Legacy (older) version of logseq anki sync plugin.",
+      "author": "debanjandhar12",
+      "repo": "debanjandhar12/logseq-anki-sync-legacy",
+      "icon": "./icon.png",
+      "effect": true,
+      "sponsors": [
+        "https://github.com/sponsors/debanjandhar12",
+        "https://www.buymeacoffee.com/debanjandhar12"
+      ],
+      "supportsDB": false,
+      "id": "logseq-anki-sync-legacy",
+      "addedAt": 1778265052000
     },
     {
       "title": "Arc Theme",
@@ -293,6 +475,22 @@
       "addedAt": 1635888951000
     },
     {
+      "title": "Atlassian Linker",
+      "description": "Rewrite Atlassian Cloud links in DB graphs to Jira and Confluence titles.",
+      "author": "EINDEX",
+      "repo": "EINDEX/logseq-atlassian-db-plugin",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://github.com/sponsors/EINDEX"
+      ],
+      "web": true,
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-atlassian-linker",
+      "addedAt": 1778157157000
+    },
+    {
       "title": "Atmos theme",
       "description": "A theme inspired by One Dark Pro",
       "author": "Mat4m0",
@@ -313,6 +511,19 @@
       "addedAt": 1687202635000
     },
     {
+      "title": "Auto List Continuation",
+      "description": "Automatically continues bullet (-, *, +), numbered (1.), and lettered (a.) lists when pressing Shift+Enter inside a single block node. Keeps cohesive lists in one block without node bloat. Note: currently tested on the DB version only.",
+      "author": "Xanaxus",
+      "repo": "Xanaxus/Logseq-Auto-List",
+      "icon": "./icon.png",
+      "effect": true,
+      "web": false,
+      "supportsDB": true,
+      "supportsDBOnly": false,
+      "id": "logseq-auto-list",
+      "addedAt": 1780485663000
+    },
+    {
       "title": "AutoClass",
       "description": "Automatically add the class property",
       "author": "JWangL5",
@@ -330,6 +541,18 @@
       "effect": true,
       "id": "logseq-autolink-autotag",
       "addedAt": 1745080690000
+    },
+    {
+      "title": "logseq-autolink-plugin",
+      "name": "logseq-autolink-plugin",
+      "description": "Automatically wrap mentions of existing pages in `[[...]]` as you write, so your graph stays connected without manual linking.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-autolink-plugin",
+      "icon": "./icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-autolink-plugin",
+      "addedAt": 1778996313000
     },
     {
       "title": "Automatic Linker",
@@ -466,6 +689,29 @@
       "addedAt": 1637514822000
     },
     {
+      "title": "Bermaid - Diagrams",
+      "description": "Beautiful mermaid diagram renderer for Logseq using beautiful-mermaid",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-bermaid",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": false,
+      "id": "logseq-bermaid",
+      "addedAt": 1777777542000
+    },
+    {
+      "title": "Better Mermaid",
+      "description": "Interactive, offline Mermaid diagrams with pan, zoom, Monaco editing, and SVG/PNG export.",
+      "author": "MMMartt",
+      "repo": "MMMartt/logseq-better-mermaid",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDB": false,
+      "id": "logseq-better-mermaid",
+      "addedAt": 1784711554000
+    },
+    {
       "title": "BetterWorkflow",
       "description": "Use a visual editor to create custom workflows and cycle though them with a simple click.",
       "author": "AlonX2",
@@ -548,6 +794,16 @@
       "addedAt": 1749134828000
     },
     {
+      "title": "Logseq Block Paste Convert",
+      "description": "Automatically convert pasted block references into readable links",
+      "author": "stelvetica",
+      "repo": "stelvetica/logseq-block-paste-convert",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-block-paste-convert",
+      "addedAt": 1778139445000
+    },
+    {
       "title": "Block Tabs",
       "description": "A logseq plugin to render a tabs in block, Sub-block as tab container.",
       "author": "jay.chinee@outlook.com",
@@ -566,6 +822,21 @@
       "supportsDB": false,
       "id": "logseq-block-to-page",
       "addedAt": 1632930559000
+    },
+    {
+      "title": "Block to Page DB",
+      "description": "Turn a block with children into a DB graph page.",
+      "author": "EINDEX",
+      "repo": "eindex/logseq-plugin-block-to-page-db",
+      "icon": "./icon.svg",
+      "sponsors": [
+        "https://github.com/sponsors/EINDEX"
+      ],
+      "web": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-block-to-page-db",
+      "addedAt": 1777287083000
     },
     {
       "title": "Block Navigation",
@@ -672,6 +943,18 @@
       "effect": true,
       "id": "logseq-calibre-metadata",
       "addedAt": 1696159123000
+    },
+    {
+      "title": "Callout Manager",
+      "description": "Tag-driven callout styling for Logseq blocks — icons, labels, colored backgrounds with nested visual hierarchy. Four display modes (inline, container, icon, admonition), 28 predefined tags across 7 color groups, with optional cascade-to-children. DB graphs only.",
+      "author": "Danzu",
+      "repo": "hdansou/Logseq-callout",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-callout",
+      "addedAt": 1777694626000
     },
     {
       "title": "logseq-calview-plugin",
@@ -793,6 +1076,16 @@
       "addedAt": 1659905299000
     },
     {
+      "title": "CipherBlock – OpenPGP Encryption",
+      "description": "OpenPGP-compatible encryption and decryption of block content with multi-recipient support, vault pages, and GnuPG compatibility",
+      "author": "indraginanjar",
+      "repo": "indraginanjar/cipherblock-logseq-openpgp-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-cipherblock",
+      "addedAt": 1774607489000
+    },
+    {
       "title": "Citation Manager",
       "description": "A 100% local plugin to integrate with *any* bibtex compatible markdown editor including Zotero and Paperpil",
       "author": "Aryan Sawhney",
@@ -816,6 +1109,27 @@
       "addedAt": 1652358745000
     },
     {
+      "title": "Claude Code (WSL)",
+      "description": "Open Claude Code on your Logseq graph directory in a new Windows Terminal via WSL. Adds a toolbar button, a command-palette entry and a slash command.",
+      "author": "teddyhoss",
+      "repo": "teddyhoss/claudecode_logseq_wsl",
+      "icon": "icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "id": "logseq-claude-code-wsl",
+      "addedAt": 1778779344000
+    },
+    {
+      "title": "Clean Empty Journals",
+      "description": "Removes empty journal pages from your Logseq graph with a single toolbar click.",
+      "author": "Rino",
+      "repo": "rinodrops/logseq-clean-journals",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "logseq-clean-journals",
+      "addedAt": 1777564000000
+    },
+    {
       "title": "logseq-clock-plugin",
       "name": "logseq-clock-plugin",
       "description": "This simple plugin puts in a clock in your toolbar. Offers the option to show seconds or in 12/24 hour formats.",
@@ -833,6 +1147,16 @@
       "repo": "PerfectPan/logseq-plugin-code-formatter",
       "id": "logseq-code-formatter",
       "addedAt": 1668355462000
+    },
+    {
+      "title": "Coding CLI Monitor",
+      "description": "Monitor wrapped coding CLI sessions and surface working or attention states in Logseq.",
+      "author": "Kristin Day",
+      "repo": "Day-in-the-Country-LLC/logseq-coding-cli-monitor",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-coding-cli-monitor",
+      "addedAt": 1777294086000
     },
     {
       "title": "Color Markup",
@@ -881,6 +1205,17 @@
       "effect": true,
       "id": "logseq-composer",
       "addedAt": 1744406282000
+    },
+    {
+      "title": "Con§tel",
+      "description": "Split view: interactive constellation graph alongside the native editor. Navigate your knowledge graph with search, property filters, and navigation history.",
+      "author": "hspencer",
+      "repo": "hspencer/logseq-constel",
+      "icon": "./icon.svg",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-constel",
+      "addedAt": 1773741046000
     },
     {
       "title": "Logseq Copilot",
@@ -987,6 +1322,23 @@
       "addedAt": 1634056271000
     },
     {
+      "title": "Daily Self Esteem",
+      "description": "Self-esteem journaling for Logseq with guided daily prompts, weekly reviews and monthly reflections.",
+      "author": "wiegi",
+      "repo": "wiegi/logseq-daily-self-esteem",
+      "icon": "./icon.svg",
+      "theme": false,
+      "sponsors": [
+        "https://www.buymeacoffee.com/wiegi"
+      ],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-daily-self-esteem",
+      "addedAt": 1778404060000
+    },
+    {
       "title": "Date-Between",
       "description": "Display date between today",
       "author": "Cologler",
@@ -1019,6 +1371,44 @@
       ],
       "id": "logseq-datetag-plugin",
       "addedAt": 1644179668000
+    },
+    {
+      "title": "Days Matter",
+      "description": "Show birthday / anniversary / countdown reminders from page properties in your Logseq journal — Days Matter style.",
+      "author": "Zhizhen He",
+      "repo": "hezhizhen/logseq-days-matter",
+      "icon": "./icon.png",
+      "id": "logseq-days-matter",
+      "addedAt": 1782715066000
+    },
+    {
+      "title": "DB Banner",
+      "description": "Journal banner for Logseq DB graphs: a local wallpaper with a month calendar, day/week/year/life progress bars and a quote of the day.",
+      "author": "Asaki14",
+      "repo": "Asaki14/logseq-db-banner",
+      "icon": "icon.png",
+      "theme": false,
+      "web": false,
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-db-banner",
+      "addedAt": 1784970670000
+    },
+    {
+      "title": "DB Favorite Tree",
+      "description": "Render favorite pages as a property-driven tree for Logseq DB graph.",
+      "author": "yanhaizhe",
+      "repo": "yanhaizhe/logseq-db-favorite-tree",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "version": "1.1.1",
+      "id": "logseq-db-favorite-tree",
+      "addedAt": 1777199661000
     },
     {
       "title": "Logseq Deadline Countdown",
@@ -1134,6 +1524,16 @@
       "addedAt": 1632324168000
     },
     {
+      "title": "Drawio integration (DB)",
+      "description": "Allows you to see/edit/save .drawio files.",
+      "author": "Satoriq",
+      "repo": "Satoriq/logseq-drawio-integration",
+      "icon": "./icon.svg",
+      "supportsDBOnly": true,
+      "id": "logseq-drawio-integration",
+      "addedAt": 1777222042000
+    },
+    {
       "title": "Drawio Plugin",
       "description": "This plugin allows you to use drawio diagrams in logseq.",
       "author": "Jimmie Lee",
@@ -1243,6 +1643,15 @@
       "addedAt": 1769620739000
     },
     {
+      "title": "Expand by Level",
+      "description": "Collapse or expand all blocks by nesting level with keyboard shortcuts (default: Alt+1-8).",
+      "author": "Guillaume Ponçon",
+      "repo": "darkone-linux/logseq-expand-by-level",
+      "icon": "./icon.png",
+      "id": "logseq-expand-by-level",
+      "addedAt": 1779846998000
+    },
+    {
       "title": "Export Block",
       "description": "Export Logseq blocks to different markdown formats (Slack, WhatsApp, Google Docs and Rich Text)",
       "author": "avelino",
@@ -1280,13 +1689,23 @@
       "repo": "xyhp915/logseq-fenced-code-plus",
       "author": "xyhp915",
       "icon": "icon.png",
-      "supportsDB": true,
+      "supportsDB": false,
       "effect": true,
       "sponsors": [
         "https://opencollective.com/logseq"
       ],
       "id": "logseq-fenced-code-plus",
       "addedAt": 1651558701000
+    },
+    {
+      "title": "Fetch TODOs",
+      "description": "Fetch TODO items from a referenced page and insert links to selected tasks.",
+      "author": "Akshat",
+      "repo": "ak127a/logseq-fetch-todos-plugin",
+      "icon": "logo.png",
+      "supportsDB": false,
+      "id": "logseq-fetch-todos-plugin",
+      "addedAt": 1774586926000
     },
     {
       "title": "Figma Integration",
@@ -1297,6 +1716,17 @@
       "effect": true,
       "id": "logseq-figma",
       "addedAt": 1698154805000
+    },
+    {
+      "title": "File Explorer",
+      "description": "Obsidian-style file explorer for Logseq's left sidebar — Files & Pages views, right-click menu, drag-and-drop.",
+      "author": "kendreaditya",
+      "repo": "kendreaditya/logseq-file-explorer",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "id": "logseq-file-explorer",
+      "addedAt": 1776452982000
     },
     {
       "title": "File Manager",
@@ -1508,6 +1938,19 @@
       "addedAt": 1690007639000
     },
     {
+      "title": "GitHub Auto Sync",
+      "description": "Encrypt and sync your Logseq graph to GitHub with automatic secret scanning. Tag files to encrypt them with age before push.",
+      "author": "Kada Liao",
+      "repo": "kadaliao/logseq-github-auto-sync",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "id": "logseq-github-auto-sync",
+      "addedAt": 1782381614000
+    },
+    {
       "title": "logseq-github-plugin ",
       "description": "A utility to import and keep track of github issues",
       "author": "Aryan Sawhney",
@@ -1578,6 +2021,15 @@
       "addedAt": 1741252864000
     },
     {
+      "title": "Google Agenda",
+      "description": "Read-only Google Calendar and journal task month view for Logseq.",
+      "author": "albilu",
+      "repo": "albilu/logseq-google-agenda",
+      "icon": "icon.svg",
+      "id": "logseq-google-agenda",
+      "addedAt": 1780483361000
+    },
+    {
       "title": "Google Fonts",
       "description": "Use Google Fonts for rendering.",
       "author": "vipzhicheng",
@@ -1621,6 +2073,18 @@
       "supportsDB": false,
       "id": "logseq-graph-analysis",
       "addedAt": 1656323540000
+    },
+    {
+      "title": "Gruvbox DB",
+      "description": "An opaque, adaptive Gruvbox light and dark theme for Logseq DB, with exact #Border block styling and a documented Tabs bridge.",
+      "author": "Shawn Salat",
+      "repo": "ThinkSalat/logseq-gruvbox-db",
+      "icon": "icon.svg",
+      "theme": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-gruvbox-db",
+      "addedAt": 1784846123000
     },
     {
       "title": "Gunmetal Theme",
@@ -1672,6 +2136,17 @@
       "addedAt": 1631021796000
     },
     {
+      "title": "Heatmap Blocks",
+      "description": "A customizable habit-tracking heatmap plugin that renders visual charts based on data queries",
+      "author": "yuanhan1890",
+      "repo": "yuanhan1890/logseq-plugin-heatmap-blocks",
+      "icon": "./icon.png",
+      "effect": true,
+      "supportsDB": false,
+      "id": "logseq-heatmap-blocks",
+      "addedAt": 1781619379000
+    },
+    {
       "title": "Helium",
       "description": "Float videos for an improved note-taking experience",
       "repo": "vyleung/logseq-helium-plugin",
@@ -1696,6 +2171,20 @@
       "addedAt": 1686319584000
     },
     {
+      "title": "History Timeline",
+      "description": "Turn #tl-tagged nodes into an interactive, zoomable historical timeline — eras, events and people, filterable by topic and type. DB graphs only.",
+      "author": "P. Kerim Friedman",
+      "repo": "kerim/logseq-history-timeline-plugin",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-history-timeline-plugin",
+      "addedAt": 1784963931000
+    },
+    {
       "title": "logseq-hitokoto-yiyan",
       "description": "Randomly display a sentence at the top of logseq.",
       "author": "ZYJ-3721",
@@ -1706,6 +2195,20 @@
       "addedAt": 1763307189000
     },
     {
+      "title": "Home OS Capture",
+      "description": "Turn photo-first journal captures into a private, structured home manual with guided setup and local Codex processing.",
+      "author": "ZeroShot or Die",
+      "repo": "AlienOctopus/logseq-home-os",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-home-os-capture",
+      "addedAt": 1784792717000
+    },
+    {
       "title": "Hypothesis",
       "description": "Sync hypothes.is annotations to Logseq.",
       "author": "c6p",
@@ -1713,6 +2216,17 @@
       "icon": "./icon.svg",
       "id": "logseq-hypothesis",
       "addedAt": 1631638933000
+    },
+    {
+      "title": "Logseq iCal Sync",
+      "description": "Import events from Google Calendar, iCloud, Outlook, and any iCal-compatible source into your daily notes. Community-maintained fork of the Calendar Plugin with fixes for recurring event timezones, deleted/declined event filtering, and rescheduled event handling.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/logseq-calendars-plugin",
+      "icon": "./icon.png",
+      "effect": true,
+      "supportsDB": false,
+      "id": "logseq-ical-sync",
+      "addedAt": 1776854774000
     },
     {
       "title": "logseq-image-auto-resizer",
@@ -1867,6 +2381,20 @@
       "addedAt": 1670347484000
     },
     {
+      "title": "Journal Time Prefix",
+      "description": "Automatically add a local time prefix to top-level blocks in Logseq DB journals.",
+      "author": "Asaki14",
+      "repo": "Asaki14/logseq-journal-time-prefix",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-journal-time-prefix",
+      "addedAt": 1784970690000
+    },
+    {
       "title": "Journals calendar",
       "description": "A simple journals calendar plugin for Logseq.",
       "repo": "xyhp915/logseq-journals-calendar",
@@ -1962,6 +2490,19 @@
       "addedAt": 1632625009000
     },
     {
+      "title": "Logseq Library Display",
+      "description": "Display Logseq DB parent pages on page references.",
+      "author": "rien7",
+      "repo": "rien7/logseq-library-display",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-library-display",
+      "addedAt": 1777826532000
+    },
+    {
       "title": "Lilypond",
       "description": "Lilypond integration for logseq",
       "repo": "dot-asterisk-nl/logseq-lilypond",
@@ -2031,9 +2572,32 @@
       "icon": "./logo.svg",
       "effect": true,
       "sponsors": [],
-      "supportsDB": false,
+      "supportsDB": true,
+      "supportsDBOnly": false,
       "id": "logseq-livephotos-plugin",
       "addedAt": 1768838499000
+    },
+    {
+      "title": "Logseq LLM",
+      "description": "Plugin that connects LLM with OpenAI compatible API to Logseq",
+      "author": "Eugene Kamenev",
+      "repo": "eugene-kamenev/logseq-llm-plugin",
+      "icon": "icon.png",
+      "supportsDB": true,
+      "id": "logseq-llm",
+      "addedAt": 1775831513000
+    },
+    {
+      "title": "Local History",
+      "description": "Track page changes in Logseq with local version history, diff view, and revert",
+      "author": "albilu",
+      "repo": "albilu/logseq-local-history",
+      "icon": "./icon.png",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "id": "logseq-local-history",
+      "addedAt": 1780999587000
     },
     {
       "title": "Local Telegram Bot",
@@ -2092,6 +2656,21 @@
       "addedAt": 1716844009000
     },
     {
+      "title": "Logbook Timeline",
+      "description": "Visualize the logbook of the current page in the sidebar.",
+      "author": "soler1212",
+      "repo": "devonthesofa/logseq-logbook-timeline",
+      "icon": "./icon.png",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-logbook-timeline",
+      "addedAt": 1780588816000
+    },
+    {
       "title": "Long Form",
       "description": "A long form editing experience for Logseq.",
       "author": "sethyuan",
@@ -2103,6 +2682,16 @@
       "effect": true,
       "id": "logseq-long-form",
       "addedAt": 1678604497000
+    },
+    {
+      "title": "Long Form Plugin",
+      "description": "A rebuilt long-form writing experience for Logseq with direct switching between outline, long form, and indented long form modes.",
+      "author": "zzhixin",
+      "repo": "zzhixin/logseq-long-form-plugin",
+      "icon": "./icon.svg",
+      "effect": true,
+      "id": "logseq-long-form-plugin",
+      "addedAt": 1778324977000
     },
     {
       "title": "Luma",
@@ -2462,6 +3051,18 @@
       "addedAt": 1646146688000
     },
     {
+      "title": "logseq-navigator-plugin",
+      "name": "logseq-navigator-plugin",
+      "description": "A three-pane note navigator that replaces the underused native left sidebar in Logseq DB graphs.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-navigator-plugin",
+      "icon": "./icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-navigator-plugin",
+      "addedAt": 1781882348000
+    },
+    {
       "title": "NEON theme",
       "description": "Neon inspired Theme for logseq.",
       "author": "vindolin",
@@ -2540,6 +3141,19 @@
       "theme": true,
       "id": "logseq-one-theme",
       "addedAt": 1703001198000
+    },
+    {
+      "title": "Open File Location",
+      "description": "Ctrl+Click a local asset link to reveal and select it in the system file explorer.",
+      "author": "albilu",
+      "repo": "albilu/logseq-open-file-location",
+      "theme": false,
+      "web": false,
+      "effect": true,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-open-file-location",
+      "addedAt": 1779654164000
     },
     {
       "title": "Open Logseq Files in VS Code",
@@ -2654,6 +3268,17 @@
       "effect": true,
       "id": "logseq-pandoc-plugin",
       "addedAt": 1724502937000
+    },
+    {
+      "title": "Logseq Panes Mode",
+      "description": "A tiling window manager for Logseq's right sidebar",
+      "author": "Satoriq",
+      "repo": "Satoriq/logseq-panes-mode",
+      "icon": "./logo.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-panes-mode",
+      "addedAt": 1775571088000
     },
     {
       "title": "Logseq Pangu",
@@ -2791,6 +3416,21 @@
       "addedAt": 1772530699000
     },
     {
+      "title": "PeaceMind Theme",
+      "description": "😌 A calming, minimalist Logseq theme with 7 peaceful color palettes.",
+      "author": "phenrique-coder",
+      "repo": "phenrique-coder/logseq-peacemind-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "sponsors": [
+        "https://buymeacoffee.com/phenrique.coder"
+      ],
+      "effect": true,
+      "web": true,
+      "id": "logseq-peacemind-theme",
+      "addedAt": 1774090691000
+    },
+    {
       "title": "Pen",
       "description": "Add a pen mode to Logseq",
       "author": "vipzhicheng",
@@ -2926,6 +3566,19 @@
       "theme": false,
       "id": "logseq-plugin-better-tasks",
       "addedAt": 1688305677000
+    },
+    {
+      "title": "Logseq Plugin Bidi",
+      "description": "Bidirectional text and RTL block layout support for Logseq.",
+      "author": "yshalsager",
+      "repo": "yshalsager/logseq-plugin-bidi",
+      "icon": "./icon.png",
+      "theme": false,
+      "web": true,
+      "effect": false,
+      "supportsDB": true,
+      "id": "logseq-plugin-bidi",
+      "addedAt": 1777097236000
     },
     {
       "title": "New Line Shortcut",
@@ -3270,6 +3923,17 @@
       "addedAt": 1692447938000
     },
     {
+      "title": "LinSeq",
+      "description": "Linear integration for Logseq — link issues, post comments, track sprints from your journal.",
+      "author": "Maxim Khomiakov",
+      "repo": "pihalf/linseq",
+      "icon": "logo.png",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-plugin-linear",
+      "addedAt": 1776249481000
+    },
+    {
       "title": "Logging Search",
       "description": "This plugin displays search results using query or page embedding.",
       "author": "YU000jp",
@@ -3459,6 +4123,18 @@
       "addedAt": 1685515840000
     },
     {
+      "title": "Remember My Block",
+      "description": "Plugin that remembers the block where you left off. When you reopen a page, it scrolls back to your last block — ready to edit or just to read. Supports edit and view modes.",
+      "author": "Pavol Pidanič",
+      "repo": "PaulNoth/logseq-remember-my-block",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-plugin-remember-my-block",
+      "addedAt": 1778939923000
+    },
+    {
       "title": "Run JS",
       "description": "Run arbitrary javascript and show output on a page",
       "author": "meain",
@@ -3599,6 +4275,21 @@
       "addedAt": 1722037148000
     },
     {
+      "title": "That Day inserter",
+      "description": "Add date labels to daily journal calendar blocks in Logseq.",
+      "author": "lingkuma",
+      "repo": "lingkuma/losgeq-plugin-thatday",
+      "icon": "icon.png",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-plugin-thatday",
+      "addedAt": 1779622027000
+    },
+    {
       "title": "Logseq TickTick Sync",
       "description": "A non-intrusive TickTick synchronization plugin for Logseq",
       "author": "life is strange (https://github.com/luckykellan)",
@@ -3676,6 +4367,16 @@
       "addedAt": 1682978544000
     },
     {
+      "title": "Text Wrapper Plus",
+      "description": "Wrap selected text with page refs, cloze, formatting, colored highlights, and colored text from a compact toolbar.",
+      "author": "Hugh-Afterlight",
+      "repo": "Hugh-Afterlight/logseq-plugin-wrap",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "logseq-plugin-wrap-plus",
+      "addedAt": 1777472406000
+    },
+    {
       "title": "Logseq PolyRhythmic",
       "description": "Hugo-PolyRhythmic and Material Design theme for Logseq.",
       "author": "Wonyoung Jang",
@@ -3685,6 +4386,17 @@
       "sponsors": [],
       "id": "logseq-polyrhythmic",
       "addedAt": 1742587274000
+    },
+    {
+      "title": "Pomodoro Task Tracker",
+      "description": "A pomodoro timer and task tracker in one plugin.",
+      "author": "Satoriq",
+      "repo": "Satoriq/logseq-pomodoro-task-tracker",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDBOnly": true,
+      "id": "logseq-pomodoro-task-tracker",
+      "addedAt": 1777222485000
     },
     {
       "title": "logseq-pomodoro-technique",
@@ -3801,6 +4513,18 @@
       "addedAt": 1696924122000
     },
     {
+      "title": "Progress Bar",
+      "description": "Visualize task completion as segmented progress bars derived from configurable status properties on tagged blocks. Auto-detects query blocks (DSL or custom datascript), updates in real-time via DB.onChanged, and respects light/dark themes.",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-progressbar",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-progressbar",
+      "addedAt": 1777685571000
+    },
+    {
       "title": "logseq-property-visualizer",
       "description": "Visualizing trends in page properties, requires Chart Render and Table render plugin",
       "author": "Aryan Sawhney",
@@ -3811,6 +4535,29 @@
       ],
       "id": "logseq-property-visualizer",
       "addedAt": 1643142701000
+    },
+    {
+      "title": "Prose Mode",
+      "description": "Focused document-style writing mode for Logseq.",
+      "author": "FelixHuoEZ with Codex",
+      "repo": "FelixHuoEZ/logseq-prose-mode",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "id": "logseq-prose-mode",
+      "addedAt": 1774671537000
+    },
+    {
+      "title": "Prune to Page",
+      "description": "Move selected blocks from your journal to a page of your choice, leaving block refs behind so journal provenance is preserved.",
+      "author": "vincent",
+      "repo": "vincentiliano/logseq_prune_to_page",
+      "icon": "./icon.svg",
+      "theme": false,
+      "id": "logseq-prune-to-page",
+      "addedAt": 1777281442000
     },
     {
       "title": "logseq-psummarise-plugin",
@@ -3909,6 +4656,17 @@
       "addedAt": 1652431122000
     },
     {
+      "title": "Logseq-Raindrop",
+      "description": "integrate raindrop to logseq with tags",
+      "author": "Sterling",
+      "repo": "shangjihao/logseq-raindrop",
+      "icon": "./raindrop.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-raindrop-2",
+      "addedAt": 1775029025000
+    },
+    {
       "title": "Random Block",
       "description": "Random blocks from page, block or tags..",
       "author": "vipzhicheng",
@@ -3984,6 +4742,18 @@
       "icon": "./icon.svg",
       "id": "logseq-recurrence-plugin",
       "addedAt": 1644510627000
+    },
+    {
+      "title": "Reference Manager",
+      "description": "Reference manager for importing from Zotero locally and from the Web clipper",
+      "author": "Rahul Somani",
+      "repo": "rsomani95/logseq-reference-manager",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-reference-manager",
+      "addedAt": 1779830748000
     },
     {
       "title": "Reference Styles",
@@ -4068,18 +4838,6 @@
       "addedAt": 1769590910000
     },
     {
-      "title": "logseq-richtexteditor-plugin",
-      "name": "logseq-richtexteditor-plugin",
-      "description": "Inserts a rich text editor into your graph for easier editing. Supports printing too.",
-      "author": "benjypng",
-      "repo": "benjypng/logseq-richtexteditor-plugin",
-      "icon": "./icon.svg",
-      "supportsDB": true,
-      "effect": true,
-      "id": "logseq-richtexteditor-plugin",
-      "addedAt": 1723890827000
-    },
-    {
       "title": "Rip Bullet Points",
       "description": "Convert Logseq pages to clean markdown by removing bullet points",
       "author": "Dariusz Parys",
@@ -4154,6 +4912,18 @@
       "theme": false,
       "id": "logseq-save-scrollbar-position",
       "addedAt": 1688112435000
+    },
+    {
+      "title": "Scheduler",
+      "description": "Cron-based scheduler for creating tagged pages in Logseq DB graphs on a recurring basis",
+      "author": "Danzu",
+      "repo": "hdansou/Logseq-scheduler",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-scheduler",
+      "addedAt": 1777759382000
     },
     {
       "title": "Logseq Schrodinger",
@@ -4233,6 +5003,16 @@
       "addedAt": 1692439110000
     },
     {
+      "title": "Sidebar Calendar",
+      "description": "Sidebar calendar plugin for logseq.",
+      "author": "kiwanoy",
+      "repo": "kiwanoy/logseq-sidebar-calendar-plugin",
+      "icon": "icon.png",
+      "supportsDB": true,
+      "id": "logseq-sidebar-calendar-plugin",
+      "addedAt": 1782993342000
+    },
+    {
       "title": "Sidebar Preset",
       "description": "A Logseq plugin to provide a group of sidebar presets.",
       "author": "vipzhicheng",
@@ -4256,6 +5036,16 @@
       ],
       "id": "logseq-simpread",
       "addedAt": 1658043625000
+    },
+    {
+      "title": "Slatewave",
+      "description": "A dark Slatewave theme for Logseq — slate foundation with a teal signature, sharing its palette with the Slatewave VSCode, Obsidian, and oh-my-posh themes.",
+      "author": "Kevin Langley Jr",
+      "repo": "kevinlangleyjr/logseq-slatewave",
+      "icon": "icon.png",
+      "theme": true,
+      "id": "logseq-slatewave",
+      "addedAt": 1777167513000
     },
     {
       "title": "Slavsko Theme",
@@ -4428,6 +5218,16 @@
       "addedAt": 1765631826000
     },
     {
+      "title": "Table Formulas",
+      "description": "Spreadsheet formulas in markdown tables: type =SUM(A1:A3) in a cell and the result shows up next to it. ~400 functions, source text is never modified.",
+      "author": "Aleksandr Dmitriuk",
+      "repo": "eqeka/logseq-table-formulas",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-table-formulas",
+      "addedAt": 1783279458000
+    },
+    {
       "id": "logseq-table-view",
       "author": "zhaobenx",
       "title": "Logseq Table View",
@@ -4475,6 +5275,30 @@
       "addedAt": 1631020312000
     },
     {
+      "title": "Tabs Scrollable",
+      "description": "Open pages or blocks in tabs like working in the browser, with wheel scrolling for overflowing tabs.",
+      "author": "albilu",
+      "repo": "albilu/logseq-plugin-tabs",
+      "icon": "./icon.png",
+      "supportsDB": true,
+      "effect": true,
+      "id": "logseq-tabs-scrollable",
+      "addedAt": 1779743616000
+    },
+    {
+      "title": "logseq-tabsdb-plugin",
+      "name": "logseq-tabsdb-plugin",
+      "description": "Browser-style tabs for Logseq DB. Keep multiple pages and blocks open at once, switch between them instantly, and stop losing your place.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-tabsdb-plugin",
+      "icon": "./icon.svg",
+      "supportsDb": true,
+      "supportsDbOnly": true,
+      "effect": true,
+      "id": "logseq-tabsdb-plugin",
+      "addedAt": 1777212984000
+    },
+    {
       "title": "Tags",
       "description": "A plugin that lets you find and search all of your #tags.",
       "author": "Gidong Kwon",
@@ -4516,6 +5340,21 @@
       "addedAt": 1642406539000
     },
     {
+      "title": "Template Buttons",
+      "description": "Sidebar and page-bar buttons to create pages from Logseq templates, including child pages with backlinks.",
+      "author": "Marat Zimnurov",
+      "repo": "the-homeless-god/logseq-template-buttons",
+      "icon": "icon.png",
+      "theme": false,
+      "sponsors": [],
+      "web": false,
+      "effect": true,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-template-buttons",
+      "addedAt": 1780241807110
+    },
+    {
       "title": "Tenset Security",
       "description": "Beautiful theme made for smart contract auditors",
       "author": "Tenset",
@@ -4536,6 +5375,22 @@
       ],
       "id": "logseq-terminal",
       "addedAt": 1718025165000
+    },
+    {
+      "title": "Text Toolkit",
+      "description": "A toolkit for text formatting and manipulation in Logseq",
+      "author": "duiliuliu",
+      "repo": "duiliuliu/logseq-text-toolkit",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://duiliuliu.github.io/sponsor-page/",
+        "https://www.paypal.me/duiliuliu"
+      ],
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-text-toolkit",
+      "addedAt": 1777595164000
     },
     {
       "title": "Textbook theme",
@@ -4654,6 +5509,18 @@
       "icon": "./icon.png",
       "id": "logseq-timepicker",
       "addedAt": 1763025788000
+    },
+    {
+      "title": "Block Created Time",
+      "description": "Show compact creation timestamps beside blocks in Logseq DB graphs.",
+      "author": "Inchan Kang",
+      "repo": "vivanotica/logseq-timestamp",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-timestamp",
+      "addedAt": 1784474217000
     },
     {
       "title": "Timestamp Converter",
@@ -4805,6 +5672,18 @@
       "addedAt": 1747743011000
     },
     {
+      "title": "Logseq Transparent",
+      "description": "A calm, translucent glass theme designed for Logseq DB with coordinated light and dark variants.",
+      "author": "viva",
+      "repo": "vivanotica/logseq-transparent",
+      "icon": "icon.svg",
+      "theme": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-transparent",
+      "addedAt": 1784548931000
+    },
+    {
       "title": "logseq-trello-plugin",
       "name": "logseq-trello-plugin",
       "description": "Seamlessly integrate Trello with LogSeq for efficient task and note management",
@@ -4863,12 +5742,25 @@
       "addedAt": 1694032117000
     },
     {
+      "title": "Typst Formula",
+      "description": "Render Logseq blocks tagged with #Typst as centered Typst math formulas.",
+      "author": "ThreeIce",
+      "repo": "ThreeIce/logseq-typst-formula",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-typst-formula",
+      "addedAt": 1778772384000
+    },
+    {
       "title": "Readwise plugin (unofficial)",
       "description": "Unofficial Readwise plugin to pull in all your highlights from Readwise and track new ones!",
       "author": "benjypng",
       "repo": "benjypng/logseq-readwise-plugin",
       "icon": "./icon.png",
-      "effect": true,
+      "supportsDb": true,
+      "supportsDbOnly": true,
       "id": "logseq-unofficial-readwise-plugin",
       "addedAt": 1638939906000
     },
@@ -4959,6 +5851,50 @@
       "addedAt": 1640577548000
     },
     {
+      "title": "logseq-vimeditor-plugin",
+      "name": "logseq-vimeditor-plugin",
+      "description": "Use a Vim editor to type longform blocks, and easily create tables.",
+      "author": "benjypng",
+      "repo": "benjypng/logseq-vimeditor-plugin",
+      "icon": "./icon.svg",
+      "supportsDb": true,
+      "id": "logseq-vimeditor-plugin",
+      "addedAt": 1774705846000
+    },
+    {
+      "title": "Virtual Directory Tree",
+      "description": "File-explorer-style tree view for namespaced pages with drag & drop, sorting, and context menu.",
+      "repo": "KazunagaIida/Logseq-Virtual-Directory-Tree-Plugin",
+      "author": "kiida",
+      "icon": "logo.svg",
+      "theme": false,
+      "effect": false,
+      "sponsors": [
+        "https://www.buymeacoffee.com/kiida"
+      ],
+      "id": "logseq-virtual-directory-tree",
+      "addedAt": 1774877833000
+    },
+    {
+      "title": "Voice Journal",
+      "description": "语音录入 + AI 润色的学习日记插件。录音 → 转写 → 润色 → 复核 → 写入 Journal → Git 推送。",
+      "repo": "nb-diok-in-sky/logseq-voice-journal",
+      "author": "nb-diok-in-sky",
+      "icon": "logo.svg",
+      "id": "logseq-voice-journal",
+      "addedAt": 1780472567772
+    },
+    {
+      "title": "Voice Memo",
+      "description": "Record a voice memo from your microphone and inject it into Logseq as a playable MP3 or WAV asset.",
+      "author": "nnigmat",
+      "repo": "Nnigmat/logseq-plugin-voice-memo",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-voice-memo",
+      "addedAt": 1784322957000
+    },
+    {
       "title": "WakaTime",
       "description": "A plugin for tracking writing time in Logseq, based on the WakaTime API.",
       "author": "b-yp",
@@ -5024,6 +5960,19 @@
       "addedAt": 1697224114000
     },
     {
+      "title": "Whiteboard RefDock",
+      "description": "Review saved linked and unlinked reference snapshots in a dedicated dock while working on a Logseq whiteboard.",
+      "author": "FelixHuoEZ",
+      "repo": "FelixHuoEZ/logseq-whiteboard-refdock",
+      "icon": "icon.png",
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-whiteboard-refdock",
+      "addedAt": 1774972255000
+    },
+    {
       "title": "Wide Eyed",
       "description": "Toggles the visibility of completed/canceled to-dos.",
       "author": "Mario T. Lanza",
@@ -5074,6 +6023,23 @@
       "effect": true,
       "id": "logseq-wordpress-export",
       "addedAt": 1667069699000
+    },
+    {
+      "title": "Worktime Table",
+      "description": "Enter worktime rows and create a Markdown table. Export as CSV.",
+      "author": "wiegi",
+      "repo": "wiegi/logseq-worktime-table",
+      "icon": "./icon.svg",
+      "theme": false,
+      "sponsors": [
+        "https://www.buymeacoffee.com/wiegi"
+      ],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-worktime-table",
+      "addedAt": 1773565548000
     },
     {
       "title": "Woz theme",
@@ -5149,9 +6115,8 @@
       "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
       "author": "benjypng",
       "repo": "benjypng/logseq-zoterolocal-plugin",
-      "supportsDB": true,
       "icon": "./icon.svg",
-      "effect": true,
+      "supportsDB": true,
       "supportsDBOnly": true,
       "id": "logseq-zoterolocal-plugin",
       "addedAt": 1723222792000
@@ -5236,6 +6201,35 @@
       "addedAt": 1656151446000
     },
     {
+      "title": "Migrate",
+      "description": "Auto-migrate unfinished TODO/DOING/LATER/NOW blocks from past journals into today's journal. Preserves hierarchy — parent context blocks (e.g. project headers) come along and shared ancestors are deduped. Copy-then-verify-then-delete (no cross-page moves). Tag-based filters. Console diagnostics.",
+      "author": "nnavnita",
+      "repo": "nnavnita/migrate",
+      "icon": "./icon.png",
+      "id": "migrate",
+      "addedAt": 1779323040000
+    },
+    {
+      "title": "Mixer",
+      "description": "A highly capable, RAG-powered AI assistant plugin for Logseq that understands the structure of your notes, retrieves the most relevant context, and can even edit your blocks directly from the chat",
+      "author": "indraginanjar",
+      "repo": "indraginanjar/logseq-mixer",
+      "icon": "./icon.png",
+      "effect": true,
+      "id": "mixer",
+      "addedAt": 1782217282000
+    },
+    {
+      "title": "Multi PDF Viewer",
+      "description": "View multiple PDFs side-by-side directly inside Logseq",
+      "author": "lenn07",
+      "repo": "lenn07/multi-pdf-viewer-logseq",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "multi-pdf-viewer",
+      "addedAt": 1777014826000
+    },
+    {
       "title": "Nord theme",
       "description": "An arctic, north-bluish color palette 🧊",
       "author": "Bad3r",
@@ -5257,6 +6251,18 @@
       "addedAt": 1699224300000
     },
     {
+      "title": "Outline Canvas",
+      "description": "Renders hierarchical block trees as 8 interactive Canvas2D diagrams: Tree Chart, Tree Table, Roadmap (alternating), Roadmap (linear), Mind Map, Right Tree, Fishbone, and Treemap.",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-outline-canvas",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "outline-canvas",
+      "addedAt": 1777724664000
+    },
+    {
       "title": "Pretty Logseq",
       "description": "Enhance your graph with beautiful popovers, refined typography, styled properties, streamlined sidebar, and polished tables — all theme-aware and configurable.",
       "author": "dmeents",
@@ -5272,6 +6278,27 @@
       "addedAt": 1770591989000
     },
     {
+      "title": "Reading List",
+      "description": "Add books to Logseq as fully-populated pages (cover, author, ISBN, summary, tags) via Open Library or Google Books — with an optional visual reading list.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/logseq-reading-list",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "reading-list",
+      "addedAt": 1779486456000
+    },
+    {
+      "title": "Resurface",
+      "description": "Passive re-exposure to your past. Injects a section above Linked References on every journal page showing one bullet block per rung of a time-decay ladder (1d, 3d, 1w, 2w, 1mo, 2mo, 6mo, 1y, 2y, 5y, 10y).",
+      "author": "kendreaditya",
+      "repo": "kendreaditya/resurface",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "id": "resurface",
+      "addedAt": 1776462394000
+    },
+    {
       "title": "SamePage",
       "description": "Official LogSeq client into the intra tool-for-thought protocol.",
       "author": "SamePage",
@@ -5283,6 +6310,24 @@
       "addedAt": 1668554654000
     },
     {
+      "title": "Sequoia",
+      "description": "Black, elegant Sequoia theme family for Logseq (Moonlight, Monochrome, Retro).",
+      "author": "Micheal Andreuzza",
+      "repo": "Sequoia-Theme/logseq",
+      "theme": true,
+      "id": "sequoia",
+      "addedAt": 1779718097000
+    },
+    {
+      "title": "Serendipity",
+      "description": "Elegant, minimal Serendipity theme family for Logseq (Midnight, Morning, Sunset).",
+      "author": "Micheal Andreuzza",
+      "repo": "Serendipity-Theme/logseq",
+      "theme": true,
+      "id": "serendipity",
+      "addedAt": 1779718097000
+    },
+    {
       "title": "Slipbox",
       "description": "Write notes on mobile, save them to Logseq later. Requires Tailscale.",
       "author": "phildenhoff",
@@ -5290,6 +6335,27 @@
       "icon": "./slipbox.png",
       "id": "slipbox",
       "addedAt": 1702757863000
+    },
+    {
+      "title": "Sync KOReader Highlights",
+      "description": "Sync KOReader sidecar highlights into Logseq, one page per book. Highlights link to the journal day they were made, so they appear in linked references automatically.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/sync-koreader-highlights",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "sync-koreader-highlights",
+      "addedAt": 1779312894000
+    },
+    {
+      "title": "Syncthing Monitor",
+      "description": "Monitor your Logseq graph for Syncthing sync conflicts and resolve them from a single report page with per-file git-style diffs. Detects *.sync-conflict-* files, shows what changed on each side, and lets you mark conflicts resolved with one click. Works on journal, namespaced, and plain pages.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/syncthing-monitor",
+      "icon": "./icon.png",
+      "effect": false,
+      "supportsDB": false,
+      "id": "syncthing-monitor",
+      "addedAt": 1782751733000
     },
     {
       "title": "Template Gallery",
@@ -5335,6 +6401,29 @@
       "icon": "icon.png",
       "id": "unfinished-business",
       "addedAt": 1649196269000
+    },
+    {
+      "title": "Voicenotes Sync",
+      "description": "Sync Voicenotes into managed Logseq monthly pages with stable block IDs, subnotes, and guarded incremental sync.",
+      "author": "FelixHuoEZ",
+      "repo": "FelixHuoEZ/voicenotes-export",
+      "icon": "icon.png",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "id": "voicenotes-export",
+      "addedAt": 1778428860000
+    },
+    {
+      "title": "XThread",
+      "description": "Write X/Twitter threads in Logseq — 1 block = 1 tweet, faithful X character counter, visual highlight of overflow past 280.",
+      "author": "lunaticoin",
+      "repo": "lunaticoin/xthread",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "xthread",
+      "addedAt": 1779694694000
     },
     {
       "title": "Xypora Print",

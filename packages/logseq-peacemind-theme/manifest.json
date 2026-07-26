@@ -1,0 +1,11 @@
+{
+  "title": "PeaceMind Theme",
+  "description": "😌 A calming, minimalist Logseq theme with 7 peaceful color palettes.",
+  "author": "phenrique-coder",
+  "repo": "phenrique-coder/logseq-peacemind-theme",
+  "icon": "icon.svg",
+  "theme": true,
+  "sponsors": ["https://buymeacoffee.com/phenrique.coder"],
+  "effect": true,
+  "web": true
+}

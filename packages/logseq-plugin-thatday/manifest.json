@@ -1,0 +1,13 @@
+{
+  "title": "That Day inserter",
+  "description": "Add date labels to daily journal calendar blocks in Logseq.",
+  "author": "lingkuma",
+  "repo": "lingkuma/losgeq-plugin-thatday",
+  "icon": "icon.png",
+  "theme": false,
+  "sponsors": [],
+  "web": false,
+  "effect": false,
+  "supportsDB": false,
+  "supportsDBOnly": false
+}

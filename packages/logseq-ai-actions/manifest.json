@@ -1,0 +1,10 @@
+{
+  "title": "AI Actions",
+  "description": "AI-driven actions on Logseq blocks (DB graphs only) — spellcheck, grammar, rewrite, summarize, vision actions via a local OpenAI-compatible endpoint (LM Studio / Ollama).",
+  "author": "Danzu",
+  "repo": "hdansou/logseq-ai-actions",
+  "icon": "./icon.svg",
+  "theme": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

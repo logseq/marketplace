@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Logseq Transparent</title>
+  <defs>
+    <linearGradient id="bg" x1="18" y1="8" x2="110" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#315c50"/>
+      <stop offset="1" stop-color="#102420"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="32" y1="27" x2="94" y2="99" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".46"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#bg)"/>
+  <circle cx="98" cy="28" r="28" fill="#ffa726" opacity=".28"/>
+  <circle cx="30" cy="104" r="38" fill="#7ac7aa" opacity=".22"/>
+  <rect x="22" y="20" width="84" height="88" rx="22" fill="url(#glass)" stroke="#fff" stroke-opacity=".36" stroke-width="2"/>
+  <path d="M42 48h44M42 64h33M42 80h40" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7" opacity=".9"/>
+  <circle cx="91" cy="81" r="7" fill="#ffa726"/>
+</svg>

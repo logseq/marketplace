@@ -1,0 +1,11 @@
+{
+  "title": "Logseq Plugin Bidi",
+  "description": "Bidirectional text and RTL block layout support for Logseq.",
+  "author": "yshalsager",
+  "repo": "yshalsager/logseq-plugin-bidi",
+  "icon": "./icon.png",
+  "theme": false,
+  "web": true,
+  "effect": false,
+  "supportsDB": true
+}

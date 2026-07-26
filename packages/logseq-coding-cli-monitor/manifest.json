@@ -1,0 +1,8 @@
+{
+  "title": "Coding CLI Monitor",
+  "description": "Monitor wrapped coding CLI sessions and surface working or attention states in Logseq.",
+  "author": "Kristin Day",
+  "repo": "Day-in-the-Country-LLC/logseq-coding-cli-monitor",
+  "icon": "./icon.svg",
+  "effect": true
+}

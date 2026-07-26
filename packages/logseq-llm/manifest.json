@@ -1,0 +1,8 @@
+{
+  "title": "Logseq LLM",
+  "description": "Plugin that connects LLM with OpenAI compatible API to Logseq",
+  "author": "Eugene Kamenev",
+  "repo":"eugene-kamenev/logseq-llm-plugin",
+  "icon": "icon.png",
+  "supportsDB": true
+}

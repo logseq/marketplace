@@ -1,0 +1,11 @@
+{
+  "title": "Highlight Colorizer",
+  "description": "Color highlighted text with readable directives and a floating palette while editing Logseq blocks.",
+  "author": "TKnifer",
+  "repo": "TKnifer/logseq-highlight-colorizer",
+  "effect": true,
+  "sponsors": [],
+  "web": false,
+  "supportsDB": false,
+  "supportsDBOnly": false
+}

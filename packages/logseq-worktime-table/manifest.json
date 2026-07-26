@@ -5,7 +5,7 @@
   "repo": "wiegi/logseq-worktime-table",
   "icon": "./icon.svg",
   "theme": false,
-  "sponsors": [],
+  "sponsors": ["https://www.buymeacoffee.com/wiegi"],
   "web": false,
   "effect": false,
   "supportsDB": false,

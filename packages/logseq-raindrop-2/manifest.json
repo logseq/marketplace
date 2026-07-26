@@ -1,0 +1,9 @@
+{
+  "title": "Logseq-Raindrop",
+  "description": "integrate raindrop to logseq with tags",
+  "author": "Sterling",
+  "repo": "shangjihao/logseq-raindrop",
+  "icon": "./raindrop.svg",
+  "effect": true,
+  "supportsDB": true
+}

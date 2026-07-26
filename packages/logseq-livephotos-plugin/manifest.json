@@ -6,6 +6,6 @@
   "icon": "./logo.svg",
   "effect": true,
   "sponsors": [],
-  "supportsDB": false
+  "supportsDB": true,
+  "supportsDBOnly": false
 }
-

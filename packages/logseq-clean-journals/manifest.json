@@ -1,0 +1,8 @@
+{
+  "title": "Clean Empty Journals",
+  "description": "Removes empty journal pages from your Logseq graph with a single toolbar click.",
+  "author": "Rino",
+  "repo": "rinodrops/logseq-clean-journals",
+  "icon": "icon.png",
+  "theme": false
+}

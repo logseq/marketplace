@@ -4,5 +4,6 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-readwise-plugin",
   "icon": "./icon.png",
-  "effect": true
+  "supportsDb": true,
+  "supportsDbOnly": true
 }
