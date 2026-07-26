@@ -1,0 +1,12 @@
+{
+  "title": "Journal Time Prefix",
+  "description": "Automatically add a local time prefix to top-level blocks in Logseq DB journals.",
+  "author": "Asaki14",
+  "repo": "Asaki14/logseq-journal-time-prefix",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
