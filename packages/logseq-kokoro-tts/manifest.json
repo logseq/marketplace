@@ -1,0 +1,11 @@
+{
+  "title": "Kokoro TTS",
+  "description": "Speak selected Logseq DB blocks using a local Kokoro-compatible TTS server.",
+  "author": "Shriman Keshri",
+  "repo": "shrimansoft/logseq-kokoro-tts",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
