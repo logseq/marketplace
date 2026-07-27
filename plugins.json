@@ -1,5 +1,5 @@
 {
-  "datetime": 1785036240982,
+  "datetime": 1785139889567,
   "packages": [
     {
       "title": "Orbitals",
@@ -12,6 +12,17 @@
       ],
       "id": "logseq-orbitals",
       "addedAt": 1783555105000
+    },
+    {
+      "title": "Property Rotator",
+      "description": "Rotate Logseq block properties through configurable term lists with GTD/PARA profiles, prefix support, and cursor-aware rotation.",
+      "author": "manu4linux",
+      "repo": "ManoPaduri/logseq-kpm-property-rotator",
+      "icon": "icon.svg",
+      "effect": false,
+      "supportsDB": false,
+      "id": "manopaduri-logseq-kpm-property-rotator",
+      "addedAt": 1785126371000
     },
     {
       "title": "Archivist",
@@ -1768,8 +1779,8 @@
       "author": "benjypng",
       "repo": "benjypng/logseq-filterpage-plugin",
       "icon": "./icon.svg",
-      "supportsDB": false,
-      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-filterpage-plugin",
       "addedAt": 1725090030000
     },
@@ -4377,6 +4388,23 @@
       "addedAt": 1777472406000
     },
     {
+      "title": "Plus Minus Next",
+      "description": "A three-column Plus / Minus / Next reflection board for Logseq",
+      "author": "wiegi",
+      "repo": "wiegi/logseq-plus-minus-next",
+      "icon": "icon.svg",
+      "theme": false,
+      "sponsors": [
+        "https://www.buymeacoffee.com/wiegi"
+      ],
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-plus-minus-next",
+      "addedAt": 1785061188000
+    },
+    {
       "title": "Logseq PolyRhythmic",
       "description": "Hugo-PolyRhythmic and Material Design theme for Logseq.",
       "author": "Wonyoung Jang",
@@ -5023,6 +5051,20 @@
       ],
       "id": "logseq-sidebar-preset",
       "addedAt": 1660277679000
+    },
+    {
+      "title": "Sidebar Tabs for Logseq DB",
+      "description": "Turn Logseq DB's right-sidebar panels into tabs with leaf labels and persistent compact pins.",
+      "author": "Shawn Salat",
+      "repo": "ThinkSalat/logseq-sidebar-tabs-db",
+      "icon": "./icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-sidebar-tabs-db",
+      "addedAt": 1785095743000
     },
     {
       "title": "SimpRead",
