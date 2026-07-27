@@ -4,5 +4,6 @@
   "author": "manu4linux",
   "repo": "ManoPaduri/logseq-kpm-property-rotator",
   "icon": "icon.svg",
-  "effect": false
+  "effect": false,
+  "supportsDB": false
 }
