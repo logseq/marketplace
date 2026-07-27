@@ -1,0 +1,8 @@
+{
+  "title": "Property Rotator",
+  "description": "Rotate Logseq block properties through configurable term lists with GTD/PARA profiles, prefix support, and cursor-aware rotation.",
+  "author": "manu4linux",
+  "repo": "ManoPaduri/logseq-kpm-property-rotator",
+  "icon": "icon.svg",
+  "effect": false
+}
