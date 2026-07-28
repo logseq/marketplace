@@ -1,5 +1,5 @@
 {
-  "datetime": 1785206358890,
+  "datetime": 1785235137198,
   "packages": [
     {
       "title": "Orbitals",
@@ -4411,7 +4411,7 @@
       ],
       "web": false,
       "effect": true,
-      "supportsDB": false,
+      "supportsDB": true,
       "supportsDBOnly": false,
       "id": "logseq-plus-minus-next",
       "addedAt": 1785061188000
