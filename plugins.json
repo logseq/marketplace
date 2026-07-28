@@ -1,5 +1,5 @@
 {
-  "datetime": 1785139889567,
+  "datetime": 1785206358890,
   "packages": [
     {
       "title": "Orbitals",
@@ -104,6 +104,18 @@
       "effect": true,
       "id": "darwis-mathlive-plugin",
       "addedAt": 1681456468000
+    },
+    {
+      "title": "DB Activity Heatmap",
+      "description": "A toolbar heatmap showing how many blocks you create each day across a Logseq DB graph.",
+      "author": "vivanotica",
+      "repo": "vivanotica/logseq-plugin-heatmap",
+      "icon": "logo.png",
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "db-activity-heatmap",
+      "addedAt": 1785140369000
     },
     {
       "title": "db-block-extractor",
@@ -2399,7 +2411,7 @@
       "icon": "icon.svg",
       "theme": false,
       "web": false,
-      "effect": false,
+      "effect": true,
       "supportsDB": true,
       "supportsDBOnly": true,
       "id": "logseq-journal-time-prefix",
@@ -4398,7 +4410,7 @@
         "https://www.buymeacoffee.com/wiegi"
       ],
       "web": false,
-      "effect": false,
+      "effect": true,
       "supportsDB": false,
       "supportsDBOnly": false,
       "id": "logseq-plus-minus-next",
