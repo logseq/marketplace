@@ -6,7 +6,7 @@
   "icon": "icon.svg",
   "theme": false,
   "web": false,
-  "effect": false,
+  "effect": true,
   "supportsDB": true,
   "supportsDBOnly": true
 }
