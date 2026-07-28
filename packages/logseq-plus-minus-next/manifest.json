@@ -8,7 +8,7 @@
   "sponsors": ["https://www.buymeacoffee.com/wiegi"],
   "web": false,
   "effect": true,
-  "supportsDB": false,
+  "supportsDB": true,
   "supportsDBOnly": false,
   "id": "logseq-plus-minus-next"
 }
