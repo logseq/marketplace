@@ -1,0 +1,10 @@
+{
+  "title": "DB Activity Heatmap",
+  "description": "A toolbar heatmap showing how many blocks you create each day across a Logseq DB graph.",
+  "author": "vivanotica",
+  "repo": "vivanotica/logseq-plugin-heatmap",
+  "icon": "logo.png",
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
