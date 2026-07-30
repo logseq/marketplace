@@ -1,5 +1,5 @@
 {
-  "datetime": 1785235137198,
+  "datetime": 1785373914544,
   "packages": [
     {
       "title": "Orbitals",
@@ -4400,6 +4400,15 @@
       "addedAt": 1777472406000
     },
     {
+      "title": "Zetlify",
+      "description": "Turn a block and its children into a timestamp-named page and embed it in place.",
+      "author": "rvalledorjr",
+      "repo": "rvalledorjr/logseq-plugin-zetlify",
+      "icon": "icon.png",
+      "id": "logseq-plugin-zetlify",
+      "addedAt": 1785241755000
+    },
+    {
       "title": "Plus Minus Next",
       "description": "A three-column Plus / Minus / Next reflection board for Logseq",
       "author": "wiegi",
@@ -6090,7 +6099,7 @@
       ],
       "web": false,
       "effect": false,
-      "supportsDB": false,
+      "supportsDB": true,
       "supportsDBOnly": false,
       "id": "logseq-worktime-table",
       "addedAt": 1773565548000
