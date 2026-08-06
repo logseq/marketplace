@@ -1,0 +1,12 @@
+{
+  "title": "Vimblocks",
+  "description": "Vim-style modal editing for Logseq DB graphs.",
+  "author": "Taylor Finklea",
+  "repo": "TaylorFinklea/vimblocks",
+  "icon": "icon.png",
+  "theme": false,
+  "web": false,
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
