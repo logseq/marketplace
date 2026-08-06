@@ -1,5 +1,5 @@
 {
-  "datetime": 1785628615534,
+  "datetime": 1785995893830,
   "packages": [
     {
       "title": "Orbitals",
@@ -2216,20 +2216,6 @@
       "effect": true,
       "id": "logseq-hitokoto-yiyan",
       "addedAt": 1763307189000
-    },
-    {
-      "title": "Home OS Capture",
-      "description": "Turn photo-first journal captures into a private, structured home manual with guided setup and local Codex processing.",
-      "author": "ZeroShot or Die",
-      "repo": "AlienOctopus/logseq-home-os",
-      "icon": "icon.svg",
-      "theme": false,
-      "web": false,
-      "effect": false,
-      "supportsDB": true,
-      "supportsDBOnly": true,
-      "id": "logseq-home-os-capture",
-      "addedAt": 1784792717000
     },
     {
       "title": "Hypothesis",
@@ -6475,6 +6461,20 @@
       "icon": "icon.png",
       "id": "unfinished-business",
       "addedAt": 1649196269000
+    },
+    {
+      "title": "Vimblocks",
+      "description": "Vim-style modal editing for Logseq DB graphs.",
+      "author": "Taylor Finklea",
+      "repo": "TaylorFinklea/vimblocks",
+      "icon": "icon.png",
+      "theme": false,
+      "web": false,
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "vimblocks",
+      "addedAt": 1785810289000
     },
     {
       "title": "Voicenotes Sync",
