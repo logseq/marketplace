@@ -1,0 +1,10 @@
+{
+  "title": "nodeBook",
+  "description": "CNL knowledge graphs from ```nodeBook fences: interactive concept maps, morphs, inference, containment view, and Petri-net token simulation.",
+  "repo": "gnowgi/logseq-nodebook",
+  "author": "gnowgi",
+  "icon": "icon.png",
+  "supportsDB": false,
+  "effect": true,
+  "sponsors": []
+}
