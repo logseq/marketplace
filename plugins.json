@@ -1,5 +1,5 @@
 {
-  "datetime": 1785995893830,
+  "datetime": 1786180133058,
   "packages": [
     {
       "title": "Orbitals",
@@ -3104,6 +3104,18 @@
       "addedAt": 1770491302000
     },
     {
+      "title": "nodeBook",
+      "description": "CNL knowledge graphs from ```nodeBook fences: interactive concept maps, morphs, inference, containment view, and Petri-net token simulation.",
+      "repo": "gnowgi/logseq-nodebook",
+      "author": "gnowgi",
+      "icon": "icon.png",
+      "supportsDB": false,
+      "effect": true,
+      "sponsors": [],
+      "id": "logseq-nodebook",
+      "addedAt": 1786107866000
+    },
+    {
       "title": "logseq-nodebuddy-plugin",
       "name": "logseq-nodebuddy-plugin",
       "description": "Your AI NodeBuddy, right inside your graph. Supports cloud and local models.",
@@ -4509,6 +4521,17 @@
       "theme": false,
       "id": "logseq-pretty-html-export",
       "addedAt": 1719409803000
+    },
+    {
+      "title": "Pretty Links",
+      "description": "Replaces bare URLs with [title](url) markdown links, cleans up fetched titles with user-defined regex rules, and renders favicons next to external links.",
+      "repo": "overflowy/logseq-pretty-links",
+      "author": "overflowy",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-pretty-links",
+      "addedAt": 1786103050000
     },
     {
       "title": "Logseq preview footnote",
