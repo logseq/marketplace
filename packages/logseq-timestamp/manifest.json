@@ -1,7 +1,7 @@
 {
   "title": "Block Created Time",
   "description": "Show compact creation timestamps beside blocks in Logseq DB graphs.",
-  "author": "Inchan Kang",
+  "author": "vivanotica",
   "repo": "vivanotica/logseq-timestamp",
   "icon": "./icon.svg",
   "effect": true,
