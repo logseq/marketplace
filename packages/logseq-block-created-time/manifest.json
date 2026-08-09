@@ -1,0 +1,10 @@
+{
+  "title": "Block Created Time",
+  "description": "Shows the creation time of every visible block in Logseq DB graphs.",
+  "author": "vivanotica",
+  "repo": "vivanotica/logseq-timestamp",
+  "icon": "icon.svg",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
