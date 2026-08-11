@@ -4,7 +4,7 @@
   "repo": "gnowgi/logseq-nodebook",
   "author": "gnowgi",
   "icon": "icon.png",
-  "supportsDB": false,
+  "supportsDB": true,
   "effect": true,
   "sponsors": []
 }
