@@ -1,0 +1,7 @@
+{
+  "title": "Paperless-ngx Links",
+  "description": "Insert links to paperless-ngx saved views and documents from Logseq.",
+  "author": "Dennis Waldherr",
+  "repo": "Bytekeeper/logseq-paperless",
+  "icon": "./logo.svg"
+}
