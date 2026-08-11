@@ -1,5 +1,5 @@
 {
-  "datetime": 1786180133058,
+  "datetime": 1786414921116,
   "packages": [
     {
       "title": "Orbitals",
@@ -3109,7 +3109,7 @@
       "repo": "gnowgi/logseq-nodebook",
       "author": "gnowgi",
       "icon": "icon.png",
-      "supportsDB": false,
+      "supportsDB": true,
       "effect": true,
       "sponsors": [],
       "id": "logseq-nodebook",
@@ -4095,6 +4095,15 @@
       "effect": true,
       "id": "logseq-plugin-panel-coloring",
       "addedAt": 1670330949000
+    },
+    {
+      "title": "Paperless-ngx Links",
+      "description": "Insert links to paperless-ngx saved views and documents from Logseq.",
+      "author": "Dennis Waldherr",
+      "repo": "Bytekeeper/logseq-paperless",
+      "icon": "./logo.svg",
+      "id": "logseq-plugin-paperless",
+      "addedAt": 1786254683000
     },
     {
       "title": "Logseq Query Chart",
@@ -5108,6 +5117,18 @@
       "addedAt": 1785095743000
     },
     {
+      "title": "Simple Excalidraw DB",
+      "description": "Render and edit Excalidraw data stored directly on Logseq DB blocks.",
+      "author": "vivanotica",
+      "repo": "vivanotica/logseq-simple-excalidraw-db",
+      "icon": "logo.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-simple-excalidraw-db",
+      "addedAt": 1786300880000
+    },
+    {
       "title": "SimpRead",
       "description": "The official Logseq plugin of SimpRead",
       "author": "OverflowCat",
@@ -5596,7 +5617,7 @@
     {
       "title": "Block Created Time",
       "description": "Show compact creation timestamps beside blocks in Logseq DB graphs.",
-      "author": "Inchan Kang",
+      "author": "vivanotica",
       "repo": "vivanotica/logseq-timestamp",
       "icon": "./icon.svg",
       "effect": true,
