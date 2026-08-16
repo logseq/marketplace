@@ -4,5 +4,5 @@
     "author": "yusuf",
     "repo": "yusuf8834/logseq-timebox",
     "icon": "./list-details.png",
-    "supportsDB": false
+    "supportsDB": true
 }
