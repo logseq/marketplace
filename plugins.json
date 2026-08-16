@@ -1,5 +1,5 @@
 {
-  "datetime": 1786414921116,
+  "datetime": 1786847700541,
   "packages": [
     {
       "title": "Orbitals",
@@ -250,6 +250,18 @@
       "supportsDB": true,
       "id": "iawriter-theme",
       "addedAt": 1781111382000
+    },
+    {
+      "title": "Ledger & Worth",
+      "description": "Journal accounting, monthly cash-flow reports, and net worth tracking for Logseq DB graphs.",
+      "author": "killain-best",
+      "repo": "killain-best/logseq-accounting",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "ledger-worth",
+      "addedAt": 1786441598000
     },
     {
       "title": "Log-Stats",
@@ -5601,7 +5613,7 @@
       "author": "yusuf",
       "repo": "yusuf8834/logseq-timebox",
       "icon": "./list-details.png",
-      "supportsDB": false,
+      "supportsDB": true,
       "id": "logseq-timebox",
       "addedAt": 1767928505000
     },
@@ -6380,6 +6392,16 @@
       "supportsDB": true,
       "id": "pretty-logseq",
       "addedAt": 1770591989000
+    },
+    {
+      "title": "Publora",
+      "description": "Send the current block or page to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram. Schedule for a time you pick, or save a draft.",
+      "author": "Publora",
+      "repo": "publora/logseq-publora",
+      "icon": "icon.png",
+      "theme": false,
+      "id": "publora",
+      "addedAt": 1786454206000
     },
     {
       "title": "Reading List",
