@@ -1,5 +1,5 @@
 {
-  "datetime": 1786847700541,
+  "datetime": 1786953704115,
   "packages": [
     {
       "title": "Orbitals",
@@ -2584,6 +2584,16 @@
       "effect": true,
       "id": "logseq-live-math",
       "addedAt": 1692713055000
+    },
+    {
+      "title": "Tennis Capture",
+      "description": "Capture tennis into your notes — today's fixtures, recent results, player rankings, and one-shot live-score snapshots from the Live Tennis API.",
+      "author": "Live Tennis API",
+      "repo": "livetennisapi/logseq-live-tennis",
+      "icon": "./logo.svg",
+      "supportsDB": true,
+      "id": "logseq-live-tennis",
+      "addedAt": 1786899626000
     },
     {
       "title": "Live Photos Plugin",
