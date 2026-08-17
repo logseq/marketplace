@@ -1,0 +1,9 @@
+{
+  "title": "Gitea Sync",
+  "description": "自动将 Logseq 图谱提交并推送到 Gitea / 任意 Git 远程仓库，支持 HTTPS+令牌与 SSH 认证、多设备自动 pull --rebase。Auto commit & push Logseq graph to Gitea.",
+  "author": "lkddi",
+  "repo": "lkddi/logseq-gitea-sync",
+  "icon": "logo.png",
+  "theme": false,
+  "effect": false
+}
