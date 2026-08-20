@@ -1,0 +1,7 @@
+{
+  "title": "复制页面路径",
+  "description": "一键复制当前页面的本地文件路径到剪贴板，支持绝对路径、相对路径、file链接和Markdown格式",
+  "author": "nutshinji",
+  "repo": "nutshinji/logseq-plugin-copy-page-path",
+  "icon": "./icon.svg"
+}
