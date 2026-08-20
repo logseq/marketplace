@@ -1,0 +1,7 @@
+{
+  "title": "Ask Claude",
+  "description": "Ask Claude AI directly from any Logseq block using a slash command. Responses are inserted as nested blocks with full markdown support." ,
+  "author": "Mike Travers",
+  "repo":"hyperphor/logseq-claude",
+  "icon": "logo.png"
+}
