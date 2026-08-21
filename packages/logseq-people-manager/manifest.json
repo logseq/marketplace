@@ -1,0 +1,13 @@
+{
+  "title": "People Manager",
+  "description": "Birthday reminders and contact tracking for your #people entries. Never miss a birthday or forget to stay in touch.",
+  "author": "laukomatic",
+  "repo": "laukomatic/logseq-people-manager",
+  "icon": "./icon.svg",
+  "theme": false,
+  "sponsors": [],
+  "web": true,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
