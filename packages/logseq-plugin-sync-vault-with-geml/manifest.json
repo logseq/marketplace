@@ -1,0 +1,11 @@
+{
+  "title": "Sync Vault with GEML",
+  "description": "Your DB graph as a continuously synced, Git-friendly plain-text vault (powered by GEML).",
+  "author": "xiongjy2104",
+  "repo": "geml-spec/logseq-plugin-sync-vault-with-geml",
+  "icon": "icon.png",
+  "theme": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
