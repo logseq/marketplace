@@ -6584,6 +6584,17 @@
       "theme": true,
       "id": "xypora-print-theme",
       "addedAt": 1760749797000
+    },
+    {
+      "title": "Logseq Reader",
+      "description": "A reader pane for Logseq — renders any page or journal into a clean, distraction-free reading view with resizable width.",
+      "author": "ZhangYuYou",
+      "repo": "zhangyuyou25/logseq-reader",
+      "icon": "icon.png",
+      "effect": false,
+      "theme": false,
+      "id": "logseq-reader",
+      "addedAt": 1787809733857
     }
   ]
 }
