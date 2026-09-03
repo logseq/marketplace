@@ -1,5 +1,5 @@
 {
-  "datetime": 1786953704115,
+  "datetime": 1788397543436,
   "packages": [
     {
       "title": "Orbitals",
@@ -643,6 +643,18 @@
       "supportsDB": true,
       "id": "logseq-awesome-links",
       "addedAt": 1663885581000
+    },
+    {
+      "title": "Awesome Links DB",
+      "description": "Icons and colors for internal links, inherited from their tag, and favicons for external links. For database graphs.",
+      "author": "MrModest",
+      "repo": "MrModest/logseq-awesome-links-db",
+      "icon": "./icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-awesome-links-db",
+      "addedAt": 1788200835000
     },
     {
       "title": "Awesome Props",
@@ -3495,6 +3507,20 @@
       ],
       "id": "logseq-pen",
       "addedAt": 1664278121000
+    },
+    {
+      "title": "Persistent Blocks",
+      "description": "Display ongoing tagged blocks in today's Journal using an inclusive Scheduled/Deadline window, with native nested-block folding.",
+      "author": "lmy138",
+      "repo": "lmy138/logseq-persistent-blocks",
+      "icon": "icon.svg",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-persistent-blocks",
+      "addedAt": 1788315224000
     },
     {
       "title": "phonetonote logseq client",
