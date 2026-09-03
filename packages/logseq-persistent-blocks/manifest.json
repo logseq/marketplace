@@ -1,0 +1,12 @@
+{
+  "title": "Persistent Blocks",
+  "description": "Display ongoing tagged blocks in today's Journal using an inclusive Scheduled/Deadline window, with native nested-block folding.",
+  "author": "lmy138",
+  "repo": "lmy138/logseq-persistent-blocks",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
