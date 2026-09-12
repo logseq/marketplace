@@ -1,5 +1,5 @@
 {
-  "datetime": 1788397543436,
+  "datetime": 1789207040301,
   "packages": [
     {
       "title": "Orbitals",
@@ -195,6 +195,18 @@
       "effect": false,
       "id": "gitseq",
       "addedAt": 1776249481000
+    },
+    {
+      "title": "Adwaita for Logseq",
+      "description": "Makes Logseq look like a native app on the Linux GNOME desktop environment: Adwaita surfaces and metrics, one merged headerbar, round window controls. Light and dark, with the GNOME accent colours.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/adwaita-for-logseq",
+      "icon": "icon.png",
+      "theme": true,
+      "effect": false,
+      "supportsDB": true,
+      "id": "gnome-adwaita-theme",
+      "addedAt": 1789053531000
     },
     {
       "title": "OddBox - Gruvbox Theme for LogSeq",
