@@ -1,5 +1,5 @@
 {
-  "datetime": 1789207040301,
+  "datetime": 1789374445460,
   "packages": [
     {
       "title": "Orbitals",
@@ -4234,6 +4234,20 @@
       "supportsDB": true,
       "id": "logseq-plugin-remember-my-block",
       "addedAt": 1778939923000
+    },
+    {
+      "title": "Repo Log",
+      "description": "Control panel for a Logseq OG file graph. Settings and buttons call a local Repo Log engine; does not fork Logseq.",
+      "author": "Repo Log",
+      "repo": "MLEDss/repo-log",
+      "icon": "icon.png",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "logseq-plugin-repo-log",
+      "addedAt": 1789314039000
     },
     {
       "title": "Run JS",
