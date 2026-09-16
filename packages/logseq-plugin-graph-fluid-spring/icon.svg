@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <defs>
+    <!-- 弹簧正面高亮青蓝渐变 -->
+    <linearGradient id="springFront" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+
+    <!-- 弹簧背面暗部阴影渐变 -->
+    <linearGradient id="springBack" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ================= 1. 背面线圈组 (Back Loops) ================= -->
+  <!-- 背面黑色卡通描边 -->
+  <g fill="none" stroke="#0f172a" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 顶端弯钩 -->
+    <path d="M 74 18 C 50 16, 34 22, 34 32"/>
+    <!-- 第 1 环背面 -->
+    <path d="M 94 46 C 94 38, 34 44, 34 56"/>
+    <!-- 第 2 环背面 -->
+    <path d="M 94 70 C 94 62, 34 68, 34 80"/>
+    <!-- 第 3 环背面 -->
+    <path d="M 94 94 C 94 86, 34 92, 34 102"/>
+  </g>
+
+  <!-- 背面弹簧主体颜色（深色阴影层） -->
+  <g fill="none" stroke="url(#springBack)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 74 18 C 50 16, 34 22, 34 32"/>
+    <path d="M 94 46 C 94 38, 34 44, 34 56"/>
+    <path d="M 94 70 C 94 62, 34 68, 34 80"/>
+    <path d="M 94 94 C 94 86, 34 92, 34 102"/>
+  </g>
+
+  <!-- ================= 2. 正面线圈组 (Front Loops，穿插在前) ================= -->
+  <!-- 正面黑色卡通描边（切断背面形成立体前后遮挡） -->
+  <g fill="none" stroke="#0f172a" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 第 1 环正面 -->
+    <path d="M 34 32 C 34 48, 94 60, 94 46"/>
+    <!-- 第 2 环正面 -->
+    <path d="M 34 56 C 34 72, 94 84, 94 70"/>
+    <!-- 第 3 环正面 -->
+    <path d="M 34 80 C 34 96, 94 108, 94 94"/>
+    <!-- 底端收尾环 -->
+    <path d="M 34 102 C 34 112, 70 114, 74 106"/>
+  </g>
+
+  <!-- 正面弹簧主体颜色（亮丽高光层） -->
+  <g fill="none" stroke="url(#springFront)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 34 32 C 34 48, 94 60, 94 46"/>
+    <path d="M 34 56 C 34 72, 94 84, 94 70"/>
+    <path d="M 34 80 C 34 96, 94 108, 94 94"/>
+    <path d="M 34 102 C 34 112, 70 114, 74 106"/>
+  </g>
+
+  <!-- ================= 3. 卡通反光高光条 (Glossy Highlights) ================= -->
+  <g fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" opacity="0.85">
+    <path d="M 60 19 C 50 19, 40 23, 38 28"/>
+    <path d="M 44 43 C 54 50, 78 54, 84 48"/>
+    <path d="M 44 67 C 54 74, 78 78, 84 72"/>
+    <path d="M 44 91 C 54 98, 78 102, 84 96"/>
+    <path d="M 42 107 C 50 110, 62 110, 68 106"/>
+  </g>
+</svg>

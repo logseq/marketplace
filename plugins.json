@@ -1,5 +1,5 @@
 {
-  "datetime": 1789374445460,
+  "datetime": 1789538211647,
   "packages": [
     {
       "title": "Orbitals",
@@ -3790,6 +3790,17 @@
       "addedAt": 1765397186000
     },
     {
+      "title": "DeepSeek Assistant",
+      "description": "Run DeepSeek models from Logseq slash commands: summarize, polish, rewrite, explain, brainstorm and fact-check a block without leaving your notes.",
+      "author": "victos",
+      "repo": "victos/logseq-plugin-ds",
+      "icon": "./logo.svg",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-plugin-deepseek-assistant",
+      "addedAt": 1789454108000
+    },
+    {
       "title": "Default Page Template / Footprint",
       "description": "Automatically apply a page template / Property the date and time the page was last opened",
       "author": "YU000jp",
@@ -3921,6 +3932,16 @@
       "supportsDB": true,
       "id": "logseq-plugin-gpt3-openai",
       "addedAt": 1654399953000
+    },
+    {
+      "title": "Graph Fluid Spring",
+      "description": "True dual-track momentum spring for Logseq Graph: Hard-brake camera and fluid elastic nodes.",
+      "author": "white66-7",
+      "repo": "white66-7/Graph-Fluid-Spring",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-plugin-graph-fluid-spring",
+      "addedAt": 1789538211636
     },
     {
       "title": "Harper-ls Plugin",
