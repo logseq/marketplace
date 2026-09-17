@@ -5,5 +5,5 @@
     "repo": "PaulNoth/logseq-night-owl-theme",
     "icon": "icon-night-owl.png",
     "theme": true,
-    "supportsDB": false
+    "supportsDB": true
 }
