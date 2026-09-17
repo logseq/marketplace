@@ -1,5 +1,5 @@
 {
-  "datetime": 1789538211647,
+  "datetime": 1789604616997,
   "packages": [
     {
       "title": "Orbitals",
@@ -1667,6 +1667,17 @@
       "effect": true,
       "id": "logseq-emoji-shortcodes",
       "addedAt": 1682760159000
+    },
+    {
+      "title": "EPUB Export",
+      "description": "Export a graph to a navigable EPUB for e-readers (KOReader, Boox, Kobo): tappable [[links]] and aliases, #tag indexes, linked references, embedded images and a generated cover. Works with file graphs and DB graphs.",
+      "author": "CR0CKER",
+      "repo": "CR0CKER/logseq-epub-export",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-epub-export",
+      "addedAt": 1789581926000
     },
     {
       "title": "Everforest",
