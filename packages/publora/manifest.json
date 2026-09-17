@@ -1,0 +1,8 @@
+{
+  "title": "Publora",
+  "description": "Send the current block or page to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon and Telegram. Schedule for a time you pick, or save a draft.",
+  "author": "Publora",
+  "repo": "publora/logseq-publora",
+  "icon": "icon.png",
+  "theme": false
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Template Buttons",
+  "description": "Sidebar and page-bar buttons to create pages from Logseq templates, including child pages with backlinks.",
+  "author": "Marat Zimnurov",
+  "repo": "the-homeless-god/logseq-template-buttons",
+  "icon": "icon.png",
+  "theme": false,
+  "sponsors": [],
+  "web": false,
+  "effect": true,
+  "supportsDB": false,
+  "supportsDBOnly": false
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Repo Log",
+  "description": "Control panel for a Logseq OG file graph. Settings and buttons call a local Repo Log engine; does not fork Logseq.",
+  "author": "Repo Log",
+  "repo": "MLEDss/repo-log",
+  "icon": "icon.png",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": false,
+  "supportsDBOnly": false
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="iA Writer theme for Logseq">
+  <defs>
+    <clipPath id="r"><rect width="64" height="64" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <!-- light & dark, split corner-to-corner (theme supports both modes) -->
+    <rect width="64" height="64" fill="#FAF7F0"/>
+    <path d="M0 0 H64 L0 64 Z" fill="#1A1A1A"/>
+    <!-- even 12px text rhythm: baselines at y = 20, 32, 44 -->
+    <!-- dark half (ink #D0D0D0) -->
+    <line x1="15" y1="20" x2="33" y2="20" stroke="#D0D0D0" stroke-width="3.3" stroke-linecap="round"/>
+    <line x1="15" y1="32" x2="25" y2="32" stroke="#D0D0D0" stroke-width="3.3" stroke-linecap="round"/>
+    <!-- paper half (faint #C9C3B6) -->
+    <line x1="37" y1="44" x2="49" y2="44" stroke="#C9C3B6" stroke-width="3.3" stroke-linecap="round"/>
+    <!-- HERO: azure-cyan editing caret ending the top line, rising from its baseline -->
+    <line x1="39" y1="13" x2="39" y2="25" stroke="#00C5FF" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

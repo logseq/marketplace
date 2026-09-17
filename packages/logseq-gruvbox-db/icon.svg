@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Gruvbox DB</title>
+  <desc id="desc">Three nested outline blocks in the Gruvbox palette.</desc>
+  <rect width="128" height="128" fill="#1d2021"/>
+  <rect x="8" y="8" width="112" height="112" rx="22" fill="#282828" stroke="#504945" stroke-width="4"/>
+  <path d="M28 42v52M28 68h16v26h16" fill="none" stroke="#665c54" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="34" r="7" fill="#fabd2f"/>
+  <rect x="44" y="28" width="60" height="12" rx="6" fill="#ebdbb2"/>
+  <circle cx="44" cy="68" r="7" fill="#83a598"/>
+  <rect x="60" y="62" width="44" height="12" rx="6" fill="#d5c4a1"/>
+  <circle cx="60" cy="94" r="7" fill="#fe8019"/>
+  <rect x="76" y="88" width="28" height="12" rx="6" fill="#bdae93"/>
+</svg>

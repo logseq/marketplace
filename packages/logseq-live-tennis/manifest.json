@@ -1,0 +1,8 @@
+{
+  "title": "Tennis Capture",
+  "description": "Capture tennis into your notes — today's fixtures, recent results, player rankings, and one-shot live-score snapshots from the Live Tennis API.",
+  "author": "Live Tennis API",
+  "repo": "livetennisapi/logseq-live-tennis",
+  "icon": "./logo.svg",
+  "supportsDB": true
+}

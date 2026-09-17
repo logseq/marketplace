@@ -1,0 +1,7 @@
+{
+  "title": "Zetlify",
+  "description": "Turn a block and its children into a timestamp-named page and embed it in place.",
+  "author": "rvalledorjr",
+  "repo": "rvalledorjr/logseq-plugin-zetlify",
+  "icon": "icon.png"
+}

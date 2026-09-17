@@ -1,0 +1,9 @@
+{
+  "title": "iA Writer Theme",
+  "description": "An iA Writer-inspired theme for Logseq",
+  "author": "Rahul Somani",
+  "repo": "rsomani95/logseq-iawriter-theme",
+  "icon": "icon.svg",
+  "theme": true,
+  "supportsDB": true
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Voice Memo",
+  "description": "Record a voice memo from your microphone and inject it into Logseq as a playable MP3 or WAV asset.",
+  "author": "nnigmat",
+  "repo": "Nnigmat/logseq-plugin-voice-memo",
+  "icon": "icon.svg",
+  "effect": true
+}
