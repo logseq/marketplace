@@ -1,0 +1,8 @@
+{
+  "title": "FluentDoc",
+  "description": "Fluent document mode, floating formatting toolbar, seamless rich-text copy, and smart task list for Logseq.",
+  "author": "atjjme",
+  "repo": "atjjme/logseq-plugin-fluent-doc",
+  "icon": "icon.svg",
+  "theme": false
+}
