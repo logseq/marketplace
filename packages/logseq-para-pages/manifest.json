@@ -1,0 +1,9 @@
+{
+  "title": "PARA Pages",
+  "description": "Create Markdown pages in configurable PARA directories and insert page links from a Logseq slash command.",
+  "author": "bossm0n5t3r",
+  "repo": "bossm0n5t3r/logseq-para-pages",
+  "icon": "icon.svg",
+  "effect": false,
+  "supportsDB": false
+}
