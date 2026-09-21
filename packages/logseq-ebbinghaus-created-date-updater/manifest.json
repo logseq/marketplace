@@ -1,0 +1,8 @@
+{
+  "title": "Ebbinghaus Created Date Updater",
+  "description": "A plugin to query notes for a specific date or date range.\n1. Insert a daily-updating template with queries for Ebbinghaus review dates (1, 2, 4, ... days).\n2. Query notes created within a date range for quick browsing.",
+  "author": "yoshisen",
+  "repo": "yoshisen/logseq-ebbinghaus-created-date-updater",
+  "icon": "icon.png",
+  "web": false
+}
