@@ -4,5 +4,5 @@
   "author": "atjjme",
   "repo": "atjjme/logseq-plugin-fluent-doc",
   "icon": "icon.svg",
-  "theme": false
+  "effect": true
 }

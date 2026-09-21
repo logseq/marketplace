@@ -1,5 +1,5 @@
 {
-  "datetime": 1789604616997,
+  "datetime": 1789958463923,
   "packages": [
     {
       "title": "Orbitals",
@@ -1528,6 +1528,15 @@
       ],
       "id": "logseq-dictionary",
       "addedAt": 1662207076000
+    },
+    {
+      "title": "Logseq Dictionary v2",
+      "description": "Define words and make them into cards.",
+      "author": "arito7",
+      "repo": "arito7/logseq-dictionary-v2",
+      "icon": "icon.png",
+      "id": "logseq-dictionary-v2",
+      "addedAt": 1789872016000
     },
     {
       "title": "Discourse Graphs",
@@ -3156,7 +3165,7 @@
       "repo": "PaulNoth/logseq-night-owl-theme",
       "icon": "icon-night-owl.png",
       "theme": true,
-      "supportsDB": false,
+      "supportsDB": true,
       "id": "logseq-night-owl-theme",
       "addedAt": 1770491302000
     },
@@ -3400,6 +3409,17 @@
       ],
       "id": "logseq-paper-theme",
       "addedAt": 1635018588000
+    },
+    {
+      "title": "PARA Pages",
+      "description": "Create Markdown pages in configurable PARA directories and insert page links from a Logseq slash command.",
+      "author": "bossm0n5t3r",
+      "repo": "bossm0n5t3r/logseq-para-pages",
+      "icon": "icon.svg",
+      "effect": false,
+      "supportsDB": false,
+      "id": "logseq-para-pages",
+      "addedAt": 1789743660000
     },
     {
       "title": "Parent Breadcrumb",
@@ -3890,6 +3910,16 @@
       "supportsDB": true,
       "id": "logseq-plugin-flex-date-format",
       "addedAt": 1692748519000
+    },
+    {
+      "title": "FluentDoc",
+      "description": "Fluent document mode, floating formatting toolbar, seamless rich-text copy, and smart task list for Logseq.",
+      "author": "atjjme",
+      "repo": "atjjme/logseq-plugin-fluent-doc",
+      "icon": "icon.svg",
+      "effect": true,
+      "id": "logseq-plugin-fluent-doc",
+      "addedAt": 1789614850000
     },
     {
       "title": "Logseq Misskey Plugin",
@@ -4906,6 +4936,17 @@
       "effect": true,
       "id": "logseq-readwise-reader-export",
       "addedAt": 1667741424000
+    },
+    {
+      "title": "Logseq Recipe",
+      "description": "DB-native recipe cards, serving scaling, and cooking mode for Logseq.",
+      "author": "frogiraffe",
+      "repo": "frogiraffe/logseq-recipe",
+      "icon": "logo.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-recipe",
+      "addedAt": 1789742477000
     },
     {
       "title": "logseq-recipeimporter-plugin",
