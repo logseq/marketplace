@@ -3088,7 +3088,7 @@
         "https://www.buymeacoffee.com/vipzhicheng"
       ],
       "effect": true,
-      "supportsDB": false,
+      "supportsDB": true,
       "id": "logseq-move-block",
       "addedAt": 1649388185000
     },
