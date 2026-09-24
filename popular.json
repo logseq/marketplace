@@ -305,7 +305,7 @@
       "addedAt": 1649388185000,
       "kind": "downloads",
       "downloads": 23903,
-      "supportsDB": false
+      "supportsDB": true
     },
     {
       "id": "logseq-calendars-plugin",
