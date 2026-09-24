@@ -4,6 +4,6 @@
   "author": "bossm0n5t3r",
   "repo": "bossm0n5t3r/logseq-para-pages",
   "icon": "icon.svg",
-  "effect": false,
+  "effect": true,
   "supportsDB": false
 }
