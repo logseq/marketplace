@@ -1,5 +1,5 @@
 {
-  "datetime": 1789958463923,
+  "datetime": 1790403473399,
   "packages": [
     {
       "title": "Orbitals",
@@ -34,6 +34,16 @@
       "effect": true,
       "id": "archivist-gg",
       "addedAt": 1776766208000
+    },
+    {
+      "title": "Asyntai AI Chatbot",
+      "description": "Ask your own pages with AI, and read your website chats and leads without leaving Logseq.",
+      "repo": "asyntai/logseq-ai-chatbot",
+      "author": "Asyntai",
+      "icon": "icon.png",
+      "supportsDB": true,
+      "id": "asyntai-ai-chatbot",
+      "addedAt": 1790144833000
     },
     {
       "title": "Block pin",
@@ -1328,6 +1338,18 @@
       "effect": true,
       "id": "logseq-crypto",
       "addedAt": 1715372773000
+    },
+    {
+      "title": "Curtain - Hide & Redact",
+      "description": "Hide spoilers from view and redact notes from AI agents. Blur or conceal any block, page or selected text, and mark content so AI assistants reading your graph skip it.",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-curtain",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-curtain",
+      "addedAt": 1789878121000
     },
     {
       "title": "Customized Github Theme",
@@ -3416,7 +3438,7 @@
       "author": "bossm0n5t3r",
       "repo": "bossm0n5t3r/logseq-para-pages",
       "icon": "icon.svg",
-      "effect": false,
+      "effect": true,
       "supportsDB": false,
       "id": "logseq-para-pages",
       "addedAt": 1789743660000
