@@ -1,0 +1,9 @@
+{
+  "title": "Git Forge Watcher",
+  "description": "View the status of GitHub repos, issues, pull requests from a block.",
+  "author": "VictorVow",
+  "repo": "VictorVow/logseq-plugin-git-forge-watcher",
+  "icon": "logo.png",
+  "theme": false,
+  "effect": false
+}
