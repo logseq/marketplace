@@ -4,5 +4,6 @@
   "author": "CuSO4Deposit",
   "repo": "CuSO4Deposit/tokyonight-logseq",
   "icon": "icon.png",
-  "theme": true
+  "theme": true,
+  "supportsDB": true
 }
