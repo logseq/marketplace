@@ -2,5 +2,11 @@
   "title": "Task Dashboard",
   "description": "Logseq plugin for managing project task outlines, automated timestamped audit logs per project, live summary table, and mindmap visualization.",
   "author": "bdbotond",
-  "repo": "bdbotond/logseq_dashboard"
+  "repo": "bdbotond/logseq_dashboard",
+  "icon": "./icon.png",
+  
+  "sponsors": [
+    "https://buymeacoffee.com/bdbotond"
+  ]
+}
 }
