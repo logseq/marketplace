@@ -1,0 +1,11 @@
+{
+  "title": "Inkwell theme",
+  "description": "Quiet, ink-toned themes for Logseq DB graphs, in light and dark. Slate: deep slate and oxblood on Apple system greys.",
+  "author": "Danzu",
+  "repo": "hdansou/logseq-inkwell-theme",
+  "icon": "icon.png",
+  "theme": true,
+  "web": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
