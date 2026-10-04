@@ -1,0 +1,8 @@
+{
+  "title": "logseq-fediverse-plugin",
+  "name": "logseq-fediverse-plugin",
+  "description": "An integration plugin that connects your graph directly to the Fediverse (GoToSocial, Mastodon, and other Mastodon-API compatible platforms.",
+  "author": "jagedn",
+  "repo": "incsteps/logseq-fediverse-plugin/",
+  "icon": "./icon.png"
+}
