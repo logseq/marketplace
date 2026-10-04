@@ -1,5 +1,5 @@
 {
-  "datetime": 1790403473399,
+  "datetime": 1791090341047,
   "packages": [
     {
       "title": "Orbitals",
@@ -1785,6 +1785,16 @@
       "addedAt": 1633371656000
     },
     {
+      "title": "logseq-fediverse-plugin",
+      "name": "logseq-fediverse-plugin",
+      "description": "An integration plugin that connects your graph directly to the Fediverse (GoToSocial, Mastodon, and other Mastodon-API compatible platforms.",
+      "author": "jagedn",
+      "repo": "incsteps/logseq-fediverse-plugin/",
+      "icon": "./icon.png",
+      "id": "logseq-fediverse-plugin",
+      "addedAt": 1790267535000
+    },
+    {
       "title": "Fenced code plus",
       "description": "A Logseq plugin for missing types of fenced code.",
       "repo": "xyhp915/logseq-fenced-code-plus",
@@ -1936,6 +1946,19 @@
       "repo": "gremi-jr/logseq-footnote-plugin",
       "id": "logseq-footnote-plugin",
       "addedAt": 1686944280000
+    },
+    {
+      "title": "Table Editor",
+      "description": "Editable tables with formulas, typed columns, sorting and filtering, plus side-by-side page navigation.",
+      "author": "Mknc-j",
+      "repo": "Mknc-j/logseq-table-editor",
+      "icon": "icon.svg",
+      "theme": false,
+      "effect": true,
+      "web": false,
+      "supportsDB": false,
+      "id": "logseq-form-flow",
+      "addedAt": 1789290551000
     },
     {
       "title": "Logseq LaTex Formula OCR",
@@ -2385,6 +2408,19 @@
       "effect": true,
       "id": "logseq-inbox-telegram-plugin",
       "addedAt": 1642746924000
+    },
+    {
+      "title": "Inkwell theme",
+      "description": "Quiet, ink-toned themes for Logseq DB graphs, in light and dark. Slate: deep slate and oxblood on Apple system greys.",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-inkwell-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "web": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-inkwell-theme",
+      "addedAt": 1791059189000
     },
     {
       "title": "Logseq insert movie properties",
@@ -3253,6 +3289,17 @@
       "addedAt": 1674833788000
     },
     {
+      "title": "One Dark Pro",
+      "description": "A Logseq theme inspired by One Dark Pro.",
+      "author": "chempeng",
+      "repo": "chempeng/logseq-one-dark-theme",
+      "icon": "icon.svg",
+      "theme": true,
+      "effect": false,
+      "id": "logseq-one-dark-theme",
+      "addedAt": 1790691294000
+    },
+    {
       "title": "One Theme",
       "description": "A clean theme inspired by One Dark Pro.",
       "repo": "femto-code/logseq-one-theme",
@@ -3954,6 +4001,17 @@
       "addedAt": 1705513365000
     },
     {
+      "title": "Git Forge Watcher",
+      "description": "View the status of GitHub repos, issues, pull requests from a block.",
+      "author": "VictorVow",
+      "repo": "VictorVow/logseq-plugin-git-forge-watcher",
+      "icon": "logo.png",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-plugin-git-forge-watcher",
+      "addedAt": 1790505732000
+    },
+    {
       "title": "Github File Getter",
       "description": "A plugin to get files from Github to assist with documenting code using Logseq",
       "author": "Mark J Smith",
@@ -4423,6 +4481,17 @@
       "effect": true,
       "id": "logseq-plugin-single-journal",
       "addedAt": 1704241523000
+    },
+    {
+      "title": "Tag Tree",
+      "description": "Hierarchical tags with inline a/b/#c syntax: tree panel, AND/OR/NOT filtering, usage browser, rename/move/merge, legacy #a/b/c migration.",
+      "author": "xiantiao",
+      "repo": "xiantiao/logseq-plugin-tag-tree",
+      "icon": "https://raw.githubusercontent.com/xiantiao/logseq-plugin-tag-tree/main/logo.svg",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-plugin-tag-tree",
+      "addedAt": 1790950363000
     },
     {
       "title": "Task completion",
@@ -5912,6 +5981,17 @@
       "addedAt": 1635672218000
     },
     {
+      "title": "Tokyo Night",
+      "description": "🌃 A clean dark theme for Logseq based on the Tokyo Night palette. Includes Night, Storm, Moon, Day, and OLED flavors.",
+      "author": "CuSO4Deposit",
+      "repo": "CuSO4Deposit/tokyonight-logseq",
+      "icon": "icon.png",
+      "theme": true,
+      "supportsDB": true,
+      "id": "logseq-tokyonight",
+      "addedAt": 1790756454000
+    },
+    {
       "title": "Logseq Toolbox",
       "description": "Some useful tiny tools for logseq.",
       "author": "tankcool",
@@ -6639,6 +6719,18 @@
       "supportsDB": false,
       "id": "syncthing-monitor",
       "addedAt": 1782751733000
+    },
+    {
+      "title": "Task Dashboard",
+      "description": "Logseq plugin for managing project task outlines, automated timestamped audit logs per project, live summary table, and mindmap visualization.",
+      "author": "bdbotond",
+      "repo": "bdbotond/logseq_dashboard",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://buymeacoffee.com/bdbotond"
+      ],
+      "id": "task_dashboard",
+      "addedAt": 1790846070000
     },
     {
       "title": "Template Gallery",
