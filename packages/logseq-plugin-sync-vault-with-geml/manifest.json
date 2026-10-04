@@ -1,0 +1,11 @@
+{
+  "title": "Sync Vault with GEML",
+  "description": "Your DB graph as a folder of readable plain-text files, continuously synced — and restorable back. A paired command-line watcher does the writing; this plugin signals it and shows the last result.",
+  "author": "xiongjy2104",
+  "repo": "geml-spec/logseq-plugin-sync-vault-with-geml",
+  "icon": "icon.png",
+  "theme": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
