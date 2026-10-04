@@ -1,0 +1,9 @@
+{
+  "title": "Tag Tree",
+  "description": "Hierarchical tags with inline a/b/#c syntax: tree panel, AND/OR/NOT filtering, usage browser, rename/move/merge, legacy #a/b/c migration.",
+  "author": "xiantiao",
+  "repo": "xiantiao/logseq-plugin-tag-tree",
+  "icon": "https://raw.githubusercontent.com/xiantiao/logseq-plugin-tag-tree/main/logo.svg",
+  "theme": false,
+  "effect": false
+}
