@@ -1,0 +1,9 @@
+{
+  "title": "YouTube Playlist Card",
+  "description": "Compact YouTube playlist cards with tracklist and one-click note blocks.",
+  "author": "asubedi",
+  "repo": "ashishsubedi/logseq-playlist-plugin",
+  "icon": "./icon.jpg",
+  "theme": false,
+  "effect": false
+}
