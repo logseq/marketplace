@@ -1,67 +1,100 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
-  <defs>
-    <!-- 弹簧正面高亮青蓝渐变 -->
-    <linearGradient id="springFront" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#67e8f9"/>
-      <stop offset="100%" stop-color="#0ea5e9"/>
-    </linearGradient>
+  <!--
+    Graph Inertia — 图标设计说明
+    ==========================================================================
+    要传达三件事，按重要性排序：
+      1. 这是一张【图谱】（节点 + 连边）—— 一眼可辨
+      2. 它是【活的】—— 节点带辉光，边有能量感
+      3. 有【惯性】—— 一颗正在飞出的节点拖着运动残影
 
-    <!-- 弹簧背面暗部阴影渐变 -->
-    <linearGradient id="springBack" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0284c7"/>
-      <stop offset="100%" stop-color="#0369a1"/>
-    </linearGradient>
+    为什么不做复杂图形：Logseq 插件图标在列表里只有约 40px，
+    元素一多就糊成一团。所以只保留 5 个节点 + 4 条边 + 一组残影。
+
+    配色取自插件内图谱的调色板（蓝=页面、紫=标签），
+    这样图标和实际界面是同一套视觉语言。
+  -->
+  <defs>
+    <!-- 中心枢纽：亮蓝，最亮 -->
+    <radialGradient id="hub" cx="38%" cy="34%" r="72%">
+      <stop offset="0%" stop-color="#dbeafe"/>
+      <stop offset="45%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#3f63c9"/>
+    </radialGradient>
+
+    <!-- 卫星节点：紫色 -->
+    <radialGradient id="sat" cx="36%" cy="32%" r="72%">
+      <stop offset="0%" stop-color="#ede9fe"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#6d4fc4"/>
+    </radialGradient>
+
+    <!-- 飞出的节点：青绿，与蓝紫拉开区分 -->
+    <radialGradient id="fly" cx="36%" cy="32%" r="72%">
+      <stop offset="0%" stop-color="#d1fae5"/>
+      <stop offset="50%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#0f8a5f"/>
+    </radialGradient>
+
+    <!-- 中心辉光 -->
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.42"/>
+      <stop offset="55%" stop-color="#7aa2f7" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <!-- ================= 1. 背面线圈组 (Back Loops) ================= -->
-  <!-- 背面黑色卡通描边 -->
-  <g fill="none" stroke="#0f172a" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
-    <!-- 顶端弯钩 -->
-    <path d="M 74 18 C 50 16, 34 22, 34 32"/>
-    <!-- 第 1 环背面 -->
-    <path d="M 94 46 C 94 38, 34 44, 34 56"/>
-    <!-- 第 2 环背面 -->
-    <path d="M 94 70 C 94 62, 34 68, 34 80"/>
-    <!-- 第 3 环背面 -->
-    <path d="M 94 94 C 94 86, 34 92, 34 102"/>
+  <!-- ============ 1. 中心辉光（最底层） ============ -->
+  <circle cx="55" cy="62" r="52" fill="url(#glow)"/>
+
+  <!-- ============ 2. 连边 ============ -->
+  <!-- 统一深色描边打底，保证在浅色和深色主题下都看得清 -->
+  <g fill="none" stroke="#1e293b" stroke-width="9" stroke-linecap="round" opacity="0.55">
+    <path d="M55 62 L22 30"/>
+    <path d="M55 62 L104 34"/>
+    <path d="M55 62 L100 102"/>
+    <path d="M55 62 L26 104"/>
+    <path d="M55 62 L92 60"/>
+  </g>
+  <g fill="none" stroke="#94b4e8" stroke-width="4.5" stroke-linecap="round">
+    <path d="M55 62 L22 30"/>
+    <path d="M55 62 L104 34"/>
+    <path d="M55 62 L100 102"/>
+    <path d="M55 62 L26 104"/>
+    <path d="M55 62 L92 60"/>
   </g>
 
-  <!-- 背面弹簧主体颜色（深色阴影层） -->
-  <g fill="none" stroke="url(#springBack)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 74 18 C 50 16, 34 22, 34 32"/>
-    <path d="M 94 46 C 94 38, 34 44, 34 56"/>
-    <path d="M 94 70 C 94 62, 34 68, 34 80"/>
-    <path d="M 94 94 C 94 86, 34 92, 34 102"/>
+  <!-- ============ 3. 惯性残影 ============ -->
+  <!-- 从中心飞向右上的一串渐隐圆点：越远越小越淡 -->
+  <g fill="#34d399">
+    <circle cx="72" cy="52" r="3.4" opacity="0.42"/>
+    <circle cx="79" cy="47" r="2.8" opacity="0.30"/>
+    <circle cx="85" cy="43" r="2.2" opacity="0.20"/>
+    <circle cx="90" cy="40" r="1.6" opacity="0.12"/>
   </g>
 
-  <!-- ================= 2. 正面线圈组 (Front Loops，穿插在前) ================= -->
-  <!-- 正面黑色卡通描边（切断背面形成立体前后遮挡） -->
-  <g fill="none" stroke="#0f172a" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
-    <!-- 第 1 环正面 -->
-    <path d="M 34 32 C 34 48, 94 60, 94 46"/>
-    <!-- 第 2 环正面 -->
-    <path d="M 34 56 C 34 72, 94 84, 94 70"/>
-    <!-- 第 3 环正面 -->
-    <path d="M 34 80 C 34 96, 94 108, 94 94"/>
-    <!-- 底端收尾环 -->
-    <path d="M 34 102 C 34 112, 70 114, 74 106"/>
+  <!-- ============ 4. 节点 ============ -->
+  <!-- 统一深色外描边，让小尺寸下依然有清晰轮廓 -->
+  <g stroke="#0f172a" stroke-width="4">
+    <!-- 三个紫色卫星 -->
+    <circle cx="22" cy="30" r="11" fill="url(#sat)"/>
+    <circle cx="104" cy="34" r="9.5" fill="url(#sat)"/>
+    <circle cx="26" cy="104" r="10" fill="url(#sat)"/>
+    <!-- 右下角较大的那个 -->
+    <circle cx="100" cy="102" r="12" fill="url(#sat)"/>
+    <!-- 正在飞出的青绿节点 -->
+    <circle cx="92" cy="60" r="9" fill="url(#fly)"/>
+    <!-- 中心枢纽（画在最后，压在所有边之上） -->
+    <circle cx="55" cy="62" r="17" fill="url(#hub)"/>
   </g>
 
-  <!-- 正面弹簧主体颜色（亮丽高光层） -->
-  <g fill="none" stroke="url(#springFront)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 34 32 C 34 48, 94 60, 94 46"/>
-    <path d="M 34 56 C 34 72, 94 84, 94 70"/>
-    <path d="M 34 80 C 34 96, 94 108, 94 94"/>
-    <path d="M 34 102 C 34 112, 70 114, 74 106"/>
-  </g>
-
-  <!-- ================= 3. 卡通反光高光条 (Glossy Highlights) ================= -->
-  <g fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" opacity="0.85">
-    <path d="M 60 19 C 50 19, 40 23, 38 28"/>
-    <path d="M 44 43 C 54 50, 78 54, 84 48"/>
-    <path d="M 44 67 C 54 74, 78 78, 84 72"/>
-    <path d="M 44 91 C 54 98, 78 102, 84 96"/>
-    <path d="M 42 107 C 50 110, 62 110, 68 106"/>
+  <!-- ============ 5. 高光 ============ -->
+  <!-- 每颗节点左上角一点白，制造球面感 -->
+  <g fill="#ffffff" opacity="0.75">
+    <circle cx="50" cy="56" r="4.6"/>
+    <circle cx="18" cy="26" r="3"/>
+    <circle cx="101" cy="30" r="2.6"/>
+    <circle cx="97" cy="97" r="3.2"/>
+    <circle cx="23" cy="100" r="2.6"/>
+    <circle cx="89" cy="57" r="2.4"/>
   </g>
 </svg>
