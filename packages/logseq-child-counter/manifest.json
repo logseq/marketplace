@@ -1,0 +1,19 @@
+{
+  "name": "logseq-child-counter",
+  "version": "1.0.1",
+  "main": "index.html",
+  "description": "Displays the number of child blocks next to the parent block with a clean Soft UI approach.",
+  "author": "Amilcar",
+  "repo": "https://github.com/sobeitnow0/logseq-child-counter/upload/main",
+  "logseq": {
+    "id": "logseq-child-counter",
+    "title": "Child Counter",
+    "icon": "",
+    "theme": false,
+    "sponsors": [],
+    "web": false,
+    "effect": false,
+    "supportsDB": true,
+    "supportsDBOnly": false
+  }
+}
