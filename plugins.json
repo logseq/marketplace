@@ -1,5 +1,5 @@
 {
-  "datetime": 1791090341047,
+  "datetime": 1791345896623,
   "packages": [
     {
       "title": "Orbitals",
@@ -390,6 +390,16 @@
       "supportsDBOnly": false,
       "id": "logseq-ai-chat-assistant",
       "addedAt": 1780226596000
+    },
+    {
+      "title": "Logseq AI Hub",
+      "description": "Turn Logseq into an AI orchestration hub: /LLM command with on-demand MCP tools and memory, autonomous job runner, event hub, secrets vault, and an MCP server exposing your graph to Claude and other agents.",
+      "author": "Escherbridge",
+      "repo": "Escherbridge/logseq-ai-hub",
+      "icon": "icon.png",
+      "sponsors": [],
+      "id": "logseq-ai-hub",
+      "addedAt": 1791121823000
     },
     {
       "title": "AI Journal for Logseq",
@@ -1789,7 +1799,7 @@
       "name": "logseq-fediverse-plugin",
       "description": "An integration plugin that connects your graph directly to the Fediverse (GoToSocial, Mastodon, and other Mastodon-API compatible platforms.",
       "author": "jagedn",
-      "repo": "incsteps/logseq-fediverse-plugin/",
+      "repo": "incsteps/logseq-fediverse-plugin",
       "icon": "./icon.png",
       "id": "logseq-fediverse-plugin",
       "addedAt": 1790267535000
@@ -4055,11 +4065,11 @@
       "addedAt": 1654399953000
     },
     {
-      "title": "Graph Fluid Spring",
-      "description": "True dual-track momentum spring for Logseq Graph: Hard-brake camera and fluid elastic nodes.",
+      "title": "Graph Inertia",
+      "description": "A living, force-simulated knowledge graph for Logseq — with momentum dragging, pop-out springs, radial shockwaves and time-travel growth. Replaces the built-in graph view.",
       "author": "white66-7",
       "repo": "white66-7/Graph-Fluid-Spring",
-      "icon": "icon.svg",
+      "icon": "./icon.svg",
       "effect": true,
       "id": "logseq-plugin-graph-fluid-spring",
       "addedAt": 1789538211636
@@ -6461,6 +6471,18 @@
       ],
       "id": "logseq-youtube-summary",
       "addedAt": 1767066326000
+    },
+    {
+      "title": "YouTube Playlist Card",
+      "description": "Compact YouTube playlist cards with tracklist and one-click note blocks.",
+      "author": "asubedi",
+      "repo": "ashishsubedi/logseq-playlist-plugin",
+      "icon": "./icon.jpg",
+      "theme": false,
+      "effect": false,
+      "supportsDB": true,
+      "id": "logseq-yt-playlist-card",
+      "addedAt": 1791327043000
     },
     {
       "title": "logseq-zoterolocal-plugin",
