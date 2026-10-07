@@ -1,8 +1,8 @@
 {
-  "title": "Graph Fluid Spring",
-  "description": "True dual-track momentum spring for Logseq Graph: Hard-brake camera and fluid elastic nodes.",
+  "title": "Graph Inertia",
+  "description": "A living, force-simulated knowledge graph for Logseq — with momentum dragging, pop-out springs, radial shockwaves and time-travel growth. Replaces the built-in graph view.",
   "author": "white66-7",
   "repo": "white66-7/Graph-Fluid-Spring",
-  "icon": "icon.svg",
+  "icon": "./icon.svg",
   "effect": true
 }
