@@ -1,5 +1,5 @@
 {
-  "datetime": 1791345896623,
+  "datetime": 1791513959413,
   "packages": [
     {
       "title": "Orbitals",
@@ -1428,6 +1428,16 @@
       "supportsDBOnly": false,
       "id": "logseq-daily-self-esteem",
       "addedAt": 1778404060000
+    },
+    {
+      "title": "Data Query",
+      "description": "(Beta) Typed tables, scatter and bar charts for property blocks. Write a space-separated query like `#experiment seed==0 loss<1` in {{renderer :DQtable}}, :DQscatter or :DQbar.",
+      "author": "gyp0bt",
+      "repo": "gyp0bt/logseq-dataquery",
+      "icon": "icon.png",
+      "effect": true,
+      "id": "logseq-dataquery",
+      "addedAt": 1791385090000
     },
     {
       "title": "Date-Between",
