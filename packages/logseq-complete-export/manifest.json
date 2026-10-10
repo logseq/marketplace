@@ -1,0 +1,11 @@
+{
+  "title": "Complete Export",
+  "description": "Export Logseq DB pages, branches, embeds and query collections to DOCX, PDF, HTML, Markdown and JSON.",
+  "author": "bgrimes-git",
+  "repo": "bgrimes-git/logseq-complete-export",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
