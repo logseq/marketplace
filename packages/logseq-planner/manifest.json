@@ -1,9 +1,10 @@
 {
   "title": "Planner",
-  "description": "Timeline, Calendar, Agenda and Kanban views over any tag in a Logseq DB graph",
+  "description": "Timeline, Calendar, Agenda, Kanban and Matrix views over any tag in a Logseq DB graph",
   "author": "Danzu",
   "repo": "hdansou/logseq-planner",
   "icon": "icon.svg",
+  "effect": true,
   "supportsDB": true,
   "supportsDBOnly": true
 }
