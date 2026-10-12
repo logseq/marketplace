@@ -1,5 +1,5 @@
 {
-  "datetime": 1791513959413,
+  "datetime": 1791787316687,
   "packages": [
     {
       "title": "Orbitals",
@@ -1276,6 +1276,19 @@
       "addedAt": 1638514760000
     },
     {
+      "title": "Complete Export",
+      "description": "Export Logseq DB pages, branches, embeds and query collections to DOCX, PDF, HTML, Markdown and JSON.",
+      "author": "bgrimes-git",
+      "repo": "bgrimes-git/logseq-complete-export",
+      "theme": false,
+      "web": false,
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-complete-export",
+      "addedAt": 1791601479000
+    },
+    {
       "title": "Logseq Composer",
       "description": "Connect your notes to any LLM using RAG & LiteLLM. Supports any model (OpenAI, Claude, DeepSeek, etc.)",
       "author": "Martin Minarik",
@@ -2416,6 +2429,17 @@
       "theme": true,
       "id": "logseq-immersion-theme",
       "addedAt": 1652112699000
+    },
+    {
+      "title": "Impeller AI: Universal LLM Sidebar",
+      "description": "A universal, LLM-agnostic sidebar assistant for Logseq. Features a native sidebar chat interface, agentic RAG tools (semantic search, graph queries, web search), and task cancellation control.",
+      "author": "TinkerPump (Hanson)",
+      "repo": "hhs456/logseq-impeller-ai",
+      "icon": "logo.png",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-impeller-ai",
+      "addedAt": 1791734741000
     },
     {
       "title": "Inbox Telegram",
@@ -3684,6 +3708,17 @@
       "addedAt": 1687660505000
     },
     {
+      "title": "Planner",
+      "description": "Timeline, Calendar, Agenda and Kanban views over any tag in a Logseq DB graph",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-planner",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-planner",
+      "addedAt": 1791751092000
+    },
+    {
       "title": "logseq-plantuml-plugin",
       "name": "logseq-plantuml-plugin",
       "description": "This plugin help you to render plantuml diagrams in your notes.",
@@ -4904,6 +4939,18 @@
       "theme": true,
       "id": "logseq-quattro-theme",
       "addedAt": 1639596533000
+    },
+    {
+      "title": "Query Builder",
+      "description": "Build Logseq DB queries visually: tags, typed property filters, live results, insert as a live query node",
+      "author": "Danzu",
+      "repo": "hdansou/logseq-query-builder",
+      "icon": "./icon.svg",
+      "theme": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-query-builder",
+      "addedAt": 1791770885000
     },
     {
       "title": "logseq-query-builder-plugin",
