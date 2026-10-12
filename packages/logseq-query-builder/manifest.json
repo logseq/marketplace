@@ -1,0 +1,10 @@
+{
+  "title": "Query Builder",
+  "description": "Build Logseq DB queries visually: tags, typed property filters, live results, insert as a live query node",
+  "author": "Danzu",
+  "repo": "hdansou/logseq-query-builder",
+  "icon": "./icon.svg",
+  "theme": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
