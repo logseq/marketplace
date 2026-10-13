@@ -1,0 +1,9 @@
+{
+  "title": "Better Graph",
+  "description": "Explore connections between pages, blocks, and tags in Logseq DB graphs.",
+  "author": "vivanotica",
+  "repo": "vivanotica/logseq-better-graph",
+  "icon": "./logo.svg",
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
