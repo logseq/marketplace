@@ -1,5 +1,5 @@
 {
-  "datetime": 1791787316687,
+  "datetime": 1791875817806,
   "packages": [
     {
       "title": "Orbitals",
@@ -778,6 +778,17 @@
       "supportsDBOnly": false,
       "id": "logseq-bermaid",
       "addedAt": 1777777542000
+    },
+    {
+      "title": "Better Graph",
+      "description": "Explore connections between pages, blocks, and tags in Logseq DB graphs.",
+      "author": "vivanotica",
+      "repo": "vivanotica/logseq-better-graph",
+      "icon": "./logo.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-better-graph",
+      "addedAt": 1791865080000
     },
     {
       "title": "Better Mermaid",
@@ -3709,10 +3720,11 @@
     },
     {
       "title": "Planner",
-      "description": "Timeline, Calendar, Agenda and Kanban views over any tag in a Logseq DB graph",
+      "description": "Timeline, Calendar, Agenda, Kanban and Matrix views over any tag in a Logseq DB graph",
       "author": "Danzu",
       "repo": "hdansou/logseq-planner",
       "icon": "icon.svg",
+      "effect": true,
       "supportsDB": true,
       "supportsDBOnly": true,
       "id": "logseq-planner",
