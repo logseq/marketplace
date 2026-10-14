@@ -1,0 +1,8 @@
+{
+  "title": "Reading List",
+  "description": "Add books to Logseq as fully-populated pages (cover, author, ISBN, summary, tags) via Open Library or Google Books — with an optional visual reading list.",
+  "author": "CR0CKER",
+  "repo": "CR0CKER/logseq-reading-list",
+  "icon": "icon.png",
+  "effect": true
+}

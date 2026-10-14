@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- 筆記本圖示 - 代表 Logseq -->
+  <rect x="25" y="15" width="35" height="45" fill="none" stroke="black" stroke-width="2" rx="2"/>
+  <line x1="30" y1="25" x2="55" y2="25" stroke="black" stroke-width="1.5"/>
+  <line x1="30" y1="35" x2="50" y2="35" stroke="black" stroke-width="1.5"/>
+  <line x1="30" y1="45" x2="55" y2="45" stroke="black" stroke-width="1.5"/>
+  
+  <!-- 連接線 -->
+  <line x1="50" y1="50" x2="50" y2="65" stroke="black" stroke-width="2"/>
+  <circle cx="50" cy="57" r="2" fill="black"/>
+  
+  <!-- 遊戲控制器圖示 - 代表 Habitica -->
+  <rect x="35" y="70" width="30" height="15" fill="none" stroke="black" stroke-width="2" rx="7"/>
+  <circle cx="42" cy="77" r="2" fill="black"/>
+  <circle cx="58" cy="77" r="2" fill="black"/>
+  
+  <!-- 完成勾選標記 -->
+  <path d="M65 20 L70 25 L80 15" stroke="black" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Mochi Sync",
+  "description": "Sync Logseq flash cards to Mochi." ,
+  "author": "Benjamin Weinstein-Raun",
+  "repo":"benwr/logseq-mochi-sync",
+  "icon": "./icon.png",
+  "effect": true
+}

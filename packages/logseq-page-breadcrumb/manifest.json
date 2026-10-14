@@ -1,0 +1,8 @@
+{
+  "title": "Page Breadcrumb",
+  "description": "This plugin can convert block elements in the page into breadcrumb navigation, making it easy for users to quickly locate specific blocks in the page.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-page-breadcrumb",
+  "icon": "./logo.svg",
+  "effect": true
+}

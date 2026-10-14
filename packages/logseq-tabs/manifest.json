@@ -4,5 +4,6 @@
   "author": "pengx17",
   "repo": "pengx17/logseq-plugin-tabs",
   "icon": "./icon.png",
+  "supportsDB": true,
   "effect": true
 }

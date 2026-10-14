@@ -1,0 +1,11 @@
+{
+  "title": "Block to Page DB",
+  "description": "Turn a block with children into a DB graph page.",
+  "author": "EINDEX",
+  "repo": "eindex/logseq-plugin-block-to-page-db",
+  "icon": "./icon.svg",
+  "sponsors": ["https://github.com/sponsors/EINDEX"],
+  "web": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

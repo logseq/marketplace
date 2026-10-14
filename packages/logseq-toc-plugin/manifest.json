@@ -5,5 +5,8 @@
   "author": "benjypng",
   "repo": "benjypng/logseq-toc-plugin",
   "icon": "./icon.svg",
-  "effect": "true"
+  "effect": "true",
+  "supportsDB": true,
+  "supportsDBOnly": true
 }
+

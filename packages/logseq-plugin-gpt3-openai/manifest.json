@@ -4,5 +4,6 @@
   "author": "Brian Sunter",
   "repo": "briansunter/logseq-plugin-gpt3-openai",
   "icon": "./icon.png",
-  "effect": true
+  "effect": true,
+  "supportsDB": true
 }

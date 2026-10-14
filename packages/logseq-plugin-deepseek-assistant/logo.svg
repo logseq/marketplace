@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="DeepSeek Assistant">
+  <rect width="128" height="128" rx="28" fill="#4D6BFE"/>
+  <g stroke="#FFFFFF" stroke-width="6" stroke-linecap="round">
+    <path d="M46 44 L38 26"/>
+    <path d="M82 44 L90 26"/>
+  </g>
+  <circle cx="38" cy="24" r="6" fill="#FFFFFF"/>
+  <circle cx="90" cy="24" r="6" fill="#FFFFFF"/>
+  <rect x="26" y="60" width="8" height="26" rx="4" fill="#FFFFFF" opacity=".75"/>
+  <rect x="94" y="60" width="8" height="26" rx="4" fill="#FFFFFF" opacity=".75"/>
+  <rect x="34" y="40" width="60" height="62" rx="18" fill="#FFFFFF"/>
+  <circle cx="52" cy="66" r="7" fill="#4D6BFE"/>
+  <circle cx="76" cy="66" r="7" fill="#4D6BFE"/>
+  <path d="M54 84 q10 8 20 0" stroke="#4D6BFE" stroke-width="5" stroke-linecap="round" fill="none"/>
+</svg>

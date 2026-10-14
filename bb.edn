@@ -11,13 +11,20 @@
 
     (defn print-table [rows]
       (pprint/print-table rows)
-      (println "Total:" (count rows) "rows"))
-    )
+      (println "Total:" (count rows) "rows")))
 
   plugins
   {:doc "List all plugins"
    :task
    (->> (plugins)
+        (mapv (fn [p] (select-keys p default-fields)))
+        print-table)}
+
+  db-plugins
+  {:doc "List all DB compatible plugins"
+   :task
+   (->> (plugins)
+        (filter (some-fn :supportsDBOnly :supportsDB))
         (mapv (fn [p] (select-keys p default-fields)))
         print-table)}
 

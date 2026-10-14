@@ -1,0 +1,11 @@
+{
+  "title": "Wypst math typesetting",
+  "description": "Typst math typesetting for Logseq.",
+  "author": "luh-05",
+  "repo": "luh-05/logseq-wypst",
+  "sponsors": [
+    "https://0xpapercut.github.io/funding"
+  ],
+  "web": false,
+  "effect": true
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Ledger & Worth",
+  "description": "Journal accounting, monthly cash-flow reports, and net worth tracking for Logseq DB graphs.",
+  "author": "killain-best",
+  "repo": "killain-best/logseq-accounting",
+  "icon": "icon.svg",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

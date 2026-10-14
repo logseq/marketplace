@@ -1,0 +1,10 @@
+{
+  "title": "Simple Excalidraw DB",
+  "description": "Render and edit Excalidraw data stored directly on Logseq DB blocks.",
+  "author": "vivanotica",
+  "repo": "vivanotica/logseq-simple-excalidraw-db",
+  "icon": "logo.png",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

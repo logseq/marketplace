@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="cameraGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#61DAFB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#21759B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Camera body -->
+  <circle cx="32" cy="32" r="28" fill="url(#cameraGradient)"/>
+  
+  <!-- Lens outer ring -->
+  <circle cx="32" cy="32" r="18" fill="#ffffff" opacity="0.9"/>
+  
+  <!-- Lens inner -->
+  <circle cx="32" cy="32" r="14" fill="url(#cameraGradient)"/>
+  
+  <!-- Live indicator dot -->
+  <circle cx="32" cy="32" r="4" fill="#ffffff">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Live wave symbol -->
+  <g opacity="0.7">
+    <circle cx="18" cy="32" r="2" fill="#ffffff"/>
+    <circle cx="24" cy="32" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="46" cy="32" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="52" cy="32" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

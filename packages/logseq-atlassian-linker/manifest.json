@@ -1,0 +1,12 @@
+{
+  "title": "Atlassian Linker",
+  "description": "Rewrite Atlassian Cloud links in DB graphs to Jira and Confluence titles.",
+  "author": "EINDEX",
+  "repo": "EINDEX/logseq-atlassian-db-plugin",
+  "icon": "./icon.png",
+  "sponsors": ["https://github.com/sponsors/EINDEX"],
+  "web": true,
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

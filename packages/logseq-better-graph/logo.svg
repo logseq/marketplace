@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>Better Graph</title>
+  <rect x="8" y="8" width="240" height="240" rx="60" fill="#6366F1"/>
+  <g stroke="#C7D2FE" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 76 122 132 184 68M122 132 190 164 92 196 122 132"/>
+  </g>
+  <g fill="#EEF2FF">
+    <circle cx="72" cy="76" r="19"/>
+    <circle cx="184" cy="68" r="16"/>
+    <circle cx="190" cy="164" r="21"/>
+    <circle cx="92" cy="196" r="16"/>
+  </g>
+  <circle cx="122" cy="132" r="29" fill="#6366F1"/>
+  <circle cx="122" cy="132" r="22" fill="white"/>
+</svg>

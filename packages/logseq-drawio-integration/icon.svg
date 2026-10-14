@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect x="2" y="2" width="96" height="96" rx="16" fill="#F5A623"/>
+  <!-- Top box -->
+  <rect x="33" y="14" width="34" height="22" rx="4" fill="white"/>
+  <!-- Lines from top box to bottom boxes -->
+  <line x1="50" y1="36" x2="50" y2="46" stroke="white" stroke-width="3"/>
+  <line x1="50" y1="46" x2="26" y2="46" stroke="white" stroke-width="3"/>
+  <line x1="50" y1="46" x2="74" y2="46" stroke="white" stroke-width="3"/>
+  <line x1="26" y1="46" x2="26" y2="56" stroke="white" stroke-width="3"/>
+  <line x1="74" y1="46" x2="74" y2="56" stroke="white" stroke-width="3"/>
+  <!-- Bottom-left box -->
+  <rect x="9" y="56" width="34" height="22" rx="4" fill="white"/>
+  <!-- Bottom-right box -->
+  <rect x="57" y="56" width="34" height="22" rx="4" fill="white"/>
+</svg>

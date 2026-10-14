@@ -4,6 +4,10 @@
   "author": "vipzhicheng",
   "repo": "vipzhicheng/logseq-plugin-vim-shortcuts",
   "icon": "icon.png",
-  "sponsors": ["https://www.buymeacoffee.com/vipzhicheng"],
-  "effect": true
+  "sponsors": [
+    "https://www.buymeacoffee.com/vipzhicheng"
+  ],
+  "web": true,
+  "effect": true,
+  "supportsDB": true
 }

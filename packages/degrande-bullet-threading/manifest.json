@@ -1,0 +1,10 @@
+{
+  "title": "Degrande Bullet Threading",
+  "description": "Colorful active-path bullet threading for Logseq DB graphs with accent colors, rainbow mode, adjustable width, shape, and motion.",
+  "author": "mugpet",
+  "repo": "mugpet/logseq-db-degrande-bullet-threading",
+  "icon": "icon.svg",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

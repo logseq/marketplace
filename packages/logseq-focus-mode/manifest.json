@@ -4,5 +4,6 @@
   "author": "Seth Fair",
   "repo": "sethfair/logseq-focus-mode",
   "icon": "icon.png",
-  "theme": false
+  "theme": false,
+  "supportsDB": false
 }

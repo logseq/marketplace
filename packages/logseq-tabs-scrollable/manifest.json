@@ -1,0 +1,9 @@
+{
+  "title": "Tabs Scrollable",
+  "description": "Open pages or blocks in tabs like working in the browser, with wheel scrolling for overflowing tabs.",
+  "author": "albilu",
+  "repo": "albilu/logseq-plugin-tabs",
+  "icon": "./icon.png",
+  "supportsDB": true,
+  "effect": true
+}

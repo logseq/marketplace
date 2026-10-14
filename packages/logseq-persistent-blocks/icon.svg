@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Persistent Blocks</title>
+  <desc id="desc">A calendar containing a persistent pin</desc>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="8" x2="116" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2eaadc"/>
+      <stop offset="1" stop-color="#6c5ce7"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="26" fill="url(#bg)"/>
+  <rect x="25" y="31" width="78" height="70" rx="12" fill="#fff" opacity=".96"/>
+  <path d="M25 47h78" stroke="#d8def5" stroke-width="8"/>
+  <path d="M43 24v17M85 24v17" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="49" cy="64" r="6" fill="#92a0cf"/>
+  <circle cx="68" cy="64" r="6" fill="#92a0cf"/>
+  <circle cx="87" cy="64" r="6" fill="#92a0cf"/>
+  <path d="M73 74c8-8 24 7 16 15l-4 4 5 9-6 6-9-5-4 4-11-11 4-4-3-9 6-6 6 7z" fill="#ef476f"/>
+  <path d="m60 107-10 10" stroke="#ef476f" stroke-width="7" stroke-linecap="round"/>
+</svg>

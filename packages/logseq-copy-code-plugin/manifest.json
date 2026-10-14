@@ -4,5 +4,6 @@
   "repo": "vyleung/logseq-copy-code-plugin",
   "author": "vyleung",
   "icon": "icon.png",
-  "effect": true
+  "effect": true,
+  "supportsDB": true
 }

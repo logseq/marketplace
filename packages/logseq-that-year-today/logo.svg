@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1687090801402" class="icon" viewBox="0 0 1024 1024" version="1.1"
+  xmlns="http://www.w3.org/2000/svg" p-id="9164" data-spm-anchor-id="a313x.7781069.0.i9"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+  <defs>
+    <filter id="blur-filter" x="0" y="0" width="100%" height="100%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+    <radialGradient id="gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color: #85c8c8" />
+      <stop offset="100%" style="stop-color: #0e2a33" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" rx="512" ry="512" fill="url(#gradient)" filter="url(#blur-filter)" />
+
+  <defs>
+    <style type="text/css">
+   
+    .fil2 {fill:#00CCFF}
+    .fil3 {fill:#99471C}
+    .fil1 {fill:#DBF4F4}
+    .fil0 {fill:#FF2C00}
+    .fil4 {fill:white}
+   
+    </style>
+  </defs>
+  <g id="Layer_x0020_1" transform="scale(0.4) translate(250,80)">
+    <metadata id="CorelCorpID_0Corel-Layer"></metadata>
+    <g id="_302113784">
+      <g>
+        <path class="fil0" d="M313 886l1433 0 0 -205c0,-85 -69,-154 -154,-154 -290,0 -835,0 -1125,0 -85,0 -154,69 -154,154l0 205z"></path>
+        <path class="fil1" d="M1030 887l-717 0 0 919c0,85 69,154 154,154l563 0 562 0c85,0 154,-69 154,-154l0 -919 -716 0z"></path>
+        <path class="fil2" d="M974 1182c0,11 -10,20 -21,20l-175 0c-11,0 -21,-9 -21,-20l0 -175c0,-12 10,-21 21,-21l175 0c11,0 21,9 21,21l0 175z"></path>
+        <path class="fil2" d="M645 1511c0,11 -9,20 -21,20l-174 0c-12,0 -21,-9 -21,-20l0 -175c0,-11 9,-21 21,-21l174 0c12,0 21,10 21,21l0 175z"></path>
+        <path class="fil2" d="M1435 1315l175 0c12,0 21,10 21,21l0 175c0,11 -9,20 -21,20l-175 0c-11,0 -20,-9 -20,-20l0 -175c0,-11 9,-21 20,-21z"></path>
+        <path class="fil2" d="M1415 1182l0 -175c0,-12 9,-21 20,-21l175 0c12,0 21,9 21,21l0 175c0,11 -9,20 -21,20l-175 0c-11,0 -20,-9 -20,-20z"></path>
+        <path class="fil2" d="M645 1840c0,11 -9,21 -21,21l-174 0c-12,0 -21,-10 -21,-21l0 -175c0,-11 9,-21 21,-21l174 0c12,0 21,10 21,21l0 175z"></path>
+        <path class="fil2" d="M974 1336l0 175c0,11 -10,20 -21,20l-175 0c-11,0 -21,-9 -21,-20l0 -175c0,-11 10,-21 21,-21l175 0c11,0 21,10 21,21z"></path>
+        <path class="fil2" d="M974 1665l0 175c0,11 -10,21 -21,21l-175 0c-11,0 -21,-10 -21,-21l0 -175c0,-11 10,-21 21,-21l175 0c11,0 21,10 21,21z"></path>
+        <path class="fil2" d="M1107 1315l174 0c12,0 21,10 21,21l0 175c0,11 -9,20 -21,20l-174 0c-12,0 -21,-9 -21,-20l0 -175c0,-11 9,-21 21,-21z"></path>
+        <path class="fil2" d="M1302 1007l0 175c0,11 -9,20 -21,20l-174 0c-12,0 -21,-9 -21,-20l0 -175c0,-12 9,-21 21,-21l174 0c12,0 21,9 21,21z"></path>
+        <path class="fil2" d="M1302 1665l0 175c0,11 -9,21 -21,21l-174 0c-12,0 -21,-10 -21,-21l0 -175c0,-11 9,-21 21,-21l174 0c12,0 21,10 21,21z"></path>
+        <path class="fil3" d="M734 632l0 -207c0,-28 -24,-52 -53,-52 -29,0 -52,24 -52,52l0 207c0,69 105,69 105,0z"></path>
+        <path class="fil3" d="M1326 425l0 207c0,69 105,69 105,0l0 -207c0,-68 -105,-68 -105,0z"></path>
+      </g>
+      <path class="fil0" d="M1755 1097c-145,0 -264,119 -264,265 0,146 119,264 264,264 146,0 265,-118 265,-264 0,-146 -119,-265 -265,-265z"></path>
+      <path class="fil4" d="M1723 1414l145 -145c18,-18 45,9 27,27l-158 159c-8,7 -20,7 -28,0l-93 -94c-18,-18 9,-45 27,-27l80 80z"></path>
+    </g>
+  </g>
+
+  <text x="900" y="1000" font-family="Verdana" font-size="30" fill="#84bebf">
+    b-yp
+  </text>
+</svg>

@@ -1,1 +1,7 @@
-[]
+{
+  "unavailable_temporarily": [],
+  "unavailable_repos": [
+    "sethyuan/*",
+    "!sethyuan/logseq-long-form"
+  ]
+}

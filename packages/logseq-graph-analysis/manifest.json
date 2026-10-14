@@ -5,6 +5,9 @@
   "author": "Stephen Solka",
   "repo": "trashhalo/logseq-graph-analysis",
   "icon": "icon.png",
-  "sponsors": ["https://ko-fi.com/trashhalo"],
-  "effect": true
+  "sponsors": [
+    "https://ko-fi.com/trashhalo"
+  ],
+  "effect": true,
+  "supportsDB": false
 }

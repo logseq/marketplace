@@ -1,0 +1,9 @@
+{
+  "title": "Memos Sync (DB)",
+  "description": "Sync notes between Logseq and Memos, the self-hosted memo hub. For Logseq 2.0.1+ database graphs.",
+  "author": "yanfosec",
+  "repo": "yanfosec/logseq-memos-sync-db",
+  "icon": "logo.webp",
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

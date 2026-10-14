@@ -1,0 +1,8 @@
+{
+  "title": "Integrate Any API",
+  "description": "Call APIs with Block Content and Insert Responses.",
+  "author": "Fahd Hussein",
+  "repo": "eefahd/logseq-integrate-any-api",
+  "icon": "./icon.png",
+  "effect": true
+}

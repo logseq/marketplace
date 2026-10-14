@@ -1,0 +1,20 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="128" height="128" rx="16" fill="#3B82F6" />
+  
+  <!-- 文档形状 -->
+  <path d="M35 24C35 20.6863 37.6863 18 41 18H75L93 36V104C93 107.314 90.3137 110 87 110H41C37.6863 110 35 107.314 35 104V24Z" fill="white"/>
+  
+  <!-- 文档折角 -->
+  <path d="M75 18V36H93L75 18Z" fill="#E2E8F0"/>
+  
+  <!-- 文本线条 -->
+  <rect x="45" y="50" width="38" height="5" rx="2.5" fill="#3B82F6"/>
+  <rect x="45" y="62" width="25" height="5" rx="2.5" fill="#3B82F6"/>
+  
+  <!-- 计数器圆圈 - 稍微调大一点 -->
+  <circle cx="80" cy="82" r="18" fill="#EF4444"/>
+  
+  <!-- 数字123替代"字" -->
+  <text x="80" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">123</text>
+</svg>

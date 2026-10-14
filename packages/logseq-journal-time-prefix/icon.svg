@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Journal Time Prefix</title>
+  <defs>
+    <linearGradient id="background" x1="20" y1="16" x2="108" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4DB6AC"/>
+      <stop offset="1" stop-color="#267D75"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#background)"/>
+  <circle cx="64" cy="64" r="39" fill="none" stroke="#FFF" stroke-width="8"/>
+  <path d="M64 39v27l18 11" fill="none" stroke="#FFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="64" r="5" fill="#FFF"/>
+</svg>

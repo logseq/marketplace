@@ -1,0 +1,9 @@
+{
+  "title": "Karakeep Bookmarks Sync",
+  "description": "Sync bookmarks from Karakeep into Logseq DB with configurable bookmark tag and properties.",
+  "author": "gercollo",
+  "repo": "gercollo/karakeep-logseqdb",
+  "icon": "icon.svg",
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

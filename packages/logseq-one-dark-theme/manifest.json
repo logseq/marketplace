@@ -1,0 +1,9 @@
+{
+  "title": "One Dark Pro",
+  "description": "A Logseq theme inspired by One Dark Pro.",
+  "author": "chempeng",
+  "repo": "chempeng/logseq-one-dark-theme",
+  "icon": "icon.svg",
+  "theme": true,
+  "effect": false
+}

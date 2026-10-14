@@ -1,0 +1,10 @@
+{
+  "title": "Awesome Links DB",
+  "description": "Icons and colors for internal links, inherited from their tag, and favicons for external links. For database graphs.",
+  "author": "MrModest",
+  "repo": "MrModest/logseq-awesome-links-db",
+  "icon": "./icon.png",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

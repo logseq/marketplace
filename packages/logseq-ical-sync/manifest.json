@@ -1,0 +1,9 @@
+{
+  "title": "Logseq iCal Sync",
+  "description": "Import events from Google Calendar, iCloud, Outlook, and any iCal-compatible source into your daily notes. Community-maintained fork of the Calendar Plugin with fixes for recurring event timezones, deleted/declined event filtering, and rescheduled event handling.",
+  "author": "CR0CKER",
+  "repo": "CR0CKER/logseq-calendars-plugin",
+  "icon": "./icon.png",
+  "effect": true,
+  "supportsDB": false
+}

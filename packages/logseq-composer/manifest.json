@@ -1,0 +1,8 @@
+{
+  "title": "Logseq Composer",
+  "description": "Connect your notes to any LLM using RAG & LiteLLM. Supports any model (OpenAI, Claude, DeepSeek, etc.)",
+  "author": "Martin Minarik",
+  "repo": "martindev9999/logseq-composer",
+  "icon": "logo.png",
+  "effect": true
+}

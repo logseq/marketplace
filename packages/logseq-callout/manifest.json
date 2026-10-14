@@ -1,0 +1,10 @@
+{
+  "title": "Callout Manager",
+  "description": "Tag-driven callout styling for Logseq blocks — icons, labels, colored backgrounds with nested visual hierarchy. Four display modes (inline, container, icon, admonition), 28 predefined tags across 7 color groups, with optional cascade-to-children. DB graphs only.",
+  "author": "Danzu",
+  "repo": "hdansou/Logseq-callout",
+  "icon": "./icon.svg",
+  "theme": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

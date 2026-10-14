@@ -1,0 +1,12 @@
+{
+  "title": "Sidebar Tabs for Logseq DB",
+  "description": "Turn Logseq DB's right-sidebar panels into tabs with leaf labels and persistent compact pins.",
+  "author": "Shawn Salat",
+  "repo": "ThinkSalat/logseq-sidebar-tabs-db",
+  "icon": "./icon.svg",
+  "theme": false,
+  "web": false,
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

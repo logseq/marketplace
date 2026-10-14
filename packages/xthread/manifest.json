@@ -1,0 +1,8 @@
+{
+  "title": "XThread",
+  "description": "Write X/Twitter threads in Logseq — 1 block = 1 tweet, faithful X character counter, visual highlight of overflow past 280.",
+  "author": "lunaticoin",
+  "repo": "lunaticoin/xthread",
+  "icon": "icon.png",
+  "effect": true
+}

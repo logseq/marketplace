@@ -1,0 +1,9 @@
+{
+  "title": "Pretty Links",
+  "description": "Replaces bare URLs with [title](url) markdown links, cleans up fetched titles with user-defined regex rules, and renders favicons next to external links.",
+  "repo": "overflowy/logseq-pretty-links",
+  "author": "overflowy",
+  "icon": "icon.png",
+  "effect": true,
+  "supportsDB": true
+}

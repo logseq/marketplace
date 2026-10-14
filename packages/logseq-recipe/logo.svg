@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb923c" />
+      <stop offset="1" stop-color="#dc2626" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)" />
+  <!-- recipe outline rising out of the bowl like steam -->
+  <g fill="#fff7ed">
+    <circle cx="36" cy="28" r="5" />
+    <circle cx="50" cy="42" r="5" />
+    <circle cx="36" cy="56" r="5" />
+  </g>
+  <g stroke="#fff7ed" stroke-width="6" stroke-linecap="round" opacity="0.85">
+    <path d="M48 28h44" />
+    <path d="M62 42h26" />
+    <path d="M48 56h36" />
+  </g>
+  <!-- bowl -->
+  <path d="M22 70h84a42 38 0 0 1-84 0z" fill="#fff7ed" />
+  <rect x="48" y="102" width="32" height="10" rx="5" fill="#fff7ed" />
+</svg>

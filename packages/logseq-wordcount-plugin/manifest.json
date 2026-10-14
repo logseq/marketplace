@@ -2,7 +2,8 @@
   "title": "logseq-wordcount-plugin",
   "name": "logseq-wordcount-plugin",
   "description": "Simple word counter that calculates the number of words across all nested blocks!",
-  "author": "hkgnp",
-  "repo": "hkgnp/logseq-wordcount-plugin",
-  "icon": "./icon.png"
+  "author": "benjypng",
+  "repo": "benjypng/logseq-wordcount-plugin",
+  "icon": "./icon.png",
+  "supportsDB": true
 }

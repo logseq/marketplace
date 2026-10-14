@@ -1,0 +1,9 @@
+{
+  "title": "Go to Bottom",
+  "description": "A logseq extension to go to the bottom of the page",
+  "author": "hlc1209",
+  "repo": "hlc1209/logseq-go-to-bottom",
+  "icon": "icon.svg",
+  "effect": true,
+  "theme": false
+}

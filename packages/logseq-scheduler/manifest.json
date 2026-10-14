@@ -1,0 +1,10 @@
+{
+  "title": "Scheduler",
+  "description": "Cron-based scheduler for creating tagged pages in Logseq DB graphs on a recurring basis",
+  "author": "Danzu",
+  "repo": "hdansou/Logseq-scheduler",
+  "icon": "./icon.svg",
+  "theme": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Kindle Highlights",
+  "description": "A Logseq plugin for importing notes and highlights from a Kindle device's clippings.txt file." ,
+  "author": "benrhughes",
+  "repo":"benrhughes/logseq-plugin-kindle-highlights",
+  "icon": "icon.svg",
+  "theme": false
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Progress Bar",
+  "description": "Visualize task completion as segmented progress bars derived from configurable status properties on tagged blocks. Auto-detects query blocks (DSL or custom datascript), updates in real-time via DB.onChanged, and respects light/dark themes.",
+  "author": "Danzu",
+  "repo": "hdansou/logseq-progressbar",
+  "icon": "./icon.svg",
+  "theme": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

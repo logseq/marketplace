@@ -1,0 +1,8 @@
+{
+  "title": "logseq-trello-plugin",
+  "name": "logseq-trello-plugin",
+  "description": "Seamlessly integrate Trello with LogSeq for efficient task and note management",
+  "author": "jarodise",
+  "repo": "jarodise/logseq-trello-plugin",
+  "icon": "icon.png"
+}

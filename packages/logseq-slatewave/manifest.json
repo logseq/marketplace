@@ -1,0 +1,8 @@
+{
+  "title": "Slatewave",
+  "description": "A dark Slatewave theme for Logseq — slate foundation with a teal signature, sharing its palette with the Slatewave VSCode, Obsidian, and oh-my-posh themes.",
+  "author": "Kevin Langley Jr",
+  "repo": "kevinlangleyjr/logseq-slatewave",
+  "icon": "icon.png",
+  "theme": true
+}

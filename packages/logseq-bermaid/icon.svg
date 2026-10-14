@@ -1,0 +1,52 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ocean-gradient" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="tail-gradient" x1="100" y1="100" x2="400" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background Container -->
+  <rect x="24" y="24" width="464" height="464" rx="128" fill="url(#ocean-gradient)" stroke="#475569" stroke-width="8"/>
+
+  <!-- Grid Pattern (Subtle) -->
+  <path d="M24 128H488 M24 256H488 M24 384H488 M128 24V488 M256 24V488 M384 24V488" stroke="#ffffff" stroke-opacity="0.05" stroke-width="2"/>
+
+  <!-- Mermaid Tail / Flowchart Composition -->
+  <g transform="translate(64, 64) scale(0.75)" filter="url(#glow)">
+    <!-- Central Flow Line (Curved like a tail) -->
+    <path d="M256 50 C256 50, 350 150, 256 256 C162 362, 256 462, 256 462" 
+          stroke="url(#tail-gradient)" stroke-width="16" stroke-linecap="round" fill="none"/>
+
+    <!-- Nodes (Scales) -->
+    <!-- Node 1: Top -->
+    <rect x="206" y="20" width="100" height="60" rx="16" fill="#1e293b" stroke="#22d3ee" stroke-width="6"/>
+    <circle cx="256" cy="50" r="8" fill="#22d3ee"/>
+
+    <!-- Node 2: Middle Right -->
+    <rect x="320" y="226" width="80" height="60" rx="8" transform="rotate(15 360 256)" fill="#1e293b" stroke="#818cf8" stroke-width="6"/>
+    
+    <!-- Node 3: Middle Left -->
+    <rect x="110" y="226" width="80" height="60" rx="8" transform="rotate(-15 150 256)" fill="#1e293b" stroke="#818cf8" stroke-width="6"/>
+
+    <!-- Tail Fluke (Bottom) -->
+    <path d="M256 462 C256 462, 156 512, 100 450 M256 462 C256 462, 356 512, 412 450" 
+          stroke="url(#tail-gradient)" stroke-width="16" stroke-linecap="round"/>
+          
+    <circle cx="256" cy="462" r="12" fill="#e879f9"/>
+    
+    <!-- Connector Lines -->
+    <path d="M256 80 L256 120" stroke="#475569" stroke-width="4" stroke-dasharray="8 8"/>
+    <path d="M290 240 L330 245" stroke="#475569" stroke-width="4"/>
+    <path d="M220 240 L180 245" stroke="#475569" stroke-width="4"/>
+  </g>
+</svg>

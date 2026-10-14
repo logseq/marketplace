@@ -1,0 +1,9 @@
+{
+  "title": "Impeller AI: Universal LLM Sidebar",
+  "description": "A universal, LLM-agnostic sidebar assistant for Logseq. Features a native sidebar chat interface, agentic RAG tools (semantic search, graph queries, web search), and task cancellation control.",
+  "author": "TinkerPump (Hanson)",
+  "repo": "hhs456/logseq-impeller-ai",
+  "icon": "logo.png",
+  "effect": true,
+  "supportsDB": true
+}

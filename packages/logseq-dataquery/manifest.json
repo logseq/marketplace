@@ -1,0 +1,8 @@
+{
+  "title": "Data Query",
+  "description": "(Beta) Typed tables, scatter and bar charts for property blocks. Write a space-separated query like `#experiment seed==0 loss<1` in {{renderer :DQtable}}, :DQscatter or :DQbar.",
+  "author": "gyp0bt",
+  "repo": "gyp0bt/logseq-dataquery",
+  "icon": "icon.png",
+  "effect": true
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Prune to Page",
+  "description": "Move selected blocks from your journal to a page of your choice, leaving block refs behind so journal provenance is preserved.",
+  "author": "vincent",
+  "repo": "vincentiliano/logseq_prune_to_page",
+  "icon": "./icon.svg",
+  "theme": false
+}

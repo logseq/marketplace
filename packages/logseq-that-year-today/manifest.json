@@ -1,0 +1,8 @@
+{
+  "title": "That Year Today",
+  "description": "Open the journals from today in previous years in the sidebar.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-that-year-today",
+  "icon": "./logo.svg",
+  "effect": true
+}

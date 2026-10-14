@@ -1,0 +1,11 @@
+{
+  "title": "MMarked",
+  "description": "A Logseq plugin that renders Markdown blocks using the MMarked library, ideal for educational contexts that require advanced markdown capabilities.",
+  "author": "Charles Bao",
+  "icon": "./icon.png",
+  "repo": "mathedu4all/mmarked-logseq-extension",
+  "effect": true,
+  "sponsors": [
+    "https://www.mathcrowd.cn/crowd-funding/charging"
+  ]
+}

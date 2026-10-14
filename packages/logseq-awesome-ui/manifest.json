@@ -7,5 +7,6 @@
   "sponsors": [
     "https://www.buymeacoffee.com/yoyurec"
   ],
-  "effect": true
+  "effect": true,
+  "supportsDB": false
 }

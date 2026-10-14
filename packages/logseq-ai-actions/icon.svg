@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="AI Actions">
+  <title>AI Actions</title>
+  <!-- Charcoal background, retained from previous design for brand continuity. -->
+  <rect width="128" height="128" rx="28" fill="#171717"/>
+  <!-- Antenna: tipped circle + stem in Tailwind teal-500 (#14B8A6), matching the toolbar bot face. -->
+  <circle cx="64" cy="18" r="4" fill="#14B8A6"/>
+  <line x1="64" y1="22" x2="64" y2="32" stroke="#14B8A6" stroke-width="4" stroke-linecap="round"/>
+  <!-- Head: rounded square in teal. -->
+  <rect x="24" y="32" width="80" height="80" rx="20" fill="#14B8A6"/>
+  <!-- Eyes: white discs inside the silhouette so they stay legible regardless of host theme. -->
+  <circle cx="48" cy="64" r="7" fill="#ffffff"/>
+  <circle cx="80" cy="64" r="7" fill="#ffffff"/>
+  <!-- Smile: small arc in the lower half of the head. -->
+  <path d="M 48 86 Q 64 100 80 86" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+</svg>

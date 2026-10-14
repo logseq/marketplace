@@ -1,0 +1,8 @@
+{
+  "title": "CipherBlock – OpenPGP Encryption",
+  "description": "OpenPGP-compatible encryption and decryption of block content with multi-recipient support, vault pages, and GnuPG compatibility",
+  "author": "indraginanjar",
+  "repo": "indraginanjar/cipherblock-logseq-openpgp-plugin",
+  "icon": "./icon.png",
+  "effect": true
+}

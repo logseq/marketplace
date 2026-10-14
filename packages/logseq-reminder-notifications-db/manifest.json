@@ -1,0 +1,9 @@
+{
+  "title": "Reminder Notifications (DB)",
+  "description": "Desktop + in-app reminders for scheduled blocks in Logseq Database (DB) graphs. Native OS notifications, multiple warning times, quiet hours, and all-day support.",
+  "author": "Joemnewton",
+  "repo": "Joemnewton/logseq-reminder-notifications-db",
+  "icon": "./icon.svg",
+  "effect": false,
+  "supportsDB": true
+}

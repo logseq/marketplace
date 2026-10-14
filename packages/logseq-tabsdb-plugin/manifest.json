@@ -1,0 +1,11 @@
+{
+  "title": "logseq-tabsdb-plugin",
+  "name": "logseq-tabsdb-plugin",
+  "description": "Browser-style tabs for Logseq DB. Keep multiple pages and blocks open at once, switch between them instantly, and stop losing your place.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-tabsdb-plugin",
+  "icon": "./icon.svg",
+  "supportsDb": true,
+  "supportsDbOnly": true,
+  "effect": true
+}

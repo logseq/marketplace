@@ -1,0 +1,11 @@
+{
+  "title": "New Tags",
+  "description": "Tags pane with search, drag-sort, expand/collapse, dark mode.",
+  "author": "jlhulclq",
+  "repo": "jlhulclq/logseq-plugin-new-tags",
+  "icon": "logo.svg",
+  "theme": false,
+  "sponsors": [],
+  "web": false,
+  "effect": false
+}

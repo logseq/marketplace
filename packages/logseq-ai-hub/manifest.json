@@ -1,0 +1,8 @@
+{
+  "title": "Logseq AI Hub",
+  "description": "Turn Logseq into an AI orchestration hub: /LLM command with on-demand MCP tools and memory, autonomous job runner, event hub, secrets vault, and an MCP server exposing your graph to Claude and other agents.",
+  "author": "Escherbridge",
+  "repo": "Escherbridge/logseq-ai-hub",
+  "icon": "icon.png",
+  "sponsors": []
+}

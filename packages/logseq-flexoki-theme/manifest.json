@@ -1,0 +1,8 @@
+{
+  "title": "Flexoki theme",
+  "description": "Flexoki, an inky color scheme for Logseq. Based on stephango.com/flexoki",
+  "author": "Avelino",
+  "repo": "avelino/flexoki-logseq",
+  "icon": "icon.svg",
+  "theme": true
+}

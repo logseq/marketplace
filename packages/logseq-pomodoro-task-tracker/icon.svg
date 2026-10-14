@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Clipboard board -->
+  <rect x="10" y="12" width="44" height="48" rx="4" fill="#fef9e7" stroke="#374151" stroke-width="1.6"/>
+
+  <!-- Metal clip -->
+  <rect x="26.5" y="4" width="11" height="3" rx="0.8" fill="#6b7280"/>
+  <rect x="22" y="6" width="20" height="10" rx="2" fill="#b0b7bf" stroke="#4b5563" stroke-width="1"/>
+  <rect x="24" y="9" width="16" height="1.6" rx="0.6" fill="#e5e7eb" opacity="0.7"/>
+
+  <!-- Checklist row 1 -->
+  <circle cx="18" cy="24" r="2.7" fill="#22c55e"/>
+  <path d="M16.3 24 L17.6 25.4 L19.7 22.7" stroke="#fff" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="23" y="22.7" width="22" height="2.6" rx="1" fill="#9ca3af"/>
+
+  <!-- Checklist row 2 -->
+  <circle cx="18" cy="32" r="2.7" fill="#22c55e"/>
+  <path d="M16.3 32 L17.6 33.4 L19.7 30.7" stroke="#fff" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="23" y="30.7" width="17" height="2.6" rx="1" fill="#9ca3af"/>
+
+  <!-- Checklist row 3 -->
+  <circle cx="18" cy="40" r="2.7" fill="#22c55e"/>
+  <path d="M16.3 40 L17.6 41.4 L19.7 38.7" stroke="#fff" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="23" y="38.7" width="20" height="2.6" rx="1" fill="#9ca3af"/>
+
+  <!-- Tomato 1 -->
+  <ellipse cx="22" cy="51" rx="4.6" ry="4.1" fill="#e53935"/>
+  <ellipse cx="20.5" cy="49.5" rx="1.6" ry="2.2" fill="#ef5350" opacity="0.85"/>
+  <path d="M22 47.5 L21.2 46 L22.8 46 Z" fill="#4caf50"/>
+  <ellipse cx="22" cy="47.6" rx="2.3" ry="0.9" fill="#66bb6a"/>
+  <path d="M20.6 47 Q19.4 45.6 19.2 47" stroke="#4caf50" stroke-width="0.7" fill="none" stroke-linecap="round"/>
+
+  <!-- Tomato 2 -->
+  <ellipse cx="34" cy="51" rx="4.6" ry="4.1" fill="#e53935"/>
+  <ellipse cx="32.5" cy="49.5" rx="1.6" ry="2.2" fill="#ef5350" opacity="0.85"/>
+  <path d="M34 47.5 L33.2 46 L34.8 46 Z" fill="#4caf50"/>
+  <ellipse cx="34" cy="47.6" rx="2.3" ry="0.9" fill="#66bb6a"/>
+  <path d="M32.6 47 Q31.4 45.6 31.2 47" stroke="#4caf50" stroke-width="0.7" fill="none" stroke-linecap="round"/>
+</svg>

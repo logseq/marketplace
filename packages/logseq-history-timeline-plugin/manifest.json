@@ -1,0 +1,12 @@
+{
+  "title": "History Timeline",
+  "description": "Turn #tl-tagged nodes into an interactive, zoomable historical timeline — eras, events and people, filterable by topic and type. DB graphs only.",
+  "author": "P. Kerim Friedman",
+  "repo": "kerim/logseq-history-timeline-plugin",
+  "icon": "icon.svg",
+  "theme": false,
+  "web": false,
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}

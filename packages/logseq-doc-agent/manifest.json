@@ -1,0 +1,9 @@
+{
+  "title": "Doc Agent",
+  "description": "An AI assistant for Logseq",
+  "author": "Stefan Kaufmann",
+  "repo": "secondbrain-tools/logseq-doc-agent",
+  "icon": "icon.png",
+  "effect": true,
+  "supportsDB": false
+}

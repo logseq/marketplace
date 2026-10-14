@@ -3,5 +3,6 @@
   "description": "Turn block into page",
   "author": "hyrijk",
   "icon": "icon.png",
-  "repo": "hyrijk/logseq-plugin-block-to-page"
+  "repo": "hyrijk/logseq-plugin-block-to-page",
+  "supportsDB": false
 }

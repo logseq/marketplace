@@ -1,0 +1,8 @@
+{
+  "title": "Asyntai AI Chatbot",
+  "description": "Ask your own pages with AI, and read your website chats and leads without leaving Logseq.",
+  "repo": "asyntai/logseq-ai-chatbot",
+  "author": "Asyntai",
+  "icon": "icon.png",
+  "supportsDB": true
+}

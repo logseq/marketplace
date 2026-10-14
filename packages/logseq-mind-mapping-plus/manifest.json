@@ -1,0 +1,7 @@
+{
+  "title": "logseq-mind-mapping-plus",
+  "description": "base on logseq-mind-mapping,enabling bidirectional data synchronization between the mind map and the logseq page.",
+  "author": "ZhuXiaolingPig <serena2000@qq.com>",
+  "repo": "ZhuXiaolingPig/logseq-mind-mapping-plus",
+  "icon": "icon.png"
+}

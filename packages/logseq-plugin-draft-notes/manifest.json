@@ -1,0 +1,11 @@
+{
+  "title": "Draft Notes",
+  "description": "This plugin is designed to batch process draft pages using embeds.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-draft-notes",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}

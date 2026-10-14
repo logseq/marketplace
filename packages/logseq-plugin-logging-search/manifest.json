@@ -1,0 +1,11 @@
+{
+  "title": "Logging Search",
+  "description": "This plugin displays search results using query or page embedding.",
+  "author": "YU000jp",
+  "repo": "YU000jp/logseq-plugin-logging-search",
+  "icon": "./icon.svg",
+  "sponsors": [
+    "https://www.buymeacoffee.com/yu000japan"
+  ],
+  "effect": true
+}

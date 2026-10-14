@@ -1,0 +1,9 @@
+{
+  "title": "logseq-vimeditor-plugin",
+  "name": "logseq-vimeditor-plugin",
+  "description": "Use a Vim editor to type longform blocks, and easily create tables.",
+  "author": "benjypng",
+  "repo": "benjypng/logseq-vimeditor-plugin",
+  "icon": "./icon.svg",
+  "supportsDb": true
+}

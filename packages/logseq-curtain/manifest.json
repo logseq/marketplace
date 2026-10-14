@@ -1,0 +1,10 @@
+{
+  "title": "Curtain - Hide & Redact",
+  "description": "Hide spoilers from view and redact notes from AI agents. Blur or conceal any block, page or selected text, and mark content so AI assistants reading your graph skip it.",
+  "author": "Danzu",
+  "repo": "hdansou/logseq-curtain",
+  "icon": "./icon.svg",
+  "theme": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
