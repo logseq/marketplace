@@ -5,5 +5,6 @@
   "repo": "b-yp/logseq-mind-map",
   "icon": "./logo.png",
   "sponsors": ["https://buymeacoffee.com/baiyp"],
-  "effect": true
+  "effect": true,
+  "supportsDB": true
 }
