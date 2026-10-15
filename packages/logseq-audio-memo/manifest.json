@@ -4,5 +4,6 @@
   "author": "b-yp",
   "repo": "b-yp/logseq-audio-memo",
   "icon": "./logo.svg",
-  "effect": true
+  "effect": true,
+  "supportsDB": true
 }
