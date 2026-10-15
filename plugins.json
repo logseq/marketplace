@@ -1,5 +1,5 @@
 {
-  "datetime": 1791875817806,
+  "datetime": 1792041153598,
   "packages": [
     {
       "title": "Orbitals",
@@ -574,6 +574,7 @@
       "repo": "b-yp/logseq-audio-memo",
       "icon": "./logo.svg",
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-audio-memo",
       "addedAt": 1687202635000
     },
@@ -3149,6 +3150,7 @@
         "https://buymeacoffee.com/baiyp"
       ],
       "effect": true,
+      "supportsDB": true,
       "id": "logseq-mind-map",
       "addedAt": 1728662827000
     },
