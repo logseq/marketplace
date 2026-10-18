@@ -1,5 +1,5 @@
 {
-  "datetime": 1792041153598,
+  "datetime": 1792315549914,
   "packages": [
     {
       "title": "Orbitals",
@@ -769,12 +769,13 @@
       "addedAt": 1637514822000
     },
     {
-      "title": "Bermaid - Diagrams",
-      "description": "Beautiful mermaid diagram renderer for Logseq using beautiful-mermaid",
+      "title": "Bermaid - Better Mermaid",
+      "description": "Bermaid (Better Mermaid): fast, lightweight Mermaid diagrams for Logseq, rendered with Pele",
       "author": "Danzu",
       "repo": "hdansou/logseq-bermaid",
       "icon": "./icon.svg",
       "theme": false,
+      "web": true,
       "supportsDB": true,
       "supportsDBOnly": false,
       "id": "logseq-bermaid",
