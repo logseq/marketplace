@@ -5,6 +5,7 @@
   "repo": "hdansou/logseq-query-builder",
   "icon": "./icon.svg",
   "theme": false,
+  "web": true,
   "supportsDB": true,
   "supportsDBOnly": true
 }
