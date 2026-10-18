@@ -11,7 +11,8 @@
     "fetch": "scripts/fetch-plugins-data.js",
     "fetch:min": "scripts/fetch-plugins-data.js --max 12",
     "html": "scripts/generate-plugins-table-html.js",
-    "show": "open generated/index.html"
+    "show": "open generated/index.html",
+    "test": "node --test scripts/*.test.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
