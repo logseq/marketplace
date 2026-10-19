@@ -1,0 +1,12 @@
+{
+  "title": "Pele (Mermaid Renderer)",
+  "description": "Blazing fast Mermaid diagram renderer powered by Pele.",
+  "author": "b-yp",
+  "repo": "b-yp/logseq-pele",
+  "icon": "icon.svg",
+  "effect": true,
+  "supportsDB": true,
+  "sponsors": [
+    "https://buymeacoffee.com/baiyp"
+  ]
+}
