@@ -3,7 +3,7 @@
 import fetch from "node-fetch";
 import fs from "fs";
 
-export {main};
+export {main, renderPluginRow};
 
 // Script to process Logseq marketplace pluginData from a local file
 // and generate an HTML page with a table of plugins.
@@ -355,6 +355,18 @@ function renderTableDataRows(pluginsData) {
 }
 
 /**
+ * Escape text so it renders literally inside HTML.
+ * @param {string} text - The text to escape.
+ * @returns {string} The escaped text.
+ */
+function escapeHtml(text) {
+  return String(text)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+/**
  * Render the HTML for a single table row based on the plugin data.
  * @param {PluginData} plugin - The plugin object.
  * @returns {string} HTML string for a table row.
@@ -365,21 +377,21 @@ function renderPluginRow(plugin) {
     : "";
   const descCell = plugin.description
     ? plugin.readmeUrl
-      ? `<a href="#" onclick="showReadmeModal('${plugin.readmeUrl}')">${plugin.description}</a>`
-      : plugin.description
+      ? `<a href="#" onclick="showReadmeModal('${plugin.readmeUrl}')">${escapeHtml(plugin.description)}</a>`
+      : escapeHtml(plugin.description)
     : "";
   const repoCell = plugin.repo
     ? plugin.repoUrl
-      ? `<a href="${plugin.repoUrl}" target="_blank">${plugin.repo}</a>`
-      : plugin.repo
+      ? `<a href="${plugin.repoUrl}" target="_blank">${escapeHtml(plugin.repo)}</a>`
+      : escapeHtml(plugin.repo)
     : "";
   return `
     <tr>
       <td>${iconCell}</td>
-      <td>${plugin.name || ""}</td>
+      <td>${escapeHtml(plugin.name || "")}</td>
       <td>${typeof plugin.supportsDB === 'boolean'? (plugin.supportsDB ? "✅ YES" : "❌ NO") : '❓ Unknown' }</td>
       <td>${descCell}</td>
-      <td>${plugin.author || ""}</td>
+      <td>${escapeHtml(plugin.author || "")}</td>
       <td>${repoCell}</td>
       <td class="date-col">${
         plugin.created_at ? plugin.created_at.slice(0, 10) : ""
@@ -387,11 +399,11 @@ function renderPluginRow(plugin) {
       <td class="date-col">${
         plugin.last_updated ? plugin.last_updated.slice(0, 10) : ""
       }</td>
-      <td>${plugin.error || ""}</td>
+      <td>${escapeHtml(plugin.error || "")}</td>
       <td>${plugin.defaultBranch || ""}</td>
       <td>${plugin.theme || ""}</td>
       <td>${plugin.effect || ""}</td>
-      <td>${plugin.sponsors || ""}</td>
+      <td>${escapeHtml(plugin.sponsors || "")}</td>
     </tr>
   `;
 }
