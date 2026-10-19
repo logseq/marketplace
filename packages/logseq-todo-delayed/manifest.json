@@ -1,0 +1,7 @@
+{
+  "title": "Delayed TODO",
+  "description": "Adds a start date to a block. The block stays without a task marker until that date, then is automatically converted into an active TODO.",
+  "author": "N.adar",
+  "repo": "NadarFelix/logseq-tododelayed-plugin",
+  "icon": "icon.png"
+}
