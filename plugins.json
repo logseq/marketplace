@@ -1,5 +1,5 @@
 {
-  "datetime": 1792315549914,
+  "datetime": 1792409942094,
   "packages": [
     {
       "title": "Orbitals",
@@ -3667,6 +3667,20 @@
       "addedAt": 1774090691000
     },
     {
+      "title": "Pele (Mermaid Renderer)",
+      "description": "Blazing fast Mermaid diagram renderer powered by Pele.",
+      "author": "b-yp",
+      "repo": "b-yp/logseq-pele",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "sponsors": [
+        "https://buymeacoffee.com/baiyp"
+      ],
+      "id": "logseq-pele",
+      "addedAt": 1792401163000
+    },
+    {
       "title": "Pen",
       "description": "Add a pen mode to Logseq",
       "author": "vipzhicheng",
@@ -4962,6 +4976,7 @@
       "repo": "hdansou/logseq-query-builder",
       "icon": "./icon.svg",
       "theme": false,
+      "web": true,
       "supportsDB": true,
       "supportsDBOnly": true,
       "id": "logseq-query-builder",
@@ -5849,6 +5864,17 @@
       "theme": true,
       "id": "logseq-theme-classic-dark-theme-pack",
       "addedAt": 1690463571000
+    },
+    {
+      "title": "Copland OS",
+      "description": "A dark theme after Serial Experiments Lain: deep navy, wired blue, cyan links, violet tags.",
+      "author": "Yuxi Liu",
+      "repo": "yuxi-liu-wired/logseq-theme-copland-os",
+      "icon": "",
+      "theme": true,
+      "supportsDB": true,
+      "id": "logseq-theme-copland-os",
+      "addedAt": 1792343764000
     },
     {
       "title": "Theorem Formatter",
