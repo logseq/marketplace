@@ -1,0 +1,8 @@
+{
+  "title": "Logseq one dictionary",
+  "description": "Add definitions to logseq, support multiple laguages.",
+  "author": "xdliyushen",
+  "repo":"xdliyushen/logseq-one-dictionary",
+  "icon": "icon.png",
+  "theme": false
+}
