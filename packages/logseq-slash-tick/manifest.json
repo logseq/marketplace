@@ -1,0 +1,8 @@
+{
+  "title": "logseq-slash-tick",
+  "description": "Insert the tick emoji using the slash commands" ,
+  "author": "mngad",
+  "repo":"mngad/logseq-slash-tick",
+  "icon": "icon.png",
+  "theme": false
+}
