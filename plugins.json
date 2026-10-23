@@ -1,5 +1,5 @@
 {
-  "datetime": 1792409942094,
+  "datetime": 1792722502253,
   "packages": [
     {
       "title": "Orbitals",
@@ -2595,6 +2595,17 @@
       "icon": "icon.png",
       "id": "logseq-journals-nextprev",
       "addedAt": 1704247563000
+    },
+    {
+      "title": "JSView",
+      "description": "Simplifies processing and displaying your graph data through javascript.",
+      "author": "Kira Greifeneder (a_green_cat)",
+      "repo": "KiraGreifeneder/logseq-jsview",
+      "icon": "./icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-jsview",
+      "addedAt": 1792683912000
     },
     {
       "title": "logseq-kanban-plugin",

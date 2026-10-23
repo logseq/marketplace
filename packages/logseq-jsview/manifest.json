@@ -3,5 +3,7 @@
   "description": "Simplifies processing and displaying your graph data through javascript.",
   "author": "Kira Greifeneder (a_green_cat)",
   "repo": "KiraGreifeneder/logseq-jsview",
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "effect": true,
+  "supportsDB": true
 }
