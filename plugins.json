@@ -1,5 +1,5 @@
 {
-  "datetime": 1792722502253,
+  "datetime": 1793002170800,
   "packages": [
     {
       "title": "Orbitals",
@@ -5790,6 +5790,18 @@
       "addedAt": 1642406539000
     },
     {
+      "title": "Task Transition Properties",
+      "description": "Automatically adds properties (started, completed, etc.) to tasks when their status changes. Fully configurable via plugin settings.",
+      "author": "Otakar Dokoupil",
+      "repo": "xdoko01/logseq-task-transition-plugin",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": false,
+      "sponsors": [],
+      "id": "logseq-task-transition-plugin",
+      "addedAt": 1792742717000
+    },
+    {
       "title": "Template Buttons",
       "description": "Sidebar and page-bar buttons to create pages from Logseq templates, including child pages with backlinks.",
       "author": "Marat Zimnurov",
@@ -6038,6 +6050,15 @@
       "supportsDB": true,
       "id": "logseq-todayevents-plugin",
       "addedAt": 1721441481000
+    },
+    {
+      "title": "Delayed TODO",
+      "description": "Adds a start date to a block. The block stays without a task marker until that date, then is automatically converted into an active TODO.",
+      "author": "N.adar",
+      "repo": "NadarFelix/logseq-tododelayed-plugin",
+      "icon": "icon.png",
+      "id": "logseq-todo-delayed",
+      "addedAt": 1792253171000
     },
     {
       "title": "TODO Exploder",
@@ -6750,7 +6771,7 @@
       "title": "Pretty Logseq",
       "description": "Enhance your graph with beautiful popovers, refined typography, styled properties, streamlined sidebar, and polished tables — all theme-aware and configurable.",
       "author": "dmeents",
-      "repo": "dmeents/pretty-logseq",
+      "repo": "allido-io/pretty-logseq",
       "icon": "pretty-logseq-logo.png",
       "sponsors": [
         "https://www.patreon.com/cw/DavidMeents"
