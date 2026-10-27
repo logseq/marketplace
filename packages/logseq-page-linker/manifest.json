@@ -1,0 +1,10 @@
+{
+  "title": "Page Linker",
+  "description": "Automatically links mentions of existing pages after editing a block.",
+  "author": "Kodai Nakamura",
+  "repo": "kdnk/logseq-page-linker",
+  "icon": "icon.png",
+  "theme": false,
+  "effect": false,
+  "sponsors": []
+}
