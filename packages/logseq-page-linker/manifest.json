@@ -6,5 +6,6 @@
   "icon": "icon.png",
   "theme": false,
   "effect": false,
-  "sponsors": []
+  "sponsors": [],
+  "supportsDB": true
 }
