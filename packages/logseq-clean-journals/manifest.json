@@ -4,5 +4,7 @@
   "author": "Rino",
   "repo": "rinodrops/logseq-clean-journals",
   "icon": "icon.png",
-  "theme": false
+  "theme": false,
+  "supportsDB": true,
+  "web": true
 }
