@@ -1,0 +1,8 @@
+{
+  "title": "Tepsi",
+  "description": "Windows only. Hide Logseq to the system tray: hide button, global show/hide and quick-note hotkeys, settings. Needs the companion logseq-tepsi.exe tray tool from the GitHub release (talks only to 127.0.0.1, no internet access).",
+  "author": "Ercaner1988",
+  "repo": "Ercaner1988/logseq-tepsi",
+  "icon": "icon.svg",
+  "supportsDB": true
+}
