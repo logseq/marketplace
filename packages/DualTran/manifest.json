@@ -1,0 +1,7 @@
+{
+  "title": "DualTran Translate",
+  "description": "Translate blocks and pages in place, keeping the original above the translation. Google works without a key; any OpenAI-compatible endpoint works with your own key.",
+  "author": "seigwen",
+  "repo": "seigwen/dualtran-logseq",
+  "icon": "icon.png"
+}
