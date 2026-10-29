@@ -1,0 +1,8 @@
+{
+  "title": "Related Notes",
+  "description": "Shows semantically related pages in a side panel, using a small local embedding model.",
+  "author": "adri99-net",
+  "repo": "adri99-net/logseq-related-notes",
+  "icon": "icon.svg",
+  "supportsDB": true
+}
