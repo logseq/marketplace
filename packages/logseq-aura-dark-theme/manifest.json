@@ -1,0 +1,9 @@
+{
+  "title": "Aura Dark",
+  "description": "Deep purple dark theme ported from VS Code Aura Dark, with bundled Hack Nerd Font Mono",
+  "author": "tsfEmpaty",
+  "repo": "tsfEmpaty/logseq-aura-dark-theme",
+  "icon": "icon.png",
+  "theme": true,
+  "supportsDB": true
+}
