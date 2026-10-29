@@ -1,6 +1,15 @@
 {
-  "datetime": 1793002170800,
+  "datetime": 1793239047034,
   "packages": [
+    {
+      "title": "DualTran Translate",
+      "description": "Translate blocks and pages in place, keeping the original above the translation. Google works without a key; any OpenAI-compatible endpoint works with your own key.",
+      "author": "seigwen",
+      "repo": "seigwen/dualtran-logseq",
+      "icon": "icon.png",
+      "id": "dualtran",
+      "addedAt": 1793237595000
+    },
     {
       "title": "Orbitals",
       "description": "Kanban, weekly planner with time box, Tana-style project tables, and calendar for your Logseq tasks — plus Gmail → task capture, Google Calendar overlay, and meeting prep.",
@@ -1218,6 +1227,8 @@
       "repo": "rinodrops/logseq-clean-journals",
       "icon": "icon.png",
       "theme": false,
+      "supportsDB": true,
+      "web": true,
       "id": "logseq-clean-journals",
       "addedAt": 1777564000000
     },
@@ -3480,6 +3491,19 @@
       "addedAt": 1724677517000
     },
     {
+      "title": "Page Linker",
+      "description": "Automatically links mentions of existing pages after editing a block.",
+      "author": "Kodai Nakamura",
+      "repo": "kdnk/logseq-page-linker",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": false,
+      "sponsors": [],
+      "supportsDB": true,
+      "id": "logseq-page-linker",
+      "addedAt": 1793115454000
+    },
+    {
       "title": "Page-tags and Hierarchy (Page UI)",
       "description": "Split page title hierarchy as links / Page view UI for page-tags and hierarchy",
       "author": "YU000jp",
@@ -5209,6 +5233,16 @@
       "addedAt": 1709462142000
     },
     {
+      "title": "Related Notes",
+      "description": "Shows semantically related pages in a side panel, using a small local embedding model.",
+      "author": "adri99-net",
+      "repo": "adri99-net/logseq-related-notes",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "id": "logseq-related-notes",
+      "addedAt": 1793136595000
+    },
+    {
       "title": "Reminder Notifications (DB)",
       "description": "Desktop + in-app reminders for scheduled blocks in Logseq Database (DB) graphs. Native OS notifications, multiple warning times, quiet hours, and all-day support.",
       "author": "Joemnewton",
@@ -5825,6 +5859,16 @@
       "theme": true,
       "id": "logseq-tenset-theme",
       "addedAt": 1691066740000
+    },
+    {
+      "title": "Tepsi",
+      "description": "Windows only. Hide Logseq to the system tray: hide button, global show/hide and quick-note hotkeys, settings. Needs the companion logseq-tepsi.exe tray tool from the GitHub release (talks only to 127.0.0.1, no internet access).",
+      "author": "Ercaner1988",
+      "repo": "Ercaner1988/logseq-tepsi",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "id": "logseq-tepsi",
+      "addedAt": 1793096460000
     },
     {
       "title": "Logseq Terminal",
