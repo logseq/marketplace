@@ -1,0 +1,9 @@
+{
+  "title": "Agenda & Pomodoro",
+  "description": "Agenda views (month / today / backlog / kanban) with a built-in pomodoro timer. For Logseq DB graphs. Based on logseq-plugin-agenda.",
+  "author": "Inf-bit",
+  "repo": "Inf-bit/logseq-agenda-pomodoro",
+  "icon": "./icon.png",
+  "effect": true,
+  "supportsDB": true
+}
