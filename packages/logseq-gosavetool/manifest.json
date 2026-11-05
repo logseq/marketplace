@@ -1,0 +1,9 @@
+{
+  "title": "GoSaveTool Text Tools",
+  "description": "Word counts with social media and SEO limits, one-click case changes (Title Case, UPPERCASE, slug…) and SRT/WebVTT subtitle conversion for blocks. Works offline.",
+  "author": "gosavetool",
+  "repo": "mitolocya/logseq-gosavetool",
+  "icon": "icon.png",
+  "theme": false,
+  "effect": false
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Habitude — Page export",
+  "description": "Review and locally export the current Markdown page for Habitude. 한국어·English. Text-only file import; no background sync.",
+  "author": "Habitude",
+  "repo": "legott-ai/habitude-logseq-plugin",
+  "supportsDB": false,
+  "supportsDBOnly": false,
+  "web": false,
+  "effect": false
+}
