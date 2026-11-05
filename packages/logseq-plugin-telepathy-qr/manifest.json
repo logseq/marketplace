@@ -1,0 +1,7 @@
+{
+  "title": "TelepathyQR",
+  "description": "Export a Logseq page or a single bullet as a (sequence) of QR code(s) and scan it with another device. No cloud, no app, just seemingly telepathic transmission with light 📱📷⚡",
+  "author": "TobiObeck",
+  "repo": "TobiObeck/logseq-plugin-telepathy-qr",
+  "icon": "icon.svg"
+}
