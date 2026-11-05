@@ -1,5 +1,5 @@
 {
-  "datetime": 1793239047034,
+  "datetime": 1793873125562,
   "packages": [
     {
       "title": "DualTran Translate",
@@ -236,6 +236,18 @@
       "theme": true,
       "id": "gruvbox-theme",
       "addedAt": 1727897099000
+    },
+    {
+      "title": "Habitude — Page export",
+      "description": "Review and locally export the current Markdown page for Habitude. 한국어·English. Text-only file import; no background sync.",
+      "author": "Habitude",
+      "repo": "legott-ai/habitude-logseq-plugin",
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "web": false,
+      "effect": false,
+      "id": "habitude-logseq-export",
+      "addedAt": 1793641426000
     },
     {
       "title": "Hanzi Writer Integration",
@@ -586,6 +598,17 @@
       "supportsDB": true,
       "id": "logseq-audio-memo",
       "addedAt": 1687202635000
+    },
+    {
+      "title": "Aura Dark",
+      "description": "Deep purple dark theme ported from VS Code Aura Dark, with bundled Hack Nerd Font Mono",
+      "author": "tsfEmpaty",
+      "repo": "tsfEmpaty/logseq-aura-dark-theme",
+      "icon": "icon.png",
+      "theme": true,
+      "supportsDB": true,
+      "id": "logseq-aura-dark-theme",
+      "addedAt": 1793271518000
     },
     {
       "title": "Auto List Continuation",
@@ -2229,6 +2252,17 @@
       "repo": "weynhamz/logseq-google-tasks",
       "id": "logseq-google-tasks",
       "addedAt": 1714997395000
+    },
+    {
+      "title": "GoSaveTool Text Tools",
+      "description": "Word counts with social media and SEO limits, one-click case changes (Title Case, UPPERCASE, slug…) and SRT/WebVTT subtitle conversion for blocks. Works offline.",
+      "author": "gosavetool",
+      "repo": "mitolocya/logseq-gosavetool",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": false,
+      "id": "logseq-gosavetool",
+      "addedAt": 1793562392000
     },
     {
       "title": "Logseq Grammarly",
@@ -6894,6 +6928,15 @@
       "icon": "./slipbox.png",
       "id": "slipbox",
       "addedAt": 1702757863000
+    },
+    {
+      "title": "SVG Diagram",
+      "description": "Create and insert SVG diagrams, charts, and plots in your notes.",
+      "author": "Tony Zedginidze",
+      "repo": "tonyzedginidze/svgdiagram-logseq",
+      "supportsDB": false,
+      "id": "svgdiagram",
+      "addedAt": 1793862714000
     },
     {
       "title": "Sync KOReader Highlights",
