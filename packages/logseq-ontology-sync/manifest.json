@@ -1,0 +1,9 @@
+{
+  "title": "Ontology Schema Builder",
+  "description": "Build classes and properties for your DB graph from ready-made Schema.org roles such as CRM or Project Management, trim them, and import the result with Logseq's EDN importer.",
+  "author": "C0ntr0lledCha0s",
+  "repo": "C0ntr0lledCha0s/logseq-ontology-sync-plugin",
+  "icon": "icon.svg",
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
