@@ -1,0 +1,9 @@
+{
+  "title": "Notification History",
+  "description": "Keeps every pop-up message Logseq and its plugins show, so you can read one after it disappears. Filter, errors only, copy.",
+  "author": "prometheus-maker",
+  "repo": "prometheus-maker/logseq-notification-history",
+  "icon": "icon.png",
+  "effect": true,
+  "supportsDB": true
+}
