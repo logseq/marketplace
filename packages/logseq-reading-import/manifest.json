@@ -1,0 +1,10 @@
+{
+  "title": "WeRead Notes Import",
+  "description": "Preview and import WeChat Reading (WeRead) highlights and reviews into a Logseq Desktop 2.0.2 DB graph using a local macOS helper.",
+  "author": "hzphzp",
+  "repo": "hzphzp/logseq-reading-import",
+  "icon": "icon.svg",
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
