@@ -1,9 +1,11 @@
 {
   "title": "Async Task Timer",
-  "description": "Set countdown reminders on delegated/async tasks. Get notified when it's time to check back.",
+  "description": "Schedule follow-ups on task blocks, receive reminders and review their history in Logseq 2.x DB graphs.",
   "author": "hzphzp",
   "repo": "hzphzp/logseq-async-task-timer",
   "icon": "logo.svg",
   "theme": false,
-  "effect": false
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
 }
