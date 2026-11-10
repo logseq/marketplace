@@ -1,0 +1,10 @@
+{
+  "title": "Zotero Local Clean",
+  "description": "Import references, subject tags, notes and annotations from a local Zotero library with a compact page template.",
+  "author": "hzphzp (fork of benjypng)",
+  "repo": "hzphzp/logseq-zoterolocal-plugin",
+  "icon": "icon.svg",
+  "effect": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
