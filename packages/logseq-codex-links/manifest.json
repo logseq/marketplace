@@ -1,0 +1,10 @@
+{
+  "title": "Codex Chat Links",
+  "description": "Paste Codex chat links with readable titles and inline icons into Logseq blocks on macOS.",
+  "author": "hzphzp",
+  "repo": "hzphzp/logseq-codex-links",
+  "icon": "icon.svg",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
