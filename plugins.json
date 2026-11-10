@@ -1,5 +1,5 @@
 {
-  "datetime": 1793873125562,
+  "datetime": 1794283392748,
   "packages": [
     {
       "title": "DualTran Translate",
@@ -369,6 +369,17 @@
       "addedAt": 1646486302000
     },
     {
+      "title": "Agenda & Pomodoro",
+      "description": "Agenda views (month / today / backlog / kanban) with a built-in pomodoro timer. For Logseq DB graphs. Based on logseq-plugin-agenda.",
+      "author": "Inf-bit",
+      "repo": "Inf-bit/logseq-agenda-pomodoro",
+      "icon": "./icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "id": "logseq-agenda-pomodoro",
+      "addedAt": 1793675582000
+    },
+    {
       "title": "AI Actions",
       "description": "AI-driven actions on Logseq blocks (DB graphs only) — spellcheck, grammar, rewrite, summarize, vision actions via a local OpenAI-compatible endpoint (LM Studio / Ollama).",
       "author": "Danzu",
@@ -543,12 +554,14 @@
     },
     {
       "title": "Async Task Timer",
-      "description": "Set countdown reminders on delegated/async tasks. Get notified when it's time to check back.",
+      "description": "Schedule follow-ups on task blocks, receive reminders and review their history in Logseq 2.x DB graphs.",
       "author": "hzphzp",
       "repo": "hzphzp/logseq-async-task-timer",
       "icon": "logo.svg",
       "theme": false,
       "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
       "id": "logseq-async-task-timer",
       "addedAt": 1771923189000
     },
@@ -1273,6 +1286,18 @@
       "repo": "PerfectPan/logseq-plugin-code-formatter",
       "id": "logseq-code-formatter",
       "addedAt": 1668355462000
+    },
+    {
+      "title": "Codex Chat Links",
+      "description": "Paste Codex chat links with readable titles and inline icons into Logseq blocks on macOS.",
+      "author": "hzphzp",
+      "repo": "hzphzp/logseq-codex-links",
+      "icon": "icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-codex-links",
+      "addedAt": 1794280236000
     },
     {
       "title": "Coding CLI Monitor",
@@ -3424,6 +3449,17 @@
       "addedAt": 1703001198000
     },
     {
+      "title": "Ontology Schema Builder",
+      "description": "Build classes and properties for your DB graph from ready-made Schema.org roles such as CRM or Project Management, trim them, and import the result with Logseq's EDN importer.",
+      "author": "C0ntr0lledCha0s",
+      "repo": "C0ntr0lledCha0s/logseq-ontology-sync-plugin",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-ontology-sync",
+      "addedAt": 1793958998000
+    },
+    {
       "title": "Open File Location",
       "description": "Ctrl+Click a local asset link to reveal and select it in the system file explorer.",
       "author": "albilu",
@@ -4683,6 +4719,15 @@
       "addedAt": 1772791317000
     },
     {
+      "title": "TelepathyQR",
+      "description": "Export a Logseq page or a single bullet as a (sequence) of QR code(s) and scan it with another device. No cloud, no app, just seemingly telepathic transmission with light 📱📷⚡",
+      "author": "TobiObeck",
+      "repo": "TobiObeck/logseq-plugin-telepathy-qr",
+      "icon": "icon.svg",
+      "id": "logseq-plugin-telepathy-qr",
+      "addedAt": 1793824365000
+    },
+    {
       "title": "Template Block from Toolbar",
       "description": "Make Logseq templates easier to use.",
       "author": "YU000jp",
@@ -5170,6 +5215,18 @@
       "effect": true,
       "id": "logseq-randomutils-plugin",
       "addedAt": 1676894072000
+    },
+    {
+      "title": "WeRead Notes Import",
+      "description": "Preview and import WeChat Reading (WeRead) highlights and reviews into a Logseq Desktop 2.0.2 DB graph using a local macOS helper.",
+      "author": "hzphzp",
+      "repo": "hzphzp/logseq-reading-import",
+      "icon": "icon.svg",
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-reading-import",
+      "addedAt": 1794280241000
     },
     {
       "title": "Readwise Official Plugin",
@@ -6693,6 +6750,18 @@
       "addedAt": 1791327043000
     },
     {
+      "title": "Zotero Local Clean",
+      "description": "Import references, subject tags, notes and annotations from a local Zotero library with a compact page template.",
+      "author": "hzphzp (fork of benjypng)",
+      "repo": "hzphzp/logseq-zoterolocal-plugin",
+      "icon": "icon.svg",
+      "effect": false,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-zotero-local-clean",
+      "addedAt": 1794279897000
+    },
+    {
       "title": "logseq-zoterolocal-plugin",
       "name": "logseq-zoterolocal-plugin",
       "description": "Connect to Zotero locally using Zotero Beta 7 (and above), import and keep track of your Zotero library.",
@@ -6821,6 +6890,17 @@
       "theme": true,
       "id": "nord-theme",
       "addedAt": 1684603895000
+    },
+    {
+      "title": "Notification History",
+      "description": "Keeps every pop-up message Logseq and its plugins show, so you can read one after it disappears. Filter, errors only, copy.",
+      "author": "prometheus-maker",
+      "repo": "prometheus-maker/logseq-notification-history",
+      "icon": "icon.png",
+      "effect": true,
+      "supportsDB": true,
+      "id": "notification-history",
+      "addedAt": 1794060809000
     },
     {
       "title": "ollama-logseq",
