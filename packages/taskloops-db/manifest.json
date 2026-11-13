@@ -1,0 +1,11 @@
+{
+  "title": "TaskLoops",
+  "description": "Plan native Logseq DB tasks in a calendar, timeline, Gantt chart and daily agenda.",
+  "author": "Sahand Poursadeghi Khiavi",
+  "repo": "sahandps/taskloops-logseq-db",
+  "icon": "icon.svg",
+  "effect": false,
+  "web": false,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
