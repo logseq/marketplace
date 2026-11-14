@@ -1,0 +1,12 @@
+{
+  "title": "Plant Doctor Care Notes",
+  "description": "Insert local plant care checklists and daily houseplant tips into your notes.",
+  "author": "Moruk LLC",
+  "repo": "zzheer/plant-doctor-logseq",
+  "icon": "./icon.png",
+  "theme": false,
+  "effect": false,
+  "web": false,
+  "supportsDB": false,
+  "supportsDBOnly": false
+}
