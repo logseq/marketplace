@@ -1,5 +1,5 @@
 {
-  "datetime": 1794283392748,
+  "datetime": 1794880216816,
   "packages": [
     {
       "title": "DualTran Translate",
@@ -5085,7 +5085,7 @@
     },
     {
       "title": "Query Builder",
-      "description": "Build Logseq DB queries visually: tags, typed property filters, live results, insert as a live query node",
+      "description": "Build Logseq DB queries visually: tags, typed property, date and text filters, live results; insert as a live query node and reopen it to edit",
       "author": "Danzu",
       "repo": "hdansou/logseq-query-builder",
       "icon": "./icon.svg",
@@ -6924,6 +6924,20 @@
       "supportsDBOnly": true,
       "id": "outline-canvas",
       "addedAt": 1777724664000
+    },
+    {
+      "title": "Plant Doctor Care Notes",
+      "description": "Insert local plant care checklists and daily houseplant tips into your notes.",
+      "author": "Moruk LLC",
+      "repo": "zzheer/plant-doctor-logseq",
+      "icon": "icon.png",
+      "theme": false,
+      "effect": false,
+      "web": false,
+      "supportsDB": false,
+      "supportsDBOnly": false,
+      "id": "plant-doctor-care-notes",
+      "addedAt": 1794659600000
     },
     {
       "title": "Pretty Logseq",
