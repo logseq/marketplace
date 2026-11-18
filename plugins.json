@@ -1,5 +1,5 @@
 {
-  "datetime": 1794880216816,
+  "datetime": 1794985842895,
   "packages": [
     {
       "title": "DualTran Translate",
@@ -2106,7 +2106,7 @@
       "title": "Furigana Ruby (^^ Syntax)",
       "description": "Renders [base]^^(annotation) ruby/furigana markup inline, following the Markdown Ruby proposal.",
       "author": "Baksi Li <myself@baksili.codes>",
-      "repo": "baksili/logseq-furigana-ruby",
+      "repo": "BaksiLi/markdown-inline-annotation",
       "icon": "icon.png",
       "theme": false,
       "effect": true,
