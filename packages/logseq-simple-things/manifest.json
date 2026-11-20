@@ -1,0 +1,10 @@
+{
+  "title": "Simple Things",
+  "description": "A focused task manager for Logseq DB graphs: inbox, folders, projects, actions, contexts, filters and review.",
+  "author": "mindbeta",
+  "repo": "mindbeta/logseq-plugin-simple-things",
+  "icon": "icon.svg",
+  "supportsDB": true,
+  "supportsDBOnly": true,
+  "web": false
+}
