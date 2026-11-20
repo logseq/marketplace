@@ -1,0 +1,7 @@
+{
+  "title": "Gemini AI",
+  "description": "AI assisted notetaking plugin with Gemini API to summarize and generate text.",
+  "author": "Nick Lewanowicz",
+  "repo": "nicklewanowicz/logseq-gemini",
+  "icon": "./icon.png"
+}
