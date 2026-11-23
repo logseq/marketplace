@@ -1,0 +1,10 @@
+{
+  "title": "Sidebar Window",
+  "description": "Shows Logseq's right sidebar in a second window, for a second screen. DB graphs only.",
+  "author": "demithras",
+  "repo": "demithras/logseq-sidebar-window",
+  "icon": "./icon.svg",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": true
+}
