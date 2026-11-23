@@ -1,5 +1,5 @@
 {
-  "datetime": 1794985842895,
+  "datetime": 1795413901342,
   "packages": [
     {
       "title": "DualTran Translate",
@@ -5586,6 +5586,18 @@
       "supportsDBOnly": true,
       "id": "logseq-sidebar-tabs-db",
       "addedAt": 1785095743000
+    },
+    {
+      "title": "Sidebar Window",
+      "description": "Shows Logseq's right sidebar in a second window, for a second screen. DB graphs only.",
+      "author": "demithras",
+      "repo": "demithras/logseq-sidebar-window",
+      "icon": "./icon.svg",
+      "effect": true,
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "id": "logseq-sidebar-window",
+      "addedAt": 1795073914000
     },
     {
       "title": "Simple Excalidraw DB",
