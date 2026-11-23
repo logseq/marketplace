@@ -1,0 +1,8 @@
+{
+  "title": "Christian Pure Verses and Prayers",
+  "description": "Slash commands that insert today's Bible verse and prayer, a verse for how you feel, or a short prayer for a meal, Bible study or meeting, each linked to the full article on Christian Pure.",
+  "author": "Christian Pure",
+  "repo": "christianpure/logseq-christianpure",
+  "icon": "./icon.png",
+  "supportsDB": true
+}
