@@ -1,0 +1,8 @@
+{
+"title" :"PDF Annotation Manipulator",
+"description":"A plugin to enhance PDF annotating.\nImprove PDF annotations by importing your existing highlights into logseq, embed the highlights you create in the inbuilt PDF reader so they go with you everywhere",
+"author": "Asere Oluwatumise Shadrack",
+"repo": "tumixs/logseq-pam",
+"icon": "./icon.svg",
+"unsupportedGraphType": "db"
+}
