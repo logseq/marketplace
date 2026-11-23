@@ -1,0 +1,7 @@
+{
+  "title": "Graph Name in Titlebar",
+  "description": "Displays the current graph name in the titlebar",
+  "author": "makersheen",
+  "repo": "makersheen/logseq-graph-name-in-titlebar",
+  "icon": "./icon.png"
+}
