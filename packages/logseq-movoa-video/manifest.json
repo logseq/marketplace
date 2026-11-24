@@ -1,0 +1,10 @@
+{
+  "title": "Movoa AI Video Generator",
+  "description": "Generate AI video clips with synchronized sound from any Logseq block via Movoa (movoa.ai).",
+  "author": "Movoa",
+  "repo": "sonyadennisubno4-oss/logseq-movoa-video",
+  "icon": "./icon.png",
+  "sponsors": [
+    "https://movoa.ai/"
+  ]
+}
