@@ -1,5 +1,5 @@
 {
-  "datetime": 1795413901342,
+  "datetime": 1795586991625,
   "packages": [
     {
       "title": "DualTran Translate",
@@ -63,6 +63,16 @@
       "effect": true,
       "id": "block-pin",
       "addedAt": 1724776882000
+    },
+    {
+      "title": "Christian Pure Verses and Prayers",
+      "description": "Slash commands that insert today's Bible verse and prayer, a verse for how you feel, or a short prayer for a meal, Bible study or meeting, each linked to the full article on Christian Pure.",
+      "author": "Christian Pure",
+      "repo": "christianpure/logseq-christianpure",
+      "icon": "./icon.png",
+      "supportsDB": true,
+      "id": "christianpure",
+      "addedAt": 1795421018000
     },
     {
       "title": "Cobra Kai Fira Theme",
@@ -3312,6 +3322,18 @@
       "addedAt": 1659213260000
     },
     {
+      "title": "Movoa AI Video Generator",
+      "description": "Generate AI video clips with synchronized sound from any Logseq block via Movoa (movoa.ai).",
+      "author": "Movoa",
+      "repo": "sonyadennisubno4-oss/logseq-movoa-video",
+      "icon": "./icon.png",
+      "sponsors": [
+        "https://movoa.ai/"
+      ],
+      "id": "logseq-movoa-video",
+      "addedAt": 1795498772000
+    },
+    {
       "title": "Music Notation",
       "description": "Write music in Logseq using ABC Notation",
       "author": "benjaffe",
@@ -4947,6 +4969,15 @@
       "addedAt": 1671120490000
     },
     {
+      "title": "Presenter",
+      "description": "Presentation creation from, notes",
+      "author": "bdbotond",
+      "repo": "bdbotond/logseq_presentation",
+      "icon": "icon.png",
+      "id": "logseq-presenter",
+      "addedAt": 1795586991615
+    },
+    {
       "title": "logseq-pretty-html-export",
       "description": "Export Logseq page to pretty HTML file.",
       "author": "hisaknown",
@@ -5610,6 +5641,18 @@
       "supportsDBOnly": true,
       "id": "logseq-simple-excalidraw-db",
       "addedAt": 1786300880000
+    },
+    {
+      "title": "Simple Things",
+      "description": "A focused task manager for Logseq DB graphs: inbox, folders, projects, actions, contexts, filters and review.",
+      "author": "mindbeta",
+      "repo": "mindbeta/logseq-plugin-simple-things",
+      "icon": "icon.svg",
+      "supportsDB": true,
+      "supportsDBOnly": true,
+      "web": false,
+      "id": "logseq-simple-things",
+      "addedAt": 1795164798000
     },
     {
       "title": "SimpRead",
