@@ -1,0 +1,7 @@
+{
+  "title": "Link Health",
+  "description": "Find broken block references, empty referenced pages and orphan pages in your graph, with a health score and a saved report page.",
+  "author": "JUDESTRAHM",
+  "repo": "JUDESTRAHM/logseq-link-health",
+  "icon": "icon.png"
+}
