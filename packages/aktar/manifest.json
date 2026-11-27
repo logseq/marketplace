@@ -1,0 +1,11 @@
+{
+  "title": "Aktar",
+  "description": "Paste or drop files into a block and get links from your own S3, Cloudflare R2 or Backblaze B2 bucket. Location removed from photos, destinations from the Aktar apps.",
+  "author": "Mert Topuz",
+  "repo": "getaktar/logseq",
+  "icon": "./icon.png",
+  "effect": true,
+  "supportsDB": true,
+  "supportsDBOnly": false,
+  "web": false
+}
